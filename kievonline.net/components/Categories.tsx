@@ -7,7 +7,7 @@ const categories = [
     id: 'castle',
     name: 'Castles & Fortresses',
     description: 'Medieval fortifications and defensive architecture',
-    count: '40+',
+    count: '15',
     image: '/images/cat-castle.jpg',
     color: 'from-ukraine-blue to-ukraine-navy',
   },
@@ -15,7 +15,7 @@ const categories = [
     id: 'monastery',
     name: 'Monasteries & Churches',
     description: 'Sacred sites and religious architecture',
-    count: '50+',
+    count: '12',
     image: '/images/cat-religious.jpg',
     color: 'from-heritage-terracotta to-heritage-bronze',
   },
@@ -23,7 +23,7 @@ const categories = [
     id: 'museum',
     name: 'Museums & Galleries',
     description: 'Art collections and historical exhibitions',
-    count: '30+',
+    count: '7',
     image: '/images/cat-museum.jpg',
     color: 'from-ukraine-gold to-heritage-stone',
   },
@@ -31,25 +31,41 @@ const categories = [
     id: 'park',
     name: 'Natural Reserves',
     description: 'Parks, biospheres, and nature preserves',
-    count: '25+',
+    count: '7',
     image: '/images/cat-nature.jpg',
     color: 'from-green-700 to-green-900',
   },
   {
-    id: 'folk',
-    name: 'Folk Architecture',
-    description: 'Traditional houses, windmills, and rural heritage',
-    count: '20+',
-    image: '/images/cat-folk.jpg',
+    id: 'palace',
+    name: 'Palaces & Estates',
+    description: 'Grand residences and aristocratic estates',
+    count: '1',
+    image: '/images/cat-palaces.jpg',
     color: 'from-amber-600 to-orange-700',
   },
   {
-    id: 'landmark',
-    name: 'Cultural Landmarks',
-    description: 'Urban monuments, squares, and iconic symbols',
-    count: '30+',
+    id: 'city',
+    name: 'Historic Cities',
+    description: 'Urban heritage and historic districts',
+    count: '1',
     image: '/images/cat-landmark.jpg',
     color: 'from-slate-600 to-slate-800',
+  },
+  {
+    id: 'unesco',
+    name: 'UNESCO World Heritage',
+    description: 'Sites of outstanding universal value',
+    count: '4',
+    image: '/images/cat-unesco.jpg',
+    color: 'from-blue-600 to-blue-800',
+  },
+  {
+    id: 'intangible',
+    name: 'Intangible Heritage',
+    description: 'Traditional practices and cultural expressions',
+    count: '1',
+    image: '/images/cat-folk.jpg',
+    color: 'from-purple-600 to-purple-800',
   },
 ];
 
@@ -66,7 +82,7 @@ export default function Categories() {
             Explore Heritage
           </h2>
           <p className="text-xl text-slate-600 max-w-4xl mx-auto">
-            Discover six different categories of Ukrainian cultural treasures, each with dozens of remarkable sites to explore.
+            Discover eight different categories of Ukrainian cultural treasures, from medieval castles to UNESCO World Heritage sites.
           </p>
         </div>
 

@@ -10,7 +10,7 @@ const locales = ['en', 'uk', 'de'] as const;
 type Locale = typeof locales[number];
 
 // Category mapping
-const categories = ['castle', 'monastery', 'museum', 'park', 'folk', 'landmark'] as const;
+const categories = ['castle', 'monastery', 'museum', 'park', 'palace', 'city', 'unesco', 'intangible'] as const;
 
 export async function generateStaticParams() {
   const sites = await getAllSites();

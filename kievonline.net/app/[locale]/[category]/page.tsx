@@ -7,14 +7,16 @@ import { getAllSites } from '@/lib/sites';
 const locales = ['en', 'uk', 'de'] as const;
 type Locale = typeof locales[number];
 
-const categories = ['castle', 'monastery', 'museum', 'park', 'folk', 'landmark'] as const;
+const categories = ['castle', 'monastery', 'museum', 'park', 'palace', 'city', 'unesco', 'intangible'] as const;
 const categoryNames: Record<string, { en: string; uk: string; de: string }> = {
   castle: { en: 'Castles & Fortresses', uk: 'Замки та фортеці', de: 'Schlösser & Festungen' },
   monastery: { en: 'Monasteries & Churches', uk: 'Монастирі та церкви', de: 'Klöster & Kirchen' },
   museum: { en: 'Museums & Galleries', uk: 'Музеї та галереї', de: 'Museen & Galerien' },
   park: { en: 'Natural Reserves', uk: 'Природні заповідники', de: 'Naturreservate' },
-  folk: { en: 'Folk Architecture', uk: 'Народна архітектура', de: 'Volksarchitektur' },
-  landmark: { en: 'Cultural Landmarks', uk: 'Культурні пам\'ятки', de: 'Kulturelle Wahrzeichen' },
+  palace: { en: 'Palaces & Estates', uk: 'Палаци та маєтки', de: 'Paläste & Güter' },
+  city: { en: 'Historic Cities', uk: 'Історичні міста', de: 'Historische Städte' },
+  unesco: { en: 'UNESCO World Heritage', uk: 'Всесвітня спадщина ЮНЕСКО', de: 'UNESCO-Welterbe' },
+  intangible: { en: 'Intangible Heritage', uk: 'Нематеріальна спадщина', de: 'Immaterielles Erbe' },
 };
 
 export async function generateStaticParams() {
