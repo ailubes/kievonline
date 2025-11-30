@@ -2,6 +2,7 @@ import { notFound } from 'next/navigation';
 import Image from 'next/image';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
+import AdSense from '@/components/AdSense';
 import { getAllSites } from '@/lib/sites';
 
 const locales = ['en', 'uk', 'de'] as const;
@@ -81,6 +82,17 @@ export default async function CategoryPage({ params }: { params: Promise<{ local
         </div>
       </section>
 
+      {/* AdSense - After Hero */}
+      <section className="py-8 bg-gradient-to-b from-ukraine-cream to-white">
+        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+          <AdSense
+            adFormat="auto"
+            fullWidthResponsive={true}
+            className="min-h-[250px]"
+          />
+        </div>
+      </section>
+
       {/* Sites Grid */}
       <section className="py-12 md:py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -143,6 +155,17 @@ export default async function CategoryPage({ params }: { params: Promise<{ local
               );
             })}
           </div>
+        </div>
+      </section>
+
+      {/* AdSense - Before Footer */}
+      <section className="py-8 bg-white">
+        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+          <AdSense
+            adFormat="auto"
+            fullWidthResponsive={true}
+            className="min-h-[250px]"
+          />
         </div>
       </section>
 
