@@ -319,6 +319,44 @@ export async function getRelatedSites(slug: string, limit: number = 3): Promise<
     .slice(0, limit);
 }
 
+// Get sites by region/oblast
+export async function getSitesByRegion(oblast: string): Promise<Site[]> {
+  const allSites = await getAllSites();
+  return allSites.filter(site =>
+    site.oblast === oblast ||
+    site.oblast.includes(oblast) ||
+    oblast.includes(site.oblast)
+  );
+}
+
+// Get all unique oblasts/regions
+export async function getAllRegions(): Promise<string[]> {
+  const allSites = await getAllSites();
+  const regionsSet = new Set<string>();
+
+  allSites.forEach(site => {
+    if (site.oblast) {
+      regionsSet.add(site.oblast);
+    }
+  });
+
+  return Array.from(regionsSet).sort();
+}
+
+// Get sites count by region
+export async function getSitesCountByRegion(): Promise<Record<string, number>> {
+  const allSites = await getAllSites();
+  const counts: Record<string, number> = {};
+
+  allSites.forEach(site => {
+    if (site.oblast) {
+      counts[site.oblast] = (counts[site.oblast] || 0) + 1;
+    }
+  });
+
+  return counts;
+}
+
 // Search sites
 export async function searchSites(query: string): Promise<Site[]> {
   const allSites = await getAllSites();

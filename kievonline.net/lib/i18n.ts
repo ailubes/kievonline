@@ -83,6 +83,14 @@ export interface Translations {
     unesco: string;
     location: string;
   };
+  // Regions
+  regions: {
+    title: string;
+    subtitle: string;
+    description: string;
+    viewAll: string;
+    exploreRegion: string;
+  };
 }
 
 export const translations: Record<Locale, Translations> = {
@@ -162,6 +170,13 @@ export const translations: Record<Locale, Translations> = {
       unesco: 'UNESCO',
       location: 'Location',
     },
+    regions: {
+      title: 'Explore by Region',
+      subtitle: 'Browse by Location',
+      description: 'Discover heritage sites across Ukraine\'s diverse oblasts and cities.',
+      viewAll: 'View All Regions',
+      exploreRegion: 'Explore',
+    },
   },
   uk: {
     header: {
@@ -239,6 +254,13 @@ export const translations: Record<Locale, Translations> = {
       unesco: 'ЮНЕСКО',
       location: 'Місцезнаходження',
     },
+    regions: {
+      title: 'Дослідження за регіонами',
+      subtitle: 'Перегляд за місцем',
+      description: 'Відкрийте пам\'ятки спадщини в різних областях та містах України.',
+      viewAll: 'Переглянути всі регіони',
+      exploreRegion: 'Дослідити',
+    },
   },
   de: {
     header: {
@@ -315,6 +337,13 @@ export const translations: Record<Locale, Translations> = {
       rating: 'Bewertung',
       unesco: 'UNESCO',
       location: 'Standort',
+    },
+    regions: {
+      title: 'Nach Region erkunden',
+      subtitle: 'Nach Standort durchsuchen',
+      description: 'Entdecken Sie Kulturerbestätten in verschiedenen Oblasten und Städten der Ukraine.',
+      viewAll: 'Alle Regionen anzeigen',
+      exploreRegion: 'Erkunden',
     },
   },
 };

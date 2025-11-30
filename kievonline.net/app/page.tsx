@@ -1,15 +1,17 @@
 import Header from '@/components/Header';
 import Hero from '@/components/Hero';
 import Categories from '@/components/Categories';
+import Regions from '@/components/Regions';
 import Footer from '@/components/Footer';
 import FeaturedSites from '@/components/FeaturedSites';
 import MapSection from '@/components/MapSection';
 import NewsletterSection from '@/components/NewsletterSection';
 import AdSense from '@/components/AdSense';
-import { getFeaturedSites } from '@/lib/sites';
+import { getFeaturedSites, getSitesCountByRegion } from '@/lib/sites';
 
 export default async function Home() {
   const featuredSites = await getFeaturedSites(6);
+  const regionCounts = await getSitesCountByRegion();
 
   return (
     <main className="min-h-screen bg-ukraine-cream">
@@ -29,6 +31,8 @@ export default async function Home() {
           />
         </div>
       </section>
+
+      <Regions siteCounts={regionCounts} />
 
       <MapSection />
 
