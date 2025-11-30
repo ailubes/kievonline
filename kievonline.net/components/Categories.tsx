@@ -65,8 +65,8 @@ export default function Categories() {
           <h2 className="text-4xl sm:text-5xl lg:text-6xl font-display font-bold text-ukraine-navy mb-4">
             Explore Heritage
           </h2>
-          <p className="text-xl text-slate-600 max-w-2xl mx-auto">
-            Discover eight different categories of Ukrainian cultural treasures, each with dozens of remarkable sites to explore.
+          <p className="text-xl text-slate-600 max-w-4xl mx-auto">
+            Discover six different categories of Ukrainian cultural treasures, each with dozens of remarkable sites to explore.
           </p>
         </div>
 
@@ -75,7 +75,7 @@ export default function Categories() {
           {categories.map((category) => (
             <a
               key={category.id}
-              href={`/sites?category=${category.id}`}
+              href={`/en/${category.id}`}
               className="group relative overflow-hidden rounded-xl transition-all duration-300 hover:shadow-xl hover:-translate-y-2 cursor-pointer"
             >
               {/* Image Background */}

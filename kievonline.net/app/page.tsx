@@ -25,7 +25,7 @@ export default async function Home() {
             <h2 className="text-4xl sm:text-5xl lg:text-6xl font-display font-bold text-ukraine-navy mb-4">
               Must-See Heritage
             </h2>
-            <p className="text-xl text-slate-600 max-w-2xl mx-auto">
+            <p className="text-xl text-slate-600 max-w-4xl mx-auto">
               Explore some of Ukraine's most iconic and UNESCO-listed heritage sites.
             </p>
           </div>
@@ -35,7 +35,7 @@ export default async function Home() {
             {featuredSites.map((site) => (
               <a
                 key={site.slug}
-                href={`/sites/${site.slug}`}
+                href={`/en/${site.category}/${site.slug}`}
                 className="card overflow-hidden group hover:-translate-y-2 transition-transform duration-300"
               >
                 <div className="relative aspect-[4/3] overflow-hidden">
@@ -117,7 +117,7 @@ export default async function Home() {
             <h2 className="text-4xl sm:text-5xl lg:text-6xl font-display font-bold text-ukraine-navy mb-4">
               Interactive Map
             </h2>
-            <p className="text-xl text-slate-600 max-w-2xl mx-auto">
+            <p className="text-xl text-slate-600 max-w-4xl mx-auto">
               Discover heritage sites across all 25 regions of Ukraine with our interactive map.
             </p>
           </div>
@@ -150,7 +150,7 @@ export default async function Home() {
 
       {/* Newsletter Section */}
       <section className="py-20 sm:py-28 bg-gradient-to-r from-ukraine-navy to-ukraine-blue">
-        <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-4xl sm:text-5xl font-display font-bold text-white mb-4">
             Stay Updated
           </h2>
