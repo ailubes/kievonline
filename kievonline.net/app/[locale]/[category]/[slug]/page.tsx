@@ -29,8 +29,9 @@ export async function generateStaticParams() {
   return params;
 }
 
-export async function generateMetadata({ params }: { params: { slug: string; locale: Locale } }) {
-  const site = await getSiteBySlug(params.slug);
+export async function generateMetadata({ params }: { params: Promise<{ slug: string; locale: Locale; category: string }> }) {
+  const { slug, locale } = await params;
+  const site = await getSiteBySlug(slug);
 
   if (!site) {
     return {
@@ -38,8 +39,8 @@ export async function generateMetadata({ params }: { params: { slug: string; loc
     };
   }
 
-  const titleField = `name_${params.locale}` as keyof typeof site;
-  const descField = `metaDescription_${params.locale}` as keyof typeof site;
+  const titleField = `name_${locale}` as keyof typeof site;
+  const descField = `metaDescription_${locale}` as keyof typeof site;
 
   return {
     title: `${site[titleField] || site.name_en} | Kyiv Online Heritage Sites`,
@@ -48,22 +49,20 @@ export async function generateMetadata({ params }: { params: { slug: string; loc
   };
 }
 
-export default async function SitePage({ params }: { params: { slug: string; locale: Locale; category: string } }) {
-  const site = await getSiteBySlug(params.slug);
+export default async function SitePage({ params }: { params: Promise<{ slug: string; locale: Locale; category: string }> }) {
+  const { slug, locale, category } = await params;
+  const site = await getSiteBySlug(slug);
 
   if (!site) {
     notFound();
   }
 
   // Verify category matches
-  if (site.category !== params.category) {
+  if (site.category !== category) {
     notFound();
   }
 
-  const relatedSites = await getRelatedSites(params.slug, 3);
-
-  // Get localized content
-  const locale = params.locale;
+  const relatedSites = await getRelatedSites(slug, 3);
   const name = site[`name_${locale}` as keyof typeof site] || site.name_en;
   const tagline = site[`tagline_${locale}` as keyof typeof site] || site.tagline_en;
   const description = site[`description_${locale}` as keyof typeof site] as any || site.description_en;

@@ -31,15 +31,17 @@ export async function generateStaticParams() {
   return params;
 }
 
-export default async function CategoryPage({ params }: { params: { locale: Locale; category: string } }) {
-  if (!categories.includes(params.category as any)) {
+export default async function CategoryPage({ params }: { params: Promise<{ locale: Locale; category: string }> }) {
+  const { locale, category } = await params;
+
+  if (!categories.includes(category as any)) {
     notFound();
   }
 
   const allSites = await getAllSites();
-  const categorySites = allSites.filter((site) => site.category === params.category);
+  const categorySites = allSites.filter((site) => site.category === category);
 
-  const categoryName = categoryNames[params.category]?.[params.locale] || categoryNames[params.category]?.en || params.category;
+  const categoryName = categoryNames[category]?.[locale] || categoryNames[category]?.en || category;
 
   return (
     <main className="min-h-screen bg-ukraine-cream">
@@ -62,14 +64,14 @@ export default async function CategoryPage({ params }: { params: { locale: Local
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             {categorySites.map((site) => {
-              const name = site[`name_${params.locale}` as keyof typeof site] || site.name_en;
-              const tagline = site[`tagline_${params.locale}` as keyof typeof site] || site.tagline_en;
-              const imgAlt = site.images.heroImage[`alt_${params.locale}` as keyof typeof site.images.heroImage] || site.images.heroImage.alt_en;
+              const name = site[`name_${locale}` as keyof typeof site] || site.name_en;
+              const tagline = site[`tagline_${locale}` as keyof typeof site] || site.tagline_en;
+              const imgAlt = site.images.heroImage[`alt_${locale}` as keyof typeof site.images.heroImage] || site.images.heroImage.alt_en;
 
               return (
                 <a
                   key={site.slug}
-                  href={`/${params.locale}/${site.category}/${site.slug}`}
+                  href={`/${locale}/${site.category}/${site.slug}`}
                   className="card overflow-hidden group hover:-translate-y-2 transition-transform duration-300"
                 >
                   <div className="relative aspect-[4/3] overflow-hidden">
