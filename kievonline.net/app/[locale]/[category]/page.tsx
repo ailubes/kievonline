@@ -19,6 +19,17 @@ const categoryNames: Record<string, { en: string; uk: string; de: string }> = {
   intangible: { en: 'Intangible Heritage', uk: 'Нематеріальна спадщина', de: 'Immaterielles Erbe' },
 };
 
+const categoryImages: Record<string, string> = {
+  castle: '/images/cat-castle.jpg',
+  monastery: '/images/cat-religious.jpg',
+  museum: '/images/cat-museum.jpg',
+  park: '/images/cat-nature.jpg',
+  palace: '/images/cat-palaces.jpg',
+  city: '/images/cat-landmark.jpg',
+  unesco: '/images/cat-unesco.jpg',
+  intangible: '/images/cat-folk.jpg',
+};
+
 export async function generateStaticParams() {
   const params: { locale: string; category: string }[] = [];
 
@@ -42,18 +53,29 @@ export default async function CategoryPage({ params }: { params: Promise<{ local
   const categorySites = allSites.filter((site) => site.category === category);
 
   const categoryName = categoryNames[category]?.[locale] || categoryNames[category]?.en || category;
+  const categoryImage = categoryImages[category] || '/images/cat-castle.jpg';
 
   return (
     <main className="min-h-screen bg-ukraine-cream">
       <Header />
 
-      {/* Hero Section */}
-      <section className="py-20 sm:py-28 bg-gradient-to-r from-ukraine-navy to-ukraine-blue">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <h1 className="text-4xl sm:text-5xl lg:text-7xl font-display font-bold text-white mb-6">
+      {/* Hero Section with Category Background */}
+      <section className="relative py-32 sm:py-40 overflow-hidden">
+        <Image
+          src={categoryImage}
+          alt={categoryName}
+          fill
+          className="object-cover"
+          priority
+          sizes="100vw"
+        />
+        <div className="absolute inset-0 bg-gradient-to-r from-ukraine-navy/90 via-ukraine-navy/80 to-ukraine-blue/85"></div>
+
+        <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+          <h1 className="text-4xl sm:text-5xl lg:text-7xl font-display font-bold text-white mb-6 drop-shadow-lg">
             {categoryName}
           </h1>
-          <p className="text-xl text-slate-200 max-w-4xl mx-auto">
+          <p className="text-xl sm:text-2xl text-slate-100 max-w-5xl mx-auto drop-shadow-md">
             Explore {categorySites.length} heritage sites in this category
           </p>
         </div>
