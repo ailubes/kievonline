@@ -26,7 +26,7 @@ export default function Hero() {
           </h1>
 
           {/* Subtitle Description */}
-          <p className="text-xl sm:text-2xl text-slate-200 max-w-3xl mx-auto font-light">
+          <p className="text-xl sm:text-2xl text-slate-200 max-w-5xl mx-auto font-light">
             A comprehensive digital directory of 200+ historical sites, castles, monasteries, and cultural landmarks across Ukraine. Explore centuries of heritage in one place.
           </p>
 
