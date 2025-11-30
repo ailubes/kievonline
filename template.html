@@ -1,0 +1,606 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ukrainian Heritage Sites | Discover the Soul of Ukraine</title>
+    
+    <!-- Fonts: Playfair Display (Serif) & Open Sans (Sans-Serif) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet">
+    
+    <!-- Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+
+    <style>
+        /* --- CSS VARIABLES (The Palette) --- */
+        :root {
+            --dnipro-blue: #003366;
+            --steppe-gold: #D4AF37;
+            --stone-beige: #F5F0E6;
+            --terracotta-red: #A53F3F;
+            --charcoal: #2C2C2C;
+            --white: #FFFFFF;
+            --transition: all 0.3s ease;
+        }
+
+        /* --- GLOBAL STYLES --- */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Open Sans', sans-serif;
+            background-color: var(--stone-beige);
+            color: var(--charcoal);
+            line-height: 1.6;
+        }
+
+        h1, h2, h3, h4 {
+            font-family: 'Playfair Display', serif;
+            color: var(--dnipro-blue);
+        }
+
+        a {
+            text-decoration: none;
+            color: inherit;
+        }
+
+        ul {
+            list-style: none;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
+        .btn {
+            display: inline-block;
+            padding: 12px 28px;
+            border-radius: 4px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: var(--transition);
+            border: none;
+        }
+
+        .btn-gold {
+            background-color: var(--steppe-gold);
+            color: var(--dnipro-blue);
+        }
+
+        .btn-gold:hover {
+            background-color: #bfa030;
+            transform: translateY(-2px);
+        }
+
+        .btn-outline {
+            border: 2px solid var(--white);
+            color: var(--white);
+            background: transparent;
+        }
+
+        .btn-outline:hover {
+            background: var(--white);
+            color: var(--dnipro-blue);
+        }
+
+        /* --- HEADER --- */
+        header {
+            background-color: var(--dnipro-blue);
+            color: var(--white);
+            padding: 15px 0;
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+
+        .nav-container {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .logo {
+            display: flex;
+            align-items: center;
+            font-family: 'Playfair Display', serif;
+            font-size: 1.5rem;
+            font-weight: 700;
+        }
+
+        .logo i {
+            color: var(--steppe-gold);
+            margin-right: 10px;
+            font-size: 1.8rem;
+        }
+
+        .nav-links {
+            display: flex;
+            gap: 30px;
+        }
+
+        .nav-links a {
+            color: var(--white);
+            font-size: 0.95rem;
+            transition: color 0.3s;
+        }
+
+        .nav-links a:hover {
+            color: var(--steppe-gold);
+        }
+
+        .lang-toggle {
+            color: var(--steppe-gold);
+            font-weight: bold;
+        }
+
+        /* --- HERO SECTION --- */
+        .hero {
+            height: 85vh;
+            background: linear-gradient(rgba(0, 51, 102, 0.5), rgba(0, 51, 102, 0.4)), 
+                        url('https://images.unsplash.com/photo-1569083652870-98319323c938?q=80&w=1920&auto=format&fit=crop');
+            background-size: cover;
+            background-position: center;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            color: var(--white);
+            padding: 0 20px;
+        }
+
+        .hero-content h1 {
+            color: var(--steppe-gold);
+            font-size: 3.5rem;
+            margin-bottom: 15px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.6);
+        }
+
+        .hero-content p {
+            font-size: 1.2rem;
+            margin-bottom: 40px;
+            max-width: 600px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .search-container {
+            background: rgba(255, 255, 255, 0.2);
+            padding: 15px;
+            border-radius: 8px;
+            backdrop-filter: blur(5px);
+            display: flex;
+            gap: 10px;
+            max-width: 700px;
+            margin: 0 auto;
+        }
+
+        .search-input {
+            flex-grow: 1;
+            padding: 15px;
+            border: none;
+            border-radius: 4px;
+            font-size: 1rem;
+            outline: none;
+        }
+
+        .search-btn {
+            padding: 15px 30px;
+            font-size: 1rem;
+        }
+
+        /* --- CATEGORIES GRID --- */
+        .categories {
+            padding: 80px 0;
+        }
+
+        .section-header {
+            text-align: center;
+            margin-bottom: 50px;
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 30px;
+        }
+
+        .card {
+            position: relative;
+            height: 300px;
+            border-radius: 8px;
+            overflow: hidden;
+            cursor: pointer;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+            transition: var(--transition);
+        }
+
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+        }
+
+        .card img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            transition: transform 0.5s ease;
+        }
+
+        .card:hover img {
+            transform: scale(1.05);
+        }
+
+        .card-overlay {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            background: linear-gradient(to top, rgba(0,0,0,0.9), transparent);
+            padding: 20px;
+            color: var(--white);
+        }
+
+        .card-overlay h3 {
+            color: var(--white); /* Override default blue for dark bg */
+            font-size: 1.5rem;
+            margin-bottom: 5px;
+        }
+
+        .card-overlay p {
+            font-size: 0.9rem;
+            opacity: 0.9;
+        }
+
+        /* --- HERITAGE AT RISK --- */
+        .risk-section {
+            background-color: var(--stone-beige);
+            padding: 80px 0;
+        }
+
+        .risk-container {
+            background-color: var(--terracotta-red);
+            border-radius: 12px;
+            display: flex;
+            flex-wrap: wrap;
+            overflow: hidden;
+            color: var(--white);
+            box-shadow: 0 10px 30px rgba(165, 63, 63, 0.3);
+        }
+
+        .risk-image {
+            flex: 1 1 500px;
+            min-height: 400px;
+            background-image: url('https://images.unsplash.com/photo-1605118596632-441617320478?q=80&w=1000&auto=format&fit=crop'); /* Ruin/Old building */
+            background-size: cover;
+            background-position: center;
+        }
+
+        .risk-content {
+            flex: 1 1 400px;
+            padding: 60px 40px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .risk-content h4 {
+            color: var(--steppe-gold);
+            font-family: 'Open Sans', sans-serif;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            font-size: 0.9rem;
+            margin-bottom: 10px;
+        }
+
+        .risk-content h2 {
+            color: var(--white);
+            font-size: 2.5rem;
+            margin-bottom: 20px;
+        }
+
+        .risk-content p {
+            margin-bottom: 30px;
+            opacity: 0.9;
+        }
+
+        /* --- MAP PREVIEW --- */
+        .map-section {
+            padding: 80px 0;
+            text-align: center;
+        }
+
+        .map-frame {
+            background-color: #E0D8C8; /* Map placeholder color */
+            height: 400px;
+            border-radius: 12px;
+            margin-top: 30px;
+            position: relative;
+            background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Outline_Map_of_Ukraine.svg/2560px-Outline_Map_of_Ukraine.svg.png');
+            background-size: contain;
+            background-repeat: no-repeat;
+            background-position: center;
+            opacity: 0.7;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border: 1px solid #ccc;
+        }
+        
+        /* Decorative pins for the map placeholder */
+        .pin {
+            position: absolute;
+            color: var(--dnipro-blue);
+            font-size: 2rem;
+            animation: bounce 2s infinite;
+        }
+
+        @keyframes bounce {
+            0%, 20%, 50%, 80%, 100% {transform: translateY(0);}
+            40% {transform: translateY(-10px);}
+            60% {transform: translateY(-5px);}
+        }
+
+        /* --- FOOTER --- */
+        footer {
+            background-color: var(--dnipro-blue);
+            color: var(--white);
+            padding-top: 60px;
+        }
+
+        .footer-content {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 40px;
+            padding-bottom: 40px;
+        }
+
+        .footer-col h4 {
+            color: var(--steppe-gold);
+            margin-bottom: 20px;
+            font-size: 1.2rem;
+        }
+
+        .footer-col ul li {
+            margin-bottom: 10px;
+        }
+
+        .footer-col ul li a {
+            opacity: 0.7;
+            transition: opacity 0.3s;
+        }
+
+        .footer-col ul li a:hover {
+            opacity: 1;
+            color: var(--steppe-gold);
+        }
+
+        /* Vyshyvanka Pattern Strip at the bottom */
+        .vyshyvanka-strip {
+            height: 24px;
+            width: 100%;
+            /* Simple CSS pattern to simulate embroidery */
+            background-color: var(--terracotta-red);
+            background-image: 
+                linear-gradient(45deg, var(--white) 25%, transparent 25%), 
+                linear-gradient(-45deg, var(--white) 25%, transparent 25%),
+                linear-gradient(45deg, transparent 75%, var(--white) 75%),
+                linear-gradient(-45deg, transparent 75%, var(--white) 75%);
+            background-size: 20px 20px;
+            background-position: 0 0, 0 10px, 10px -10px, -10px 0px;
+        }
+
+        .copyright {
+            text-align: center;
+            padding: 20px;
+            background-color: #002850;
+            font-size: 0.8rem;
+            opacity: 0.7;
+        }
+
+        /* --- RESPONSIVE MEDIA QUERIES --- */
+        @media (max-width: 768px) {
+            .nav-links {
+                display: none; /* Hide nav on mobile for this demo */
+            }
+            .hero-content h1 {
+                font-size: 2.2rem;
+            }
+            .search-container {
+                flex-direction: column;
+            }
+            .risk-content h2 {
+                font-size: 2rem;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Header -->
+    <header>
+        <div class="container nav-container">
+            <div class="logo">
+                <i class="fa-solid fa-landmark-dome"></i>
+                UA Heritage
+            </div>
+            <nav>
+                <ul class="nav-links">
+                    <li><a href="#">Explore</a></li>
+                    <li><a href="#map">Map View</a></li>
+                    <li><a href="#">About</a></li>
+                    <li><a href="#">Donate</a></li>
+                    <li class="lang-toggle">UA | EN</li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="hero-content">
+            <h1>Discover the Soul of Ukraine</h1>
+            <p>A digital directory of over 1,000 years of history, culture, and architectural marvels.</p>
+            
+            <form class="search-container" onsubmit="event.preventDefault(); alert('Searching database...');">
+                <input type="text" class="search-input" placeholder="Search for castles, wooden churches, or regions...">
+                <button type="submit" class="btn btn-gold">Search</button>
+            </form>
+        </div>
+    </section>
+
+    <!-- Categories Grid -->
+    <section class="categories container">
+        <div class="section-header">
+            <h2>Browse by Category</h2>
+        </div>
+        <div class="grid">
+            <!-- Card 1 -->
+            <div class="card">
+                <img src="https://images.unsplash.com/photo-1596816075344-98ae8b707449?q=80&w=800&auto=format&fit=crop" alt="Kamianets-Podilskyi Castle">
+                <div class="card-overlay">
+                    <h3>Castles & Fortresses</h3>
+                    <p>Defensive architecture from the medieval era.</p>
+                </div>
+            </div>
+            <!-- Card 2 -->
+            <div class="card">
+                <img src="https://images.unsplash.com/photo-1628003487375-7b19df3e4881?q=80&w=800&auto=format&fit=crop" alt="St Andrew's Church">
+                <div class="card-overlay">
+                    <h3>Religious Sites</h3>
+                    <p>Cathedrals, monasteries, and wooden tserkvas.</p>
+                </div>
+            </div>
+            <!-- Card 3 -->
+            <div class="card">
+                <img src="https://images.unsplash.com/photo-1542459826-b82736c39f03?q=80&w=800&auto=format&fit=crop" alt="Lviv Museum">
+                <div class="card-overlay">
+                    <h3>Museums & Galleries</h3>
+                    <p>Collections of art, history, and ethnography.</p>
+                </div>
+            </div>
+            <!-- Card 4 -->
+            <div class="card">
+                <img src="https://images.unsplash.com/photo-1627918520775-749c95679543?q=80&w=800&auto=format&fit=crop" alt="Carpathian Landscape">
+                <div class="card-overlay">
+                    <h3>Natural Wonders</h3>
+                    <p>UNESCO biosphere reserves and landscapes.</p>
+                </div>
+            </div>
+            <!-- Card 5 -->
+            <div class="card">
+                <img src="https://images.unsplash.com/photo-1574005852230-032906eb4986?q=80&w=800&auto=format&fit=crop" alt="Pirogovo Museum">
+                <div class="card-overlay">
+                    <h3>Folk Architecture</h3>
+                    <p>Traditional villages and craftsmanship.</p>
+                </div>
+            </div>
+            <!-- Card 6 -->
+            <div class="card">
+                <img src="https://images.unsplash.com/photo-1563503295-d50d0361007a?q=80&w=800&auto=format&fit=crop" alt="Odesa Opera House">
+                <div class="card-overlay">
+                    <h3>Cultural Landmarks</h3>
+                    <p>Theaters, universities, and public squares.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Heritage at Risk Spotlight -->
+    <section class="risk-section">
+        <div class="container">
+            <div class="risk-container">
+                <div class="risk-image"></div>
+                <div class="risk-content">
+                    <h4>Spotlight</h4>
+                    <h2>Preserving History in War</h2>
+                    <p>Many heritage sites are currently damaged or under threat. Explore our database of sites at risk and learn how the international community is helping to restore them.</p>
+                    <a href="#" class="btn btn-outline">Learn How to Help</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Interactive Map Preview -->
+    <section class="map-section container" id="map">
+        <div class="section-header">
+            <h2>Explore by Region</h2>
+            <p>Find historical sites near you using our interactive map.</p>
+        </div>
+        
+        <div class="map-frame">
+            <!-- Simulated Map Pins -->
+            <i class="fa-solid fa-location-dot pin" style="top: 40%; left: 30%"></i>
+            <i class="fa-solid fa-location-dot pin" style="top: 30%; left: 50%; animation-delay: 0.5s"></i>
+            <i class="fa-solid fa-location-dot pin" style="top: 60%; left: 60%; animation-delay: 1s"></i>
+            <button class="btn btn-gold" style="z-index: 2; position: relative;">View Full Interactive Map</button>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container footer-content">
+            <div class="footer-col">
+                <div class="logo">UA Heritage</div>
+                <p style="margin-top: 10px; opacity: 0.8; font-size: 0.9rem;">
+                    Dedicated to preserving and showcasing the rich cultural history of Ukraine for future generations.
+                </p>
+            </div>
+            <div class="footer-col">
+                <h4>Explore</h4>
+                <ul>
+                    <li><a href="#">Search Directory</a></li>
+                    <li><a href="#">Map View</a></li>
+                    <li><a href="#">Curated Collections</a></li>
+                </ul>
+            </div>
+            <div class="footer-col">
+                <h4>Support</h4>
+                <ul>
+                    <li><a href="#">Restoration Funds</a></li>
+                    <li><a href="#">Volunteer</a></li>
+                    <li><a href="#">Submit a Site</a></li>
+                </ul>
+            </div>
+            <div class="footer-col">
+                <h4>Connect</h4>
+                <ul>
+                    <li><a href="#">Instagram</a></li>
+                    <li><a href="#">Facebook</a></li>
+                    <li><a href="#">Twitter/X</a></li>
+                </ul>
+            </div>
+        </div>
+        
+        <!-- Decorative Vyshyvanka Strip -->
+        <div class="vyshyvanka-strip"></div>
+        
+        <div class="copyright">
+            &copy; 2023 Ukrainian Heritage Directory. All rights reserved.
+        </div>
+    </footer>
+
+    <!-- Simple Script for interactions -->
+    <script>
+        // Add scroll effect to header
+        window.addEventListener('scroll', function() {
+            const header = document.querySelector('header');
+            if (window.scrollY > 50) {
+                header.style.boxShadow = "0 4px 15px rgba(0,0,0,0.3)";
+            } else {
+                header.style.boxShadow = "0 4px 6px rgba(0,0,0,0.1)";
+            }
+        });
+
+        // Add simple hover effect logic for cards if JS needed (currently handled by CSS)
+        console.log("Ukrainian Heritage Sites Directory loaded.");
+    </script>
+</body>
+</html>
