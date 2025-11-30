@@ -63,7 +63,7 @@ const config: Config = {
       },
       backgroundImage: {
         // Gradient: Editorial luxury aesthetic
-        'gradient-hero': 'linear-gradient(135deg, rgba(10, 20, 40, 0.7) 0%, rgba(30, 58, 95, 0.7) 50%, rgba(168, 93, 79, 0.6) 100%), url(/images/hero-bg.webp)',
+        'gradient-hero': 'linear-gradient(135deg, rgba(10, 20, 40, 0.7) 0%, rgba(30, 58, 95, 0.7) 50%, rgba(168, 93, 79, 0.6) 100%), url(/images/hero-bg.jpg)',
         'gradient-subtle': 'linear-gradient(to bottom, rgba(250, 248, 243, 0.95), rgba(245, 240, 230, 1))',
         'gradient-gold': 'linear-gradient(135deg, #d4a574 0%, #a85d4f 100%)',
         'gradient-dark': 'linear-gradient(135deg, #0a1428 0%, #1a2332 100%)',
