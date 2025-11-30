@@ -689,7 +689,7 @@ module.exports = {
 import { db } from '../lib/db';
 import { sites } from '../lib/db/schema';
 
-const JINA_API_KEY = 'jina_02bf2708e754438eb9b7f149fb7f746cAQCGzsccDQMS4-nB2BLyy2Szu9Ho';
+const JINA_API_KEY = 'xxx';
 
 interface ScrapedSite {
   name: string;
@@ -883,5 +883,6 @@ main().catch(console.error);
 - Consider implementing ISR (Incremental Static Regeneration) for frequently updated content
 - Monitor Core Web Vitals and optimize accordingly
 - Implement proper caching headers for API routes
+
 
 **Good luck building this directory! 🇺🇦**
