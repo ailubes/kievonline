@@ -1,0 +1,417 @@
+{
+  "id": "synevyr-national-nature-park",
+  "slug": "synevyr-national-nature-park",
+
+  "name_uk": "Національний природний парк «Синевир»",
+  "name_en": "Synevyr National Nature Park",
+  "name_de": "Synevyr-Nationalpark",
+
+  "tagline_uk": "Дім найбільшого гірського озера України та букових пралісів UNESCO",
+  "tagline_en": "Home to Ukraine's largest mountain lake and UNESCO beech primeval forests",
+  "tagline_de": "Heimat des größten Bergsees der Ukraine und UNESCO-Buchurwälder",
+
+  "category": "park",
+  "subcategories": ["national-nature-park", "unesco-site", "mountain-landscape", "wetlands"],
+  "region": "Mizhhiria",
+  "oblast": "Zakarpattia Oblast",
+
+  "description_uk": {
+    "short": "Національний природний парк «Синевир» — заповідна територія у Закарпатській області, яка охоплює верхів'я річки Теребля та включає найбільше гірське озеро України — Синевир. Парк відомий своїми буковими пралісами, що охороняються ЮНЕСКО.",
+    "full": "Національний природний парк «Синевир» був заснований в 1989 році і охоплює територію 40 400 гектарів в Закарпатській області України. Парк розташований у західній частині Горган, більша частина території знаходиться на високогір'ї (від 440 до 1719 м над рівнем моря).\n\nГоловною перлиною парку є озеро Синевир — найбільше гірське озеро в Українських Карпатах, розташоване на висоті 989 метрів. Науковці вважають, що озеру близько 10 000 років, воно утворилося внаслідок землетрусу. Озеро називають «Морським оком Карпат» через невеликий острівець у центрі, який нагадує зіницю ока.\n\nУ липні 2017 року чотири ділянки букових пралісів парку (Дарвайка, Квасовець, Стрімба та Вільшани) загальною площею понад 3000 гектарів було включено до Списку Всесвітньої спадщини ЮНЕСКО як частину об'єкта «Букові праліси Карпат та інших регіонів Європи».\n\nНа території парку працює унікальний Центр реабілітації бурих ведмедів — найбільший в Україні. З 2011 року тут знаходять притулок ведмеді, врятовані з цирків, розважальних закладів та від контрабандистів. Центр займає 12 гектарів лісу і відкритий для туристів.\n\nПарк характеризується багатою флорою та фауною: тут зростає 1726 видів рослин, 53 з яких занесені до Червоної книги України. Фауна представлена бурими ведмедями, вовками, дикими кабанами, рисями, оленями, козулями. Серед птахів трапляються глухарі, рябчики, білі та чорні лелеки, різноманітні види дятлів.",
+    "history": "Національний природний парк «Синевир» був створений 18 березня 1989 року постановою Ради Міністрів УРСР з метою збереження унікальних природних комплексів верхів'я річки Теребля. Парк став одним з перших національних природних парків в Україні.\n\nТериторія парку протягом століть була важливим регіоном лісогосподарської діяльності. У XIX-XX століттях тут активно велася лісозаготівля, про що свідчать залишки старих будівель та споруд для сплаву деревини. У парку створено Музей лісу та сплаву — єдиний в Європі та другий у світі, який розповідає про традиції заготівлі та транспортування деревини в Карпатах.\n\nВажливою історичною пам'яткою є укріплення «Лінії Арпада» — оборонні споруди угорської армії часів Другої світової війни. Також на території парку збереглися військові цвинтарі Першої світової війни.\n\nУ 2004 році озеро Синевир було включено до переліку водно-болотних угідь міжнародного значення згідно з Рамсарською конвенцією. У 2007 році за результатами народного голосування парк увійшов до переліку Семи природних чудес України.\n\nУ 2011 році на території парку відкрився Центр реабілітації бурих ведмедів — перший і найбільший в Україні проєкт з порятунку та реабілітації цих тварин.",
+    "significance": "Національний природний парк «Синевир» має виняткове значення для збереження біорізноманіття Карпат. Це одна з найцінніших природоохоронних територій України, що поєднує унікальні гірські екосистеми, первинні ліси та водно-болотні угіддя міжнародного значення.\n\nБукові праліси парку є частиною Всесвітньої спадщини ЮНЕСКО і представляють собою останні залишки первинних лісів, які тисячоліттями розвивалися без втручання людини. Ці ліси мають величезну наукову цінність для вивчення природних екосистемних процесів.\n\nПарк відіграє ключову роль у збереженні популяції бурого ведмедя в Карпатах і є прикладом успішної природоохоронної та освітньої роботи. Центр реабілітації ведмедів став важливим проєктом захисту тварин не лише в Україні, але й у всій Європі."
+  },
+
+  "description_en": {
+    "short": "Synevyr National Nature Park is a protected area in Zakarpattia Oblast covering the upper Tereblya River basin and including Ukraine's largest mountain lake — Synevyr. The park is famous for its UNESCO-protected beech primeval forests.",
+    "full": "Synevyr National Nature Park was established in 1989 and covers an area of 40,400 hectares in Zakarpattia Oblast, Ukraine. The park is located in the western part of the Gorgany mountains, with most of its territory situated in the highlands (from 440 to 1,719 meters above sea level).\n\nThe crown jewel of the park is Lake Synevyr — the largest mountain lake in the Ukrainian Carpathians, situated at an altitude of 989 meters. Scientists estimate the lake to be about 10,000 years old, formed as a result of an earthquake. The lake is called the 'Sea Eye of the Carpathians' due to a small island in its center resembling the pupil of an eye.\n\nIn July 2017, four sections of the park's beech primeval forests (Darvaika, Kvasovets, Strymba, and Vilshany) covering over 3,000 hectares were inscribed on the UNESCO World Heritage List as part of the 'Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe' property.\n\nThe park is home to Ukraine's unique Brown Bear Rehabilitation Center — the largest in the country. Since 2011, it has provided sanctuary for bears rescued from circuses, entertainment facilities, and smugglers. The center occupies 12 hectares of forest and is open to tourists.\n\nThe park is characterized by rich flora and fauna: 1,726 plant species grow here, 53 of which are listed in the Red Book of Ukraine. Fauna includes brown bears, wolves, wild boars, lynxes, deer, and roe deer. Among birds, one can find capercaillies, hazel grouse, white and black storks, and various species of woodpeckers.",
+    "history": "Synevyr National Nature Park was established on March 18, 1989, by a resolution of the Council of Ministers of the Ukrainian SSR to preserve the unique natural complexes of the upper Tereblya River. The park became one of the first national nature parks in Ukraine.\n\nThe park's territory has been an important forestry region for centuries. In the 19th-20th centuries, active logging took place here, evidenced by remnants of old buildings and timber floating structures. The park houses the Museum of Forest and Timber Floating — unique in Europe and second in the world, telling the story of traditional logging and timber transportation in the Carpathians.\n\nAn important historical monument is the 'Arpad Line' fortifications — defensive structures of the Hungarian army from World War II. The park also preserves military cemeteries from World War I.\n\nIn 2004, Lake Synevyr was included in the list of Wetlands of International Importance under the Ramsar Convention. In 2007, following a popular vote, the park was included in the list of the Seven Natural Wonders of Ukraine.\n\nIn 2011, the Brown Bear Rehabilitation Center opened in the park — the first and largest project in Ukraine for rescue and rehabilitation of these animals.",
+    "significance": "Synevyr National Nature Park is of exceptional importance for preserving Carpathian biodiversity. It is one of Ukraine's most valuable protected areas, combining unique mountain ecosystems, primeval forests, and wetlands of international significance.\n\nThe park's beech primeval forests are part of UNESCO World Heritage and represent the last remnants of primary forests that have evolved for millennia without human intervention. These forests have enormous scientific value for studying natural ecosystem processes.\n\nThe park plays a key role in preserving the brown bear population in the Carpathians and serves as an example of successful conservation and educational work. The Bear Rehabilitation Center has become an important animal protection project not only in Ukraine but throughout Europe."
+  },
+
+  "description_de": {
+    "short": "Der Synevyr-Nationalpark ist ein Schutzgebiet in der Oblast Transkarpatien, das das obere Einzugsgebiet des Flusses Tereblya umfasst und den größten Bergsee der Ukraine — Synevyr — einschließt. Der Park ist berühmt für seine UNESCO-geschützten Buchenurwälder.",
+    "full": "Der Synevyr-Nationalpark wurde 1989 gegründet und umfasst eine Fläche von 40.400 Hektar in der Oblast Transkarpatien, Ukraine. Der Park liegt im westlichen Teil der Gorgany-Berge, wobei der größte Teil seines Territoriums im Hochland liegt (von 440 bis 1.719 Meter über dem Meeresspiegel).\n\nDas Kronjuwel des Parks ist der Synevyr-See — der größte Bergsee in den Ukrainischen Karpaten, der auf einer Höhe von 989 Metern liegt. Wissenschaftler schätzen, dass der See etwa 10.000 Jahre alt ist und durch ein Erdbeben entstanden ist. Der See wird das 'Meeresauge der Karpaten' genannt, wegen einer kleinen Insel in seiner Mitte, die einer Pupille ähnelt.\n\nIm Juli 2017 wurden vier Abschnitte der Buchenurwälder des Parks (Darvaika, Kvasovets, Strymba und Vilshany) mit über 3.000 Hektar in die UNESCO-Welterbeliste aufgenommen als Teil der 'Alten Buchenwälder und Buchenurwälder der Karpaten und anderer Regionen Europas'.\n\nDer Park beherbergt das einzigartige Braunbären-Rehabilitationszentrum der Ukraine — das größte des Landes. Seit 2011 bietet es Bären Zuflucht, die aus Zirkussen, Unterhaltungseinrichtungen und von Schmugglern gerettet wurden. Das Zentrum erstreckt sich über 12 Hektar Wald und ist für Touristen geöffnet.",
+    "history": "Der Synevyr-Nationalpark wurde am 18. März 1989 durch einen Beschluss des Ministerrats der Ukrainischen SSR gegründet, um die einzigartigen Naturkomplexe des oberen Tereblya-Flusses zu erhalten. Der Park wurde einer der ersten Nationalparks in der Ukraine.",
+    "significance": "Der Synevyr-Nationalpark ist von außerordentlicher Bedeutung für die Erhaltung der karpatischen Biodiversität. Er ist eines der wertvollsten Schutzgebiete der Ukraine und vereint einzigartige Bergökosysteme, Urwälder und Feuchtgebiete von internationaler Bedeutung."
+  },
+
+  "location": {
+    "city": "Synevyr",
+    "region": "Zakarpattia Oblast",
+    "address_uk": "село Синевир, Міжгірський район, Закарпатська область, 90631",
+    "address_en": "Synevyr village, Mizhhiria Raion, Zakarpattia Oblast, 90631",
+    "address_de": "Dorf Synevyr, Bezirk Mizhhiria, Oblast Transkarpatien, 90631",
+    "coordinates": {
+      "latitude": 48.617,
+      "longitude": 23.684
+    },
+    "directions_uk": {
+      "general": "Розташований у верхів'ї річки Теребля в Міжгірському районі Закарпатської області",
+      "publicTransport": "Автобус з міста Міжгір'я до села Синевирська Поляна (щоденно), далі 2 км пішки до озера Синевир",
+      "car": "З Києва — 750 км через Мукачево та Міжгір'я (близько 11 годин). З Львова — 250 км через Стрий та Воловець (близько 5 годин)",
+      "parking": "Безкоштовні парковки біля головних об'єктів парку"
+    },
+    "directions_en": {
+      "general": "Located in the upper Tereblya River basin in Mizhhiria Raion, Zakarpattia Oblast",
+      "publicTransport": "Bus from Mizhhiria town to Synevyrska Polyana village (daily), then 2 km walk to Lake Synevyr",
+      "car": "From Kyiv — 750 km via Mukachevo and Mizhhiria (about 11 hours). From Lviv — 250 km via Stryi and Volovets (about 5 hours)",
+      "parking": "Free parking areas near main park attractions"
+    },
+    "directions_de": {
+      "general": "Im oberen Einzugsgebiet des Flusses Tereblya im Bezirk Mizhhiria, Oblast Transkarpatien gelegen",
+      "publicTransport": "Bus von Mizhhiria nach Synevyrska Polyana (täglich), dann 2 km zu Fuß zum Synevyr-See",
+      "car": "Von Kiew — 750 km über Mukachevo und Mizhhiria (ca. 11 Stunden). Von Lwiw — 250 km über Stryi und Volovets (ca. 5 Stunden)",
+      "parking": "Kostenlose Parkplätze in der Nähe der Hauptattraktionen"
+    },
+    "nearbyAttractions": [
+      {
+        "name_uk": "Музей лісу та сплаву",
+        "name_en": "Museum of Forest and Timber Floating",
+        "distance": "5 km",
+        "type": "museum"
+      },
+      {
+        "name_uk": "Музей-село «Стародавнє село» в Колочаві",
+        "name_en": "Old Village Museum in Kolochava",
+        "distance": "22 km",
+        "type": "open-air-museum"
+      },
+      {
+        "name_uk": "Ужанський національний природний парк",
+        "name_en": "Uzhansky National Nature Park",
+        "distance": "45 km",
+        "type": "nature-park"
+      }
+    ]
+  },
+
+  "contact": {
+    "phone": "+380 3146 27740",
+    "email": "npp-synevyr@ukr.net",
+    "website": "https://synevyr-park.in.ua/",
+    "bookingUrl": null,
+    "socialMedia": {
+      "facebook": null,
+      "instagram": null,
+      "youtube": null,
+      "twitter": null
+    }
+  },
+
+  "visitingInformation": {
+    "openingTimes": {
+      "status_uk": "Відкрито цілий рік",
+      "status_en": "Open year-round",
+      "status_de": "Ganzjährig geöffnet",
+      "seasonal": [
+        {
+          "season_uk": "Травень - Вересень",
+          "season_en": "May - September",
+          "season_de": "Mai - September",
+          "days_uk": "Щодня",
+          "days_en": "Daily",
+          "days_de": "Täglich",
+          "hours": "09:00 - 18:00",
+          "lastAdmission": "17:00"
+        },
+        {
+          "season_uk": "Жовтень - Квітень",
+          "season_en": "October - April",
+          "season_de": "Oktober - April",
+          "days_uk": "Щодня",
+          "days_en": "Daily",
+          "days_de": "Täglich",
+          "hours": "09:00 - 17:00",
+          "lastAdmission": "16:00"
+        }
+      ]
+    },
+    "admissionPrices": {
+      "currency": "UAH",
+      "adult": 30,
+      "student": 15,
+      "child": 15,
+      "senior": 15,
+      "family": null,
+      "notes_uk": "Вхід до Центру реабілітації ведмедів — 50 грн для дорослих, 30 грн для дітей",
+      "notes_en": "Entry to Bear Rehabilitation Center — 50 UAH for adults, 30 UAH for children",
+      "notes_de": "Eintritt zum Bären-Rehabilitationszentrum — 50 UAH für Erwachsene, 30 UAH für Kinder"
+    },
+    "tourOptions": [
+      {
+        "type_uk": "Самостійний огляд",
+        "type_en": "Self-guided tour",
+        "type_de": "Selbstgeführte Tour",
+        "duration_uk": "2-4 години",
+        "duration_en": "2-4 hours",
+        "duration_de": "2-4 Stunden",
+        "price": 0
+      },
+      {
+        "type_uk": "Екскурсія з гідом",
+        "type_en": "Guided tour",
+        "type_de": "Führung",
+        "duration_uk": "3 години",
+        "duration_en": "3 hours",
+        "duration_de": "3 Stunden",
+        "price": 400,
+        "groupSize": "до 20 осіб / up to 20 people / bis 20 Personen"
+      }
+    ],
+    "averageVisitDuration_uk": "1 день",
+    "averageVisitDuration_en": "1 day",
+    "averageVisitDuration_de": "1 Tag",
+    "busyPeriods_uk": ["Літні місяці (липень-серпень)", "Вихідні дні", "Фестиваль 'Трембіти кличуть на Синевир' (серпень)"],
+    "busyPeriods_en": ["Summer months (July-August)", "Weekends", "Trembitas Call to Synevyr Festival (August)"],
+    "busyPeriods_de": ["Sommermonate (Juli-August)", "Wochenenden", "Trembitas-Festival (August)"],
+    "adviceForVisitors_uk": "Візьміть зручне взуття для гірських прогулянок. Рекомендуємо відвідати озеро Синевир вранці або ввечері для кращих фотографій. Не забудьте тепле одяг — навіть влітку температура може бути прохолодною. Обов'язково відвідайте Центр реабілітації ведмедів.",
+    "adviceForVisitors_en": "Bring comfortable shoes for mountain walks. We recommend visiting Lake Synevyr in the morning or evening for the best photos. Don't forget warm clothing — even in summer, temperatures can be cool. Be sure to visit the Brown Bear Rehabilitation Center.",
+    "adviceForVisitors_de": "Bringen Sie bequeme Schuhe für Bergwanderungen mit. Wir empfehlen, den Synevyr-See morgens oder abends für die besten Fotos zu besuchen. Vergessen Sie warme Kleidung nicht — auch im Sommer können die Temperaturen kühl sein. Besuchen Sie unbedingt das Braunbären-Rehabilitationszentrum."
+  },
+
+  "features": {
+    "highlights_uk": [
+      "Озеро Синевир — найбільше гірське озеро України (989 м н.р.м.)",
+      "Букові праліси UNESCO загальною площею понад 3000 гектарів",
+      "Центр реабілітації бурих ведмедів — найбільший в Україні",
+      "Гора Стрімба (1719 м) — найвища вершина парку",
+      "Водоспад Білий Звір",
+      "Болото Глухання — найбільше сфагнове болото в Горганах",
+      "Музей лісу та сплаву — єдиний в Європі",
+      "140 км туристичних маршрутів"
+    ],
+    "highlights_en": [
+      "Lake Synevyr — Ukraine's largest mountain lake (989 m a.s.l.)",
+      "UNESCO beech primeval forests covering over 3,000 hectares",
+      "Brown Bear Rehabilitation Center — the largest in Ukraine",
+      "Mount Strymba (1,719 m) — the park's highest peak",
+      "White Beast Waterfall",
+      "Hlukhania Bog — the largest sphagnum bog in Gorgany",
+      "Museum of Forest and Timber Floating — unique in Europe",
+      "140 km of tourist routes"
+    ],
+    "highlights_de": [
+      "Synevyr-See — größter Bergsee der Ukraine (989 m ü.M.)",
+      "UNESCO-Buchenurwälder mit über 3.000 Hektar",
+      "Braunbären-Rehabilitationszentrum — das größte in der Ukraine",
+      "Berg Strymba (1.719 m) — höchster Gipfel des Parks",
+      "Wasserfall Weißes Tier",
+      "Hlukhania-Moor — größtes Torfmoor in den Gorgany",
+      "Museum für Forstwirtschaft und Holzflößerei — einzigartig in Europa",
+      "140 km Wanderwege"
+    ],
+    "facilities_uk": ["Центр відвідувачів", "Музей", "Кемпінги", "Місця для пікніків", "Туалети", "Парковка", "Пункти харчування"],
+    "facilities_en": ["Visitor Center", "Museum", "Campsites", "Picnic areas", "Toilets", "Parking", "Food facilities"],
+    "facilities_de": ["Besucherzentrum", "Museum", "Campingplätze", "Picknickplätze", "Toiletten", "Parkplatz", "Gastronomie"],
+    "accessibility": {
+      "wheelchairAccessible": false,
+      "notes_uk": "Гірський рельєф робить більшість маршрутів недоступними для інвалідних візків. Озеро Синевир та Центр відвідувачів частково доступні.",
+      "notes_en": "Mountain terrain makes most routes inaccessible for wheelchairs. Lake Synevyr and Visitor Center are partially accessible.",
+      "notes_de": "Das Berggelände macht die meisten Routen für Rollstühle unzugänglich. Der Synevyr-See und das Besucherzentrum sind teilweise zugänglich."
+    },
+    "uniqueSellingPoints_uk": [
+      "Найбільше гірське озеро в Україні",
+      "Частина Всесвітньої спадщини UNESCO (букові праліси)",
+      "Найбільший центр реабілітації ведмедів в Україні",
+      "Одне з Семи природних чудес України",
+      "Унікальне поєднання гірських екосистем та водно-болотних угідь"
+    ],
+    "uniqueSellingPoints_en": [
+      "Largest mountain lake in Ukraine",
+      "Part of UNESCO World Heritage (beech primeval forests)",
+      "Largest bear rehabilitation center in Ukraine",
+      "One of the Seven Natural Wonders of Ukraine",
+      "Unique combination of mountain ecosystems and wetlands"
+    ],
+    "uniqueSellingPoints_de": [
+      "Größter Bergsee der Ukraine",
+      "Teil des UNESCO-Welterbes (Buchenurwälder)",
+      "Größtes Bären-Rehabilitationszentrum in der Ukraine",
+      "Eines der Sieben Naturwunder der Ukraine",
+      "Einzigartige Kombination aus Bergökosystemen und Feuchtgebieten"
+    ]
+  },
+
+  "images": {
+    "heroImage": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Synevyr_lake_1.jpg",
+      "alt_uk": "Озеро Синевир з островом посередині",
+      "alt_en": "Lake Synevyr with island in the middle",
+      "alt_de": "Synevyr-See mit Insel in der Mitte",
+      "caption_uk": "Озеро Синевир — найбільше гірське озеро України, відоме як 'Морське око Карпат'",
+      "caption_en": "Lake Synevyr — Ukraine's largest mountain lake, known as the 'Sea Eye of the Carpathians'",
+      "caption_de": "Synevyr-See — der größte Bergsee der Ukraine, bekannt als 'Meeresauge der Karpaten'"
+    },
+    "gallery": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/21-224-5054_NNP_Synevyr_RB_18.jpg",
+        "alt_uk": "Вид на озеро Синевир зверху",
+        "alt_en": "Aerial view of Lake Synevyr",
+        "alt_de": "Luftaufnahme des Synevyr-Sees",
+        "caption_uk": "Озеро Синевир оточене вікововими ялинами"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/%D0%9F%D1%80%D0%BE%D0%BC%D0%B5%D0%BD%D1%96_%D0%B2%D0%B5%D1%87%D1%96%D1%80%D0%BD%D1%96.jpg",
+        "alt_uk": "Вечірні промені сонця на озері",
+        "alt_en": "Evening sunlight on the lake",
+        "alt_de": "Abendliches Sonnenlicht auf dem See",
+        "caption_uk": "Захід сонця над озером Синевир"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/NPP_Synevyr_Barvinok_Zak-2.JPG",
+        "alt_uk": "Барвінок у букових лісах",
+        "alt_en": "Periwinkle in beech forests",
+        "alt_de": "Immergrün in Buchenwäldern",
+        "caption_uk": "Барвінок — типова рослина букових пралісів парку"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/%D0%9A%D0%B0%D0%BC%27%D1%8F%D0%BD%D0%B5%D1%86%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B2%D0%BE%D0%B4%D0%BE%D1%81%D0%BF%D0%B0%D0%B4_%28%D0%A1%D0%B8%D0%BD%D0%B5%D0%B2%D0%B8%D1%80%29.JPG",
+        "alt_uk": "Водоспад Кам'янецький",
+        "alt_en": "Kamianetskyi Waterfall",
+        "alt_de": "Kamianetskyi-Wasserfall",
+        "caption_uk": "Один з численних водоспадів на території парку"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Synevir_park.jpg",
+        "alt_uk": "Гірський краєвид парку Синевир",
+        "alt_en": "Mountain landscape of Synevyr Park",
+        "alt_de": "Berglandschaft des Synevyr-Parks",
+        "caption_uk": "Мальовничі гори та ліси парку Синевир"
+      }
+    ]
+  },
+
+  "historicalData": {
+    "yearBuilt": "1989",
+    "yearBuiltNote_uk": "Заснований 18 березня 1989 року",
+    "yearBuiltNote_en": "Established on March 18, 1989",
+    "yearBuiltNote_de": "Gegründet am 18. März 1989",
+    "architecturalStyle_uk": "Природний ландшафт",
+    "architecturalStyle_en": "Natural landscape",
+    "architecturalStyle_de": "Naturlandschaft",
+    "architects": [],
+    "unescoStatus": "inscribed",
+    "unescoYear": 2017,
+    "nationalHeritageStatus": "National Nature Park",
+    "referenceNumber": "1133bis",
+    "managedBy_uk": "Національний природний парк «Синевир»",
+    "managedBy_en": "Synevyr National Nature Park",
+    "managedBy_de": "Synevyr-Nationalpark"
+  },
+
+  "culturalEvents": [
+    {
+      "name_uk": "Фестиваль 'Трембіти кличуть на Синевир'",
+      "name_en": "Trembitas Call to Synevyr Festival",
+      "name_de": "Trembitas ruft zum Synevyr Festival",
+      "period_uk": "Серпень (щорічно)",
+      "period_en": "August (annually)",
+      "period_de": "August (jährlich)",
+      "description_uk": "Всеукраїнський фестиваль карпатської культури з традиційною музикою, танцями та ремеслами",
+      "description_en": "All-Ukrainian festival of Carpathian culture with traditional music, dances, and crafts",
+      "description_de": "Gesamtukrainisches Festival der karpatischen Kultur mit traditioneller Musik, Tänzen und Handwerk"
+    },
+    {
+      "name_uk": "Різдвяна ялинка",
+      "name_en": "Christmas Tree",
+      "name_de": "Weihnachtsbaum",
+      "period_uk": "Грудень-Січень",
+      "period_en": "December-January",
+      "period_de": "Dezember-Januar",
+      "description_uk": "Екологічна акція збереження ялинок",
+      "description_en": "Environmental campaign for preserving fir trees",
+      "description_de": "Umweltkampagne zum Schutz von Tannen"
+    }
+  ],
+
+  "tags": [
+    "national-park",
+    "nature-reserve",
+    "unesco-site",
+    "mountain-lake",
+    "beech-forests",
+    "primeval-forests",
+    "brown-bears",
+    "wildlife",
+    "carpathians",
+    "zakarpattia",
+    "wetlands",
+    "ramsar-site",
+    "seven-wonders",
+    "eco-tourism",
+    "hiking",
+    "camping"
+  ],
+
+  "suitableFor_uk": [
+    "Любителі природи",
+    "Екотуристи",
+    "Фотографи дикої природи",
+    "Сімейні подорожі",
+    "Шкільні екскурсії",
+    "Походи в гори",
+    "Науковці та дослідники"
+  ],
+  "suitableFor_en": [
+    "Nature lovers",
+    "Eco-tourists",
+    "Wildlife photographers",
+    "Family travel",
+    "School excursions",
+    "Mountain hiking",
+    "Scientists and researchers"
+  ],
+  "suitableFor_de": [
+    "Naturliebhaber",
+    "Öko-Touristen",
+    "Wildtierfotografen",
+    "Familienreisen",
+    "Schulausflüge",
+    "Bergwandern",
+    "Wissenschaftler und Forscher"
+  ],
+
+  "weatherDependent": true,
+  "indoorActivities": true,
+  "outdoorActivities": true,
+
+  "priceRange": "$",
+  "rating": 4.8,
+  "reviewsCount": 1547,
+  "featured": true,
+  "status": "published",
+
+  "metaDescription_uk": "Національний природний парк Синевир — найбільше гірське озеро України, букові праліси UNESCO, центр реабілітації ведмедів. Одне з Семи чудес України у Закарпатті.",
+  "metaDescription_en": "Synevyr National Nature Park — Ukraine's largest mountain lake, UNESCO beech primeval forests, bear rehabilitation center. One of the Seven Wonders of Ukraine in Zakarpattia.",
+  "metaDescription_de": "Synevyr-Nationalpark — größter Bergsee der Ukraine, UNESCO-Buchenurwälder, Bären-Rehabilitationszentrum. Eines der Sieben Wunder der Ukraine in Transkarpatien.",
+
+  "keywords": [
+    "Синевир",
+    "Synevyr",
+    "Synevir",
+    "національний парк",
+    "national park",
+    "Nationalpark",
+    "Закарпаття",
+    "Zakarpattia",
+    "Transkarpatien",
+    "озеро",
+    "lake",
+    "See",
+    "UNESCO",
+    "букові праліси",
+    "beech forests",
+    "Buchenwälder",
+    "ведмеді",
+    "bears",
+    "Bären",
+    "Карпати",
+    "Carpathians",
+    "Karpaten"
+  ],
+
+  "lastUpdated": "2025-11-30",
+  "source": "Wikipedia, Synevyr Park Official Website, WOWNature.in.ua, Jina AI Research",
+  "verified": true
+}

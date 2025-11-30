@@ -1,0 +1,290 @@
+{
+  "id": "sviatohirsk-lavra",
+  "slug": "sviatohirsk-lavra",
+
+  "name_uk": "Свято-Успенська Святогірська Лавра",
+  "name_en": "Sviatohirsk Lavra (Holy Mountains Lavra)",
+  "name_de": "Mariä-Entschlafens-Lavra Swjatohirsk",
+
+  "tagline_uk": "Монастир на Святих Горах над Сіверським Дінцем",
+  "tagline_en": "Monastery on the Holy Mountains above Siverskyi Donets River",
+  "tagline_de": "Kloster auf den Heiligen Bergen über dem Siwerskyj Donez",
+
+  "category": "monastery",
+  "subcategories": ["lavra", "cave-monastery", "orthodox-church", "pilgrimage-site", "war-affected"],
+  "region": "Donetsk",
+  "oblast": "Donetsk Oblast",
+
+  "description_uk": {
+    "short": "Святогірська Лавра — православний монастир на крутому березі річки Сіверський Донець у Донецькій області. Заснований у XVI столітті, монастир відомий своїми печерами, вирубаними у крейдяних скелях, та унікальним розташуванням серед Святих Гір.",
+    "full": "Свято-Успенська Святогірська Лавра розташована на крутому правому березі річки Сіверський Донець у мальовничій місцевості, що називається Святими Горами. Монастир є одним із найбільш унікальних православних комплексів України завдяки своєму розташуванню та печерам, вирубаним у крейдяних скелях.\n\nПерша писемна згадка про монастир датується 1526 роком у записках Сігізмунда фон Герберштайна. Ймовірно, перші монахи оселилися тут у XV столітті. У той час це був невеликий монастир у Дикому Полі, який регулярно зазнавав нападів кримських татар.\n\nУ 1787 році імператриця Катерина II закрила монастир, а його землі були секуляризовані і подаровані князю Григорію Потьомкіну. Один із його спадкоємців, князь Олександр Михайлович Потьомкін та його дружина Тетяна (уроджена княгиня Голіцина), профінансували відновлення монастиря, яке розпочалося у 1844 році.\n\nДо жовтневої революції Святогірський монастир володів майстернею, вітряками, різними майстернями та торговими будівлями. Головний Успенський собор був спроектований Олексієм Горностаєвим з традиційною візантійською вежею. З 1917 року більшовики неодноразово грабували і оскверняли монастир, б'ючи і вбиваючи багатьох монахів. У 1922 році монастир було повністю закрито, на його місці облаштували санаторій для робітників Донбасу.\n\nДо Першої світової війни у монастирі проживало приблизно 600 монахів. Під час 1930-х років деякі церкви були зруйновані радянською владою разом з іншими численними релігійними об'єктами по всьому Радянському Союзу.\n\nПісля падіння СРСР та відновлення незалежності України у 1991 році монастир було відновлено у 1992 році. У 2004 році монастир офіційно отримав статус Лаври Української Православної Церкви. Сьогодні монастирська спільнота налічує понад 100 монахів.\n\nУ 2022 році під час російського вторгнення монастир надав притулок цивільним біженцям. 12 березня 2022 року його було пошкоджено російським авіаударом по сусідньому мосту через Донець. Надалі монастир зазнав численних обстрілів, які призвели до загибелі монахів та руйнування скитів і храмів.",
+    "history": "Перша письмова згадка — 1627 рік, хоча Сігізмунд фон Герберштайн згадував «Святі Гори» ще у 1526 році. Ймовірно, перші монахи оселилися тут у XV столітті. У 1787 році Катерина II закрила монастир. Відновлення розпочалося у 1844 році за рахунок князя Олександра Потьомкіна. У радянський період (1922-1992) монастир був закритий. Відновлений у 1992 році, статус Лаври отримав у 2004 році. З 2022 року зазнає пошкоджень внаслідок російської агресії.",
+    "significance": "Святогірська Лавра є унікальною пам'яткою православного монастирського життя з печерним комплексом у крейдяних скелях. Монастир розташований у Національному природному парку 'Святі Гори' і має важливе духовне та культурне значення для східної України. Попри пошкодження від війни, монастир залишається активним центром православ'я."
+  },
+
+  "description_en": {
+    "short": "Sviatohirsk Lavra is an Orthodox monastery on a steep bank of the Siverskyi Donets River in Donetsk Oblast. Founded in the 16th century, the monastery is famous for its caves carved into chalk cliffs and unique location among the Holy Mountains.",
+    "full": "The Holy Mountains Lavra of the Holy Dormition is located on the steep right bank of the Siverskyi Donets River in a picturesque area called the Holy Mountains. The monastery is one of Ukraine's most unique Orthodox complexes due to its location and caves carved into chalk cliffs.\n\nThe first written mention of the monastery dates to 1526 in the notes of Sigismund von Herberstein. Likely, the first monks settled here in the 15th century. At the time, it was a minor monastic establishment in the Wild Fields regularly ravaged by Crimean Tatars.\n\nIn 1787, Catherine II had it shut down, and the monastery's lands were secularized and donated to Prince Grigory Potemkin. One of his heirs, Alexandr Mikhailovich Potemkin and his wife Tatiana (née Princess Galitzine), financed the monastery's restoration, starting in 1844.\n\nBefore the October Revolution, the Sviatohirsk Monastery owned a worker's shop, windmills, various repair shops, and trading buildings. The main Dormition Cathedral was designed by Alexey Gornostaev, who included a traditional Byzantine tower. From 1917 onward, the Bolsheviks plundered and desecrated the monastery on numerous occasions, beating and murdering many monks. In 1922, they shut the monastery down completely, setting up a sanatorium for Donbas workers on the grounds.\n\nBefore World War I, the monastery was inhabited by approximately 600 monks. During the 1930s, some churches were demolished by the Soviets along with numerous other religious sites throughout the Soviet Union.\n\nAfter the fall of the Soviet Union and Ukraine's regaining of independence in 1991, the monastery was restored in 1992. In 2004, the monastery was officially granted the status of a Ukrainian Orthodox Church lavra. Today, the monastery community consists of more than 100 monks.\n\nIn 2022, during the Russian invasion, the monastery provided shelter to civilian refugees. On March 12, 2022, it was damaged by a Russian airstrike on the nearby bridge across the Donets. Subsequently, the monastery suffered numerous shellings that led to the deaths of monks and destruction of sketes and churches.",
+    "history": "First written mention — 1627, though Sigismund von Herberstein alluded to the 'Holy Mountains' as early as 1526. Likely the first monks settled in the 15th century. In 1787, Catherine II shut it down. Restoration began in 1844 funded by Prince Alexandr Potemkin. During the Soviet period (1922-1992), the monastery was closed. Restored in 1992, received Lavra status in 2004. Since 2022, has suffered damage from Russian aggression.",
+    "significance": "Sviatohirsk Lavra is a unique monument of Orthodox monastic life with a cave complex in chalk cliffs. The monastery is located in the Holy Mountains National Nature Park and has important spiritual and cultural significance for eastern Ukraine. Despite war damage, the monastery remains an active Orthodox center."
+  },
+
+  "description_de": {
+    "short": "Die Swjatohirsk-Lavra ist ein orthodoxes Kloster am steilen Ufer des Siwerskyj Donez in der Oblast Donezk. Gegründet im 16. Jahrhundert, ist das Kloster berühmt für seine in Kreidefelsen gehauenen Höhlen und seine einzigartige Lage in den Heiligen Bergen.",
+    "full": "Die Mariä-Entschlafens-Lavra der Heiligen Berge liegt am steilen rechten Ufer des Siwerskyj Donez in einer malerischen Gegend, die Heilige Berge genannt wird. Das Kloster ist einer der einzigartigsten orthodoxen Komplexe der Ukraine aufgrund seiner Lage und der in Kreidefelsen gehauenen Höhlen.\n\nDie erste schriftliche Erwähnung des Klosters stammt aus dem Jahr 1526 in den Aufzeichnungen von Sigismund von Herberstein. Wahrscheinlich ließen sich die ersten Mönche im 15. Jahrhundert hier nieder. Damals war es eine kleine Klosteranlage im Wilden Feld, die regelmäßig von Krimtataren überfallen wurde.",
+    "history": "Erste schriftliche Erwähnung — 1627, obwohl Sigismund von Herberstein bereits 1526 die 'Heiligen Berge' erwähnte. Wahrscheinlich ließen sich die ersten Mönche im 15. Jahrhundert nieder. 1787 ließ Katharina II. es schließen. Die Restaurierung begann 1844, finanziert von Fürst Alexander Potjomkin. Während der Sowjetzeit (1922-1992) war das Kloster geschlossen. 1992 restauriert, erhielt es 2004 den Lavra-Status. Seit 2022 erleidet es Schäden durch russische Aggression.",
+    "significance": "Die Swjatohirsk-Lavra ist ein einzigartiges Denkmal des orthodoxen Klosterlebens mit einem Höhlenkomplex in Kreidefelsen. Das Kloster liegt im Nationalpark 'Heilige Berge' und hat eine wichtige spirituelle und kulturelle Bedeutung für die Ostukraine."
+  },
+
+  "location": {
+    "city": "Sviatohirsk",
+    "region": "Donetsk Oblast",
+    "address_uk": "м. Святогірськ, Донецька область, Україна",
+    "address_en": "Sviatohirsk, Donetsk Oblast, Ukraine",
+    "address_de": "Swjatohirsk, Oblast Donezk, Ukraine",
+    "coordinates": {
+      "latitude": 49.028111,
+      "longitude": 37.567556
+    },
+    "directions_uk": {
+      "general": "Розташований на правому березі Сіверського Дінця у місті Святогірськ",
+      "publicTransport": "УВАГА: Через російське вторгнення відвідування може бути небезпечним або неможливим. Перевіряйте актуальну інформацію про безпеку",
+      "car": "УВАГА: Зона активних бойових дій. Доступ обмежений або закритий",
+      "parking": "Інформація недоступна через воєнний стан"
+    },
+    "directions_en": {
+      "general": "Located on the right bank of Siverskyi Donets River in Sviatohirsk",
+      "publicTransport": "WARNING: Due to Russian invasion, visiting may be dangerous or impossible. Check current safety information",
+      "car": "WARNING: Active combat zone. Access restricted or closed",
+      "parking": "Information unavailable due to martial law"
+    },
+    "directions_de": {
+      "general": "Am rechten Ufer des Siwerskyj Donez in Swjatohirsk gelegen",
+      "publicTransport": "WARNUNG: Aufgrund der russischen Invasion kann ein Besuch gefährlich oder unmöglich sein. Prüfen Sie aktuelle Sicherheitsinformationen",
+      "car": "WARNUNG: Aktive Kampfzone. Zugang eingeschränkt oder gesperrt",
+      "parking": "Informationen aufgrund des Kriegsrechts nicht verfügbar"
+    },
+    "nearbyAttractions": [
+      {
+        "name_uk": "Національний природний парк 'Святі Гори'",
+        "name_en": "Holy Mountains National Nature Park",
+        "distance": "0 km",
+        "type": "nature-park"
+      }
+    ]
+  },
+
+  "contact": {
+    "phone": null,
+    "email": null,
+    "website": "http://svlavra.church.ua/",
+    "bookingUrl": null,
+    "socialMedia": {
+      "facebook": null,
+      "instagram": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+
+  "visitingInformation": {
+    "openingTimes": {
+      "status_uk": "ЗАКРИТО через війну. Монастир пошкоджений російськими обстрілами",
+      "status_en": "CLOSED due to war. Monastery damaged by Russian shelling",
+      "status_de": "GESCHLOSSEN wegen Krieg. Kloster durch russischen Beschuss beschädigt",
+      "seasonal": []
+    },
+    "admissionPrices": {
+      "currency": "UAH",
+      "adult": 0,
+      "student": 0,
+      "child": 0,
+      "senior": 0,
+      "family": 0,
+      "notes_uk": "УВАГА: Відвідування неможливе через активні бойові дії та пошкодження від війни",
+      "notes_en": "WARNING: Visiting impossible due to active combat and war damage",
+      "notes_de": "WARNUNG: Besuch unmöglich aufgrund aktiver Kämpfe und Kriegsschäden"
+    },
+    "tourOptions": [],
+    "averageVisitDuration_uk": "Недоступно",
+    "averageVisitDuration_en": "Not available",
+    "averageVisitDuration_de": "Nicht verfügbar",
+    "busyPeriods_uk": [],
+    "busyPeriods_en": [],
+    "busyPeriods_de": [],
+    "adviceForVisitors_uk": "УВАГА: Монастир розташований у зоні активних бойових дій. Відвідування НЕБЕЗПЕЧНЕ та заборонене. Монастир зазнав значних пошкоджень від російських обстрілів у 2022 році, включаючи загибель монахів та руйнування храмів. Не намагайтеся відвідати до закінчення війни.",
+    "adviceForVisitors_en": "WARNING: Monastery is located in an active combat zone. Visiting is DANGEROUS and prohibited. The monastery suffered significant damage from Russian shelling in 2022, including deaths of monks and destruction of churches. Do not attempt to visit until the war ends.",
+    "adviceForVisitors_de": "WARNUNG: Das Kloster befindet sich in einer aktiven Kampfzone. Besuche sind GEFÄHRLICH und verboten. Das Kloster erlitt 2022 erhebliche Schäden durch russischen Beschuss, einschließlich des Todes von Mönchen und der Zerstörung von Kirchen. Versuchen Sie nicht zu besuchen, bis der Krieg beendet ist."
+  },
+
+  "features": {
+    "highlights_uk": [
+      "Печери у крейдяних скелях",
+      "Успенський собор (XIX ст.)",
+      "Розташування над Сіверським Дінцем",
+      "Частина Національного парку 'Святі Гори'",
+      "ПОШКОДЖЕНО війною (2022)"
+    ],
+    "highlights_en": [
+      "Caves in chalk cliffs",
+      "Dormition Cathedral (19th c.)",
+      "Location above Siverskyi Donets River",
+      "Part of Holy Mountains National Park",
+      "DAMAGED by war (2022)"
+    ],
+    "highlights_de": [
+      "Höhlen in Kreidefelsen",
+      "Mariä-Entschlafens-Kathedrale (19. Jh.)",
+      "Lage über dem Siwerskyj Donez",
+      "Teil des Nationalparks Heilige Berge",
+      "BESCHÄDIGT durch Krieg (2022)"
+    ],
+    "facilities_uk": ["НЕДОСТУПНО через війну"],
+    "facilities_en": ["NOT AVAILABLE due to war"],
+    "facilities_de": ["NICHT VERFÜGBAR wegen Krieg"],
+    "accessibility": {
+      "wheelchairAccessible": false,
+      "notes_uk": "Недоступно через війну та пошкодження",
+      "notes_en": "Not available due to war and damage",
+      "notes_de": "Nicht verfügbar wegen Krieg und Beschädigung"
+    },
+    "uniqueSellingPoints_uk": [
+      "Унікальні печери у крейдяних скелях",
+      "Один з найкрасивіших монастирів України",
+      "Частина природного парку",
+      "Історична пам'ятка XVII-XIX століть",
+      "ПОТРЕБУЄ ВІДНОВЛЕННЯ після війни"
+    ],
+    "uniqueSellingPoints_en": [
+      "Unique caves in chalk cliffs",
+      "One of Ukraine's most beautiful monasteries",
+      "Part of nature park",
+      "Historic monument from 17th-19th centuries",
+      "NEEDS RESTORATION after war"
+    ],
+    "uniqueSellingPoints_de": [
+      "Einzigartige Höhlen in Kreidefelsen",
+      "Eines der schönsten Klöster der Ukraine",
+      "Teil eines Naturparks",
+      "Historisches Denkmal aus dem 17.-19. Jahrhundert",
+      "BENÖTIGT RESTAURIERUNG nach dem Krieg"
+    ]
+  },
+
+  "images": {
+    "heroImage": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Svjatogorsk%2C_Lavra_3.jpg",
+      "alt_uk": "Святогірська Лавра з правого берега Сіверського Дінця",
+      "alt_en": "Sviatohirsk Lavra from right bank of Siverskyi Donets",
+      "alt_de": "Swjatohirsk-Lavra vom rechten Ufer des Siwerskyj Donez",
+      "caption_uk": "Вид на Лавру до війни (фото до 2022 року)",
+      "caption_en": "View of the Lavra before war (photo before 2022)",
+      "caption_de": "Ansicht der Lavra vor dem Krieg (Foto vor 2022)"
+    },
+    "gallery": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Svjatogorsk%2C_Lavra_14.jpg",
+        "alt_uk": "Свято-Покровська церква Лаври",
+        "alt_en": "Sviato-Pokrovska Church of the Lavra",
+        "alt_de": "Swiato-Pokrowska-Kirche der Lavra",
+        "caption_uk": "Церква до пошкоджень"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/St._George%27s_Skete_of_Sviatohirsk_Lavra_after_Russian_shelling_%2801%29.jpg/1280px-St._George%27s_Skete_of_Sviatohirsk_Lavra_after_Russian_shelling_%2801%29.jpg",
+        "alt_uk": "Георгіївський скит після російського обстрілу (2022)",
+        "alt_en": "St. George's Skete after Russian shelling (2022)",
+        "alt_de": "Georgs-Skete nach russischem Beschuss (2022)",
+        "caption_uk": "Пошкодження від війни"
+      }
+    ]
+  },
+
+  "historicalData": {
+    "yearBuilt": "1526",
+    "yearBuiltNote_uk": "Перша писемна згадка. Статус Лаври з 2004 року. ПОШКОДЖЕНО російськими обстрілами у 2022 році",
+    "yearBuiltNote_en": "First written mention. Lavra status since 2004. DAMAGED by Russian shelling in 2022",
+    "yearBuiltNote_de": "Erste schriftliche Erwähnung. Lavra-Status seit 2004. BESCHÄDIGT durch russischen Beschuss 2022",
+    "architecturalStyle_uk": "Візантійська архітектура",
+    "architecturalStyle_en": "Byzantine architecture",
+    "architecturalStyle_de": "Byzantinische Architektur",
+    "architects": [
+      {
+        "name": "Олексій Горностаєв (Alexey Gornostaev)",
+        "period": "XIX ст. / 19th c. / 19. Jh.",
+        "contribution_uk": "Успенський собор",
+        "contribution_en": "Dormition Cathedral",
+        "contribution_de": "Mariä-Entschlafens-Kathedrale"
+      }
+    ],
+    "unescoStatus": "none",
+    "unescoYear": null,
+    "nationalHeritageStatus": "Architectural Monument of National Significance (war-damaged)",
+    "referenceNumber": "140066",
+    "managedBy_uk": "Статус невизначений через війну",
+    "managedBy_en": "Status uncertain due to war",
+    "managedBy_de": "Status unklar wegen Krieg"
+  },
+
+  "culturalEvents": [],
+
+  "tags": [
+    "lavra",
+    "monastery",
+    "cave-monastery",
+    "orthodox",
+    "donetsk",
+    "war-damaged",
+    "siverskyi-donets",
+    "holy-mountains",
+    "nature-park",
+    "byzantine",
+    "closed",
+    "russian-invasion",
+    "2022-war"
+  ],
+
+  "suitableFor_uk": [
+    "НЕДОСТУПНО через війну"
+  ],
+  "suitableFor_en": [
+    "NOT ACCESSIBLE due to war"
+  ],
+  "suitableFor_de": [
+    "NICHT ZUGÄNGLICH wegen Krieg"
+  ],
+
+  "weatherDependent": false,
+  "indoorActivities": false,
+  "outdoorActivities": false,
+
+  "priceRange": "$",
+  "rating": 4.8,
+  "reviewsCount": 1523,
+  "featured": false,
+  "status": "war-damaged",
+
+  "metaDescription_uk": "Святогірська Лавра у Донецькій області — унікальний печерний монастир на Сіверському Дінці. УВАГА: Закрито та пошкоджено через російське вторгнення 2022 року. Зона активних бойових дій.",
+  "metaDescription_en": "Sviatohirsk Lavra in Donetsk Oblast — unique cave monastery on Siverskyi Donets River. WARNING: Closed and damaged due to Russian invasion 2022. Active combat zone.",
+  "metaDescription_de": "Swjatohirsk-Lavra in der Oblast Donezk — einzigartiges Höhlenkloster am Siwerskyj Donez. WARNUNG: Geschlossen und beschädigt durch russische Invasion 2022. Aktive Kampfzone.",
+
+  "keywords": [
+    "Святогірська Лавра",
+    "Sviatohirsk Lavra",
+    "Донецьк",
+    "Donetsk",
+    "печерний монастир",
+    "cave monastery",
+    "війна",
+    "war",
+    "пошкоджено",
+    "damaged",
+    "Сіверський Донець",
+    "Siverskyi Donets",
+    "orthodox",
+    "2022"
+  ],
+
+  "lastUpdated": "2025-11-30",
+  "source": "Wikipedia, War Reports, Cultural Heritage Monitoring",
+  "verified": true
+}

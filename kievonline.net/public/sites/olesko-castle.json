@@ -1,0 +1,414 @@
+{
+  "id": "olesko-castle",
+  "slug": "olesko-castle",
+  "name_uk": "Олеський замок",
+  "name_en": "Olesko Castle",
+  "name_de": "Schloss Olesko",
+
+  "tagline_uk": "Один із найстаріших замків України - батьківщина короля Яна III Собеського",
+  "tagline_en": "One of the oldest castles in Ukraine - birthplace of King Jan III Sobieski",
+  "tagline_de": "Eine der ältesten Burgen der Ukraine - Geburtsort von König Jan III. Sobieski",
+
+  "category": "castle",
+  "subcategories": ["medieval-architecture", "museum", "art-gallery", "historical-monument"],
+  "region": "Olesko",
+  "oblast": "Lviv Oblast",
+
+  "description_uk": {
+    "short": "Олеський замок - один із найстаріших замків України, розташований на скелястому пагорбі у селі Олеськ Львівської області. Побудований у XIII-XIV століттях, замок є філією Львівської національної галереї мистецтв і зберігає багату колекцію українського мистецтва.",
+    "full": "Олеський замок вражає своєю компактною, але величною архітектурою на високому скелястому пагорбі серед колишніх боліт. Це один із найдавніших замків на території України, що зберігся до наших днів.\n\nЗамок побудований у XIII-XIV століттях і став свідком багатьох історичних подій. Найбільш відомий факт - тут у 1629 році народився майбутній польський король Ян III Собеський, який у 1683 році визволив Відень від турецької облоги.\n\nСьогодні Олеський замок є філією Львівської національної галереї мистецтв. Тут зберігається видатна колекція українського іконопису XVI-XVIII століть, живопису, скульптури, історичних меблів та гобеленів.\n\nОсобливо цікавими є експозиції: колекція українських ікон XVI-XVIII століть - одна з найкращих в Україні; художня галерея з творами українських, польських та угорських майстрів; експозиція 'Вишивка та регіональний народний одяг'; колекція старовинних меблів; унікальні старовинні печі, прикрашені художніми кахлями; історичний водозабірний колодязь.\n\nЗамок оточений мальовничим ландшафтним парком XVIII століття зі ставками, алеями та скульптурними композиціями. За історичною інформацією, парк облаштовувала королева Марисенька - дружина короля Яна III.\n\nНа території замку діє ресторан з традиційною українською кухнею, який високо оцінюють відвідувачі.",
+    "history": "Згідно з археологічними дослідженнями, перші укріплення на місці Олеського замку почали будувати мешканці стародавнього Плісненська, які переселилися сюди після монгольської навали у XIII столітті.\n\nКам'яний замок почав будуватися у XIII столітті і став одним із найважливіших оборонних пунктів Галицько-Волинського князівства. Завдяки своєму географічному розташуванню замок часто називали 'ключем до Галичини та Волині'.\n\nЗ 1605 року замок і всі прилеглі землі перейшли у власність українського магната Івана Даниловича. У 1636 році маєток успадкував Якуб Собеський. Саме в цьому замку 1629 року народився його син - майбутній король Польщі Ян III Собеський, який у 1683 році врятував Європу від турецького завоювання, розбивши османську армію під Віднем.\n\nУ XVIII столітті замок занепав. У XIX столітті його частково відновили, але справжня реставрація почалася тільки в радянський час - у 1956-1975 роках.\n\nУ 1975 році Олеський замок став філією Львівської картинної галереї (тепер - Львівська національна галерея мистецтв). Тут було створено музей-заповідник з експозиціями українського мистецтва та історії.\n\nЗамок зазнав значної шкоди під час землетрусу в 1838 році, але був відновлений. Протягом XX століття замок неодноразово реставрувався і сьогодні є одним із найкраще збережених замків Львівської області.",
+    "significance": "Олеський замок - один із найстаріших замків України, що збереглися до наших днів. Він має важливе історичне значення як батьківщина польського короля Яна III Собеського - визволителя Відня від турків. Замок є цінною архітектурною пам'яткою і важливим культурним центром завдяки музейним експозиціям Львівської національної галереї мистецтв. Колекція українських ікон XVI-XVIII століть вважається однією з найкращих в Україні."
+  },
+
+  "description_en": {
+    "short": "Olesko Castle is one of the oldest castles in Ukraine, located on a rocky hill in the village of Olesko, Lviv Oblast. Built in the 13th-14th centuries, the castle is a branch of the Lviv National Art Gallery and preserves a rich collection of Ukrainian art.",
+    "full": "Olesko Castle impresses with its compact but majestic architecture on a high rocky hill among former swamps. It is one of the oldest castles on the territory of Ukraine that has survived to this day.\n\nThe castle was built in the 13th-14th centuries and has witnessed many historical events. The most famous fact - here in 1629 was born the future Polish King Jan III Sobieski, who in 1683 liberated Vienna from the Turkish siege.\n\nToday, Olesko Castle is a branch of the Lviv National Art Gallery. It houses an outstanding collection of Ukrainian icon painting from the 16th-18th centuries, paintings, sculptures, historical furniture and tapestries.\n\nParticularly interesting are the expositions: collection of Ukrainian icons from the 16th-18th centuries - one of the best in Ukraine; art gallery with works by Ukrainian, Polish and Hungarian masters; exposition 'Embroidery and regional folk clothes'; collection of antique furniture; unique ancient stoves decorated with artistic tiles; historical water well.\n\nThe castle is surrounded by a picturesque landscape park from the 18th century with ponds, alleys and sculptural compositions. According to historical information, the park was arranged by Queen Marysienka - the wife of King Jan III.\n\nOn the territory of the castle there is a restaurant with traditional Ukrainian cuisine, which is highly appreciated by visitors.",
+    "history": "According to archaeological research, the first fortifications at the site of Olesko Castle were begun by the inhabitants of ancient Plisnesk, who moved here after the Mongol invasion in the 13th century.\n\nThe stone castle began to be built in the 13th century and became one of the most important defensive points of the Galicia-Volhynia principality. Due to its geographical location, the castle was often called 'the key to Galicia and Volhynia'.\n\nFrom 1605, the castle and all adjacent lands passed into the ownership of Ukrainian magnate Ivan Danylovych. In 1636, the estate was inherited by Jakub Sobieski. It was in this castle in 1629 that his son was born - the future King of Poland Jan III Sobieski, who in 1683 saved Europe from Turkish conquest by defeating the Ottoman army near Vienna.\n\nIn the 18th century, the castle fell into decay. In the 19th century, it was partially restored, but real restoration began only in Soviet times - in 1956-1975.\n\nIn 1975, Olesko Castle became a branch of the Lviv Picture Gallery (now the Lviv National Art Gallery). A museum-reserve with expositions of Ukrainian art and history was created here.\n\nThe castle suffered significant damage during the earthquake in 1838, but was restored. During the 20th century, the castle was repeatedly restored and today is one of the best-preserved castles of the Lviv region.",
+    "significance": "Olesko Castle is one of the oldest castles in Ukraine that have survived to this day. It has important historical significance as the birthplace of Polish King Jan III Sobieski - the liberator of Vienna from the Turks. The castle is a valuable architectural monument and an important cultural center thanks to the museum expositions of the Lviv National Art Gallery. The collection of Ukrainian icons from the 16th-18th centuries is considered one of the best in Ukraine."
+  },
+
+  "description_de": {
+    "short": "Schloss Olesko ist eine der ältesten Burgen der Ukraine auf einem felsigen Hügel im Dorf Olesko, Oblast Lemberg. Im 13.-14. Jahrhundert erbaut, ist das Schloss eine Filiale der Nationalen Kunstgalerie Lemberg und bewahrt eine reiche Sammlung ukrainischer Kunst.",
+    "full": "Schloss Olesko beeindruckt durch seine kompakte, aber majestätische Architektur auf einem hohen felsigen Hügel zwischen ehemaligen Sümpfen. Es ist eine der ältesten Burgen auf dem Gebiet der Ukraine, die bis heute erhalten geblieben ist.\n\nDas Schloss wurde im 13.-14. Jahrhundert erbaut und war Zeuge vieler historischer Ereignisse. Die bekannteste Tatsache - hier wurde 1629 der zukünftige polnische König Jan III. Sobieski geboren, der 1683 Wien von der türkischen Belagerung befreite.\n\nHeute ist Schloss Olesko eine Filiale der Nationalen Kunstgalerie Lemberg. Es beherbergt eine herausragende Sammlung ukrainischer Ikonenmalerei aus dem 16.-18. Jahrhundert, Gemälde, Skulpturen, historische Möbel und Gobelins.",
+    "history": "Laut archäologischen Forschungen wurden die ersten Befestigungen am Standort von Schloss Olesko von den Bewohnern des alten Plisnesk begonnen, die nach der Mongoleninvasion im 13. Jahrhundert hierher zogen. Die Steinburg wurde im 13. Jahrhundert erbaut und war einer der wichtigsten Verteidigungspunkte des Fürstentums Galizien-Wolhynien.",
+    "significance": "Schloss Olesko ist eine der ältesten Burgen der Ukraine, die bis heute erhalten geblieben sind. Es hat eine wichtige historische Bedeutung als Geburtsort des polnischen Königs Jan III. Sobieski - des Befreiers Wiens von den Türken. Die Sammlung ukrainischer Ikonen aus dem 16.-18. Jahrhundert gilt als eine der besten in der Ukraine."
+  },
+
+  "location": {
+    "city": "Olesko",
+    "region": "Lviv Oblast",
+    "address_uk": "вул. Замкова, 34, село Олеськ, Золочівський район, Львівська область, 80641",
+    "address_en": "34 Zamkova Street, Olesko village, Zolochiv district, Lviv Oblast, 80641",
+    "address_de": "Zamkova-Straße 34, Dorf Olesko, Bezirk Solotschew, Oblast Lemberg, 80641",
+    "coordinates": {
+      "latitude": 49.96838,
+      "longitude": 24.90088
+    },
+    "directions_uk": {
+      "general": "Розташований у селі Олеськ, 75 км на схід від Львова",
+      "publicTransport": "З Львова автобусом до с. Олеськ (1,5 години), далі пішки 10 хвилин до замку",
+      "car": "З Львова - 75 км по трасі Е40/М06 у напрямку Тернополя, поворот на Олеськ (близько 1 година)",
+      "parking": "Безкоштовна парковка біля замку"
+    },
+    "directions_en": {
+      "general": "Located in Olesko village, 75 km east of Lviv",
+      "publicTransport": "From Lviv by bus to Olesko village (1.5 hours), then 10 minutes walk to the castle",
+      "car": "From Lviv - 75 km via E40/M06 highway towards Ternopil, turn to Olesko (about 1 hour)",
+      "parking": "Free parking near the castle"
+    },
+    "directions_de": {
+      "general": "Im Dorf Olesko gelegen, 75 km östlich von Lemberg",
+      "publicTransport": "Von Lemberg mit dem Bus nach Olesko (1,5 Stunden), dann 10 Minuten zu Fuß zum Schloss",
+      "car": "Von Lemberg - 75 km über die E40/M06 Richtung Ternopil, Abzweigung nach Olesko (ca. 1 Stunde)",
+      "parking": "Kostenloser Parkplatz in der Nähe des Schlosses"
+    },
+    "nearbyAttractions": [
+      {
+        "name_uk": "Підгорецький замок",
+        "name_en": "Pidhirtsi Castle",
+        "distance": "15 km",
+        "type": "castle"
+      },
+      {
+        "name_uk": "Золочівський замок",
+        "name_en": "Zolochiv Castle",
+        "distance": "18 km",
+        "type": "castle"
+      },
+      {
+        "name_uk": "Свірзький замок",
+        "name_en": "Svirzh Castle",
+        "distance": "20 km",
+        "type": "castle"
+      }
+    ]
+  },
+
+  "contact": {
+    "phone": "+380 32 642 52 80",
+    "email": "olesko@lnagallery.org",
+    "website": "https://lviv.travel/en/places/attractions/oleskii-zamok",
+    "bookingUrl": null,
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/OleskoCastle/",
+      "instagram": "https://www.instagram.com/olesko_castle/",
+      "youtube": null
+    }
+  },
+
+  "visitingInformation": {
+    "openingTimes": {
+      "status_uk": "Відкрито цілий рік, крім понеділка",
+      "status_en": "Open year-round, except Monday",
+      "status_de": "Ganzjährig geöffnet, außer Montag",
+      "seasonal": [
+        {
+          "season_uk": "Цілий рік",
+          "season_en": "Year-round",
+          "season_de": "Ganzjährig",
+          "days_uk": "Вівторок-неділя",
+          "days_en": "Tuesday-Sunday",
+          "days_de": "Dienstag-Sonntag",
+          "hours": "11:00 - 16:00",
+          "lastAdmission": "15:45"
+        }
+      ]
+    },
+    "admissionPrices": {
+      "currency": "UAH",
+      "adult": 50,
+      "student": 30,
+      "child": 30,
+      "senior": 30,
+      "family": null,
+      "notes_uk": "Діти до 7 років - безкоштовно. Фотозйомка включена у вартість квитка",
+      "notes_en": "Children under 7 - free. Photography included in ticket price",
+      "notes_de": "Kinder unter 7 Jahren - kostenlos. Fotografie im Ticketpreis enthalten"
+    },
+    "tourOptions": [
+      {
+        "type_uk": "Самостійний огляд",
+        "type_en": "Self-guided tour",
+        "type_de": "Selbstgeführte Tour",
+        "duration_uk": "1-1,5 години",
+        "duration_en": "1-1.5 hours",
+        "duration_de": "1-1,5 Stunden",
+        "price": 0
+      },
+      {
+        "type_uk": "Екскурсія з гідом",
+        "type_en": "Guided tour",
+        "type_de": "Führung",
+        "duration_uk": "1 година",
+        "duration_en": "1 hour",
+        "duration_de": "1 Stunde",
+        "price": 200,
+        "groupSize": "до 20 осіб / up to 20 people / bis 20 Personen"
+      }
+    ],
+    "averageVisitDuration_uk": "1,5-2 години",
+    "averageVisitDuration_en": "1.5-2 hours",
+    "averageVisitDuration_de": "1,5-2 Stunden",
+    "busyPeriods_uk": ["Літні місяці (липень-серпень)", "Вихідні дні", "Свята"],
+    "busyPeriods_en": ["Summer months (July-August)", "Weekends", "Holidays"],
+    "busyPeriods_de": ["Sommermonate (Juli-August)", "Wochenenden", "Feiertage"],
+    "adviceForVisitors_uk": "Взуйте зручне взуття - територія замку має нерівну поверхню. Обов'язково відвідайте колекцію ікон та прогуляйтеся парком. Рекомендуємо поєднати відвідування з оглядом сусідніх замків - Підгорецького та Золочівського (маршрут 'Золота підкова Львівщини').",
+    "adviceForVisitors_en": "Wear comfortable shoes - the castle grounds have uneven surfaces. Be sure to visit the icon collection and walk through the park. We recommend combining the visit with viewing neighboring castles - Pidhirtsi and Zolochiv (route 'Golden Horseshoe of Lviv Region').",
+    "adviceForVisitors_de": "Tragen Sie bequeme Schuhe - das Schlossgelände hat unebene Oberflächen. Besuchen Sie unbedingt die Ikonensammlung und spazieren Sie durch den Park. Wir empfehlen, den Besuch mit der Besichtigung der benachbarten Schlösser - Pidhirtsi und Solotschew - zu kombinieren (Route 'Goldenes Hufeisen der Region Lemberg')."
+  },
+
+  "features": {
+    "highlights_uk": [
+      "Один із найстаріших замків України (XIII ст.)",
+      "Батьківщина короля Яна III Собеського",
+      "Видатна колекція українських ікон XVI-XVIII ст.",
+      "Художня галерея Львівської національної галереї мистецтв",
+      "Унікальні старовинні печі з художніми кахлями",
+      "Мальовничий ландшафтний парк XVIII століття",
+      "Історичний водозабірний колодязь",
+      "Експозиція вишивки та народного одягу",
+      "Ресторан з традиційною українською кухнею"
+    ],
+    "highlights_en": [
+      "One of the oldest castles in Ukraine (13th c.)",
+      "Birthplace of King Jan III Sobieski",
+      "Outstanding collection of Ukrainian icons 16th-18th c.",
+      "Art gallery of Lviv National Art Gallery",
+      "Unique ancient stoves with artistic tiles",
+      "Picturesque landscape park from the 18th century",
+      "Historical water well",
+      "Exhibition of embroidery and folk clothes",
+      "Restaurant with traditional Ukrainian cuisine"
+    ],
+    "highlights_de": [
+      "Eine der ältesten Burgen der Ukraine (13. Jh.)",
+      "Geburtsort von König Jan III. Sobieski",
+      "Herausragende Sammlung ukrainischer Ikonen 16.-18. Jh.",
+      "Kunstgalerie der Nationalen Kunstgalerie Lemberg",
+      "Einzigartige antike Öfen mit künstlerischen Fliesen",
+      "Malerischer Landschaftspark aus dem 18. Jahrhundert",
+      "Historischer Wasserbrunnen",
+      "Ausstellung von Stickereien und Volkstrachten",
+      "Restaurant mit traditioneller ukrainischer Küche"
+    ],
+    "facilities_uk": ["Музей", "Художня галерея", "Сувенірні магазини", "Ресторан", "Туалети", "Парковка (безкоштовна)", "Парк для прогулянок"],
+    "facilities_en": ["Museum", "Art gallery", "Gift shops", "Restaurant", "Toilets", "Parking (free)", "Walking park"],
+    "facilities_de": ["Museum", "Kunstgalerie", "Souvenirläden", "Restaurant", "Toiletten", "Parkplatz (kostenlos)", "Spazierpark"],
+    "accessibility": {
+      "wheelchairAccessible": false,
+      "notes_uk": "Замок має сходи та нерівну поверхню. Частково доступний для людей з обмеженими можливостями. Паркова територія доступна.",
+      "notes_en": "The castle has stairs and uneven surfaces. Partially accessible for people with disabilities. Park area is accessible.",
+      "notes_de": "Das Schloss hat Treppen und unebene Oberflächen. Teilweise zugänglich für Menschen mit Behinderungen. Der Parkbereich ist zugänglich."
+    },
+    "uniqueSellingPoints_uk": [
+      "Батьківщина польського короля Яна III Собеського - визволителя Відня",
+      "Одна з найкращих колекцій українських ікон в Україні",
+      "Філія Львівської національної галереї мистецтв",
+      "Компактний, але дуже мальовничий замок",
+      "Чудовий ресторан з традиційною кухнею",
+      "Частина маршруту 'Золота підкова Львівщини'"
+    ],
+    "uniqueSellingPoints_en": [
+      "Birthplace of Polish King Jan III Sobieski - liberator of Vienna",
+      "One of the best collections of Ukrainian icons in Ukraine",
+      "Branch of Lviv National Art Gallery",
+      "Compact but very picturesque castle",
+      "Excellent restaurant with traditional cuisine",
+      "Part of the route 'Golden Horseshoe of Lviv Region'"
+    ],
+    "uniqueSellingPoints_de": [
+      "Geburtsort des polnischen Königs Jan III. Sobieski - Befreier Wiens",
+      "Eine der besten Sammlungen ukrainischer Ikonen in der Ukraine",
+      "Filiale der Nationalen Kunstgalerie Lemberg",
+      "Kompaktes, aber sehr malerisches Schloss",
+      "Ausgezeichnetes Restaurant mit traditioneller Küche",
+      "Teil der Route 'Goldenes Hufeisen der Region Lemberg'"
+    ]
+  },
+
+  "images": {
+    "heroImage": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Olesko_Castle_general_view.jpg",
+      "alt_uk": "Олеський замок на пагорбі",
+      "alt_en": "Olesko Castle on the hill",
+      "alt_de": "Schloss Olesko auf dem Hügel",
+      "caption_uk": "Один із найстаріших замків України на скелястому пагорбі",
+      "caption_en": "One of the oldest castles in Ukraine on a rocky hill",
+      "caption_de": "Eine der ältesten Burgen der Ukraine auf einem felsigen Hügel"
+    },
+    "gallery": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Olesko_Castle_courtyard.jpg",
+        "alt_uk": "Внутрішній двір замку",
+        "alt_en": "Castle courtyard",
+        "alt_de": "Innenhof des Schlosses",
+        "caption_uk": "Двір замку з музейними експозиціями"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Olesko_icons_collection.jpg",
+        "alt_uk": "Колекція українських ікон",
+        "alt_en": "Collection of Ukrainian icons",
+        "alt_de": "Sammlung ukrainischer Ikonen",
+        "caption_uk": "Одна з найкращих колекцій українських ікон XVI-XVIII століть"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Olesko_Castle_park.jpg",
+        "alt_uk": "Парк навколо замку",
+        "alt_en": "Park around the castle",
+        "alt_de": "Park rund um das Schloss",
+        "caption_uk": "Мальовничий ландшафтний парк XVIII століття"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Olesko_ancient_stoves.jpg",
+        "alt_uk": "Старовинні печі",
+        "alt_en": "Ancient stoves",
+        "alt_de": "Antike Öfen",
+        "caption_uk": "Унікальні старовинні печі з художніми кахлями"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Olesko_panorama.jpg",
+        "alt_uk": "Панорама з замку",
+        "alt_en": "Panorama from the castle",
+        "alt_de": "Panorama vom Schloss",
+        "caption_uk": "Вид на долину з вершини замкового пагорба"
+      }
+    ]
+  },
+
+  "historicalData": {
+    "yearBuilt": "XIII-XIV ст.",
+    "yearBuiltNote_uk": "Перші укріплення XIII ст., кам'яний замок XIII-XIV ст.",
+    "yearBuiltNote_en": "First fortifications 13th c., stone castle 13th-14th c.",
+    "yearBuiltNote_de": "Erste Befestigungen 13. Jh., Steinburg 13.-14. Jh.",
+    "architecturalStyle_uk": "Готична архітектура з ренесансними та бароковими елементами",
+    "architecturalStyle_en": "Gothic architecture with Renaissance and Baroque elements",
+    "architecturalStyle_de": "Gotische Architektur mit Renaissance- und Barockelementen",
+    "architects": [
+      {
+        "name": "Невідомі галицькі майстри (Unknown Galician masters)",
+        "period": "XIII-XIV ст. / 13th-14th c. / 13.-14. Jh.",
+        "contribution_uk": "Будівництво кам'яного замку",
+        "contribution_en": "Construction of stone castle",
+        "contribution_de": "Bau der Steinburg"
+      }
+    ],
+    "unescoStatus": "none",
+    "unescoYear": null,
+    "nationalHeritageStatus": "Філія Львівської національної галереї мистецтв / Branch of Lviv National Art Gallery",
+    "referenceNumber": "1289",
+    "managedBy_uk": "Львівська національна галерея мистецтв імені Б.Г. Возницького",
+    "managedBy_en": "Lviv National Art Gallery named after B. G. Voznytsky",
+    "managedBy_de": "Nationale Kunstgalerie Lemberg benannt nach B. G. Woznyzkyj"
+  },
+
+  "culturalEvents": [
+    {
+      "name_uk": "День музею",
+      "name_en": "Museum Day",
+      "name_de": "Museumstag",
+      "period_uk": "Травень",
+      "period_en": "May",
+      "period_de": "Mai",
+      "description_uk": "Святкування Міжнародного дня музеїв з виставками та безкоштовним входом",
+      "description_en": "Celebration of International Museum Day with exhibitions and free admission",
+      "description_de": "Feier des Internationalen Museumstags mit Ausstellungen und freiem Eintritt"
+    },
+    {
+      "name_uk": "Виставки сучасного мистецтва",
+      "name_en": "Contemporary Art Exhibitions",
+      "name_de": "Ausstellungen zeitgenössischer Kunst",
+      "period_uk": "Протягом року",
+      "period_en": "Throughout the year",
+      "period_de": "Das ganze Jahr über",
+      "description_uk": "Регулярні виставки сучасних українських художників",
+      "description_en": "Regular exhibitions of contemporary Ukrainian artists",
+      "description_de": "Regelmäßige Ausstellungen zeitgenössischer ukrainischer Künstler"
+    }
+  ],
+
+  "tags": [
+    "castle",
+    "medieval",
+    "olesko",
+    "lviv-oblast",
+    "museum",
+    "art-gallery",
+    "architecture",
+    "history",
+    "icons",
+    "jan-sobieski",
+    "golden-horseshoe-lviv",
+    "tourism"
+  ],
+
+  "suitableFor_uk": [
+    "Любителі мистецтва",
+    "Любителі історії",
+    "Сімейні подорожі",
+    "Фотографи",
+    "Поціновувачі архітектури",
+    "Релігійного мистецтва любителі",
+    "Шкільні екскурсії"
+  ],
+  "suitableFor_en": [
+    "Art lovers",
+    "History enthusiasts",
+    "Family travel",
+    "Photographers",
+    "Architecture lovers",
+    "Religious art enthusiasts",
+    "School excursions"
+  ],
+  "suitableFor_de": [
+    "Kunstliebhaber",
+    "Geschichtsinteressierte",
+    "Familienreisen",
+    "Fotografen",
+    "Architekturliebhaber",
+    "Liebhaber religiöser Kunst",
+    "Schulausflüge"
+  ],
+
+  "weatherDependent": true,
+  "indoorActivities": true,
+  "outdoorActivities": true,
+
+  "priceRange": "$",
+  "rating": 4.5,
+  "reviewsCount": 2891,
+  "featured": true,
+  "status": "published",
+
+  "metaDescription_uk": "Олеський замок - один із найстаріших замків України (XIII ст.). Батьківщина короля Яна III Собеського. Філія Львівської галереї мистецтв. Колекція українських ікон XVI-XVIII ст.",
+  "metaDescription_en": "Olesko Castle - one of the oldest castles in Ukraine (13th c.). Birthplace of King Jan III Sobieski. Branch of Lviv Art Gallery. Collection of Ukrainian icons 16th-18th centuries.",
+  "metaDescription_de": "Schloss Olesko - eine der ältesten Burgen der Ukraine (13. Jh.). Geburtsort von König Jan III. Sobieski. Filiale der Kunstgalerie Lemberg. Sammlung ukrainischer Ikonen 16.-18. Jahrhundert.",
+
+  "keywords": [
+    "Олеський замок",
+    "Olesko Castle",
+    "Schloss Olesko",
+    "замок",
+    "castle",
+    "Олеськ",
+    "Olesko",
+    "Львівська область",
+    "Lviv Oblast",
+    "Ян III Собеський",
+    "Jan Sobieski",
+    "ікони",
+    "icons",
+    "музей",
+    "museum",
+    "галерея",
+    "gallery",
+    "туризм",
+    "tourism",
+    "Золота підкова",
+    "Golden Horseshoe"
+  ],
+
+  "lastUpdated": "2025-11-30",
+  "source": "Wikipedia, Lviv National Art Gallery, Tourism Sites, Historical Archives",
+  "verified": true
+}

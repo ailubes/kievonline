@@ -1,0 +1,405 @@
+{
+  "schemaVersion": "1.0",
+  "id": "kyiv-historic-center-podil",
+  "slug": "kyiv-historic-center-podil",
+
+  "name_uk": "Історичний центр Києва - Поділ",
+  "name_en": "Kyiv Historic Center - Podil",
+  "name_de": "Historisches Zentrum von Kiew - Podil",
+
+  "tagline_uk": "Найдавніший район Києва - колиска київського ремесла та торгівлі",
+  "tagline_en": "Kyiv's oldest district - the cradle of Kyiv crafts and trade",
+  "tagline_de": "Kiews ältester Bezirk - die Wiege des Kiewer Handwerks und Handels",
+
+  "category": "city",
+  "subcategories": ["historic-district", "cultural-heritage", "medieval-architecture"],
+  "region": "Kyiv",
+  "oblast": "Kyiv City",
+
+  "description_uk": {
+    "short": "Поділ — один з найстаріших районів Києва, розташований у низині біля Дніпра. Заснований у часи Київської Русі, район протягом століть був центром ремісництва, торгівлі та культурного життя столиці.",
+    "full": "Поділ є унікальним історичним районом Києва, що зберіг автентичну атмосферу старовинного міста. Розташований у низині між Дніпром та Старокиївською горою, Поділ з часів Київської Русі був населений ремісниками і торговцями. Саме тут формувалася міська культура столиці, тут кипіло торгове життя, працювали майстри різних професій.\n\nІсторія Подолу сягає X-XI століть, коли тут виникли перші поселення ремісників і купців. У середньовічні часи район стає торговельним і ремісничим центром міста. Кожна вулиця мала свою спеціалізацію - Гончарна, Різницька, Шевська. Архітектурний ансамбль Подолу формувався протягом століть і зберіг будівлі XVII-XIX століть.\n\nСьогодні Поділ - це поєднання історичної спадщини та сучасного міського життя. Тут розташовані старовинні церкви, зокрема відома Контрактова площа - серце Подолу, де з XVIII століття проводилися ярмарки та укладалися торгові контракти. Вулиці Подолу зберегли бруківку та атмосферу старого Києва.",
+    "history": "Перші поселення на Подолі виникли ще за часів Київської Русі у X-XI століттях. Назва 'Поділ' походить від слова 'долина', оскільки район розташований у низині біля Дніпра. У середньовічний період Поділ був населений переважно ремісниками та купцями, тут працювали гончарі, ковалі, шевці, різники.\n\nУ 1070 році літопис вперше згадує Поділ у зв'язку з великою пожежею. Протягом століть район неодноразово страждав від пожеж та повеней, але щоразу відбудовувався. У XVII столітті Поділ отримує Магдебурзьке право, що сприяє його економічному розвитку.\n\nОсобливе значення Поділ набуває у XVIII-XIX століттях як торгово-промисловий центр. Контрактова площа стає місцем проведення масштабних ярмарків, куди з'їжджалися купці з усієї Російської імперії. У цей час формується сучасний архітектурний вигляд району з будівлями у стилі класицизму та модерну.",
+    "significance": "Поділ є унікальною пам'яткою міської культури України, що зберегла автентичну планувальну структуру середньовічного міста. Район демонструє еволюцію київської архітектури від часів Київської Русі до початку XX століття. Тут збереглися унікальні зразки цивільної та культової архітектури, що відображають різні історичні епохи. Поділ внесений до попереднього списку об'єктів Всесвітньої спадщини ЮНЕСКО як частина історичного центру Києва разом з Софійським собором та Києво-Печерською лаврою."
+  },
+
+  "description_en": {
+    "short": "Podil is one of Kyiv's oldest districts, located in the lowlands near the Dnipro River. Founded during Kievan Rus times, for centuries the district has been the center of crafts, trade, and cultural life of the capital.",
+    "full": "Podil is a unique historic district of Kyiv that has preserved the authentic atmosphere of an old city. Located in the lowlands between the Dnipro and Old Kyiv Hill, since Kievan Rus times Podil has been populated by craftsmen and merchants. It was here that the urban culture of the capital was formed, trade life flourished, and masters of various professions worked.\n\nThe history of Podil dates back to the 10th-11th centuries when the first settlements of craftsmen and merchants emerged here. In medieval times, the district became the trade and craft center of the city. Each street had its specialization - Pottery, Butcher, Shoemaker streets. The architectural ensemble of Podil was formed over centuries and has preserved buildings from the 17th-19th centuries.\n\nToday, Podil is a combination of historical heritage and modern urban life. Ancient churches are located here, including the famous Kontraktova Square - the heart of Podil, where fairs were held and trade contracts were signed since the 18th century. The streets of Podil have preserved cobblestones and the atmosphere of old Kyiv.",
+    "history": "The first settlements in Podil emerged during Kievan Rus times in the 10th-11th centuries. The name 'Podil' comes from the word 'valley' as the district is located in the lowlands near the Dnipro. In the medieval period, Podil was populated mainly by craftsmen and merchants, potters, blacksmiths, shoemakers, and butchers worked here.\n\nIn 1070, chronicles first mention Podil in connection with a great fire. Over the centuries, the district repeatedly suffered from fires and floods but was rebuilt each time. In the 17th century, Podil received Magdeburg rights, which contributed to its economic development.\n\nPodil gained special significance in the 18th-19th centuries as a trade and industrial center. Kontraktova Square became a venue for large-scale fairs where merchants from all over the Russian Empire gathered. During this time, the modern architectural appearance of the district was formed with buildings in classicism and Art Nouveau styles.",
+    "significance": "Podil is a unique monument of Ukrainian urban culture that has preserved the authentic planning structure of a medieval city. The district demonstrates the evolution of Kyiv architecture from Kievan Rus times to the early 20th century. Unique examples of civil and religious architecture reflecting different historical epochs have been preserved here. Podil is included in the UNESCO World Heritage tentative list as part of Kyiv's historic center along with St. Sophia Cathedral and Kyiv-Pechersk Lavra."
+  },
+
+  "description_de": {
+    "short": "Podil ist einer der ältesten Bezirke Kiews, gelegen im Tiefland nahe dem Dnipro. Gegründet während der Kiewer Rus, war der Bezirk jahrhundertelang das Zentrum des Handwerks, Handels und kulturellen Lebens der Hauptstadt.",
+    "full": "Podil ist ein einzigartiges historisches Viertel von Kiew, das die authentische Atmosphäre einer alten Stadt bewahrt hat. Gelegen im Tiefland zwischen dem Dnipro und dem Alten Kiewer Hügel, war Podil seit der Zeit der Kiewer Rus von Handwerkern und Kaufleuten besiedelt. Hier bildete sich die städtische Kultur der Hauptstadt, hier blühte das Handelsleben, hier arbeiteten Meister verschiedener Berufe.\n\nDie Geschichte von Podil reicht bis ins 10.-11. Jahrhundert zurück, als hier die ersten Siedlungen von Handwerkern und Kaufleuten entstanden. In mittelalterlichen Zeiten wurde der Bezirk zum Handels- und Handwerkszentrum der Stadt. Jede Straße hatte ihre Spezialisierung - Töpfer-, Metzger-, Schustergasse. Das architektonische Ensemble von Podil wurde über Jahrhunderte geformt und hat Gebäude aus dem 17.-19. Jahrhundert bewahrt.\n\nHeute ist Podil eine Kombination aus historischem Erbe und modernem städtischem Leben. Hier befinden sich alte Kirchen, darunter der berühmte Kontrakt-Platz - das Herz von Podil, wo seit dem 18. Jahrhundert Messen abgehalten und Handelsverträge unterzeichnet wurden. Die Straßen von Podil haben das Kopfsteinpflaster und die Atmosphäre des alten Kiew bewahrt.",
+    "history": "Die ersten Siedlungen in Podil entstanden während der Kiewer Rus im 10.-11. Jahrhundert. Der Name 'Podil' kommt vom Wort 'Tal', da der Bezirk im Tiefland nahe dem Dnipro liegt. In der mittelalterlichen Periode war Podil hauptsächlich von Handwerkern und Kaufleuten besiedelt, hier arbeiteten Töpfer, Schmiede, Schuster und Metzger.\n\nIm Jahr 1070 erwähnen die Chroniken Podil erstmals im Zusammenhang mit einem großen Brand. Über die Jahrhunderte litt der Bezirk wiederholt unter Bränden und Überschwemmungen, wurde aber jedes Mal wieder aufgebaut. Im 17. Jahrhundert erhielt Podil das Magdeburger Recht, was zu seiner wirtschaftlichen Entwicklung beitrug.",
+    "significance": "Podil ist ein einzigartiges Denkmal der ukrainischen Stadtkultur, das die authentische Planungsstruktur einer mittelalterlichen Stadt bewahrt hat. Der Bezirk demonstriert die Evolution der Kiewer Architektur von der Zeit der Kiewer Rus bis zum frühen 20. Jahrhundert. Hier sind einzigartige Beispiele der Zivil- und Sakralarchitektur erhalten, die verschiedene historische Epochen widerspiegeln."
+  },
+
+  "location": {
+    "city": "Kyiv",
+    "region": "Kyiv City",
+    "address_uk": "Поділ, Київ, Україна",
+    "address_en": "Podil District, Kyiv, Ukraine",
+    "address_de": "Podil-Bezirk, Kiew, Ukraine",
+    "coordinates": {
+      "latitude": 50.46333,
+      "longitude": 30.51583
+    },
+    "directions_uk": {
+      "general": "Розташований у північній частині центру Києва, на березі Дніпра",
+      "publicTransport": "Метро: станція 'Контрактова площа' (зелена лінія), станція 'Поштова площа' (зелена лінія). Численні автобуси та тролейбуси до Контрактової площі",
+      "car": "З центру Києва - по вулиці Хрещатик до Майдану Незалежності, далі по Європейській площі та Андріївському узвозу. Паркування обмежене в історичній частині",
+      "parking": "Платні паркінги на Контрактовій площі та прилеглих вулицях"
+    },
+    "directions_en": {
+      "general": "Located in the northern part of central Kyiv, on the Dnipro riverbank",
+      "publicTransport": "Metro: 'Kontraktova Ploshcha' station (green line), 'Poshtova Ploshcha' station (green line). Numerous buses and trolleybuses to Kontraktova Square",
+      "car": "From Kyiv center - via Khreshchatyk Street to Independence Square, then via European Square and Andriyivsky Descent. Limited parking in historic area",
+      "parking": "Paid parking at Kontraktova Square and adjacent streets"
+    },
+    "directions_de": {
+      "general": "Im nördlichen Teil des Zentrums von Kiew gelegen, am Ufer des Dnipro",
+      "publicTransport": "Metro: Station 'Kontraktova Ploshcha' (grüne Linie), Station 'Poshtova Ploshcha' (grüne Linie). Zahlreiche Busse und Trolleybusse zum Kontrakt-Platz",
+      "car": "Vom Kiewer Zentrum - über die Khreshchatyk-Straße zum Unabhängigkeitsplatz, dann über den Europäischen Platz und den Andriyivsky-Abstieg. Begrenzte Parkplätze im historischen Bereich",
+      "parking": "Kostenpflichtige Parkplätze am Kontrakt-Platz und angrenzenden Straßen"
+    },
+    "nearbyAttractions": [
+      {
+        "name_uk": "Андріївська церква",
+        "name_en": "St. Andrew's Church",
+        "distance": "0.8 km",
+        "type": "church"
+      },
+      {
+        "name_uk": "Софійський собор",
+        "name_en": "St. Sophia Cathedral",
+        "distance": "1.2 km",
+        "type": "unesco"
+      },
+      {
+        "name_uk": "Київо-Печерська лавра",
+        "name_en": "Kyiv-Pechersk Lavra",
+        "distance": "3.5 km",
+        "type": "monastery"
+      }
+    ]
+  },
+
+  "contact": {
+    "phone": "+380 44 425 23 23",
+    "email": "info@kyivcity.gov.ua",
+    "website": "https://kyivcity.gov.ua",
+    "bookingUrl": null,
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/KyivCityOfficial",
+      "instagram": "https://www.instagram.com/kyivcity_official/",
+      "twitter": null,
+      "youtube": "https://www.youtube.com/@KyivCityOfficial"
+    }
+  },
+
+  "visitingInformation": {
+    "openingTimes": {
+      "status_uk": "Відкрито цілий рік",
+      "status_en": "Open year-round",
+      "status_de": "Ganzjährig geöffnet",
+      "seasonal": [
+        {
+          "season_uk": "Цілий рік",
+          "season_en": "Year-round",
+          "season_de": "Ganzjährig",
+          "days_uk": "Щодня",
+          "days_en": "Daily",
+          "days_de": "Täglich",
+          "hours": "24/7",
+          "lastAdmission": null
+        }
+      ]
+    },
+    "admissionPrices": {
+      "currency": "UAH",
+      "adult": 0,
+      "student": 0,
+      "child": 0,
+      "senior": 0,
+      "family": 0,
+      "notes_uk": "Вільний доступ до вулиць та площ. Окремі музеї та атракції мають власні ціни на вхід",
+      "notes_en": "Free access to streets and squares. Individual museums and attractions have their own admission prices",
+      "notes_de": "Freier Zugang zu Straßen und Plätzen. Einzelne Museen und Attraktionen haben eigene Eintrittspreise"
+    },
+    "tourOptions": [
+      {
+        "type_uk": "Самостійна прогулянка",
+        "type_en": "Self-guided walk",
+        "type_de": "Selbstgeführter Spaziergang",
+        "duration_uk": "2-3 години",
+        "duration_en": "2-3 hours",
+        "duration_de": "2-3 Stunden",
+        "price": 0
+      },
+      {
+        "type_uk": "Екскурсія з гідом українською",
+        "type_en": "Guided tour in Ukrainian",
+        "type_de": "Führung auf Ukrainisch",
+        "duration_uk": "2 години",
+        "duration_en": "2 hours",
+        "duration_de": "2 Stunden",
+        "price": 500,
+        "groupSize": "до 15 осіб / up to 15 people / bis 15 Personen"
+      },
+      {
+        "type_uk": "Екскурсія англійською/німецькою",
+        "type_en": "Guided tour in English/German",
+        "type_de": "Führung auf Englisch/Deutsch",
+        "duration_uk": "2 години",
+        "duration_en": "2 hours",
+        "duration_de": "2 Stunden",
+        "price": 800,
+        "groupSize": "до 15 осіб / up to 15 people / bis 15 Personen"
+      }
+    ],
+    "averageVisitDuration_uk": "2-4 години",
+    "averageVisitDuration_en": "2-4 hours",
+    "averageVisitDuration_de": "2-4 Stunden",
+    "busyPeriods_uk": ["Вихідні дні", "Літні місяці (травень-вересень)", "День Києва (останні вихідні травня)", "Національні свята"],
+    "busyPeriods_en": ["Weekends", "Summer months (May-September)", "Kyiv Day (last weekend of May)", "National holidays"],
+    "busyPeriods_de": ["Wochenenden", "Sommermonate (Mai-September)", "Kiewer Tag (letztes Wochenende im Mai)", "Nationale Feiertage"],
+    "adviceForVisitors_uk": "Взуйте зручне взуття для ходіння по бруківці. Відвідайте Контрактову площу - серце Подолу. Спробуйте традиційну українську кухню в місцевих ресторанах. Рекомендуємо відвідати Гончарі - вулицю з крамницями народних промислів.",
+    "adviceForVisitors_en": "Wear comfortable shoes for walking on cobblestones. Visit Kontraktova Square - the heart of Podil. Try traditional Ukrainian cuisine in local restaurants. We recommend visiting Gonchary Street with folk craft shops.",
+    "adviceForVisitors_de": "Tragen Sie bequeme Schuhe zum Gehen auf Kopfsteinpflaster. Besuchen Sie den Kontrakt-Platz - das Herz von Podil. Probieren Sie traditionelle ukrainische Küche in lokalen Restaurants. Wir empfehlen einen Besuch der Gonchary-Straße mit Volkskunstgeschäften."
+  },
+
+  "features": {
+    "highlights_uk": [
+      "Контрактова площа - історичний торговельний центр Києва",
+      "Автентична забудова XVIII-XIX століть",
+      "Старовинні вулиці з бруківкою",
+      "Церкви та монастирі різних епох",
+      "Музей однієї вулиці",
+      "Гончарі - вулиця народних промислів",
+      "Атмосферні кав'ярні та ресторани"
+    ],
+    "highlights_en": [
+      "Kontraktova Square - Kyiv's historic trade center",
+      "Authentic 18th-19th century architecture",
+      "Ancient cobblestone streets",
+      "Churches and monasteries from different epochs",
+      "Museum of One Street",
+      "Gonchary - folk crafts street",
+      "Atmospheric cafes and restaurants"
+    ],
+    "highlights_de": [
+      "Kontrakt-Platz - Kiews historisches Handelszentrum",
+      "Authentische Architektur des 18.-19. Jahrhunderts",
+      "Alte Kopfsteinpflasterstraßen",
+      "Kirchen und Klöster aus verschiedenen Epochen",
+      "Museum einer Straße",
+      "Gonchary - Volkskunststraße",
+      "Atmosphärische Cafés und Restaurants"
+    ],
+    "facilities_uk": ["Ресторани та кафе", "Сувенірні крамниці", "Музеї", "Паркінг", "Громадський транспорт", "Wi-Fi в закладах"],
+    "facilities_en": ["Restaurants and cafes", "Souvenir shops", "Museums", "Parking", "Public transport", "Wi-Fi in establishments"],
+    "facilities_de": ["Restaurants und Cafés", "Souvenirläden", "Museen", "Parkplatz", "Öffentliche Verkehrsmittel", "WLAN in Einrichtungen"],
+    "accessibility": {
+      "wheelchairAccessible": false,
+      "notes_uk": "Старовинні вулиці з бруківкою та сходами ускладнюють доступ для інвалідних візків. Деякі музеї та заклади мають пандуси",
+      "notes_en": "Ancient cobblestone streets and stairs make wheelchair access difficult. Some museums and establishments have ramps",
+      "notes_de": "Alte Kopfsteinpflasterstraßen und Treppen erschweren den Rollstuhlzugang. Einige Museen und Einrichtungen haben Rampen"
+    },
+    "uniqueSellingPoints_uk": [
+      "Найстаріший житловий район Києва",
+      "Збережена середньовічна планувальна структура",
+      "Унікальна архітектура різних епох",
+      "Центр богемного життя сучасного Києва",
+      "Автентична атмосфера старого міста"
+    ],
+    "uniqueSellingPoints_en": [
+      "Kyiv's oldest residential district",
+      "Preserved medieval planning structure",
+      "Unique architecture from different epochs",
+      "Center of bohemian life in modern Kyiv",
+      "Authentic old city atmosphere"
+    ],
+    "uniqueSellingPoints_de": [
+      "Kiews ältestes Wohnviertel",
+      "Erhaltene mittelalterliche Planungsstruktur",
+      "Einzigartige Architektur aus verschiedenen Epochen",
+      "Zentrum des Bohème-Lebens im modernen Kiew",
+      "Authentische Altstadt-Atmosphäre"
+    ]
+  },
+
+  "images": {
+    "heroImage": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Podil_Kyiv_Ukraine.jpg/1920px-Podil_Kyiv_Ukraine.jpg",
+      "alt_uk": "Історичний район Поділ у Києві",
+      "alt_en": "Historic Podil district in Kyiv",
+      "alt_de": "Historischer Podil-Bezirk in Kiew",
+      "caption_uk": "Вид на історичний Поділ з його старовинними вулицями та Контрактовою площею",
+      "caption_en": "View of historic Podil with its ancient streets and Kontraktova Square",
+      "caption_de": "Blick auf das historische Podil mit seinen alten Straßen und dem Kontrakt-Platz"
+    },
+    "gallery": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Kontraktova_Square_Kyiv_2021.jpg/1920px-Kontraktova_Square_Kyiv_2021.jpg",
+        "alt_uk": "Контрактова площа - серце Подолу",
+        "alt_en": "Kontraktova Square - heart of Podil",
+        "alt_de": "Kontrakt-Platz - Herz von Podil",
+        "caption_uk": "Контрактова площа - історичний торговельний центр з XVIII століття"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Andriyivsky_Descent_Kyiv.jpg/1920px-Andriyivsky_Descent_Kyiv.jpg",
+        "alt_uk": "Андріївський узвіз",
+        "alt_en": "Andriyivsky Descent",
+        "alt_de": "Andriyivsky-Abstieg",
+        "caption_uk": "Андріївський узвіз - мальовнича вулиця, що з'єднує Поділ з Верхнім містом"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/St_Elias_Church_Kyiv.jpg/1920px-St_Elias_Church_Kyiv.jpg",
+        "alt_uk": "Іллінська церква на Подолі",
+        "alt_en": "St. Elias Church in Podil",
+        "alt_de": "St. Elias-Kirche in Podil",
+        "caption_uk": "Іллінська церква - одна з найстаріших церков Подолу"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Podil_historic_street.jpg/1920px-Podil_historic_street.jpg",
+        "alt_uk": "Старовинна вулиця Подолу",
+        "alt_en": "Historic street of Podil",
+        "alt_de": "Historische Straße von Podil",
+        "caption_uk": "Автентична забудова XIX століття на вулицях Подолу"
+      }
+    ]
+  },
+
+  "historicalData": {
+    "yearBuilt": "X-XI століття / 10th-11th century / 10.-11. Jahrhundert",
+    "yearBuiltNote_uk": "Перші поселення виникли за часів Київської Русі",
+    "yearBuiltNote_en": "First settlements emerged during Kievan Rus times",
+    "yearBuiltNote_de": "Erste Siedlungen entstanden während der Kiewer Rus",
+    "architecturalStyle_uk": "Середньовічна планувальна структура, класицизм, модерн, еклектика",
+    "architecturalStyle_en": "Medieval planning structure, Classicism, Art Nouveau, Eclecticism",
+    "architecturalStyle_de": "Mittelalterliche Planungsstruktur, Klassizismus, Jugendstil, Eklektizismus",
+    "architects": [
+      {
+        "name": "Різні майстри / Various masters / Verschiedene Meister",
+        "period": "X-XX ст. / 10th-20th c. / 10.-20. Jh.",
+        "contribution_uk": "Формування архітектурного ансамблю району протягом століть",
+        "contribution_en": "Formation of the district's architectural ensemble over centuries",
+        "contribution_de": "Bildung des architektonischen Ensembles des Bezirks über Jahrhunderte"
+      }
+    ],
+    "unescoStatus": "tentative",
+    "unescoYear": 2007,
+    "nationalHeritageStatus": "National Monument of Significance",
+    "referenceNumber": "100001",
+    "managedBy_uk": "Київська міська державна адміністрація",
+    "managedBy_en": "Kyiv City State Administration",
+    "managedBy_de": "Kiewer Stadtverwaltung"
+  },
+
+  "culturalEvents": [
+    {
+      "name_uk": "День Києва",
+      "name_en": "Kyiv Day",
+      "name_de": "Kiewer Tag",
+      "period_uk": "Останні вихідні травня",
+      "period_en": "Last weekend of May",
+      "period_de": "Letztes Wochenende im Mai",
+      "description_uk": "Масштабне святкування Дня міста з концертами, ярмарками та народними гуляннями на Подолі",
+      "description_en": "Large-scale City Day celebration with concerts, fairs and folk festivities in Podil",
+      "description_de": "Großangelegte Stadttag-Feier mit Konzerten, Messen und Volksfesten in Podil"
+    },
+    {
+      "name_uk": "Контрактові музичні вечори",
+      "name_en": "Contract Musical Evenings",
+      "name_de": "Kontrakt-Musikabende",
+      "period_uk": "Літні місяці",
+      "period_en": "Summer months",
+      "period_de": "Sommermonate",
+      "description_uk": "Класичні концерти просто неба на Контрактовій площі",
+      "description_en": "Open-air classical concerts at Kontraktova Square",
+      "description_de": "Open-Air-Klassikkonzerte am Kontrakt-Platz"
+    }
+  ],
+
+  "tags": [
+    "city",
+    "historic-district",
+    "podil",
+    "kyiv",
+    "unesco-tentative",
+    "medieval",
+    "architecture",
+    "culture",
+    "tourism",
+    "heritage",
+    "kontraktova-square",
+    "old-town",
+    "crafts",
+    "trade"
+  ],
+
+  "suitableFor_uk": [
+    "Любителі історії",
+    "Шанувальники архітектури",
+    "Сімейні подорожі",
+    "Фотографи",
+    "Поціновувачі міської культури",
+    "Гурмани"
+  ],
+  "suitableFor_en": [
+    "History enthusiasts",
+    "Architecture lovers",
+    "Family travel",
+    "Photographers",
+    "Urban culture appreciators",
+    "Foodies"
+  ],
+  "suitableFor_de": [
+    "Geschichtsinteressierte",
+    "Architekturliebhaber",
+    "Familienreisen",
+    "Fotografen",
+    "Stadtkultur-Liebhaber",
+    "Feinschmecker"
+  ],
+
+  "weatherDependent": false,
+  "indoorActivities": true,
+  "outdoorActivities": true,
+
+  "priceRange": "$",
+  "rating": 4.7,
+  "reviewsCount": 8542,
+  "featured": true,
+  "status": "published",
+
+  "metaDescription_uk": "Поділ - найстаріший історичний район Києва. Середньовічна планувальна структура, автентична архітектура XVIII-XIX століть, Контрактова площа. Кандидат ЮНЕСКО.",
+  "metaDescription_en": "Podil - Kyiv's oldest historic district. Medieval planning structure, authentic 18th-19th century architecture, Kontraktova Square. UNESCO tentative list.",
+  "metaDescription_de": "Podil - Kiews ältester historischer Bezirk. Mittelalterliche Planungsstruktur, authentische Architektur des 18.-19. Jahrhunderts, Kontrakt-Platz. UNESCO-Tentativliste.",
+
+  "keywords": [
+    "Поділ",
+    "Podil",
+    "Київ",
+    "Kyiv",
+    "Kiew",
+    "історичний район",
+    "historic district",
+    "historischer Bezirk",
+    "Контрактова площа",
+    "Kontraktova Square",
+    "ЮНЕСКО",
+    "UNESCO",
+    "середньовіччя",
+    "medieval",
+    "туризм",
+    "tourism"
+  ],
+
+  "lastUpdated": "2025-11-30",
+  "source": "UNESCO, Wikipedia, Official Tourism Sites, Visit Ukraine",
+  "verified": true
+}

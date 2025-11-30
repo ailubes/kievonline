@@ -1,0 +1,337 @@
+{
+  "id": "dominican-cathedral-lviv",
+  "slug": "dominican-cathedral-lviv",
+  "name_uk": "Домініканський собор",
+  "name_en": "Dominican Cathedral",
+  "name_de": "Dominikanerkathedrale",
+
+  "tagline_uk": "Барокова перлина Львова з чудесною іконою Богородиці",
+  "tagline_en": "Baroque pearl of Lviv with miraculous icon of the Blessed Virgin Mary",
+  "tagline_de": "Barocke Perle von Lemberg mit wundertätiger Ikone der Muttergottes",
+
+  "category": "monastery",
+  "subcategories": ["baroque", "catholic-church", "greek-catholic", "historical-monument"],
+  "region": "Lviv",
+  "oblast": "Lviv Oblast",
+
+  "description_uk": {
+    "short": "Домініканський костел і монастир у Львові — видатна пам'ятка барокової архітектури. Побудований у 1749-1764 роках, сьогодні служить Греко-Католицькою церквою Святої Євхаристії.",
+    "full": "Домініканський костел і монастир розташований у Старому місті Львова, на схід від ринкової площі. Побудований як римо-католицький костел Божого Тіла, сьогодні служить Греко-Католицькою церквою Святої Євхаристії.\n\nОрден Домініканців вперше прибув до Львова у XIII столітті, і перша дерев'яна церква, як кажуть, була побудована у 1234 році в Низькому замку. Готична церква на нинішньому місці була побудована у 1378 році і пізніше відбудована після пожежі у 1407 році разом із монастирськими будівлями.\n\nУ 1749 році Юзеф Потоцький заклав наріжний камінь для нинішнього барокового костелу. Між 1756 і 1761 роками Миколай Базилі Потоцький пожертвував 236 000 злотих на костел і домініканський монастир у Львові. Ці пожертви профінансували каплицю Потоцьких у костелі.\n\nКостел було освячено у 1764 році латинським архієпископом Львова ВацлавомІєронімом Сераковським. Домініканці змогли пережити правління австрійського імператора Йосифа II, який закрив багато інших монастирів.",
+    "history": "Орден Домініканців вперше прибув до Львова у 13 столітті. Перша дерев'яна церква була побудована у 1234 році. Готична церква на нинішньому місці була зведена у 1378 році.\n\nПротягом 16 століття комплекс постраждав від кількох пожеж, але продовжував поступово зростати у процвітанні. У 18 столітті стеля церкви почала тріскатися і було вирішено розібрати церкву та замінити її новою.\n\nУ 1749 році Юзеф Потоцький заклав наріжний камінь для сучасного барокового костелу. Костел було освячено у 1764 році. У 1865 році до комплексу було додано необарокову дзвіницю.\n\nПісля Другої світової війни комплекс був окупований радянською владою, використовувався як склад, а в 1970-х роках перетворений на музей релігії та атеїзму. З розпадом Радянського Союзу костел був переданий Українській Греко-Католицькій Церкві і тепер служить парафіяльним костелом.",
+    "significance": "Домініканський собор є видатною пам'яткою барокової архітектури Львова. Костел нагадує Карлскірхе у Відні і побудований за планом грецького хреста, вписаного в еліпсоїд і увінчаного монументальним куполом. До 1946 року костел містив чудотворну ікону Пресвятої Богородиці, коронована Папою Бенедиктом XIV у 1751 році."
+  },
+
+  "description_en": {
+    "short": "The Dominican Church and Monastery in Lviv is an outstanding monument of Baroque architecture. Built 1749-1764, today it serves as the Greek Catholic Church of the Holy Eucharist.",
+    "full": "The Dominican Church and Monastery is located in Lviv's Old Town, east of the market square. Originally built as the Roman Catholic Church of Corpus Christi, today it serves as the Greek Catholic Church of the Holy Eucharist.\n\nThe Dominican Order first arrived in Lviv during the 13th century and the first wooden church is said to have been built in 1234 within the Low Castle. A new Gothic church was built on the present site in 1378 and later rebuilt after a fire in 1407 along with the monastery buildings.\n\nIn 1749, Józef Potocki laid the cornerstone for the present day Baroque church. Between 1756 and 1761, Mikołaj Bazyli Potocki donated 236,000 złoty to the church and the Dominican monastery in Lviv. The church was consecrated in 1764 by the Latin archbishop of Lviv.\n\nThe Dominicans managed to survive the reign of Austrian emperor Joseph II, who closed many other monasteries. After World War II, the complex was occupied by the Soviets, used as a warehouse, and in the 1970s changed into a museum of religion and atheism. With the collapse of the Soviet Union, the church was given to the Ukrainian Greek Catholic Church.",
+    "history": "The Dominican Order first arrived in Lviv during the 13th century. The first wooden church was built in 1234. A Gothic church on the present site was erected in 1378.\n\nDuring the 16th century, the complex was ravaged by several fires but continued to rise in prosperity. In the 18th century, the church's ceiling started cracking and it was decided to take the church apart and replace it with a new one.\n\nIn 1749, Józef Potocki laid the cornerstone for the present day Baroque church. The church was consecrated in 1764. In 1865, a neo-baroque bell tower was added to the complex.\n\nAfter World War II, the complex was occupied by the Soviets and used as a warehouse, later becoming a museum of religion and atheism. With the collapse of the Soviet Union, the church was given to the Ukrainian Greek Catholic Church and now serves as a parish church.",
+    "significance": "The Dominican Cathedral is an outstanding monument of Lviv's Baroque architecture. The church resembles the Karlskirche in Vienna and is built on the plan of the Greek Cross inscribed in an ellipsoid and topped with a monumental dome. Before 1946, the church contained a miraculous icon of the Blessed Virgin Mary, crowned by Pope Benedict XIV in 1751."
+  },
+
+  "description_de": {
+    "short": "Die Dominikanerkirche und das Kloster in Lemberg sind ein herausragendes Denkmal barocker Architektur. Erbaut 1749-1764, dient es heute als griechisch-katholische Kirche der Heiligen Eucharistie.",
+    "full": "Die Dominikanerkirche und das Kloster befinden sich in der Altstadt von Lemberg, östlich des Marktplatzes. Ursprünglich als römisch-katholische Fronleichnamskirche erbaut, dient sie heute als griechisch-katholische Kirche der Heiligen Eucharistie.\n\nDer Dominikanerorden kam erstmals im 13. Jahrhundert nach Lemberg und die erste Holzkirche soll 1234 in der Niederburg erbaut worden sein. Eine gotische Kirche am heutigen Standort wurde 1378 erbaut.\n\nIm Jahr 1749 legte Józef Potocki den Grundstein für die heutige Barockkirche. Die Kirche wurde 1764 geweiht. Nach dem Zweiten Weltkrieg wurde der Komplex von den Sowjets besetzt und als Lager genutzt, später wurde er in ein Museum für Religion und Atheismus umgewandelt.",
+    "history": "Der Dominikanerorden kam erstmals im 13. Jahrhundert nach Lemberg. Die erste Holzkirche wurde 1234 erbaut. Eine gotische Kirche am heutigen Standort wurde 1378 errichtet.",
+    "significance": "Die Dominikanerkathedrale ist ein herausragendes Denkmal der barocken Architektur von Lemberg. Die Kirche ähnelt der Karlskirche in Wien und ist nach dem Plan des griechischen Kreuzes erbaut."
+  },
+
+  "location": {
+    "city": "Lviv",
+    "region": "Lviv Oblast",
+    "address_uk": "пл. Музейна, 1, Львів, 79000",
+    "address_en": "1 Muzeyna Square, Lviv, 79000",
+    "address_de": "Museumsplatz 1, Lemberg, 79000",
+    "coordinates": {
+      "latitude": 49.84278,
+      "longitude": 24.03417
+    },
+    "directions_uk": {
+      "general": "Розташований у Старому місті Львова, на схід від ринкової площі",
+      "publicTransport": "Трамваєм або автобусом до центру міста, далі пішки 5 хвилин",
+      "car": "Обмежений доступ для автомобілів у Старому місті",
+      "parking": "Платні паркінги поблизу Ринкової площі"
+    },
+    "directions_en": {
+      "general": "Located in Lviv's Old Town, east of the market square",
+      "publicTransport": "Tram or bus to city center, then 5 minutes walk",
+      "car": "Limited car access in Old Town",
+      "parking": "Paid parking near Rynok Square"
+    },
+    "directions_de": {
+      "general": "In der Altstadt von Lemberg gelegen, östlich des Marktplatzes",
+      "publicTransport": "Straßenbahn oder Bus zum Stadtzentrum, dann 5 Minuten zu Fuß",
+      "car": "Begrenzter Autozugang in der Altstadt",
+      "parking": "Bezahlte Parkplätze in der Nähe des Rynok-Platzes"
+    },
+    "nearbyAttractions": [
+      {
+        "name_uk": "Ринкова площа",
+        "name_en": "Rynok Square",
+        "distance": "0.3 km",
+        "type": "historic-square"
+      },
+      {
+        "name_uk": "Вірменський собор",
+        "name_en": "Armenian Cathedral",
+        "distance": "0.2 km",
+        "type": "church"
+      },
+      {
+        "name_uk": "Латинська катедра",
+        "name_en": "Latin Cathedral",
+        "distance": "0.4 km",
+        "type": "cathedral"
+      }
+    ]
+  },
+
+  "contact": {
+    "phone": "+380 32 297-23-45",
+    "email": "dominicans.lviv@ugcc.org.ua",
+    "website": null,
+    "bookingUrl": null,
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/DominicanCathedralLviv",
+      "instagram": null,
+      "youtube": null
+    }
+  },
+
+  "visitingInformation": {
+    "openingTimes": {
+      "status_uk": "Відкрито цілий рік",
+      "status_en": "Open year-round",
+      "status_de": "Ganzjährig geöffnet",
+      "seasonal": [
+        {
+          "season_uk": "Цілий рік",
+          "season_en": "Year-round",
+          "season_de": "Ganzjährig",
+          "days_uk": "Щодня",
+          "days_en": "Daily",
+          "days_de": "Täglich",
+          "hours": "08:00 - 18:00",
+          "lastAdmission": "17:45"
+        }
+      ]
+    },
+    "admissionPrices": {
+      "currency": "UAH",
+      "adult": 0,
+      "student": 0,
+      "child": 0,
+      "senior": 0,
+      "family": 0,
+      "notes_uk": "Вхід безкоштовний. Пожертви вітаються",
+      "notes_en": "Free entrance. Donations welcome",
+      "notes_de": "Freier Eintritt. Spenden willkommen"
+    },
+    "tourOptions": [
+      {
+        "type_uk": "Самостійний огляд",
+        "type_en": "Self-guided tour",
+        "type_de": "Selbstgeführte Tour",
+        "duration_uk": "30-45 хвилин",
+        "duration_en": "30-45 minutes",
+        "duration_de": "30-45 Minuten",
+        "price": 0
+      }
+    ],
+    "averageVisitDuration_uk": "30-60 хвилин",
+    "averageVisitDuration_en": "30-60 minutes",
+    "averageVisitDuration_de": "30-60 Minuten",
+    "busyPeriods_uk": ["Неділі", "Великі релігійні свята", "Туристичний сезон (травень-вересень)"],
+    "busyPeriods_en": ["Sundays", "Major religious holidays", "Tourist season (May-September)"],
+    "busyPeriods_de": ["Sonntage", "Große religiöse Feiertage", "Touristensaison (Mai-September)"],
+    "adviceForVisitors_uk": "Дотримуйтесь тиші під час богослужінь. Скромний одяг рекомендується. Фотографія дозволена без спалаху.",
+    "adviceForVisitors_en": "Maintain silence during services. Modest dress recommended. Photography allowed without flash.",
+    "adviceForVisitors_de": "Ruhe während der Gottesdienste wahren. Bescheidene Kleidung empfohlen. Fotografie ohne Blitz erlaubt."
+  },
+
+  "features": {
+    "highlights_uk": [
+      "Барокова архітектура у стилі Карлскірхе",
+      "Монументальний купол",
+      "Інтер'єр у стилі бароко",
+      "Історичний монастир домініканців",
+      "Грецький хрест у плані"
+    ],
+    "highlights_en": [
+      "Baroque architecture in Karlskirche style",
+      "Monumental dome",
+      "Baroque interior",
+      "Historic Dominican monastery",
+      "Greek Cross plan"
+    ],
+    "highlights_de": [
+      "Barocke Architektur im Stil der Karlskirche",
+      "Monumentale Kuppel",
+      "Barockes Interieur",
+      "Historisches Dominikanerkloster",
+      "Griechischer Kreuzgrundriss"
+    ],
+    "facilities_uk": ["Музей історії релігії (сусідня будівля)", "Сувенірний магазин", "Туалети"],
+    "facilities_en": ["Museum of History of Religion (adjacent building)", "Gift shop", "Toilets"],
+    "facilities_de": ["Museum für Religionsgeschichte (Nebengebäude)", "Souvenirladen", "Toiletten"],
+    "accessibility": {
+      "wheelchairAccessible": true,
+      "notes_uk": "Основна частина церкви доступна для інвалідних візків через головний вхід",
+      "notes_en": "Main part of church accessible for wheelchairs through main entrance",
+      "notes_de": "Hauptteil der Kirche für Rollstühle durch Haupteingang zugänglich"
+    },
+    "uniqueSellingPoints_uk": [
+      "Один із найкрасивіших барокових костелів Львова",
+      "Нагадує відому Карлскірхе у Відні",
+      "Унікальний еліпсоїдний план",
+      "Колишній музей релігії та атеїзму",
+      "Греко-католицька церква з 1991 року"
+    ],
+    "uniqueSellingPoints_en": [
+      "One of the most beautiful Baroque churches in Lviv",
+      "Resembles the famous Karlskirche in Vienna",
+      "Unique ellipsoid plan",
+      "Former museum of religion and atheism",
+      "Greek Catholic church since 1991"
+    ],
+    "uniqueSellingPoints_de": [
+      "Eine der schönsten Barockkirchen in Lemberg",
+      "Ähnelt der berühmten Karlskirche in Wien",
+      "Einzigartiger ellipsoider Grundriss",
+      "Ehemaliges Museum für Religion und Atheismus",
+      "Griechisch-katholische Kirche seit 1991"
+    ]
+  },
+
+  "images": {
+    "heroImage": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Tserkvaulvovi.JPG",
+      "alt_uk": "Головний фасад Домініканського собору",
+      "alt_en": "Main façade of Dominican Cathedral",
+      "alt_de": "Hauptfassade der Dominikanerkathedrale",
+      "caption_uk": "Барокова архітектура Домініканського собору у Львові",
+      "caption_en": "Baroque architecture of Dominican Cathedral in Lviv",
+      "caption_de": "Barocke Architektur der Dominikanerkathedrale in Lemberg"
+    },
+    "gallery": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Interior_of_Dominican_church%2C_Lviv%2C_2009.jpg",
+        "alt_uk": "Інтер'єр Домініканського собору",
+        "alt_en": "Interior of Dominican Cathedral",
+        "alt_de": "Interieur der Dominikanerkathedrale",
+        "caption_uk": "Барокове оздоблення інтер'єру"
+      }
+    ]
+  },
+
+  "historicalData": {
+    "yearBuilt": "1749-1764",
+    "yearBuiltNote_uk": "Барокова церква побудована 1749-1764 рр. Готична церква на цьому місці з 1378 р.",
+    "yearBuiltNote_en": "Baroque church built 1749-1764. Gothic church on this site since 1378",
+    "yearBuiltNote_de": "Barockkirche erbaut 1749-1764. Gotische Kirche an diesem Ort seit 1378",
+    "architecturalStyle_uk": "Бароко",
+    "architecturalStyle_en": "Baroque",
+    "architecturalStyle_de": "Barock",
+    "architects": [
+      {
+        "name": "Ян де Вітте (Jan de Witte)",
+        "period": "1749-1764",
+        "contribution_uk": "Проектування барокового костелу",
+        "contribution_en": "Design of Baroque church",
+        "contribution_de": "Entwurf der Barockkirche"
+      }
+    ],
+    "unescoStatus": "none",
+    "unescoYear": null,
+    "nationalHeritageStatus": "Monument of National Significance",
+    "referenceNumber": "UA-LV-DOM-001",
+    "managedBy_uk": "Українська Греко-Католицька Церква",
+    "managedBy_en": "Ukrainian Greek Catholic Church",
+    "managedBy_de": "Ukrainisch-Griechisch-Katholische Kirche"
+  },
+
+  "culturalEvents": [
+    {
+      "name_uk": "Свято Божого Тіла",
+      "name_en": "Corpus Christi Feast",
+      "name_de": "Fronleichnamsfest",
+      "period_uk": "Червень (щорічно)",
+      "period_en": "June (annually)",
+      "period_de": "Juni (jährlich)",
+      "description_uk": "Урочисті богослужіння та процесія",
+      "description_en": "Solemn services and procession",
+      "description_de": "Feierliche Gottesdienste und Prozession"
+    }
+  ],
+
+  "tags": [
+    "church",
+    "monastery",
+    "baroque",
+    "dominican",
+    "greek-catholic",
+    "lviv",
+    "old-town",
+    "architecture",
+    "religious-site",
+    "historical-monument"
+  ],
+
+  "suitableFor_uk": [
+    "Любителі архітектури",
+    "Люди віри",
+    "Туристи",
+    "Фотографи",
+    "Історики",
+    "Сімейні подорожі"
+  ],
+  "suitableFor_en": [
+    "Architecture lovers",
+    "People of faith",
+    "Tourists",
+    "Photographers",
+    "Historians",
+    "Family travel"
+  ],
+  "suitableFor_de": [
+    "Architekturliebhaber",
+    "Gläubige Menschen",
+    "Touristen",
+    "Fotografen",
+    "Historiker",
+    "Familienreisen"
+  ],
+
+  "weatherDependent": false,
+  "indoorActivities": true,
+  "outdoorActivities": false,
+
+  "priceRange": "$",
+  "rating": 4.7,
+  "reviewsCount": 245,
+  "featured": true,
+  "status": "published",
+
+  "metaDescription_uk": "Домініканський собор — барокова перлина Львова. Побудований 1749-1764 рр., нагадує Карлскірхе у Відні. Сьогодні Греко-Католицька церква Святої Євхаристії.",
+  "metaDescription_en": "Dominican Cathedral - Baroque pearl of Lviv. Built 1749-1764, resembles Karlskirche in Vienna. Today Greek Catholic Church of the Holy Eucharist.",
+  "metaDescription_de": "Dominikanerkathedrale - Barocke Perle von Lemberg. Erbaut 1749-1764, ähnelt Karlskirche in Wien. Heute griechisch-katholische Kirche der Heiligen Eucharistie.",
+
+  "keywords": [
+    "Львів",
+    "Lviv",
+    "Домініканський собор",
+    "Dominican Cathedral",
+    "бароко",
+    "baroque",
+    "УГКЦ",
+    "UGCC",
+    "монастир",
+    "monastery",
+    "архітектура",
+    "architecture",
+    "tourism"
+  ],
+
+  "lastUpdated": "2025-11-30",
+  "source": "Wikipedia, Jina AI research, Tourist guides",
+  "verified": true
+}

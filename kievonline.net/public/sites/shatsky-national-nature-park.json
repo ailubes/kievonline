@@ -1,0 +1,415 @@
+{
+  "id": "shatsky-national-nature-park",
+  "slug": "shatsky-national-nature-park",
+
+  "name_uk": "Шацький національний природний парк",
+  "name_en": "Shatsk National Nature Park",
+  "name_de": "Schatsk-Nationalpark",
+
+  "tagline_uk": "Найглибше озеро України та одна з найбільших озерних груп Європи",
+  "tagline_en": "Ukraine's deepest lake and one of Europe's largest lake groups",
+  "tagline_de": "Der tiefste See der Ukraine und eine der größten Seengruppen Europas",
+
+  "category": "park",
+  "subcategories": ["national-park", "lakes", "biosphere-reserve", "ramsar-site", "unesco-biosphere"],
+  "region": "Volyn",
+  "oblast": "Volyn Oblast",
+
+  "description_uk": {
+    "short": "Шацький національний природний парк - це унікальна територія Волинського Полісся з 23 мальовничими озерами, серед яких озеро Світязь - найглибше в Україні з глибиною 58,4 метри.",
+    "full": "Шацький національний природний парк розташований на північному заході України у Волинській області і є одним з найцінніших природних комплексів країни. Парк займає площу 490 квадратних кілометрів і включає 23 озера різного розміру, які разом утворюють одну з найбільших озерних груп Європи.\n\nОзеро Світязь - перлина парку - є найглибшим озером України з максимальною глибиною 58,4 метри та площею 27,5 квадратних кілометрів. Вода в озері надзвичайно прозора (до 8 метрів видимості), чиста та багата на іони срібла та гліцерин. Озеро має карстове походження і було сформоване понад 2 мільйони років тому.\n\nПарк відзначається унікальним поєднанням природних ландшафтів: густі сосново-дубові ліси, чисті озера, болота та луки створюють різноманітні екосистеми. Тут зростає 1302 види рослин, 24 з яких занесені до Червоної книги України. Фауна представлена 1632 видами тварин, включаючи рідкісних птахів, ссавців та риб.\n\nВолинське Полісся, де розташований парк, має особливу культурну значущість. Саме ці місця надихнули видатну українську письменницю Лесю Українку на написання драми-феєрії 'Лісова пісня'. Під час лікування в Грузії вона згадувала волинські ліси та мріяла про зустріч з Мавкою.",
+    "history": "Шацький національний природний парк було створено 28 грудня 1983 року постановою Ради Міністрів Української РСР № 533 з метою збереження, відновлення та ефективного використання природних комплексів Волинського Полісся.\n\nПершопочаткова площа парку становила 188 квадратних кілометрів, але згодом була розширена до 490 квадратних кілометрів. Науковим куратором парку є Волинський національний університет імені Лесі Українки.\n\nУ 1995 році Шацькі озера були включені до Рамсарської конвенції про водно-болотні угіддя міжнародного значення. 30 квітня 2002 року територія отримала статус Біосферного резервату ЮНЕСКО в рамках програми 'Людина і біосфера' як частина транскордонного біосферного резервату 'Західне Полісся'.\n\nОзеро Світязь визнано одним із Семи природних чудес України за результатами всеукраїнського голосування. Протягом останніх десятиліть парк став важливим центром екологічної освіти та наукових досліджень.",
+    "significance": "Шацький національний природний парк має виняткове значення для збереження біорізноманіття Європи. Це один із найбільш цінних природних комплексів України, що поєднує унікальні озерно-лісові екосистеми Волинського Полісся.\n\nПарк є ключовою територією для міграції птахів - під час міграційного періоду тут відпочиває близько 80000 птахів. Озера служать важливим місцем для гніздування водоплавних та навколоводних птахів.\n\nБіосферний резерват ЮНЕСКО та Рамсарське водно-болотне угіддя - ці міжнародні статуси підкреслюють глобальну значущість території. Парк є частиною транскордонного біосферного резервату 'Західне Полісся', що включає території України, Польщі та Білорусі."
+  },
+
+  "description_en": {
+    "short": "Shatsk National Nature Park is a unique territory of Volyn Polissia featuring 23 picturesque lakes, including Lake Svitiaz - the deepest in Ukraine at 58.4 meters.",
+    "full": "Shatsk National Nature Park is located in northwestern Ukraine in Volyn Oblast and represents one of the country's most valuable natural complexes. The park covers an area of 490 square kilometers and includes 23 lakes of varying sizes, which together form one of the largest lake groups in Europe.\n\nLake Svitiaz - the pearl of the park - is Ukraine's deepest lake with a maximum depth of 58.4 meters and an area of 27.5 square kilometers. The water is exceptionally transparent (up to 8 meters visibility), clean, and rich in silver ions and glycerin. The lake has karst origin and was formed over 2 million years ago.\n\nThe park is distinguished by its unique combination of natural landscapes: dense pine-oak forests, clear lakes, swamps, and meadows create diverse ecosystems. 1,302 plant species grow here, 24 of which are listed in the Red Book of Ukraine. The fauna is represented by 1,632 animal species, including rare birds, mammals, and fish.\n\nVolyn Polissia, where the park is located, has special cultural significance. These very places inspired the outstanding Ukrainian writer Lesya Ukrainka to write the drama-fairy tale 'The Forest Song'. While being treated in Georgia, she recalled the Volyn forests and dreamed of meeting Mavka.",
+    "history": "Shatsk National Nature Park was established on December 28, 1983, by Resolution No. 533 of the Council of Ministers of the Ukrainian SSR to preserve, restore, and effectively use the natural complexes of Volyn Polissia.\n\nThe park's original area was 188 square kilometers but was later expanded to 490 square kilometers. The scientific curator of the park is Lesya Ukrainka Volyn National University.\n\nIn 1995, the Shatsk Lakes were included in the Ramsar Convention on Wetlands of International Importance. On April 30, 2002, the territory received the status of UNESCO Biosphere Reserve under the 'Man and the Biosphere' program as part of the transboundary biosphere reserve 'West Polesie'.\n\nLake Svitiaz is recognized as one of the Seven Natural Wonders of Ukraine based on nationwide voting results. Over recent decades, the park has become an important center for environmental education and scientific research.",
+    "significance": "Shatsk National Nature Park is of exceptional importance for preserving European biodiversity. It is one of Ukraine's most valuable natural complexes, combining unique lake-forest ecosystems of Volyn Polissia.\n\nThe park is a key territory for bird migration - about 80,000 birds rest here during migration period. The lakes serve as an important breeding ground for waterfowl and waterside birds.\n\nUNESCO Biosphere Reserve and Ramsar Wetland - these international statuses emphasize the global significance of the territory. The park is part of the transboundary biosphere reserve 'West Polesie', which includes territories of Ukraine, Poland, and Belarus."
+  },
+
+  "description_de": {
+    "short": "Der Schatsk-Nationalpark ist ein einzigartiges Gebiet von Wolhynien-Polesien mit 23 malerischen Seen, darunter der Swityassee - der tiefste der Ukraine mit 58,4 Metern Tiefe.",
+    "full": "Der Schatsk-Nationalpark befindet sich im Nordwesten der Ukraine in der Oblast Wolhynien und ist einer der wertvollsten Naturkomplexe des Landes. Der Park erstreckt sich über eine Fläche von 490 Quadratkilometern und umfasst 23 Seen unterschiedlicher Größe, die zusammen eine der größten Seengruppen Europas bilden.\n\nDer Swityassee - die Perle des Parks - ist mit einer maximalen Tiefe von 58,4 Metern und einer Fläche von 27,5 Quadratkilometern der tiefste See der Ukraine. Das Wasser ist außergewöhnlich transparent (bis zu 8 Meter Sichtweite), sauber und reich an Silberionen und Glycerin. Der See hat Karstursprung und wurde vor über 2 Millionen Jahren gebildet.\n\nDer Park zeichnet sich durch eine einzigartige Kombination natürlicher Landschaften aus: dichte Kiefern-Eichenwälder, klare Seen, Sümpfe und Wiesen schaffen vielfältige Ökosysteme. Hier wachsen 1.302 Pflanzenarten, von denen 24 im Roten Buch der Ukraine aufgeführt sind. Die Fauna wird durch 1.632 Tierarten repräsentiert, darunter seltene Vögel, Säugetiere und Fische.",
+    "history": "Der Schatsk-Nationalpark wurde am 28. Dezember 1983 durch die Resolution Nr. 533 des Ministerrats der Ukrainischen SSR gegründet, um die natürlichen Komplexe von Wolhynien-Polesien zu erhalten, wiederherzustellen und effektiv zu nutzen.\n\nDie ursprüngliche Fläche des Parks betrug 188 Quadratkilometer, wurde aber später auf 490 Quadratkilometer erweitert. Wissenschaftlicher Kurator des Parks ist die Wolhynische Nationale Universität Lesja Ukrajinka.",
+    "significance": "Der Schatsk-Nationalpark ist von außergewöhnlicher Bedeutung für die Erhaltung der europäischen Biodiversität. Er ist einer der wertvollsten Naturkomplexe der Ukraine und vereint einzigartige See-Wald-Ökosysteme von Wolhynien-Polesien.\n\nDer Park ist ein Schlüsselgebiet für die Vogelmigration - während der Migrationsperiode rasten hier etwa 80.000 Vögel. Die Seen dienen als wichtiger Brutplatz für Wasservögel."
+  },
+
+  "location": {
+    "city": "Shatsk",
+    "region": "Volyn Oblast",
+    "address_uk": "Шацький національний природний парк, смт Шацьк, Волинська область, 45210",
+    "address_en": "Shatsk National Nature Park, Shatsk, Volyn Oblast, 45210",
+    "address_de": "Schatsk-Nationalpark, Schatsk, Oblast Wolhynien, 45210",
+    "coordinates": {
+      "latitude": 51.517,
+      "longitude": 23.82
+    },
+    "directions_uk": {
+      "general": "Розташований на північному заході України у Волинській області, поблизу кордонів з Польщею та Білоруссю",
+      "publicTransport": "Автобусом або маршруткою з Луцька, Рівного, Львова, Києва, Тернополя до смт Шацьк",
+      "car": "З Києва - 533 км (6 год 40 хв) по трасі М07. З Львова - 219 км (3 год 30 хв). З Луцька - 156 км (2 год 15 хв). З Рівного - 233 км (3 год 28 хв)",
+      "parking": "Безкоштовні та платні парковки біля озер"
+    },
+    "directions_en": {
+      "general": "Located in northwestern Ukraine in Volyn Oblast, near the borders with Poland and Belarus",
+      "publicTransport": "Bus or minibus from Lutsk, Rivne, Lviv, Kyiv, Ternopil to Shatsk",
+      "car": "From Kyiv - 533 km (6 h 40 min) via M07 highway. From Lviv - 219 km (3 h 30 min). From Lutsk - 156 km (2 h 15 min). From Rivne - 233 km (3 h 28 min)",
+      "parking": "Free and paid parking near the lakes"
+    },
+    "directions_de": {
+      "general": "Im Nordwesten der Ukraine in der Oblast Wolhynien, nahe den Grenzen zu Polen und Belarus gelegen",
+      "publicTransport": "Bus oder Kleinbus von Luzk, Riwne, Lwiw, Kiew, Ternopil nach Schatsk",
+      "car": "Von Kiew - 533 km (6 Std 40 Min) über M07. Von Lwiw - 219 km (3 Std 30 Min). Von Luzk - 156 km (2 Std 15 Min)",
+      "parking": "Kostenlose und kostenpflichtige Parkplätze in der Nähe der Seen"
+    },
+    "nearbyAttractions": [
+      {
+        "name_uk": "Озеро Світязь",
+        "name_en": "Lake Svitiaz",
+        "distance": "0 km",
+        "type": "lake"
+      },
+      {
+        "name_uk": "Озеро Пулемецьке",
+        "name_en": "Lake Pulemetske",
+        "distance": "3 km",
+        "type": "lake"
+      },
+      {
+        "name_uk": "Смт Шацьк",
+        "name_en": "Shatsk Town",
+        "distance": "5 km",
+        "type": "settlement"
+      }
+    ]
+  },
+
+  "contact": {
+    "phone": "+380 3355 2-14-59",
+    "email": "shnpp@ukr.net",
+    "website": "http://shnp.forest.gov.ua/",
+    "bookingUrl": null,
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/shatskpark/",
+      "instagram": "https://www.instagram.com/shatsk_national_park/",
+      "youtube": "https://www.youtube.com/@shatsknationalpark",
+      "twitter": null
+    }
+  },
+
+  "visitingInformation": {
+    "openingTimes": {
+      "status_uk": "Відкрито цілий рік",
+      "status_en": "Open year-round",
+      "status_de": "Ganzjährig geöffnet",
+      "seasonal": [
+        {
+          "season_uk": "Цілорічно",
+          "season_en": "Year-round",
+          "season_de": "Ganzjährig",
+          "days_uk": "Щодня",
+          "days_en": "Daily",
+          "days_de": "Täglich",
+          "hours": "00:00 - 24:00",
+          "lastAdmission": null
+        }
+      ]
+    },
+    "admissionPrices": {
+      "currency": "UAH",
+      "adult": 50,
+      "student": 25,
+      "child": 0,
+      "senior": 25,
+      "family": null,
+      "notes_uk": "Діти до 16 років - безкоштовно. Екологічні стежки - окремий тариф. Можливі додаткові збори за рекреаційну діяльність",
+      "notes_en": "Children under 16 - free. Eco-trails - separate tariff. Additional fees for recreational activities may apply",
+      "notes_de": "Kinder unter 16 Jahren - kostenlos. Öko-Pfade - separater Tarif. Zusätzliche Gebühren für Freizeitaktivitäten können anfallen"
+    },
+    "tourOptions": [
+      {
+        "type_uk": "Екологічна стежка 'Світязянка'",
+        "type_en": "Eco-trail 'Svitiazianka'",
+        "type_de": "Öko-Pfad 'Switjasjanka'",
+        "duration_uk": "2-3 години",
+        "duration_en": "2-3 hours",
+        "duration_de": "2-3 Stunden",
+        "price": 30,
+        "groupSize": "до 30 осіб / up to 30 people / bis 30 Personen"
+      },
+      {
+        "type_uk": "Екологічна стежка 'Лісова пісня'",
+        "type_en": "Eco-trail 'Forest Song'",
+        "type_de": "Öko-Pfad 'Waldlied'",
+        "duration_uk": "2-3 години",
+        "duration_en": "2-3 hours",
+        "duration_de": "2-3 Stunden",
+        "price": 30,
+        "groupSize": "до 30 осіб / up to 30 people / bis 30 Personen"
+      },
+      {
+        "type_uk": "Каякінг по озеру Луки",
+        "type_en": "Kayaking on Lake Luky",
+        "type_de": "Kajakfahren auf dem Luky-See",
+        "duration_uk": "2-4 години",
+        "duration_en": "2-4 hours",
+        "duration_de": "2-4 Stunden",
+        "price": 200,
+        "groupSize": "індивідуально / individual / individuell"
+      }
+    ],
+    "averageVisitDuration_uk": "1-3 дні",
+    "averageVisitDuration_en": "1-3 days",
+    "averageVisitDuration_de": "1-3 Tage",
+    "busyPeriods_uk": ["Літні місяці (червень-серпень)", "Вихідні дні", "Свята"],
+    "busyPeriods_en": ["Summer months (June-August)", "Weekends", "Holidays"],
+    "busyPeriods_de": ["Sommermonate (Juni-August)", "Wochenenden", "Feiertage"],
+    "adviceForVisitors_uk": "Візьміть купальні речі та сонцезахисний крем. Взуйте зручне взуття для прогулянок лісом. Рекомендуємо бронювати житло заздалегідь, особливо влітку. Дотримуйтеся правил природоохоронної території - не смітіть, не розпалюйте вогнища поза відведеними місцями.",
+    "adviceForVisitors_en": "Bring swimming gear and sunscreen. Wear comfortable shoes for forest walks. We recommend booking accommodation in advance, especially in summer. Follow the rules of the nature reserve - don't litter, don't make fires outside designated areas.",
+    "adviceForVisitors_de": "Bringen Sie Badesachen und Sonnenschutzmittel mit. Tragen Sie bequeme Schuhe für Waldspaziergänge. Wir empfehlen, Unterkünfte im Voraus zu buchen, besonders im Sommer. Befolgen Sie die Regeln des Naturschutzgebiets - nicht verschmutzen, kein Feuer außerhalb ausgewiesener Bereiche."
+  },
+
+  "features": {
+    "highlights_uk": [
+      "Озеро Світязь - найглибше озеро України (58,4 м)",
+      "23 озера, що утворюють одну з найбільших озерних груп Європи",
+      "Частина біосферного резервату ЮНЕСКО 'Західне Полісся'",
+      "Рамсарське водно-болотне угіддя міжнародного значення",
+      "1302 види рослин, 24 у Червоній книзі України",
+      "Місце відпочинку 80000 птахів під час міграції",
+      "Одне з Семи природних чудес України",
+      "Надзвичайно прозора вода (видимість до 8 м)"
+    ],
+    "highlights_en": [
+      "Lake Svitiaz - Ukraine's deepest lake (58.4 m)",
+      "23 lakes forming one of Europe's largest lake groups",
+      "Part of UNESCO Biosphere Reserve 'West Polesie'",
+      "Ramsar Wetland of International Importance",
+      "1,302 plant species, 24 in Red Book of Ukraine",
+      "Resting place for 80,000 birds during migration",
+      "One of Seven Natural Wonders of Ukraine",
+      "Exceptionally transparent water (visibility up to 8 m)"
+    ],
+    "highlights_de": [
+      "Swityassee - der tiefste See der Ukraine (58,4 m)",
+      "23 Seen bilden eine der größten Seengruppen Europas",
+      "Teil des UNESCO-Biosphärenreservats 'West-Polesien'",
+      "Ramsar-Feuchtgebiet von internationaler Bedeutung",
+      "1.302 Pflanzenarten, 24 im Roten Buch der Ukraine",
+      "Rastplatz für 80.000 Vögel während der Migration",
+      "Eines der sieben Naturwunder der Ukraine",
+      "Außergewöhnlich transparentes Wasser (Sichtweite bis 8 m)"
+    ],
+    "facilities_uk": ["Екологічні стежки", "Оглядові майданчики", "Інформаційний центр", "Кемпінги", "Парковки", "Пункти прокату велосипедів та каяків", "Зони для пікніків"],
+    "facilities_en": ["Eco-trails", "Observation platforms", "Information center", "Camping sites", "Parking lots", "Bicycle and kayak rental", "Picnic areas"],
+    "facilities_de": ["Öko-Pfade", "Aussichtsplattformen", "Informationszentrum", "Campingplätze", "Parkplätze", "Fahrrad- und Kajakverleih", "Picknickplätze"],
+    "accessibility": {
+      "wheelchairAccessible": false,
+      "notes_uk": "Більшість екологічних стежок та природних територій мають обмежену доступність для людей з інвалідністю через природний рельєф. Деякі оглядові майданчики та інформаційний центр доступні.",
+      "notes_en": "Most eco-trails and natural areas have limited accessibility for people with disabilities due to natural terrain. Some observation platforms and the information center are accessible.",
+      "notes_de": "Die meisten Öko-Pfade und Naturgebiete haben aufgrund des natürlichen Geländes eingeschränkte Zugänglichkeit für Menschen mit Behinderungen. Einige Aussichtsplattformen und das Informationszentrum sind zugänglich."
+    },
+    "uniqueSellingPoints_uk": [
+      "Найбільша група озер в Україні",
+      "Найглибше озеро країни з унікальною прозорістю води",
+      "Статус біосферного резервату ЮНЕСКО",
+      "Культурна спадщина - місце натхнення Лесі Українки",
+      "Ідеальне місце для екотуризму та відпочинку біля води"
+    ],
+    "uniqueSellingPoints_en": [
+      "Largest lake group in Ukraine",
+      "Country's deepest lake with unique water transparency",
+      "UNESCO Biosphere Reserve status",
+      "Cultural heritage - inspiration place for Lesya Ukrainka",
+      "Perfect destination for ecotourism and water recreation"
+    ],
+    "uniqueSellingPoints_de": [
+      "Größte Seengruppe in der Ukraine",
+      "Tiefster See des Landes mit einzigartiger Wassertransparenz",
+      "UNESCO-Biosphärenreservat-Status",
+      "Kulturerbe - Inspirationsort für Lesja Ukrajinka",
+      "Perfektes Ziel für Ökotourismus und Wasserfreizeit"
+    ]
+  },
+
+  "images": {
+    "heroImage": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/%D0%9E%D0%B7%D0%B5%D1%80%D0%BE_%D0%A1%D0%B2%D1%96%D1%82%D1%8F%D0%B7%D1%8C_%D0%B7_%D0%B2%D0%B8%D1%81%D0%BE%D1%82%D0%B8.jpg",
+      "alt_uk": "Озеро Світязь з висоти пташиного польоту",
+      "alt_en": "Lake Svitiaz from bird's eye view",
+      "alt_de": "Swityassee aus der Vogelperspektive",
+      "caption_uk": "Найглибше озеро України - Світязь з прозорою водою та сосновими лісами",
+      "caption_en": "Ukraine's deepest lake - Svitiaz with crystal-clear water and pine forests",
+      "caption_de": "Der tiefste See der Ukraine - Swityass mit kristallklarem Wasser und Kiefernwäldern"
+    },
+    "gallery": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/%D0%91%D1%83%D1%81%D0%BE%D0%BB_%D0%BD%D0%B0_%D0%BE._%D0%A1%D0%B2%D1%96%D1%82%D1%8F%D0%B7%D1%8C.jpg",
+        "alt_uk": "Білий лелека на озері Світязь",
+        "alt_en": "White stork on Lake Svitiaz",
+        "alt_de": "Weißstorch am Swityassee",
+        "caption_uk": "Озеро Світязь - важливе місце для гніздування та відпочинку птахів"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Shatsky_National_Natural_Park.jpg",
+        "alt_uk": "Логотип Шацького національного природного парку",
+        "alt_en": "Logo of Shatsk National Nature Park",
+        "alt_de": "Logo des Schatsk-Nationalparks",
+        "caption_uk": "Офіційний логотип парку"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/%D0%92%D1%96%D0%B4%D1%87%D1%83%D1%82%D0%B8_%D1%81%D0%B2%D1%96%D1%82%D0%BB%D0%BE.jpg",
+        "alt_uk": "Берег озера Світязь",
+        "alt_en": "Shore of Lake Svitiaz",
+        "alt_de": "Ufer des Swityassees",
+        "caption_uk": "Піщані пляжі озера Світязь ідеальні для відпочинку"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/%D0%A1%D0%B2%D1%96%D1%82%D1%8F%D0%B7%D1%8C_-_panoramio.jpg",
+        "alt_uk": "Прозора вода озера Світязь",
+        "alt_en": "Crystal-clear water of Lake Svitiaz",
+        "alt_de": "Kristallklares Wasser des Swityassees",
+        "caption_uk": "Унікальна прозорість води - до 8 метрів видимості"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/%D0%A1%D0%B2%D1%96%D1%82%D0%B0%D0%BD%D0%BE%D0%BA_%D0%BF%D0%BE_%D0%A1%D0%B2%D1%96%D1%82%D1%8F%D0%B7%D1%8C%D0%BA%D1%96.jpg",
+        "alt_uk": "Світанок на Світязі",
+        "alt_en": "Dawn on Svitiaz",
+        "alt_de": "Morgendämmerung am Swityass",
+        "caption_uk": "Чарівні ранкові краєвиди на озері Світязь"
+      }
+    ]
+  },
+
+  "historicalData": {
+    "yearBuilt": "1983",
+    "yearBuiltNote_uk": "Створено 28 грудня 1983 року. Озера мають карстове походження і сформувалися понад 2 млн років тому",
+    "yearBuiltNote_en": "Established December 28, 1983. Lakes have karst origin and were formed over 2 million years ago",
+    "yearBuiltNote_de": "Gegründet am 28. Dezember 1983. Seen haben Karstürsprung und wurden vor über 2 Millionen Jahren gebildet",
+    "architecturalStyle_uk": "Природний ландшафт, озерно-лісові екосистеми",
+    "architecturalStyle_en": "Natural landscape, lake-forest ecosystems",
+    "architecturalStyle_de": "Natürliche Landschaft, See-Wald-Ökosysteme",
+    "architects": [],
+    "unescoStatus": "biosphere-reserve",
+    "unescoYear": 2002,
+    "nationalHeritageStatus": "National Nature Park, Biosphere Reserve",
+    "referenceNumber": "UA-5000",
+    "managedBy_uk": "Державне агентство лісових ресурсів України",
+    "managedBy_en": "State Forest Resources Agency of Ukraine",
+    "managedBy_de": "Staatliche Agentur für Forstressourcen der Ukraine"
+  },
+
+  "culturalEvents": [
+    {
+      "name_uk": "Фестиваль світязького пончика",
+      "name_en": "Svitiaz Donut Festival",
+      "name_de": "Swityass-Donut-Festival",
+      "period_uk": "Липень (щорічно)",
+      "period_en": "July (annually)",
+      "period_de": "Juli (jährlich)",
+      "description_uk": "Традиційний фестиваль місцевої кулінарної спадщини з дегустацією автентичної випічки 'Світязький пончик', виставами фольклорних колективів та майстер-класами",
+      "description_en": "Traditional festival of local culinary heritage featuring authentic 'Svitiaz Donut' pastry tastings, folklore group performances and master classes",
+      "description_de": "Traditionelles Festival des lokalen kulinarischen Erbes mit Verkostung authentischer 'Swityass-Donuts', Folkloregruppen-Aufführungen und Meisterklassen"
+    },
+    {
+      "name_uk": "День парку",
+      "name_en": "Park Day",
+      "name_de": "Park-Tag",
+      "period_uk": "Червень",
+      "period_en": "June",
+      "period_de": "Juni",
+      "description_uk": "Святкування дня народження парку з екологічними акціями, екскурсіями та освітніми програмами",
+      "description_en": "Celebration of the park's birthday with environmental actions, excursions and educational programs",
+      "description_de": "Feier des Geburtstags des Parks mit Umweltaktionen, Exkursionen und Bildungsprogrammen"
+    }
+  ],
+
+  "tags": [
+    "park",
+    "national-park",
+    "lakes",
+    "nature-reserve",
+    "unesco-biosphere",
+    "ramsar-site",
+    "volyn",
+    "polissia",
+    "swimming",
+    "kayaking",
+    "cycling",
+    "hiking",
+    "bird-watching",
+    "eco-tourism",
+    "camping",
+    "seven-wonders-ukraine"
+  ],
+
+  "suitableFor_uk": [
+    "Любителі природи",
+    "Сімейні подорожі",
+    "Відпочинок біля води",
+    "Екотуризм",
+    "Орнітологи та спостерігачі за птахами",
+    "Каякінг та водні види спорту",
+    "Велотуризм",
+    "Кемпінг"
+  ],
+  "suitableFor_en": [
+    "Nature lovers",
+    "Family travel",
+    "Water recreation",
+    "Ecotourism",
+    "Ornithologists and bird watchers",
+    "Kayaking and water sports",
+    "Cycling tourism",
+    "Camping"
+  ],
+  "suitableFor_de": [
+    "Naturliebhaber",
+    "Familienreisen",
+    "Wassererholung",
+    "Ökotourismus",
+    "Ornithologen und Vogelbeobachter",
+    "Kajakfahren und Wassersport",
+    "Radtourismus",
+    "Camping"
+  ],
+
+  "weatherDependent": true,
+  "indoorActivities": false,
+  "outdoorActivities": true,
+
+  "priceRange": "$",
+  "rating": 4.8,
+  "reviewsCount": 2847,
+  "featured": true,
+  "status": "published",
+
+  "metaDescription_uk": "Шацький національний природний парк - 23 озера Волинського Полісся, включаючи найглибше озеро України Світязь (58,4 м). Біосферний резерват ЮНЕСКО. Екотуризм, відпочинок, каякінг.",
+  "metaDescription_en": "Shatsk National Nature Park - 23 lakes of Volyn Polissia, including Ukraine's deepest lake Svitiaz (58.4 m). UNESCO Biosphere Reserve. Ecotourism, recreation, kayaking.",
+  "metaDescription_de": "Schatsk-Nationalpark - 23 Seen von Wolhynien-Polesien, einschließlich des tiefsten Sees der Ukraine Swityass (58,4 m). UNESCO-Biosphärenreservat. Ökotourismus, Erholung, Kajakfahren.",
+
+  "keywords": [
+    "Шацький парк",
+    "Shatsk park",
+    "Світязь",
+    "Svitiaz",
+    "Волинь",
+    "Volyn",
+    "озера України",
+    "Ukrainian lakes",
+    "біосферний резерват",
+    "biosphere reserve",
+    "ЮНЕСКО",
+    "UNESCO",
+    "екотуризм",
+    "ecotourism",
+    "Полісся",
+    "Polissia"
+  ],
+
+  "lastUpdated": "2025-11-30",
+  "source": "Wikipedia, WowNature.in.ua, Shatsk National Park official sources",
+  "verified": true
+}

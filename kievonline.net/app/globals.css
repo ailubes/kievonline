@@ -1,26 +1,284 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;800&family=Crimson+Pro:wght@400;500;600;700&family=Source+Sans+3:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap');
 @import "tailwindcss";
+@config "../tailwind.config.ts";
 
+/* Ukrainian Heritage Color Palette - CSS Variables */
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  /* Primary colors */
+  --ukraine-navy: #0a1428;
+  --ukraine-blue: #1e3a5f;
+  --ukraine-gold: #d4a574;
+  --ukraine-cream: #faf8f3;
+
+  /* Heritage accents */
+  --heritage-terracotta: #a85d4f;
+  --heritage-bronze: #8b7355;
+  --heritage-stone: #c9bfb0;
+
+  /* Neutral slate */
+  --slate-900: #1c1917;
+  --slate-700: #44403c;
+  --slate-600: #57534e;
+  --slate-500: #78756f;
+  --slate-400: #a8a8a5;
+  --slate-300: #d3d3d1;
+  --slate-200: #e7e5e4;
+  --slate-100: #f5f5f4;
+  --slate-50: #fafaf9;
+
+  /* Transitions */
+  --transition-base: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-slow: all 0.5s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+/* Global Typography Setup */
+html {
+  scroll-behavior: smooth;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background-color: var(--ukraine-cream);
+  color: var(--slate-900);
+  font-family: 'Source Sans 3', system-ui, -apple-system, sans-serif;
+  font-size: 1rem;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Display fonts for headings */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-weight: 600;
+  color: var(--ukraine-navy);
+  margin: 0;
+}
+
+h1 {
+  font-size: clamp(2rem, 5vw, 4.5rem);
+  line-height: 1.1;
+  letter-spacing: -0.02em;
+  font-weight: 700;
+}
+
+h2 {
+  font-size: clamp(1.75rem, 4vw, 3.75rem);
+  line-height: 1.2;
+  font-weight: 700;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+h3 {
+  font-size: clamp(1.25rem, 3vw, 2rem);
+  line-height: 1.3;
+  font-weight: 600;
+  margin-top: 1.5rem;
+  margin-bottom: 0.75rem;
+}
+
+h4, h5, h6 {
+  font-size: 1.125rem;
+  font-weight: 600;
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+/* Serif body copy for long-form content */
+.serif-body {
+  font-family: 'Crimson Pro', Georgia, serif;
+  font-size: 1.0625rem;
+  line-height: 1.7;
+  color: var(--slate-800);
+}
+
+/* Monospace for technical elements */
+code, pre, .mono {
+  font-family: 'IBM Plex Mono', 'Courier New', monospace;
+  font-size: 0.875rem;
+}
+
+pre {
+  background: var(--slate-900);
+  color: #e0e0e0;
+  padding: 1.5rem;
+  border-radius: 0.5rem;
+  overflow-x: auto;
+  line-height: 1.5;
+}
+
+/* Links with elegant hover */
+a {
+  color: var(--ukraine-blue);
+  text-decoration: none;
+  transition: var(--transition-base);
+  position: relative;
+}
+
+a:hover {
+  color: var(--heritage-terracotta);
+}
+
+/* Decorative underline effect */
+.link-underline {
+  position: relative;
+  display: inline-block;
+}
+
+.link-underline::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: -2px;
+  width: 100%;
+  height: 2px;
+  background-color: var(--ukraine-gold);
+  transform: scaleX(0);
+  transform-origin: right;
+  transition: transform 0.3s ease;
+}
+
+.link-underline:hover::after {
+  transform: scaleX(1);
+  transform-origin: left;
+}
+
+/* Button base styles */
+button {
+  font-family: 'Source Sans 3', system-ui, sans-serif;
+  font-weight: 600;
+  cursor: pointer;
+  transition: var(--transition-base);
+}
+
+/* Card elevation and depth */
+.card {
+  background-color: white;
+  border-radius: 0.75rem;
+  box-shadow: 0 1px 3px 0 rgba(10, 20, 40, 0.1), 0 1px 2px 0 rgba(10, 20, 40, 0.06);
+  transition: var(--transition-base);
+}
+
+.card:hover {
+  box-shadow: 0 20px 25px -5px rgba(10, 20, 40, 0.1), 0 10px 10px -5px rgba(10, 20, 40, 0.04);
+  transform: translateY(-2px);
+}
+
+/* Decorative divider inspired by Ukrainian patterns */
+.divider {
+  height: 2px;
+  background: linear-gradient(90deg,
+    transparent 0%,
+    var(--ukraine-gold) 20%,
+    var(--ukraine-gold) 80%,
+    transparent 100%);
+  margin: 2rem 0;
+}
+
+.divider-gold {
+  height: 3px;
+  background-color: var(--ukraine-gold);
+  margin: 1.5rem 0;
+}
+
+/* Selection styling */
+::selection {
+  background-color: var(--ukraine-gold);
+  color: var(--ukraine-navy);
+}
+
+::-moz-selection {
+  background-color: var(--ukraine-gold);
+  color: var(--ukraine-navy);
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--slate-100);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--ukraine-gold);
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--heritage-terracotta);
+}
+
+/* Animation utilities */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes slideUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes slideDown {
+  from {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes pulse-glow {
+  0%, 100% {
+    box-shadow: 0 0 20px rgba(212, 165, 116, 0.3);
+  }
+  50% {
+    box-shadow: 0 0 30px rgba(212, 165, 116, 0.6);
+  }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.6s ease-out;
+}
+
+.animate-slide-up {
+  animation: slideUp 0.6s ease-out;
+}
+
+.animate-slide-down {
+  animation: slideDown 0.6s ease-out;
+}
+
+.animate-glow {
+  animation: pulse-glow 2s ease-in-out infinite;
+}
+
+/* Responsive utilities */
+@media (max-width: 768px) {
+  h1 {
+    font-size: 2rem;
+  }
+
+  h2 {
+    font-size: 1.5rem;
+  }
+
+  .serif-body {
+    font-size: 1rem;
+  }
 }

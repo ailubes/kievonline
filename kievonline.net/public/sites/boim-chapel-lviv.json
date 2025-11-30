@@ -1,0 +1,397 @@
+{
+  "id": "boim-chapel-lviv",
+  "slug": "boim-chapel-lviv",
+
+  "name_uk": "Каплиця Боїмів",
+  "name_en": "Boim Chapel",
+  "name_de": "Boim-Kapelle",
+
+  "tagline_uk": "Перлина ренесансної архітектури у серці Львова",
+  "tagline_en": "A Renaissance architectural gem in the heart of Lviv",
+  "tagline_de": "Ein Renaissance-Architekturjuwel im Herzen von Lwiw",
+
+  "category": "monastery",
+  "subcategories": ["chapel", "renaissance-architecture", "unesco-site", "baroque"],
+  "region": "Lviv",
+  "oblast": "Lviv Oblast",
+
+  "description_uk": {
+    "short": "Каплиця Боїмів — визначна пам'ятка релігійної архітектури на Кафедральній площі Львова, побудована 1609-1615 років. Є частиною історичного центру Львова, внесеного до списку Всесвітньої спадщини ЮНЕСКО.",
+    "full": "Каплиця Боїмів — унікальна пам'ятка ренесансної архітектури, розташована на Кафедральній площі у Львові, неподалік від Латинської катедри. Побудована у 1609-1615 роках за проектом архітектора Анджея Бемера для багатого патриціанського роду Боїмів, який прибув до Львова з Угорщини.\n\nКаплиця була заснована Георгієм Боїмом як родинна усипальниця і завершена його сином Павлом Боїмом. У підземеллі каплиці поховані 14 членів родини Боїмів. Будівля вражає багатством архітектурного декору — фасад повністю вкритий скульптурними композиціями з піщанику, що представляють біблійні сцени.\n\nКаплиця побудована на квадратному плані і покрита панельним куполом на восьмигранному тамбурі. Над каплицею піднімається ліхтар на восьми канелюрованих пілястрах з коринфськими капітелями, увінчаний малим куполом зі статуєю Христа на вершині. Західний фасад, найбільш прикрашений, містить статуї апостолів Петра і Павла, медальйони пророків, та рельєфні композиції Страстей Христових.\n\nВнутрішнє оздоблення виконане зі стукко і включає фігури пророків, янголів з картушами, зображення святих покровителів — Станіслава і Войтеха. Купол розділений на 36 прямокутних панелей з зображеннями Христа, апостолів, пророків і святих. Це унікальна 'Біблія для бідних' — архітектурна проповідь у камені.",
+    "history": "Рід Боїмів прибув до Львова з Угорського королівства, їхнє національне походження залишається неясним. Вони були заможними патриціями католицького віросповідання і згодом полонізувалися. Георгій (Єжи) Боїм вважається засновником каплиці, яку завершив його син Павло Боїм.\n\nКаплиця була спроектована відомим львівським архітектором Анджеєм Бемером, який взяв за основу спрощену схему Сигізмундівської каплиці у Вавельському соборі в Кракові, додавши італійські елементи. Скульптурні роботи виконували майстри Ян Шольц (можливо родом з Кенігсберга) та Ганс Фішер.\n\nОрнаментальний декор має голландське походження, наративні рельєфи нагадують зразки з центральної та південної Польщі, але базуються на німецьких або голландських графічних моделях. Зовнішній вигляд фасаду та вівтаря нагадує форму іконостасу, що поєднує західноєвропейські та східні архітектурні традиції.\n\nУ другій половині 18 століття каплиця перестала використовуватися родиною Боїмів як місце поховання. Каплиця є частиною історичного центру Львова, який з 1998 року включений до списку Всесвітньої спадщини ЮНЕСКО.",
+    "significance": "Каплиця Боїмів визнана одним із найвизначніших прикладів ренесансної архітектури в Україні та Центральній Європі. Вона демонструє унікальне поєднання італійських, голландських, німецьких та польських архітектурних традицій. Багатство скульптурного декору робить її справжнім шедевром кам'яного різьблення 17 століття. Каплиця є важливою складовою архітектурного ансамблю Кафедральної площі Львова і невід'ємною частиною Всесвітньої спадщини ЮНЕСКО."
+  },
+
+  "description_en": {
+    "short": "The Boim Chapel is a monument of religious architecture in Cathedral Square, Lviv, constructed from 1609 to 1615. It is part of Lviv's Old Town, a UNESCO World Heritage Site.",
+    "full": "The Boim Chapel is a unique monument of Renaissance architecture, located in Cathedral Square in Lviv, near the Latin Cathedral. Built in 1609-1615 to designs by architect Andrzej Bemer for the wealthy patrician Boim family who came to Lviv from Hungary.\n\nThe chapel was founded by George (Jerzy) Boim as a family burial place and was finished by his son, Paweł Boim. Fourteen members of the Boim family are buried in the chapel's crypt. The building is remarkable for its rich architectural decoration — the facade is completely covered with sculptural compositions in sandstone, depicting biblical scenes.\n\nThe chapel is built on a square plan and covered by a paneled dome based on an octagonal tambour. Above the chapel rises a lantern on eight fluted pilasters with Corinthian capitals, crowned with a small dome bearing a statue of Christ on top. The western facade, the most ornate, features statues of apostles Peter and Paul, medallions of prophets, and relief compositions of the Passion of Christ.\n\nThe interior decoration is executed in stucco and includes figures of prophets, angels holding cartouches, and images of patron saints — Stanislaus and Adalbert. The dome is divided into 36 rectangular panels depicting Christ, apostles, prophets and saints. This unique 'Bible of the Poor' — an architectural sermon in stone.",
+    "history": "The Boim family came to Lviv from the Kingdom of Hungary; their national origin remains unclear. They were affluent patricians of Catholic background who became polonized. George (Jerzy) Boim is credited with founding the chapel, which was completed by his son Paweł Boim.\n\nThe chapel was designed by renowned Lviv architect Andrzej Bemer, who followed a simplified diagram of the Sigismund's Chapel at Wawel Cathedral in Kraków, adding Italian elements. Sculptural works were executed by masters Jan Scholtz (likely from Königsberg) and Hans Fischer.\n\nThe ornamental decorations are of Dutch provenance, while narrative reliefs bear resemblance to those found in central and southern Poland, but are presumably based on German or Dutch graphic models. The appearance of the facade and altar recalls the iconostasis form, combining Western European and Eastern architectural traditions.\n\nIn the second half of the 18th century, the chapel ceased to be used by the Boim family as a burial place. The chapel is part of Lviv's historic center, which has been inscribed on the UNESCO World Heritage List since 1998.",
+    "significance": "The Boim Chapel is recognized as one of the most outstanding examples of Renaissance architecture in Ukraine and Central Europe. It demonstrates a unique combination of Italian, Dutch, German, and Polish architectural traditions. The richness of sculptural decoration makes it a true masterpiece of 17th-century stone carving. The chapel is an important component of the architectural ensemble of Lviv's Cathedral Square and an integral part of the UNESCO World Heritage site."
+  },
+
+  "description_de": {
+    "short": "Die Boim-Kapelle ist ein Denkmal religiöser Architektur am Kathedralenplatz in Lwiw, erbaut 1609-1615. Sie ist Teil der Altstadt von Lwiw, die zum UNESCO-Weltkulturerbe gehört.",
+    "full": "Die Boim-Kapelle ist ein einzigartiges Denkmal der Renaissance-Architektur am Kathedralenplatz in Lwiw, in der Nähe der Lateinischen Kathedrale. Erbaut 1609-1615 nach Entwürfen des Architekten Andrzej Bemer für die wohlhabende Patrizierfamilie Boim, die aus Ungarn nach Lwiw kam.\n\nDie Kapelle wurde von Georg (Jerzy) Boim als Familiengruft gegründet und von seinem Sohn Paweł Boim vollendet. Im Keller der Kapelle sind 14 Mitglieder der Familie Boim begraben. Das Gebäude beeindruckt durch seinen reichen architektonischen Dekor — die Fassade ist vollständig mit Skulpturkompositionen aus Sandstein bedeckt, die biblische Szenen darstellen.\n\nDie Kapelle ist auf quadratischem Grundriss gebaut und mit einer getäfelten Kuppel auf einem achteckigen Tambour bedeckt. Über der Kapelle erhebt sich eine Laterne auf acht kannelierten Pilastern mit korinthischen Kapitellen, gekrönt von einer kleinen Kuppel mit einer Christusstatue an der Spitze. Die westliche Fassade, die am reichsten verziert ist, zeigt Statuen der Apostel Petrus und Paulus, Medaillons von Propheten und Reliefkompositionen der Passion Christi.\n\nDie Innenausstattung ist aus Stuck gefertigt und umfasst Prophetenfiguren, Engel mit Kartuschen und Darstellungen der Schutzheiligen Stanislaus und Adalbert. Die Kuppel ist in 36 rechteckige Felder unterteilt mit Darstellungen von Christus, Aposteln, Propheten und Heiligen.",
+    "history": "Die Familie Boim kam aus dem Königreich Ungarn nach Lwiw; ihre nationale Herkunft bleibt unklar. Sie waren wohlhabende Patrizier katholischen Glaubens, die polonisiert wurden. Georg (Jerzy) Boim wird die Gründung der Kapelle zugeschrieben, die von seinem Sohn Paweł vollendet wurde.\n\nDie Kapelle wurde vom berühmten Lemberger Architekten Andrzej Bemer entworfen, der ein vereinfachtes Schema der Sigismundkapelle in der Wawel-Kathedrale in Krakau verwendete und italienische Elemente hinzufügte.\n\nIn der zweiten Hälfte des 18. Jahrhunderts hörte die Kapelle auf, von der Familie Boim als Begräbnisstätte genutzt zu werden. Die Kapelle ist Teil des historischen Zentrums von Lwiw, das seit 1998 in die UNESCO-Welterbeliste eingetragen ist.",
+    "significance": "Die Boim-Kapelle wird als eines der herausragendsten Beispiele der Renaissance-Architektur in der Ukraine und Mitteleuropa anerkannt. Sie demonstriert eine einzigartige Kombination italienischer, niederländischer, deutscher und polnischer architektonischer Traditionen."
+  },
+
+  "location": {
+    "city": "Lviv",
+    "region": "Lviv Oblast",
+    "address_uk": "Кафедральна площа, Львів, Львівська область, 79000",
+    "address_en": "Cathedral Square, Lviv, Lviv Oblast, 79000",
+    "address_de": "Kathedralenplatz, Lwiw, Oblast Lwiw, 79000",
+    "coordinates": {
+      "latitude": 49.84056,
+      "longitude": 24.03111
+    },
+    "directions_uk": {
+      "general": "Розташована на Кафедральній площі у центрі Львова, поряд з Латинською катедрою",
+      "publicTransport": "Трамваї №1, 6, 9 до зупинки 'Площа Ринок', далі пішки 5 хвилин",
+      "car": "З центру міста пішки або на таксі. Обмежений доступ автомобілів до історичного центру",
+      "parking": "Паркування на вулиці Винниченка або на площі Галицькій"
+    },
+    "directions_en": {
+      "general": "Located in Cathedral Square in Lviv's city center, next to the Latin Cathedral",
+      "publicTransport": "Trams #1, 6, 9 to 'Rynok Square' stop, then 5 minutes walk",
+      "car": "From city center by foot or taxi. Limited car access to historic center",
+      "parking": "Parking on Vynnychenka Street or Halytska Square"
+    },
+    "directions_de": {
+      "general": "Am Kathedralenplatz im Stadtzentrum von Lwiw, neben der Lateinischen Kathedrale gelegen",
+      "publicTransport": "Straßenbahnen Nr. 1, 6, 9 zur Haltestelle 'Rynok-Platz', dann 5 Minuten zu Fuß",
+      "car": "Vom Stadtzentrum zu Fuß oder mit dem Taxi. Eingeschränkter Fahrzeugzugang zur Altstadt",
+      "parking": "Parkplätze in der Wynnytschenko-Straße oder am Halyzka-Platz"
+    },
+    "nearbyAttractions": [
+      {
+        "name_uk": "Латинська катедра",
+        "name_en": "Latin Cathedral",
+        "distance": "50 м",
+        "type": "church"
+      },
+      {
+        "name_uk": "Площа Ринок",
+        "name_en": "Rynok Square",
+        "distance": "0.3 км",
+        "type": "historic-square"
+      },
+      {
+        "name_uk": "Вірменський собор",
+        "name_en": "Armenian Cathedral",
+        "distance": "0.4 км",
+        "type": "church"
+      }
+    ]
+  },
+
+  "contact": {
+    "phone": "+380 32 235 75 94",
+    "email": "info@lviv-cathedral.com.ua",
+    "website": "https://city-adm.lviv.ua",
+    "bookingUrl": null,
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/lvivoldtown/",
+      "instagram": null,
+      "youtube": null
+    }
+  },
+
+  "visitingInformation": {
+    "openingTimes": {
+      "status_uk": "Відкрито для зовнішнього огляду цілий рік",
+      "status_en": "Open for exterior viewing year-round",
+      "status_de": "Ganzjährig für Außenbesichtigung geöffnet",
+      "seasonal": [
+        {
+          "season_uk": "Цілий рік",
+          "season_en": "Year-round",
+          "season_de": "Ganzjährig",
+          "days_uk": "Щодня (зовнішній огляд)",
+          "days_en": "Daily (exterior viewing)",
+          "days_de": "Täglich (Außenbesichtigung)",
+          "hours": "Зовнішній огляд - цілодобово / Exterior viewing - 24/7",
+          "lastAdmission": null
+        }
+      ]
+    },
+    "admissionPrices": {
+      "currency": "UAH",
+      "adult": 0,
+      "student": 0,
+      "child": 0,
+      "senior": 0,
+      "family": 0,
+      "notes_uk": "Зовнішній огляд безкоштовний. Внутрішній огляд обмежений, зазвичай тільки під час богослужінь",
+      "notes_en": "Exterior viewing free. Interior access limited, usually only during services",
+      "notes_de": "Außenbesichtigung kostenlos. Innenzugang eingeschränkt, normalerweise nur während Gottesdiensten"
+    },
+    "tourOptions": [
+      {
+        "type_uk": "Самостійний огляд фасаду",
+        "type_en": "Self-guided facade viewing",
+        "type_de": "Selbstgeführte Fassadenbesichtigung",
+        "duration_uk": "15-30 хвилин",
+        "duration_en": "15-30 minutes",
+        "duration_de": "15-30 Minuten",
+        "price": 0
+      },
+      {
+        "type_uk": "Екскурсія історичним центром Львова (включає каплицю)",
+        "type_en": "Lviv historic center tour (includes chapel)",
+        "type_de": "Führung durch das historische Zentrum (einschließlich Kapelle)",
+        "duration_uk": "2-3 години",
+        "duration_en": "2-3 hours",
+        "duration_de": "2-3 Stunden",
+        "price": 200,
+        "groupSize": "до 15 осіб / up to 15 people / bis 15 Personen"
+      }
+    ],
+    "averageVisitDuration_uk": "15-30 хвилин",
+    "averageVisitDuration_en": "15-30 minutes",
+    "averageVisitDuration_de": "15-30 Minuten",
+    "busyPeriods_uk": ["Літні місяці", "Вихідні дні", "Релігійні свята"],
+    "busyPeriods_en": ["Summer months", "Weekends", "Religious holidays"],
+    "busyPeriods_de": ["Sommermonate", "Wochenenden", "Religiöse Feiertage"],
+    "adviceForVisitors_uk": "Каплиця зазвичай закрита для внутрішнього огляду, але зовнішній фасад можна оглянути у будь-який час. Найкраще фотографувати вранці або ввечері при м'якому освітленні. Відвідайте також сусідню Латинську катедру та Кафедральну площу.",
+    "adviceForVisitors_en": "The chapel is usually closed for interior visits, but the exterior facade can be viewed anytime. Best photographed in morning or evening light. Also visit the nearby Latin Cathedral and Cathedral Square.",
+    "adviceForVisitors_de": "Die Kapelle ist normalerweise für Innenbesichtigungen geschlossen, aber die Außenfassade kann jederzeit besichtigt werden. Am besten bei Morgen- oder Abendlicht fotografieren. Besuchen Sie auch die nahe gelegene Lateinische Kathedrale und den Kathedralenplatz."
+  },
+
+  "features": {
+    "highlights_uk": [
+      "Унікальний ренесансний фасад, повністю вкритий скульптурами",
+      "Рельєфні композиції Страстей Христових",
+      "Статуї апостолів Петра і Павла",
+      "Панельний купол з 36 зображеннями святих",
+      "Частина Всесвітньої спадщини ЮНЕСКО",
+      "Архітектура за проектом Анджея Бемера",
+      "Родинна усипальниця 14 членів роду Боїмів"
+    ],
+    "highlights_en": [
+      "Unique Renaissance facade completely covered with sculptures",
+      "Relief compositions of the Passion of Christ",
+      "Statues of apostles Peter and Paul",
+      "Paneled dome with 36 images of saints",
+      "Part of UNESCO World Heritage Site",
+      "Architecture by Andrzej Bemer",
+      "Family crypt of 14 Boim family members"
+    ],
+    "highlights_de": [
+      "Einzigartige Renaissance-Fassade vollständig mit Skulpturen bedeckt",
+      "Reliefkompositionen der Passion Christi",
+      "Statuen der Apostel Petrus und Paulus",
+      "Getäfelte Kuppel mit 36 Heiligenbildern",
+      "Teil des UNESCO-Weltkulturerbes",
+      "Architektur von Andrzej Bemer",
+      "Familiengruft von 14 Mitgliedern der Familie Boim"
+    ],
+    "facilities_uk": ["Зовнішній огляд", "Фотозона", "Історичні таблички"],
+    "facilities_en": ["Exterior viewing", "Photo spot", "Historical plaques"],
+    "facilities_de": ["Außenbesichtigung", "Fotopunkt", "Historische Tafeln"],
+    "accessibility": {
+      "wheelchairAccessible": false,
+      "notes_uk": "Зовнішній огляд доступний для всіх. Внутрішній доступ обмежений через історичну будівлю зі сходами",
+      "notes_en": "Exterior viewing accessible to all. Interior access limited due to historic building with stairs",
+      "notes_de": "Außenbesichtigung für alle zugänglich. Innenzugang aufgrund historischem Gebäude mit Treppen eingeschränkt"
+    },
+    "uniqueSellingPoints_uk": [
+      "Найбагатше прикрашена ренесансна каплиця в Україні",
+      "Унікальне поєднання італійських, голландських та польських архітектурних традицій",
+      "Частина архітектурного ансамблю ЮНЕСКО",
+      "'Біблія для бідних' у камені — наративні біблійні сцени",
+      "Шедевр львівського ренесансу"
+    ],
+    "uniqueSellingPoints_en": [
+      "Most richly decorated Renaissance chapel in Ukraine",
+      "Unique combination of Italian, Dutch and Polish architectural traditions",
+      "Part of UNESCO architectural ensemble",
+      "'Bible of the Poor' in stone — narrative biblical scenes",
+      "Masterpiece of Lviv Renaissance"
+    ],
+    "uniqueSellingPoints_de": [
+      "Reichst verzierte Renaissance-Kapelle in der Ukraine",
+      "Einzigartige Kombination italienischer, niederländischer und polnischer Architekturtraditionen",
+      "Teil des UNESCO-Architekturensembles",
+      "'Bibel der Armen' in Stein — narrative biblische Szenen",
+      "Meisterwerk der Lemberger Renaissance"
+    ]
+  },
+
+  "images": {
+    "heroImage": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Lwow_kaplica_Boimow_2.jpg",
+      "alt_uk": "Каплиця Боїмів, вид з північного сходу",
+      "alt_en": "Boim Chapel, view from the northeast",
+      "alt_de": "Boim-Kapelle, Ansicht von Nordosten",
+      "caption_uk": "Західний фасад каплиці Боїмів, повністю вкритий ренесансними скульптурами",
+      "caption_en": "Western facade of Boim Chapel, completely covered with Renaissance sculptures",
+      "caption_de": "Westfassade der Boim-Kapelle, vollständig mit Renaissance-Skulpturen bedeckt"
+    },
+    "gallery": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Lw%C3%B3w_-_Kaplica_Boim%C3%B3w_01.jpg",
+        "alt_uk": "Загальний вид північного фасаду",
+        "alt_en": "General view of the northern facade",
+        "alt_de": "Gesamtansicht der Nordfassade",
+        "caption_uk": "Вид на каплицю з ратуші на Кафедральній площі"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Lw%C3%B3w_-_Kaplica_Boim%C3%B3w_04.jpg",
+        "alt_uk": "Деталь фасаду - композиція 'Зняття з хреста'",
+        "alt_en": "Facade detail - 'Descent from the Cross' composition",
+        "alt_de": "Fassadendetail - Komposition 'Kreuzabnahme'",
+        "caption_uk": "Рельєфна композиція Страстей Христових на фасаді"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/%D0%92%D0%B8%D0%B4%D1%83%D0%B1%D0%B8%D1%86%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D0%B8%D1%80-3.JPG/330px-%D0%92%D0%B8%D0%B4%D1%83%D0%B1%D0%B8%D1%86%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D0%B8%D1%80-3.JPG",
+        "alt_uk": "Інтер'єр каплиці з куполом",
+        "alt_en": "Chapel interior with dome",
+        "alt_de": "Kapelleninneres mit Kuppel",
+        "caption_uk": "Внутрішнє оздоблення з 36 панелями святих"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Lw%C3%B3w_-_Kaplica_Boim%C3%B3w_13.jpg/250px-Lw%C3%B3w_-_Kaplica_Boim%C3%B3w_13.jpg",
+        "alt_uk": "Купол каплиці з трьома рядами касет",
+        "alt_en": "Chapel dome with three rows of coffers",
+        "alt_de": "Kapellenkuppel mit drei Kassettenreihen",
+        "caption_uk": "Октагональний тамбур з панельним куполом"
+      }
+    ]
+  },
+
+  "historicalData": {
+    "yearBuilt": "1609-1615",
+    "yearBuiltNote_uk": "Будівництво розпочато 1609 року, завершено 1615 року. Консекрована 1615 року",
+    "yearBuiltNote_en": "Construction started 1609, completed 1615. Consecrated 1615",
+    "yearBuiltNote_de": "Baubeginn 1609, Fertigstellung 1615. Geweiht 1615",
+    "architecturalStyle_uk": "Ренесанс з елементами маньєризму",
+    "architecturalStyle_en": "Renaissance with Mannerist elements",
+    "architecturalStyle_de": "Renaissance mit manieristischen Elementen",
+    "architects": [
+      {
+        "name": "Andrzej Bemer / Анджей Бемер",
+        "period": "1609-1615",
+        "contribution_uk": "Головний архітектор, автор проекту каплиці",
+        "contribution_en": "Chief architect, designer of the chapel",
+        "contribution_de": "Hauptarchitekt, Entwerfer der Kapelle"
+      },
+      {
+        "name": "Jan Scholtz / Ян Шольц",
+        "period": "1610-1615",
+        "contribution_uk": "Скульптор, виконання декоративних рельєфів другого етапу",
+        "contribution_en": "Sculptor, execution of second stage decorative reliefs",
+        "contribution_de": "Bildhauer, Ausführung der dekorativen Reliefs der zweiten Stufe"
+      },
+      {
+        "name": "Hans Fischer / Ганс Фішер",
+        "period": "1610-1615",
+        "contribution_uk": "Скульптор інтер'єру, виконання внутрішніх скульптур",
+        "contribution_en": "Interior sculptor, execution of interior sculptures",
+        "contribution_de": "Innenskulptor, Ausführung der Innenskulpturen"
+      }
+    ],
+    "unescoStatus": "inscribed",
+    "unescoYear": 1998,
+    "nationalHeritageStatus": "National Monument of Ukraine",
+    "referenceNumber": "L'viv-UNESCO-1998",
+    "managedBy_uk": "Римсько-католицька архідієцезія Львова",
+    "managedBy_en": "Roman Catholic Archdiocese of Lviv",
+    "managedBy_de": "Römisch-katholische Erzdiözese Lemberg"
+  },
+
+  "culturalEvents": [
+    {
+      "name_uk": "Дні європейської спадщини",
+      "name_en": "European Heritage Days",
+      "name_de": "Europäische Tage des Denkmals",
+      "period_uk": "Вересень (щорічно)",
+      "period_en": "September (annually)",
+      "period_de": "September (jährlich)",
+      "description_uk": "Під час Днів європейської спадщини каплиця може бути відкрита для внутрішнього огляду з екскурсіями",
+      "description_en": "During European Heritage Days, the chapel may be open for interior visits with guided tours",
+      "description_de": "Während der Europäischen Tage des Denkmals kann die Kapelle für Innenbesichtigungen mit Führungen geöffnet sein"
+    }
+  ],
+
+  "tags": [
+    "chapel",
+    "renaissance",
+    "lviv",
+    "unesco",
+    "world-heritage",
+    "architecture",
+    "sculpture",
+    "boim-family",
+    "baroque",
+    "cathedral-square",
+    "religious-architecture",
+    "17th-century",
+    "andrzej-bemer",
+    "sandstone-carving",
+    "mannerism"
+  ],
+
+  "suitableFor_uk": [
+    "Любителі архітектури",
+    "Туристи",
+    "Фотографи",
+    "Історики мистецтва",
+    "Паломники",
+    "Сімейні відвідування"
+  ],
+  "suitableFor_en": [
+    "Architecture enthusiasts",
+    "Tourists",
+    "Photographers",
+    "Art historians",
+    "Pilgrims",
+    "Family visits"
+  ],
+  "suitableFor_de": [
+    "Architekturliebhaber",
+    "Touristen",
+    "Fotografen",
+    "Kunsthistoriker",
+    "Pilger",
+    "Familienbesuche"
+  ],
+
+  "weatherDependent": false,
+  "indoorActivities": true,
+  "outdoorActivities": true,
+
+  "priceRange": "$",
+  "rating": 4.7,
+  "reviewsCount": 1250,
+  "featured": true,
+  "status": "published",
+
+  "metaDescription_uk": "Каплиця Боїмів у Львові — перлина ренесансної архітектури 1609-1615 рр. Частина ЮНЕСКО. Унікальний фасад з біблійними скульптурами. Кафедральна площа.",
+  "metaDescription_en": "Boim Chapel in Lviv — Renaissance architectural gem 1609-1615. UNESCO World Heritage. Unique facade with biblical sculptures. Cathedral Square.",
+  "metaDescription_de": "Boim-Kapelle in Lwiw — Renaissance-Architekturjuwel 1609-1615. UNESCO-Welterbe. Einzigartige Fassade mit biblischen Skulpturen. Kathedralenplatz.",
+
+  "keywords": [
+    "Каплиця Боїмів",
+    "Boim Chapel",
+    "Boim-Kapelle",
+    "Львів",
+    "Lviv",
+    "Lemberg",
+    "ЮНЕСКО",
+    "UNESCO",
+    "ренесанс",
+    "Renaissance",
+    "Кафедральна площа",
+    "Cathedral Square",
+    "архітектура",
+    "architecture",
+    "скульптура",
+    "sculpture"
+  ],
+
+  "lastUpdated": "2025-11-30",
+  "source": "Wikipedia, Lviv Tourism, UNESCO World Heritage Center",
+  "verified": true
+}

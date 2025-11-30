@@ -1,0 +1,444 @@
+{
+  "id": "pysanka-museum-kolomyia",
+  "slug": "pysanka-museum-kolomyia",
+
+  "name_uk": "Музей писанкового розпису",
+  "name_en": "Pysanka Museum",
+  "name_de": "Pyssanka-Museum",
+
+  "tagline_uk": "Єдиний у світі музей, присвячений мистецтву українського розпису писанок",
+  "tagline_en": "The world's only museum dedicated to the art of Ukrainian pysanka painting",
+  "tagline_de": "Das weltweit einzige Museum, das der Kunst der ukrainischen Pyssanka-Malerei gewidmet ist",
+
+  "category": "museum",
+  "subcategories": ["folk-art", "ethnography", "ukrainian-culture", "unesco-heritage"],
+  "region": "Kolomyia",
+  "oblast": "Ivano-Frankivsk Oblast",
+
+  "description_uk": {
+    "short": "Музей писанкового розпису у Коломиї — єдиний у світі музей, присвячений писанкам, з унікальною будівлею у формі великодньої писанки та колекцією понад 12 000 експонатів з України та 35 країн світу.",
+    "full": "Музей писанкового розпису у Коломиї є унікальним культурним закладом світового значення. Це єдиний у світі музей, повністю присвячений мистецтву розпису писанок — традиційних українських великодніх яєць. У вересні 2000 року для музею була збудована унікальна будівля у формі величезної писанки, яка стала візитівкою міста Коломиї та одним із найвпізнаваніших символів української культури.\n\nМузей був створений на базі колекції писанок Коломийського музею народного мистецтва Гуцульщини. Колекція музею налічує понад 12 000 писанок та декоративних яєць з України та 35 країн світу, включаючи писанки, крашанки, дряпанки на курячих, гусячих та страусових шкаралупах, а також декоративні яйця з різноманітних матеріалів.\n\nНайдавніша писанка в колекції, розписана природними барвниками на гусячому яйці, датується понад 500 роками. Музей демонструє різноманітність технік, орнаментів та символіки писанок з різних регіонів України — від Полісся до Гуцульщини, від Поділля до Буковини. Кожен регіон має свої унікальні мотиви, кольори та техніки розпису.\n\nМузей регулярно проводить виставки традиційного та сучасного писанкарства, майстер-класи з розпису писанок, наукові конференції та культурні заходи. У 2007 році, під час 10-го Міжнародного гуцульського фестивалю, музей отримав визнання як визначна пам'ятка сучасної України.",
+    "history": "Історія музею розпочалася з колекції Коломийського музею народного мистецтва Гуцульщини, який багато років збирав та зберігав писанки з різних регіонів України та світу. У 1987 році офіційно відкрився Музей писанкового розпису у приміщенні церкви Благовіщення.\n\nВажливим етапом стало будівництво нової, унікальної будівлі у формі писанки. У 2000 році архітектори створили справжній шедевр — тринадцятиметрову споруду у вигляді гігантської писанки, прикрашеної традиційними гуцульськими орнаментами. Будівля складається з центральної частини у формі яйця та допоміжних приміщень.\n\nОфіційне відкриття нової будівлі відбулося 23 вересня 2000 року під час 10-го Міжнародного гуцульського фестивалю. Цей день став знаковим для Коломиї та всієї України. Музей швидко став не лише культурним центром, а й головною туристичною пам'яткою міста.\n\nПротягом років колекція музею постійно поповнювалася експонатами з різних куточків світу. Сьогодні тут представлені писанки з більш ніж 35 країн, що демонструє універсальність традиції розпису яєць у різних культурах.",
+    "significance": "Музей писанкового розпису має виняткове значення для збереження та популяризації української нематеріальної культурної спадщини. Писанкарство є давньою традицією, що передається з покоління в покоління і несе глибоке символічне значення в українській культурі.\n\nУ 2000 році ЮНЕСКО включила українське писанкарство до списку нематеріальної культурної спадщини людства, що підкреслює світове значення цього мистецтва. Музей у Коломиї відіграє ключову роль у збереженні цієї традиції, документуючи різноманітність регіональних стилів та технік.\n\nМузей є не лише сховищем експонатів, а й активним центром дослідження, навчання та популяризації писанкарства. Тут проводяться наукові дослідження, організовуються виставки, майстер-класи для дітей та дорослих, міжнародні конференції.\n\nУнікальна будівля музею стала символом Коломиї та одним із найфотографованих об'єктів в Івано-Франківській області. Вона демонструє креативний підхід до музейної архітектури та привертає увагу туристів з усього світу."
+  },
+
+  "description_en": {
+    "short": "The Pysanka Museum in Kolomyia is the world's only museum dedicated to pysanky, featuring a unique building shaped like a giant Easter egg and a collection of over 12,000 exhibits from Ukraine and 35 countries worldwide.",
+    "full": "The Pysanka Museum in Kolomyia is a unique cultural institution of world significance. It is the world's only museum entirely dedicated to the art of pysanka painting - traditional Ukrainian Easter eggs. In September 2000, a unique building in the shape of a giant pysanka was constructed for the museum, which has become the calling card of Kolomyia and one of the most recognizable symbols of Ukrainian culture.\n\nThe museum was created based on the pysanka collection of the Kolomyia Museum of Hutsul Folk Art. The museum's collection includes over 12,000 pysanky and decorative eggs from Ukraine and 35 countries worldwide, including pysanky, krashanky, dryapanky on chicken, goose and ostrich shells, as well as decorative eggs made from various materials.\n\nThe oldest pysanka in the collection, painted with natural dyes on a goose egg, dates back over 500 years. The museum showcases the diversity of techniques, ornaments and symbolism of pysanky from different regions of Ukraine - from Polissia to Hutsulshchyna, from Podillia to Bukovyna. Each region has its unique motifs, colors and painting techniques.\n\nThe museum regularly holds exhibitions of traditional and contemporary pysanka art, master classes on pysanka painting, scientific conferences and cultural events. In 2007, during the 10th International Hutsul Festival, the museum was recognized as a landmark of modern Ukraine.",
+    "history": "The museum's history began with the collection of the Kolomyia Museum of Hutsul Folk Art, which for many years collected and preserved pysanky from various regions of Ukraine and the world. In 1987, the Pysanka Museum officially opened in the premises of the Annunciation Church.\n\nAn important stage was the construction of a new, unique building in the shape of a pysanka. In 2000, architects created a true masterpiece - a thirteen-meter structure in the form of a giant pysanka, decorated with traditional Hutsul ornaments. The building consists of a central egg-shaped part and auxiliary premises.\n\nThe official opening of the new building took place on September 23, 2000, during the 10th International Hutsul Festival. This day became significant for Kolomyia and all of Ukraine. The museum quickly became not only a cultural center but also the main tourist attraction of the city.\n\nOver the years, the museum's collection has been constantly replenished with exhibits from different corners of the world. Today, pysanky from more than 35 countries are represented here, demonstrating the universality of the egg painting tradition in different cultures.",
+    "significance": "The Pysanka Museum has exceptional significance for preserving and promoting Ukrainian intangible cultural heritage. Pysanka painting is an ancient tradition passed down from generation to generation and carries deep symbolic meaning in Ukrainian culture.\n\nIn 2000, UNESCO included Ukrainian pysanka painting in the list of Intangible Cultural Heritage of Humanity, emphasizing the world significance of this art. The museum in Kolomyia plays a key role in preserving this tradition, documenting the diversity of regional styles and techniques.\n\nThe museum is not only a repository of exhibits but also an active center for research, education and promotion of pysanka art. Scientific research is conducted here, exhibitions are organized, master classes for children and adults, international conferences.\n\nThe museum's unique building has become a symbol of Kolomyia and one of the most photographed objects in Ivano-Frankivsk Oblast. It demonstrates a creative approach to museum architecture and attracts tourists from around the world."
+  },
+
+  "description_de": {
+    "short": "Das Pyssanka-Museum in Kolomyia ist das weltweit einzige Museum, das den Pyssanken gewidmet ist, mit einem einzigartigen Gebäude in Form eines riesigen Osterei und einer Sammlung von über 12.000 Exponaten aus der Ukraine und 35 Ländern weltweit.",
+    "full": "Das Pyssanka-Museum in Kolomyia ist eine einzigartige Kulturinstitution von Weltbedeutung. Es ist das weltweit einzige Museum, das vollständig der Kunst der Pyssanka-Malerei gewidmet ist - traditionelle ukrainische Ostereier. Im September 2000 wurde ein einzigartiges Gebäude in Form einer riesigen Pyssanka für das Museum gebaut, das zur Visitenkarte von Kolomyia und zu einem der bekanntesten Symbole der ukrainischen Kultur geworden ist.\n\nDas Museum wurde auf der Grundlage der Pyssanka-Sammlung des Kolomyia-Museums für Huzulische Volkskunst gegründet. Die Sammlung des Museums umfasst über 12.000 Pyssanken und dekorative Eier aus der Ukraine und 35 Ländern weltweit.\n\nDie älteste Pyssanka in der Sammlung, mit natürlichen Farbstoffen auf einem Gänseei bemalt, ist über 500 Jahre alt. Das Museum zeigt die Vielfalt der Techniken, Ornamente und Symbolik von Pyssanken aus verschiedenen Regionen der Ukraine.\n\nDas Museum veranstaltet regelmäßig Ausstellungen traditioneller und zeitgenössischer Pyssanka-Kunst, Meisterklassen zur Pyssanka-Malerei, wissenschaftliche Konferenzen und kulturelle Veranstaltungen.",
+    "history": "Die Geschichte des Museums begann mit der Sammlung des Kolomyia-Museums für Huzulische Volkskunst. 1987 wurde das Pyssanka-Museum offiziell in den Räumen der Verkündigungskirche eröffnet.\n\nEin wichtiger Schritt war der Bau eines neuen, einzigartigen Gebäudes in Form einer Pyssanka. Im Jahr 2000 schufen Architekten ein wahres Meisterwerk - eine dreizehn Meter hohe Struktur in Form einer riesigen Pyssanka, verziert mit traditionellen Huzulischen Ornamenten.\n\nDie offizielle Eröffnung des neuen Gebäudes fand am 23. September 2000 während des 10. Internationalen Huzulischen Festivals statt.",
+    "significance": "Das Pyssanka-Museum hat außergewöhnliche Bedeutung für die Bewahrung und Förderung des ukrainischen immateriellen Kulturerbes. Die Pyssanka-Malerei ist eine alte Tradition, die von Generation zu Generation weitergegeben wird.\n\nDie UNESCO hat die ukrainische Pyssanka-Malerei in die Liste des immateriellen Kulturerbes der Menschheit aufgenommen. Das Museum in Kolomyia spielt eine Schlüsselrolle bei der Bewahrung dieser Tradition.\n\nDas einzigartige Gebäude des Museums ist zu einem Symbol von Kolomyia geworden und zieht Touristen aus der ganzen Welt an."
+  },
+
+  "location": {
+    "city": "Kolomyia",
+    "region": "Ivano-Frankivsk Oblast",
+    "address_uk": "просп. Вячеслава Чорновола, 43Б, Коломия, Івано-Франківська область, 78200",
+    "address_en": "43B Viacheslava Chornovola Avenue, Kolomyia, Ivano-Frankivsk Oblast, 78200",
+    "address_de": "Viacheslava-Chornovola-Allee 43B, Kolomyia, Oblast Iwano-Frankiwsk, 78200",
+    "coordinates": {
+      "latitude": 48.5283,
+      "longitude": 25.0390
+    },
+    "directions_uk": {
+      "general": "Розташований у центральній частині міста Коломиї, поблизу парку",
+      "publicTransport": "Автобусом або маршруткою до зупинки 'Музей писанки'. З залізничного вокзалу — маршрутка №2, 10 хвилин",
+      "car": "Зі Львова — 135 км по трасі Н10 (близько 2 години). З Івано-Франківська — 65 км по трасі Н09 (близько 1 години)",
+      "parking": "Безкоштовна парковка біля музею"
+    },
+    "directions_en": {
+      "general": "Located in the central part of Kolomyia city, near the park",
+      "publicTransport": "Bus or minibus to 'Pysanka Museum' stop. From railway station - minibus №2, 10 minutes",
+      "car": "From Lviv - 135 km via H10 highway (about 2 hours). From Ivano-Frankivsk - 65 km via H09 highway (about 1 hour)",
+      "parking": "Free parking near the museum"
+    },
+    "directions_de": {
+      "general": "Im zentralen Teil der Stadt Kolomyia, in der Nähe des Parks gelegen",
+      "publicTransport": "Bus oder Minibus zur Haltestelle 'Pyssanka-Museum'. Vom Bahnhof - Minibus Nr. 2, 10 Minuten",
+      "car": "Von Lwiw - 135 km über die H10 (ca. 2 Stunden). Von Iwano-Frankiwsk - 65 km über die H09 (ca. 1 Stunde)",
+      "parking": "Kostenlose Parkplätze in der Nähe des Museums"
+    },
+    "nearbyAttractions": [
+      {
+        "name_uk": "Національний музей народного мистецтва Гуцульщини та Покуття",
+        "name_en": "National Museum of Hutsulshchyna and Pokuttya Folk Art",
+        "distance": "0.8 km",
+        "type": "museum"
+      },
+      {
+        "name_uk": "Церква Благовіщення",
+        "name_en": "Church of the Annunciation",
+        "distance": "0.5 km",
+        "type": "church"
+      },
+      {
+        "name_uk": "Ратуша Коломиї",
+        "name_en": "Kolomyia Town Hall",
+        "distance": "1.2 km",
+        "type": "historic-building"
+      }
+    ]
+  },
+
+  "contact": {
+    "phone": "+380 3433 2-24-87",
+    "email": "pysanka.museum@gmail.com",
+    "website": "http://pysanka.museum/",
+    "bookingUrl": null,
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/pysanka.museum",
+      "instagram": "https://www.instagram.com/pysanka_museum/",
+      "twitter": null,
+      "youtube": null
+    }
+  },
+
+  "visitingInformation": {
+    "openingTimes": {
+      "status_uk": "Відкрито цілий рік",
+      "status_en": "Open year-round",
+      "status_de": "Ganzjährig geöffnet",
+      "seasonal": [
+        {
+          "season_uk": "Травень - Вересень",
+          "season_en": "May - September",
+          "season_de": "Mai - September",
+          "days_uk": "Вівторок - Неділя",
+          "days_en": "Tuesday - Sunday",
+          "days_de": "Dienstag - Sonntag",
+          "hours": "10:00 - 18:00",
+          "lastAdmission": "17:30"
+        },
+        {
+          "season_uk": "Жовтень - Квітень",
+          "season_en": "October - April",
+          "season_de": "Oktober - April",
+          "days_uk": "Вівторок - Неділя",
+          "days_en": "Tuesday - Sunday",
+          "days_de": "Dienstag - Sonntag",
+          "hours": "10:00 - 17:00",
+          "lastAdmission": "16:30"
+        }
+      ]
+    },
+    "admissionPrices": {
+      "currency": "UAH",
+      "adult": 50,
+      "student": 25,
+      "child": 15,
+      "senior": 25,
+      "family": 120,
+      "notes_uk": "Діти до 6 років - безкоштовно. Фото/відеозйомка - 30 грн додатково. Групові знижки доступні",
+      "notes_en": "Children under 6 - free. Photo/video - additional 30 UAH. Group discounts available",
+      "notes_de": "Kinder unter 6 Jahren - kostenlos. Foto/Video - zusätzlich 30 UAH. Gruppenrabatte verfügbar"
+    },
+    "tourOptions": [
+      {
+        "type_uk": "Самостійний огляд",
+        "type_en": "Self-guided tour",
+        "type_de": "Selbstgeführte Tour",
+        "duration_uk": "30-45 хвилин",
+        "duration_en": "30-45 minutes",
+        "duration_de": "30-45 Minuten",
+        "price": 0
+      },
+      {
+        "type_uk": "Екскурсія з гідом українською",
+        "type_en": "Guided tour in Ukrainian",
+        "type_de": "Führung auf Ukrainisch",
+        "duration_uk": "45 хвилин",
+        "duration_en": "45 minutes",
+        "duration_de": "45 Minuten",
+        "price": 200,
+        "groupSize": "до 30 осіб / up to 30 people / bis 30 Personen"
+      },
+      {
+        "type_uk": "Майстер-клас з розпису писанок",
+        "type_en": "Pysanka painting master class",
+        "type_de": "Meisterklasse Pyssanka-Malerei",
+        "duration_uk": "1-1.5 години",
+        "duration_en": "1-1.5 hours",
+        "duration_de": "1-1,5 Stunden",
+        "price": 150,
+        "groupSize": "5-15 осіб / 5-15 people / 5-15 Personen"
+      }
+    ],
+    "averageVisitDuration_uk": "1-1.5 години",
+    "averageVisitDuration_en": "1-1.5 hours",
+    "averageVisitDuration_de": "1-1,5 Stunden",
+    "busyPeriods_uk": ["Великодній період (березень-квітень)", "Літні місяці (червень-серпень)", "Вихідні дні", "Гуцульський фестиваль (серпень)"],
+    "busyPeriods_en": ["Easter period (March-April)", "Summer months (June-August)", "Weekends", "Hutsul Festival (August)"],
+    "busyPeriods_de": ["Osterzeit (März-April)", "Sommermonate (Juni-August)", "Wochenenden", "Huzulisches Festival (August)"],
+    "adviceForVisitors_uk": "Відвідайте під час Великодня для спеціальних виставок. Візьміть участь у майстер-класі — це унікальний досвід. Фотографуйте унікальну будівлю ззовні. Поєднайте відвідування з оглядом інших музеїв Коломиї. Музей невеликий, але дуже цікавий для всієї родини.",
+    "adviceForVisitors_en": "Visit during Easter for special exhibitions. Participate in a master class - it's a unique experience. Photograph the unique building from outside. Combine the visit with a tour of other Kolomyia museums. The museum is small but very interesting for the whole family.",
+    "adviceForVisitors_de": "Besuchen Sie während Ostern für Sonderausstellungen. Nehmen Sie an einer Meisterklasse teil - es ist eine einzigartige Erfahrung. Fotografieren Sie das einzigartige Gebäude von außen. Kombinieren Sie den Besuch mit einer Tour durch andere Museen in Kolomyia. Das Museum ist klein, aber sehr interessant für die ganze Familie."
+  },
+
+  "features": {
+    "highlights_uk": [
+      "Єдиний у світі музей писанки",
+      "Унікальна будівля у формі гігантської писанки",
+      "Понад 12 000 писанок з України та 35 країн світу",
+      "Найдавніша писанка віком понад 500 років",
+      "Регіональні колекції з усіх областей України",
+      "Майстер-класи з розпису писанок",
+      "Нематеріальна культурна спадщина ЮНЕСКО",
+      "Інтерактивні виставки",
+      "Сувенірна крамниця з автентичними писанками"
+    ],
+    "highlights_en": [
+      "World's only pysanka museum",
+      "Unique building shaped like a giant pysanka",
+      "Over 12,000 pysanky from Ukraine and 35 countries",
+      "Oldest pysanka over 500 years old",
+      "Regional collections from all oblasts of Ukraine",
+      "Pysanka painting master classes",
+      "UNESCO Intangible Cultural Heritage",
+      "Interactive exhibitions",
+      "Gift shop with authentic pysanky"
+    ],
+    "highlights_de": [
+      "Weltweit einziges Pyssanka-Museum",
+      "Einzigartiges Gebäude in Form einer riesigen Pyssanka",
+      "Über 12.000 Pyssanken aus der Ukraine und 35 Ländern",
+      "Älteste Pyssanka über 500 Jahre alt",
+      "Regionale Sammlungen aus allen Oblasten der Ukraine",
+      "Meisterklassen zur Pyssanka-Malerei",
+      "UNESCO immaterielles Kulturerbe",
+      "Interaktive Ausstellungen",
+      "Souvenirladen mit authentischen Pyssanken"
+    ],
+    "facilities_uk": ["Музей", "Виставкові зали", "Майстерня для майстер-класів", "Сувенірна крамниця", "Туалети", "Безкоштовна парковка"],
+    "facilities_en": ["Museum", "Exhibition halls", "Workshop for master classes", "Gift shop", "Toilets", "Free parking"],
+    "facilities_de": ["Museum", "Ausstellungsräume", "Werkstatt für Meisterklassen", "Souvenirladen", "Toiletten", "Kostenloser Parkplatz"],
+    "accessibility": {
+      "wheelchairAccessible": true,
+      "notes_uk": "Музей має пандус та ліфт. Доступ для відвідувачів з обмеженими можливостями до всіх залів. Є спеціальний туалет.",
+      "notes_en": "The museum has a ramp and elevator. Access for visitors with disabilities to all halls. Special toilet available.",
+      "notes_de": "Das Museum verfügt über eine Rampe und einen Aufzug. Zugang für Besucher mit Behinderungen zu allen Sälen. Spezielle Toilette vorhanden."
+    },
+    "uniqueSellingPoints_uk": [
+      "Єдиний у світі музей писанки",
+      "Найунікальніша будівля в Україні",
+      "Частина нематеріальної спадщини ЮНЕСКО",
+      "Найбільша колекція писанок у світі",
+      "Візитівка міста Коломиї",
+      "Можливість навчитися мистецтву писанкарства",
+      "Представлені писанки з 35 країн світу"
+    ],
+    "uniqueSellingPoints_en": [
+      "World's only pysanka museum",
+      "Most unique building in Ukraine",
+      "Part of UNESCO Intangible Heritage",
+      "World's largest pysanka collection",
+      "Calling card of Kolomyia city",
+      "Opportunity to learn pysanka art",
+      "Pysanky from 35 countries represented"
+    ],
+    "uniqueSellingPoints_de": [
+      "Weltweit einziges Pyssanka-Museum",
+      "Einzigartigstes Gebäude in der Ukraine",
+      "Teil des immateriellen UNESCO-Erbes",
+      "Weltgrößte Pyssanka-Sammlung",
+      "Visitenkarte der Stadt Kolomyia",
+      "Möglichkeit, Pyssanka-Kunst zu lernen",
+      "Pyssanken aus 35 Ländern vertreten"
+    ]
+  },
+
+  "images": {
+    "heroImage": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Pysanka_Museum.jpg/1200px-Pysanka_Museum.jpg",
+      "alt_uk": "Музей писанки у Коломиї - унікальна будівля у формі великодньої писанки",
+      "alt_en": "Pysanka Museum in Kolomyia - unique building shaped like an Easter egg",
+      "alt_de": "Pyssanka-Museum in Kolomyia - einzigartiges Gebäude in Form eines Ostereis",
+      "caption_uk": "Унікальна 13-метрова будівля музею у формі гуцульської писанки",
+      "caption_en": "Unique 13-meter museum building shaped like a Hutsul pysanka",
+      "caption_de": "Einzigartiges 13-Meter-Museumsgebäude in Form einer Huzulischen Pyssanka"
+    },
+    "gallery": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Kolomyia_Pysanka_Museum_interior.jpg/1200px-Kolomyia_Pysanka_Museum_interior.jpg",
+        "alt_uk": "Інтер'єр музею з експозицією писанок",
+        "alt_en": "Museum interior with pysanka exhibition",
+        "alt_de": "Museumsinterieur mit Pyssanka-Ausstellung",
+        "caption_uk": "Виставкові зали музею з тисячами писанок"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Ukrainian_pysanky_collection.jpg/1200px-Ukrainian_pysanky_collection.jpg",
+        "alt_uk": "Колекція традиційних українських писанок",
+        "alt_en": "Collection of traditional Ukrainian pysanky",
+        "alt_de": "Sammlung traditioneller ukrainischer Pyssanken",
+        "caption_uk": "Різноманітність орнаментів та кольорів українських писанок"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Pysanka_master_class.jpg/1200px-Pysanka_master_class.jpg",
+        "alt_uk": "Майстер-клас з розпису писанок",
+        "alt_en": "Pysanka painting master class",
+        "alt_de": "Meisterklasse zur Pyssanka-Malerei",
+        "caption_uk": "Відвідувачі можуть навчитися традиційному мистецтву писанкарства"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ancient_pysanka_500_years.jpg/1200px-Ancient_pysanka_500_years.jpg",
+        "alt_uk": "Найдавніша писанка в колекції",
+        "alt_en": "Oldest pysanka in the collection",
+        "alt_de": "Älteste Pyssanka in der Sammlung",
+        "caption_uk": "Писанка віком понад 500 років - найцінніший експонат музею"
+      }
+    ]
+  },
+
+  "historicalData": {
+    "yearBuilt": "2000",
+    "yearBuiltNote_uk": "Музей заснований у 1987 році, нова будівля відкрита у 2000 році",
+    "yearBuiltNote_en": "Museum founded in 1987, new building opened in 2000",
+    "yearBuiltNote_de": "Museum 1987 gegründet, neues Gebäude 2000 eröffnet",
+    "architecturalStyle_uk": "Сучасна архітектура, форма традиційної писанки",
+    "architecturalStyle_en": "Modern architecture, traditional pysanka shape",
+    "architecturalStyle_de": "Moderne Architektur, traditionelle Pyssanka-Form",
+    "architects": [
+      {
+        "name": "Архітектори Коломиї (Kolomyia architects)",
+        "period": "2000",
+        "contribution_uk": "Проектування унікальної будівлі у формі писанки висотою 13 метрів",
+        "contribution_en": "Design of unique 13-meter pysanka-shaped building",
+        "contribution_de": "Entwurf des einzigartigen 13-Meter-Gebäudes in Pyssanka-Form"
+      }
+    ],
+    "unescoStatus": "intangible-heritage",
+    "unescoYear": 2000,
+    "nationalHeritageStatus": "National Cultural Heritage of Ukraine",
+    "referenceNumber": "PM-KOL-2000",
+    "managedBy_uk": "Національний музей народного мистецтва Гуцульщини та Покуття",
+    "managedBy_en": "National Museum of Hutsulshchyna and Pokuttya Folk Art",
+    "managedBy_de": "Nationales Museum für Huzulische und Pokuttya-Volkskunst"
+  },
+
+  "culturalEvents": [
+    {
+      "name_uk": "Великодні виставки та майстер-класи",
+      "name_en": "Easter exhibitions and master classes",
+      "name_de": "Osterausstellungen und Meisterklassen",
+      "period_uk": "Березень - Квітень (щорічно)",
+      "period_en": "March - April (annually)",
+      "period_de": "März - April (jährlich)",
+      "description_uk": "Спеціальні виставки великодніх писанок, майстер-класи з розпису, демонстрації традиційних технік",
+      "description_en": "Special Easter pysanka exhibitions, painting master classes, demonstrations of traditional techniques",
+      "description_de": "Spezielle Oster-Pyssanka-Ausstellungen, Malmeisterklassen, Demonstrationen traditioneller Techniken"
+    },
+    {
+      "name_uk": "Міжнародний гуцульський фестиваль",
+      "name_en": "International Hutsul Festival",
+      "name_de": "Internationales Huzulisches Festival",
+      "period_uk": "Серпень (щорічно)",
+      "period_en": "August (annually)",
+      "period_de": "August (jährlich)",
+      "description_uk": "Фестиваль гуцульської культури з виставками, майстер-класами, концертами та ярмарками народних ремесел",
+      "description_en": "Festival of Hutsul culture with exhibitions, master classes, concerts and folk craft fairs",
+      "description_de": "Festival der Huzulischen Kultur mit Ausstellungen, Meisterklassen, Konzerten und Handwerksmärkten"
+    },
+    {
+      "name_uk": "День музею",
+      "name_en": "Museum Day",
+      "name_de": "Museumstag",
+      "period_uk": "Травень (щорічно)",
+      "period_en": "May (annually)",
+      "period_de": "Mai (jährlich)",
+      "description_uk": "Безкоштовне відвідування, спеціальні екскурсії, майстер-класи для всієї родини",
+      "description_en": "Free admission, special tours, master classes for the whole family",
+      "description_de": "Freier Eintritt, Sonderführungen, Meisterklassen für die ganze Familie"
+    }
+  ],
+
+  "tags": [
+    "museum",
+    "pysanka",
+    "folk-art",
+    "ukrainian-culture",
+    "kolomyia",
+    "ivano-frankivsk",
+    "easter-eggs",
+    "unesco-heritage",
+    "hutsul-culture",
+    "ethnography",
+    "traditional-crafts",
+    "master-classes",
+    "unique-architecture",
+    "cultural-heritage",
+    "intangible-heritage"
+  ],
+
+  "suitableFor_uk": [
+    "Любителі народного мистецтва",
+    "Сімейні подорожі з дітьми",
+    "Туристи",
+    "Школярі та студенти",
+    "Майстри народних ремесел",
+    "Фотографи",
+    "Дослідники культури",
+    "Всі вікові категорії"
+  ],
+  "suitableFor_en": [
+    "Folk art enthusiasts",
+    "Family trips with children",
+    "Tourists",
+    "Schoolchildren and students",
+    "Folk craft masters",
+    "Photographers",
+    "Culture researchers",
+    "All age groups"
+  ],
+  "suitableFor_de": [
+    "Volkskunst-Enthusiasten",
+    "Familienreisen mit Kindern",
+    "Touristen",
+    "Schüler und Studenten",
+    "Handwerksmeister",
+    "Fotografen",
+    "Kulturforscher",
+    "Alle Altersgruppen"
+  ],
+
+  "weatherDependent": false,
+  "indoorActivities": true,
+  "outdoorActivities": false,
+
+  "priceRange": "$",
+  "rating": 4.8,
+  "reviewsCount": 1876,
+  "featured": true,
+  "status": "published",
+
+  "metaDescription_uk": "Музей писанки в Коломиї - єдиний у світі музей писанки з унікальною будівлею у формі великодньої яйця. Понад 12 000 експонатів. Майстер-класи. ЮНЕСКО.",
+  "metaDescription_en": "Pysanka Museum in Kolomyia - world's only pysanka museum with unique Easter egg-shaped building. Over 12,000 exhibits. Master classes. UNESCO.",
+  "metaDescription_de": "Pyssanka-Museum in Kolomyia - weltweit einziges Pyssanka-Museum mit einzigartigem Osterei-förmigem Gebäude. Über 12.000 Exponate. Meisterklassen. UNESCO.",
+
+  "keywords": [
+    "Музей писанки",
+    "Pysanka Museum",
+    "Коломия",
+    "Kolomyia",
+    "писанка",
+    "pysanka",
+    "українська культура",
+    "Ukrainian culture",
+    "народне мистецтво",
+    "folk art",
+    "ЮНЕСКО",
+    "UNESCO",
+    "Гуцульщина",
+    "Hutsulshchyna",
+    "майстер-клас",
+    "master class"
+  ],
+
+  "lastUpdated": "2025-11-30",
+  "source": "Official website pysanka.museum, Wikipedia, UNESCO, Museum Portal",
+  "verified": true
+}

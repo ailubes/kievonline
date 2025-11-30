@@ -1,0 +1,368 @@
+{
+  "id": "pochaiv-lavra",
+  "slug": "pochaiv-lavra",
+
+  "name_uk": "Свято-Успенська Почаївська Лавра",
+  "name_en": "Holy Dormition Pochaiv Lavra",
+  "name_de": "Mariä-Entschlafens-Lavra Potschajiw",
+
+  "tagline_uk": "Друга за значенням православна святиня України на Кременецьких горах",
+  "tagline_en": "Ukraine's second most important Orthodox shrine atop Kremenets Mountains",
+  "tagline_de": "Das zweitwichtigste orthodoxe Heiligtum der Ukraine auf den Kremenetzer Bergen",
+
+  "category": "monastery",
+  "subcategories": ["lavra", "pilgrimage-site", "orthodox-monastery", "baroque-architecture", "historical-monument"],
+  "region": "Ternopil",
+  "oblast": "Ternopil Oblast",
+
+  "description_uk": {
+    "short": "Почаївська Лавра — один із найдавніших і найшанованіших православних монастирів України, розташований на 60-метровій горі в місті Почаїв. Заснована у XIII столітті, Лавра відома чудотворною іконою Божої Матері Почаївської та цілющим джерелом.",
+    "full": "Свято-Успенська Почаївська Лавра є другою за значенням православною святинею України після Києво-Печерської Лаври. Монастир розташований на вершині 60-метрової гори в місті Почаїв, що надає йому величної панорами та оборонного значення.\n\nЗа місцевою традицією, перші християнські відлюдники населяли пагорби біля річки ще до християнізації Київської Русі. Офіційне заснування датується 1240 роком, коли монахи Іонікій та Пахомій з Києво-Печерської Лаври, рятуючись від татаро-монгольської навали, знайшли поблизу сучасного монастиря цілюще джерело на Благословенному камені.\n\nУ 1597 році шляхетна пані Анна Гойська подарувала монастирю чудотворну ікону Божої Матері Почаївської, яка стала головною святинею обителі. Ця ікона, за традицією, вилікувала від сліпоти брата Гойської. У 1675 році монастир витримав облогу турецької армії. За переказами, Пресвята Богородиця з'явилася над монастирем разом з ангелами та преподобним Іовом, що змусило турків відступити.\n\nПротягом історії монастир переходив між православ'ям та греко-католицизмом. З 1720 по 1831 рік належав василіанам Греко-Католицької церкви, після чого повернувся до православ'я. У 1833 році йому було надано статус Лаври.\n\nСьогодні Почаївська Лавра є активним чоловічим монастирем з понад 100 монахами. Архітектурний ансамбль включає Успенський собор (1771–1783), Троїцький собор (1906–1912), дзвіницю та численні келії й будівлі.",
+    "history": "Перша писемна згадка про монастир датується 1527 роком. У 1597 році Анна Гойська подарувала монастирю землі та чудотворну ікону. У 1604 році до спільноти приєднався Іван Залізо (майбутній преподобний Іов Почаївський), який заснував друкарню у 1630 році.\n\nПід час польського панування у XVII столітті монастир процвітав, але у 1672 році його атакували турки. За чудом турки відступили після явлення Богородиці. У 1720 році монастир перейшов до греко-католиків, а у 1831 році повернувся до Російської Православної Церкви. У 1833 році отримав статус Лаври.\n\nПротягом XX століття монастир пережив обидві світові війни, радянські гоніння та зміни юрисдикцій. У 2023 році Верховний Суд України передав духовний контроль над монастирем Православній Церкві України.",
+    "significance": "Почаївська Лавра є найважливішим православним центром Західної України та місцем масового паломництва. Монастир зберігає унікальну колекцію ікон, рукописів та церковних реліквій. Мощі преподобного Іова Почаївського та чудотворна ікона приваблюють тисячі паломників щороку."
+  },
+
+  "description_en": {
+    "short": "Pochaiv Lavra is one of Ukraine's oldest and most revered Orthodox monasteries, located atop a 60-meter hill in Pochaiv. Founded in the 13th century, the Lavra is famous for its miraculous icon of the Theotokos of Pochaiv and healing spring.",
+    "full": "The Holy Dormition Pochaiv Lavra is Ukraine's second most important Orthodox shrine after the Kyiv-Pechersk Lavra. The monastery sits atop a 60-meter hill in Pochaiv, giving it commanding views and defensive significance.\n\nAccording to local tradition, the first Christian hermits inhabited the hills near the river even before the Christianization of Kievan Rus'. Official foundation dates to 1240, when monks Ionikiy and Pachomius from the Kyiv-Pechersk Lavra, fleeing the Mongol invasion, found a healing spring near the present monastery on the Blessed Stone.\n\nIn 1597, noblewoman Anna Hojska donated to the monastery a miraculous icon of the Theotokos of Pochaiv, which became the main shrine. This icon, by tradition, healed Hojska's brother from blindness. In 1675, the monastery withstood a siege by the Turkish army. According to legend, the Theotokos appeared over the monastery with angels and St. Job, causing the Turks to retreat.\n\nThroughout history, the monastery alternated between Orthodoxy and Greek Catholicism. From 1720 to 1831 it belonged to the Basilian monks of the Greek Catholic Church, after which it returned to Orthodoxy. In 1833, it was granted Lavra status.\n\nToday, Pochaiv Lavra is an active men's monastery with over 100 monks. The architectural ensemble includes the Dormition Cathedral (1771–1783), Trinity Cathedral (1906–1912), bell tower, and numerous cells and buildings.",
+    "history": "The first written mention of the monastery dates to 1527. In 1597, Anna Hojska donated lands and a miraculous icon to the monastery. In 1604, Ivan Zalizo (future St. Job of Pochaiv) joined the community and established a printing press in 1630.\n\nDuring Polish rule in the 17th century, the monastery flourished, but in 1672 it was attacked by Turks. By miracle, the Turks retreated after an apparition of the Theotokos. In 1720, the monastery passed to Greek Catholics, and in 1831 returned to the Russian Orthodox Church. In 1833, it received Lavra status.\n\nThroughout the 20th century, the monastery survived both World Wars, Soviet persecution, and jurisdictional changes. In 2023, the Supreme Court of Ukraine transferred spiritual control of the monastery to the Orthodox Church of Ukraine.",
+    "significance": "Pochaiv Lavra is the most important Orthodox center in Western Ukraine and a site of mass pilgrimage. The monastery preserves a unique collection of icons, manuscripts, and church relics. The relics of St. Job of Pochaiv and the miraculous icon attract thousands of pilgrims annually."
+  },
+
+  "description_de": {
+    "short": "Die Potschajiw-Lavra ist eines der ältesten und verehrtesten orthodoxen Klöster der Ukraine, gelegen auf einem 60 Meter hohen Hügel in Potschajiw. Gegründet im 13. Jahrhundert, ist die Lavra berühmt für ihre wundertätige Ikone der Gottesmutter von Potschajiw und ihre Heilquelle.",
+    "full": "Die Mariä-Entschlafens-Lavra Potschajiw ist das zweitwichtigste orthodoxe Heiligtum der Ukraine nach dem Kiewer Höhlenkloster. Das Kloster thront auf einem 60 Meter hohen Hügel in Potschajiw mit herrlichem Ausblick und strategischer Bedeutung.\n\nDer Überlieferung nach bewohnten die ersten christlichen Eremiten die Hügel am Fluss noch vor der Christianisierung der Kiewer Rus. Die offizielle Gründung datiert auf 1240, als die Mönche Ionikij und Pachomij vom Kiewer Höhlenkloster vor der Mongoleninvasion flohen und eine Heilquelle am Gesegneten Stein fanden.",
+    "history": "Die erste schriftliche Erwähnung des Klosters stammt aus dem Jahr 1527. 1597 schenkte Anna Hojska dem Kloster Ländereien und eine wundertätige Ikone. 1604 trat Iwan Saliso (der spätere Heilige Hiob von Potschajiw) der Gemeinschaft bei und gründete 1630 eine Druckerei.",
+    "significance": "Die Potschajiw-Lavra ist das wichtigste orthodoxe Zentrum in der Westukraine und ein Ort der Massenpilgerschaft. Das Kloster bewahrt eine einzigartige Sammlung von Ikonen, Manuskripten und kirchlichen Reliquien."
+  },
+
+  "location": {
+    "city": "Pochaiv",
+    "region": "Ternopil Oblast",
+    "address_uk": "вул. Возз'єднання, 8, Почаїв, Кременецький район, Тернопільська область, 47025",
+    "address_en": "8 Vozzyednannya Street, Pochaiv, Kremenets district, Ternopil Oblast, 47025",
+    "address_de": "Vozzyednannya-Straße 8, Potschajiw, Rajon Kremenez, Oblast Ternopil, 47025",
+    "coordinates": {
+      "latitude": 50.004874,
+      "longitude": 25.508864
+    },
+    "directions_uk": {
+      "general": "Розташована у місті Почаїв на вершині Святої гори",
+      "publicTransport": "Автобуси з Тернополя, Кременця та Львова. З Києва — автобус або потяг до Тернополя, далі автобус до Почаєва",
+      "car": "З Києва — 400 км (траса М06 через Житомир та Рівне). З Львова — 120 км через Броди",
+      "parking": "Безкоштовна парковка біля монастиря"
+    },
+    "directions_en": {
+      "general": "Located in Pochaiv town atop Holy Mountain",
+      "publicTransport": "Buses from Ternopil, Kremenets and Lviv. From Kyiv — bus or train to Ternopil, then bus to Pochaiv",
+      "car": "From Kyiv — 400 km (M06 highway via Zhytomyr and Rivne). From Lviv — 120 km via Brody",
+      "parking": "Free parking near the monastery"
+    },
+    "directions_de": {
+      "general": "In der Stadt Potschajiw auf dem Heiligen Berg gelegen",
+      "publicTransport": "Busse von Ternopil, Kremenez und Lwiw. Von Kiew — Bus oder Zug nach Ternopil, dann Bus nach Potschajiw",
+      "car": "Von Kiew — 400 km (M06-Autobahn über Schytomyr und Riwne). Von Lwiw — 120 km über Brody",
+      "parking": "Kostenlose Parkplätze in der Nähe des Klosters"
+    },
+    "nearbyAttractions": [
+      {
+        "name_uk": "Благословенний камінь з цілющим джерелом",
+        "name_en": "Blessed Stone with healing spring",
+        "distance": "0.8 km",
+        "type": "pilgrimage-site"
+      },
+      {
+        "name_uk": "Почаївський історико-художній музей",
+        "name_en": "Pochaiv Historical and Art Museum",
+        "distance": "0.3 km",
+        "type": "museum"
+      },
+      {
+        "name_uk": "Кременець",
+        "name_en": "Kremenets",
+        "distance": "18 km",
+        "type": "historic-city"
+      }
+    ]
+  },
+
+  "contact": {
+    "phone": "+380 3546 61218",
+    "email": "supl@i.ua",
+    "website": "http://pochaev.org.ua/",
+    "bookingUrl": null,
+    "socialMedia": {
+      "facebook": null,
+      "instagram": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+
+  "visitingInformation": {
+    "openingTimes": {
+      "status_uk": "Відкрито цілий рік",
+      "status_en": "Open year-round",
+      "status_de": "Ganzjährig geöffnet",
+      "seasonal": [
+        {
+          "season_uk": "Цілий рік",
+          "season_en": "Year-round",
+          "season_de": "Ganzjährig",
+          "days_uk": "Щодня",
+          "days_en": "Daily",
+          "days_de": "Täglich",
+          "hours": "05:00 - 20:00",
+          "lastAdmission": "19:30"
+        }
+      ]
+    },
+    "admissionPrices": {
+      "currency": "UAH",
+      "adult": 0,
+      "student": 0,
+      "child": 0,
+      "senior": 0,
+      "family": 0,
+      "notes_uk": "Вхід безкоштовний. Пожертви вітаються. Готель при монастирі: +380 3546 62547",
+      "notes_en": "Free admission. Donations welcome. Monastery hotel: +380 3546 62547",
+      "notes_de": "Freier Eintritt. Spenden willkommen. Klosterhotel: +380 3546 62547"
+    },
+    "tourOptions": [
+      {
+        "type_uk": "Самостійний огляд",
+        "type_en": "Self-guided tour",
+        "type_de": "Selbstgeführte Tour",
+        "duration_uk": "2-3 години",
+        "duration_en": "2-3 hours",
+        "duration_de": "2-3 Stunden",
+        "price": 0
+      },
+      {
+        "type_uk": "Паломницька програма з екскурсією",
+        "type_en": "Pilgrimage program with tour",
+        "type_de": "Pilgerprogramm mit Führung",
+        "duration_uk": "Цілий день",
+        "duration_en": "Full day",
+        "duration_de": "Ganztägig",
+        "price": 0,
+        "groupSize": "за попереднім замовленням / by appointment / nach Vereinbarung"
+      }
+    ],
+    "averageVisitDuration_uk": "2-4 години",
+    "averageVisitDuration_en": "2-4 hours",
+    "averageVisitDuration_de": "2-4 Stunden",
+    "busyPeriods_uk": ["Великі релігійні свята", "Літні місяці", "Вихідні дні", "Престольні свята"],
+    "busyPeriods_en": ["Major religious holidays", "Summer months", "Weekends", "Patronal feasts"],
+    "busyPeriods_de": ["Große religiöse Feiertage", "Sommermonate", "Wochenenden", "Patronatsfeste"],
+    "adviceForVisitors_uk": "Дотримуйтесь монастирського дрес-коду. Жінкам рекомендується довгі спідниці та хустки. Відвідайте Благословенний камінь з цілющим джерелом. Можна переночувати у монастирському готелі. Фотографування обмежене — запитайте дозвіл.",
+    "adviceForVisitors_en": "Follow monastery dress code. Women should wear long skirts and headscarves. Visit the Blessed Stone with healing spring. Monastery hotel accommodation available. Photography is restricted — ask permission.",
+    "adviceForVisitors_de": "Befolgen Sie die Kleiderordnung des Klosters. Frauen sollten lange Röcke und Kopftücher tragen. Besuchen Sie den Gesegneten Stein mit Heilquelle. Unterkunft im Klosterhotel verfügbar. Fotografieren ist eingeschränkt — fragen Sie um Erlaubnis."
+  },
+
+  "features": {
+    "highlights_uk": [
+      "Чудотворна ікона Божої Матері Почаївської",
+      "Мощі преподобного Іова Почаївського",
+      "Благословенний камінь з цілющим джерелом",
+      "Успенський собор (XVIII століття)",
+      "Троїцький собор (XX століття)",
+      "Друкарня XVII століття (історична)",
+      "Готель для паломників"
+    ],
+    "highlights_en": [
+      "Miraculous icon of Theotokos of Pochaiv",
+      "Relics of St. Job of Pochaiv",
+      "Blessed Stone with healing spring",
+      "Dormition Cathedral (18th century)",
+      "Trinity Cathedral (20th century)",
+      "17th-century printing house (historical)",
+      "Pilgrims' hotel"
+    ],
+    "highlights_de": [
+      "Wundertätige Ikone der Gottesmutter von Potschajiw",
+      "Reliquien des Heiligen Hiob von Potschajiw",
+      "Gesegneter Stein mit Heilquelle",
+      "Mariä-Entschlafens-Kathedrale (18. Jahrhundert)",
+      "Dreifaltigkeitskathedrale (20. Jahrhundert)",
+      "Druckerei aus dem 17. Jahrhundert (historisch)",
+      "Pilgerhotel"
+    ],
+    "facilities_uk": ["Готель", "Трапезна", "Сувенірна крамниця", "Музей", "Паломницький центр", "Туалети"],
+    "facilities_en": ["Hotel", "Refectory", "Gift shop", "Museum", "Pilgrimage center", "Toilets"],
+    "facilities_de": ["Hotel", "Refektorium", "Souvenirladen", "Museum", "Pilgerzentrum", "Toiletten"],
+    "accessibility": {
+      "wheelchairAccessible": false,
+      "notes_uk": "Монастир розташований на горі зі сходами. Доступ для людей з інвалідністю обмежений.",
+      "notes_en": "Monastery is located on a hill with stairs. Access for people with disabilities is limited.",
+      "notes_de": "Das Kloster liegt auf einem Hügel mit Treppen. Der Zugang für Menschen mit Behinderungen ist eingeschränkt."
+    },
+    "uniqueSellingPoints_uk": [
+      "Друга за значенням Лавра України",
+      "Найважливіший паломницький центр Західної України",
+      "Унікальна колекція святинь та реліквій",
+      "Активний чоловічий монастир з понад 100 монахами",
+      "Історична друкарня XVII століття"
+    ],
+    "uniqueSellingPoints_en": [
+      "Ukraine's second most important Lavra",
+      "Most important pilgrimage center in Western Ukraine",
+      "Unique collection of shrines and relics",
+      "Active men's monastery with over 100 monks",
+      "Historic 17th-century printing house"
+    ],
+    "uniqueSellingPoints_de": [
+      "Zweitwichtigste Lavra der Ukraine",
+      "Wichtigstes Pilgerzentrum in der Westukraine",
+      "Einzigartige Sammlung von Heiligtümern und Reliquien",
+      "Aktives Männerkloster mit über 100 Mönchen",
+      "Historische Druckerei aus dem 17. Jahrhundert"
+    ]
+  },
+
+  "images": {
+    "heroImage": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/%D0%9F%D0%B0%D0%BD%D0%BE%D1%80%D0%B0%D0%BC%D0%B0_%D0%9F%D0%BE%D1%87%D0%B0%D1%97%D0%B2%D1%81%D1%8C%D0%BA%D0%B0_%D0%BB%D0%B0%D0%B2%D1%80%D0%B0_02.jpg",
+      "alt_uk": "Панорама Почаївської Лаври",
+      "alt_en": "Panorama of Pochaiv Lavra",
+      "alt_de": "Panorama der Potschajiw-Lavra",
+      "caption_uk": "Загальний вид монастирського комплексу",
+      "caption_en": "General view of the monastery complex",
+      "caption_de": "Gesamtansicht des Klosterkomplexes"
+    },
+    "gallery": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Pochayiv.jpg",
+        "alt_uk": "Почаїв на початку XIX століття",
+        "alt_en": "Pochaiv in early 19th century",
+        "alt_de": "Potschajiw im frühen 19. Jahrhundert",
+        "caption_uk": "Історичний вигляд монастиря"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/The_Virgin_of_Pochaiv_-_Google_Art_Project.jpg",
+        "alt_uk": "Ікона Божої Матері Почаївської",
+        "alt_en": "Icon of the Theotokos of Pochaiv",
+        "alt_de": "Ikone der Gottesmutter von Potschajiw",
+        "caption_uk": "Чудотворна ікона 1840 року"
+      }
+    ]
+  },
+
+  "historicalData": {
+    "yearBuilt": "1240",
+    "yearBuiltNote_uk": "Офіційна дата заснування. Статус Лаври з 1833 року",
+    "yearBuiltNote_en": "Official foundation date. Lavra status since 1833",
+    "yearBuiltNote_de": "Offizielles Gründungsdatum. Lavra-Status seit 1833",
+    "architecturalStyle_uk": "Бароко, Класицизм",
+    "architecturalStyle_en": "Baroque, Classicism",
+    "architecturalStyle_de": "Barock, Klassizismus",
+    "architects": [],
+    "unescoStatus": "none",
+    "unescoYear": null,
+    "nationalHeritageStatus": "Architectural Monument of National Significance",
+    "referenceNumber": "190019",
+    "managedBy_uk": "Православна Церква України (з 2023)",
+    "managedBy_en": "Orthodox Church of Ukraine (since 2023)",
+    "managedBy_de": "Orthodoxe Kirche der Ukraine (seit 2023)"
+  },
+
+  "culturalEvents": [
+    {
+      "name_uk": "Свято Успіння Пресвятої Богородиці",
+      "name_en": "Feast of the Dormition",
+      "name_de": "Fest Mariä Entschlafung",
+      "period_uk": "28 серпня",
+      "period_en": "August 28",
+      "period_de": "28. August",
+      "description_uk": "Престольне свято Лаври з масовим паломництвом",
+      "description_en": "Patronal feast of the Lavra with mass pilgrimage",
+      "description_de": "Patronatsfest der Lavra mit Massenpilgerschaft"
+    },
+    {
+      "name_uk": "Пам'ять преподобного Іова Почаївського",
+      "name_en": "Feast of St. Job of Pochaiv",
+      "name_de": "Fest des Heiligen Hiob von Potschajiw",
+      "period_uk": "10 вересня",
+      "period_en": "September 10",
+      "period_de": "10. September",
+      "description_uk": "Вшанування головного святого Лаври",
+      "description_en": "Honoring the main saint of the Lavra",
+      "description_de": "Ehrung des Hauptheiligen der Lavra"
+    }
+  ],
+
+  "tags": [
+    "lavra",
+    "monastery",
+    "orthodox",
+    "pilgrimage",
+    "pochaiv",
+    "ternopil",
+    "miraculous-icon",
+    "healing-spring",
+    "baroque",
+    "religious-heritage",
+    "western-ukraine",
+    "st-job",
+    "spiritual-center"
+  ],
+
+  "suitableFor_uk": [
+    "Паломники",
+    "Віруючі",
+    "Любителі історії",
+    "Туристи",
+    "Дослідники православ'я",
+    "Фотографи"
+  ],
+  "suitableFor_en": [
+    "Pilgrims",
+    "Believers",
+    "History enthusiasts",
+    "Tourists",
+    "Orthodox researchers",
+    "Photographers"
+  ],
+  "suitableFor_de": [
+    "Pilger",
+    "Gläubige",
+    "Geschichtsinteressierte",
+    "Touristen",
+    "Orthodoxie-Forscher",
+    "Fotografen"
+  ],
+
+  "weatherDependent": false,
+  "indoorActivities": true,
+  "outdoorActivities": true,
+
+  "priceRange": "$",
+  "rating": 4.9,
+  "reviewsCount": 4521,
+  "featured": true,
+  "status": "published",
+
+  "metaDescription_uk": "Почаївська Лавра — друга за значенням православна святиня України. Чудотворна ікона, мощі св. Іова, цілюще джерело. Паломницький центр Західної України. Вхід безкоштовний.",
+  "metaDescription_en": "Pochaiv Lavra — Ukraine's second most important Orthodox shrine. Miraculous icon, relics of St. Job, healing spring. Pilgrimage center of Western Ukraine. Free admission.",
+  "metaDescription_de": "Potschajiw-Lavra — das zweitwichtigste orthodoxe Heiligtum der Ukraine. Wundertätige Ikone, Reliquien des Hl. Hiob, Heilquelle. Pilgerzentrum der Westukraine. Freier Eintritt.",
+
+  "keywords": [
+    "Почаївська Лавра",
+    "Pochaiv Lavra",
+    "Лавра",
+    "православ'я",
+    "Orthodox",
+    "паломництво",
+    "pilgrimage",
+    "Тернопіль",
+    "Ternopil",
+    "чудотворна ікона",
+    "miraculous icon",
+    "монастир",
+    "monastery"
+  ],
+
+  "lastUpdated": "2025-11-30",
+  "source": "Wikipedia, Official Website, Orthodox Encyclopedia",
+  "verified": true
+}

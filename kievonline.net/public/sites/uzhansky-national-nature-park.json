@@ -1,0 +1,408 @@
+{
+  "id": "uzhansky-national-nature-park",
+  "slug": "uzhansky-national-nature-park",
+
+  "name_uk": "Ужанський національний природний парк",
+  "name_en": "Uzhansky National Nature Park",
+  "name_de": "Uzhansky-Nationalpark",
+
+  "tagline_uk": "Сліди метеориту, тисячолітні дуби та букові праліси UNESCO на кордоні трьох країн",
+  "tagline_en": "Meteorite traces, thousand-year-old oaks and UNESCO beech primeval forests at the border of three countries",
+  "tagline_de": "Meteoritenspuren, tausendjährige Eichen und UNESCO-Buchenurwälder an der Grenze dreier Länder",
+
+  "category": "park",
+  "subcategories": ["national-nature-park", "unesco-site", "transboundary-park", "historical-sites"],
+  "region": "Velykyi Bereznyi",
+  "oblast": "Zakarpattia Oblast",
+
+  "description_uk": {
+    "short": "Ужанський національний природний парк — заповідна територія в Закарпатській області на кордоні з Польщею та Словаччиною. Відомий буковими пралісами UNESCO, тисячолітніми дубами, місцем падіння метеориту та укріпленнями Другої світової війни.",
+    "full": "Ужанський національний природний парк створений у 1999 році і займає площу 46 157 гектарів у Закарпатській області. Парк розташований на кордоні з Польщею та Словаччиною, утворюючи частину транскордонного біосферного резервату «Східні Карпати».\n\nМальовниче верхів'я річки Уж, звідки можна прогулятись Ужоцьким перевалом з видами на Східні Бескиди. Більше 3000 гектарів території вкрито буковими пралісами, які охороняються UNESCO з 2007 року як частина об'єкта «Букові праліси Карпат та інших регіонів Європи».\n\nУнікальною особливістю парку є тисячолітні дуби в селі Стужиця: Дідо-дуб (1200 років, обхват 9,85 м) та Дуб-чемпіон (обхват 10 м) — одні з найстаріших дерев в Україні. В урочищі Чорні Млаки в 1866 році впав метеорит «Княгиня» вагою майже 500 кг — найбільший метеорит, що впав на території України.\n\nТериторія Східних Карпат була ареною боїв Першої світової війни. Від Другої світової тут залишились численні укріплення Лінії Арпада — оборонної лінії угорської армії. Також збереглись військові цвинтарі та пам'ятники.\n\nПарк характеризується багатою біорізноманітністю: понад 50 видів рідкісних рослин, включаючи орхідеї та лілії. Фауна представлена бурими ведмедями, рисями, вовками, оленями. Тут гніздяться рідкісні види птахів, зокрема орлан-білохвіст та сапсан. Протяжність еко-маршрутів у парку — 140 км.",
+    "history": "Ужанський національний природний парк був створений 3 червня 1999 року Указом Президента України з метою збереження унікальних природних комплексів Східних Бескидів та верхів'я річки Уж.\n\nТериторія парку має багату історію. У Середньовіччі тут проходив важливий торговельний шлях через Ужоцький перевал, що з'єднував Київську Русь з Угорщиною. У XIX столітті розвивалось лісове господарство, залишки якого можна побачити і досі.\n\nПід час Першої світової війни (1914-1918) Ужоцький перевал був місцем запеклих боїв між російськими та австро-угорськими військами. Збереглись військові цвинтарі з того періоду.\n\nУ 1939-1944 роках угорська армія побудувала тут укріплення «Лінії Арпада» — систему оборонних споруд для захисту від наступу радянських військ. Сьогодні ці бункери та дзоти є важливими історичними пам'ятками.\n\nВ 1866 році над територією парку вибухнув метеорит. Найбільший уламок вагою 279 кг впав в урочищі Чорні Млаки між селами Княгиня, Стужиця та Збуй. Загалом впало близько 200 уламків.\n\nУ 2007 році букові праліси парку (ділянки Стужиця, Уголька) були включені до Списку Всесвітньої спадщини UNESCO. У 2021 році парк став частиною транскордонного біосферного резервату «Східні Карпати» разом з Польщею та Словаччиною.",
+    "significance": "Ужанський національний природний парк має виняткове значення для збереження природної та культурної спадщини Карпат. Це одна з найцінніших територій України з точки зору біорізноманіття та екологічної цілісності.\n\nБукові праліси парку є частиною Всесвітньої спадщини UNESCO і представляють собою унікальні екосистеми, що збереглися в первозданному вигляді. Транскордонне розташування парку на межі трьох держав робить його важливим для міжнародної природоохоронної співпраці.\n\nПарк зберігає унікальні природні та історичні об'єкти: тисячолітні дуби, місце падіння найбільшого метеориту в Україні, укріплення світових воєн. Це робить територію важливою не лише з екологічної, але й з історичної та культурної точки зору."
+  },
+
+  "description_en": {
+    "short": "Uzhansky National Nature Park is a protected area in Zakarpattia Oblast on the border with Poland and Slovakia. Famous for UNESCO beech primeval forests, thousand-year-old oaks, meteorite impact site, and World War II fortifications.",
+    "full": "Uzhansky National Nature Park was established in 1999 and covers an area of 46,157 hectares in Zakarpattia Oblast. The park is located on the border with Poland and Slovakia, forming part of the transboundary biosphere reserve 'East Carpathians'.\n\nThe picturesque upper reach of the Uzh River, from where you can walk through the Uzhok Pass with views of the Eastern Beskids. More than 3,000 hectares are covered with beech primeval forests, protected by UNESCO since 2007 as part of the 'Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe' property.\n\nA unique feature of the park are the thousand-year-old oaks in Stuzhytsia village: Grandfather Oak (1,200 years old, circumference 9.85 m) and Champion Oak (circumference 10 m) — among the oldest trees in Ukraine. In the Chorni Mlaky area in 1866, the 'Knyahynia' meteorite weighing almost 500 kg fell — the largest meteorite to fall on Ukrainian territory.\n\nThe Eastern Carpathians territory was a battlefield of World War I. From World War II, numerous fortifications of the Arpad Line remain — a defensive line of the Hungarian army. Military cemeteries and monuments are also preserved.\n\nThe park is characterized by rich biodiversity: over 50 species of rare plants, including orchids and lilies. Fauna includes brown bears, lynxes, wolves, and deer. Rare bird species nest here, including white-tailed eagle and peregrine falcon. The total length of eco-routes in the park is 140 km.",
+    "history": "Uzhansky National Nature Park was established on June 3, 1999, by Presidential Decree of Ukraine to preserve the unique natural complexes of the Eastern Beskids and the upper Uzh River.\n\nThe park's territory has a rich history. In the Middle Ages, an important trade route passed through the Uzhok Pass, connecting Kievan Rus with Hungary. In the 19th century, forestry developed, remnants of which can still be seen.\n\nDuring World War I (1914-1918), the Uzhok Pass was the site of fierce battles between Russian and Austro-Hungarian forces. Military cemeteries from that period are preserved.\n\nIn 1939-1944, the Hungarian army built the 'Arpad Line' fortifications here — a system of defensive structures to protect against Soviet forces. Today, these bunkers and pillboxes are important historical monuments.\n\nIn 1866, a meteorite exploded over the park's territory. The largest fragment weighing 279 kg fell in the Chorni Mlaky area between Knyahynia, Stuzhytsia, and Zbuy villages. In total, about 200 fragments fell.\n\nIn 2007, the park's beech primeval forests (Stuzhytsia, Uholka sections) were inscribed on the UNESCO World Heritage List. In 2021, the park became part of the transboundary biosphere reserve 'East Carpathians' together with Poland and Slovakia.",
+    "significance": "Uzhansky National Nature Park is of exceptional importance for preserving the natural and cultural heritage of the Carpathians. It is one of Ukraine's most valuable territories in terms of biodiversity and ecological integrity.\n\nThe park's beech primeval forests are part of UNESCO World Heritage and represent unique ecosystems preserved in pristine condition. The park's transboundary location at the junction of three states makes it important for international conservation cooperation.\n\nThe park preserves unique natural and historical objects: thousand-year-old oaks, the site of the largest meteorite fall in Ukraine, world war fortifications. This makes the territory important not only from an ecological but also from a historical and cultural perspective."
+  },
+
+  "description_de": {
+    "short": "Der Uzhansky-Nationalpark ist ein Schutzgebiet in der Oblast Transkarpatien an der Grenze zu Polen und der Slowakei. Berühmt für UNESCO-Buchenurwälder, tausendjährige Eichen, Meteoriteneinschlagsort und Festungen des Zweiten Weltkriegs.",
+    "full": "Der Uzhansky-Nationalpark wurde 1999 gegründet und umfasst eine Fläche von 46.157 Hektar in der Oblast Transkarpatien. Der Park liegt an der Grenze zu Polen und der Slowakei und bildet einen Teil des grenzüberschreitenden Biosphärenreservats 'Ost-Karpaten'.\n\nDer malerische Oberlauf des Flusses Uzh, von wo aus man den Uzhok-Pass mit Blick auf die Östlichen Beskiden durchqueren kann. Mehr als 3.000 Hektar sind mit Buchenurwäldern bedeckt, die seit 2007 von der UNESCO als Teil der 'Alten Buchenwälder und Buchenurwälder der Karpaten und anderer Regionen Europas' geschützt sind.\n\nEine einzigartige Besonderheit des Parks sind die tausendjährigen Eichen im Dorf Stuzhytsia: Großvater-Eiche (1.200 Jahre alt, Umfang 9,85 m) und Champion-Eiche (Umfang 10 m) — zu den ältesten Bäumen in der Ukraine gehörend. Im Gebiet Chorni Mlaky fiel 1866 der Meteorit 'Knyahynia' mit einem Gewicht von fast 500 kg — der größte Meteorit, der auf ukrainisches Territorium fiel.",
+    "history": "Der Uzhansky-Nationalpark wurde am 3. Juni 1999 durch Präsidialerlass der Ukraine gegründet, um die einzigartigen Naturkomplexe der Östlichen Beskiden und des oberen Uzh-Flusses zu erhalten.",
+    "significance": "Der Uzhansky-Nationalpark ist von außerordentlicher Bedeutung für die Erhaltung des natürlichen und kulturellen Erbes der Karpaten. Es ist eines der wertvollsten Gebiete der Ukraine in Bezug auf Biodiversität und ökologische Integrität."
+  },
+
+  "location": {
+    "city": "Velykyi Bereznyi",
+    "region": "Zakarpattia Oblast",
+    "address_uk": "смт Великий Березний, Закарпатська область, 90202",
+    "address_en": "Velykyi Bereznyi, Zakarpattia Oblast, 90202",
+    "address_de": "Welyki Beresnyj, Oblast Transkarpatien, 90202",
+    "coordinates": {
+      "latitude": 48.9167,
+      "longitude": 22.4667
+    },
+    "directions_uk": {
+      "general": "Розташований в Ужанських горах на кордоні з Польщею та Словаччиною",
+      "publicTransport": "Автобус або маршрутка з Ужгорода до селища Великий Березний",
+      "car": "З Києва — 850 км через Львів та Стрий (близько 12 годин). З Львова — 230 км (близько 4 години)",
+      "parking": "Парковки біля адміністрації парку та основних туристичних об'єктів"
+    },
+    "directions_en": {
+      "general": "Located in Uzhan Mountains on the border with Poland and Slovakia",
+      "publicTransport": "Bus or minibus from Uzhhorod to Velykyi Bereznyi town",
+      "car": "From Kyiv — 850 km via Lviv and Stryi (about 12 hours). From Lviv — 230 km (about 4 hours)",
+      "parking": "Parking near park administration and main tourist sites"
+    },
+    "directions_de": {
+      "general": "In den Uzhan-Bergen an der Grenze zu Polen und der Slowakei gelegen",
+      "publicTransport": "Bus oder Minibus von Uzhhorod nach Welyki Beresnyj",
+      "car": "Von Kiew — 850 km über Lwiw und Stryj (ca. 12 Stunden). Von Lwiw — 230 km (ca. 4 Stunden)",
+      "parking": "Parkplätze in der Nähe der Parkverwaltung und Hauptsehenswürdigkeiten"
+    },
+    "nearbyAttractions": [
+      {
+        "name_uk": "Церква Святого Архістратига Михаїла в селі Ужок (UNESCO)",
+        "name_en": "Church of St. Michael the Archangel in Uzhok village (UNESCO)",
+        "distance": "15 km",
+        "type": "wooden-church"
+      },
+      {
+        "name_uk": "Ужоцький перевал",
+        "name_en": "Uzhok Pass",
+        "distance": "20 km",
+        "type": "mountain-pass"
+      },
+      {
+        "name_uk": "Синевир національний природний парк",
+        "name_en": "Synevyr National Nature Park",
+        "distance": "45 km",
+        "type": "nature-park"
+      }
+    ]
+  },
+
+  "contact": {
+    "phone": "+380 3146 22145",
+    "email": "uzhanskinpp@ukr.net",
+    "website": "https://uzhanskyi-park.in.ua/",
+    "bookingUrl": null,
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/uzhanskyi",
+      "instagram": null,
+      "youtube": null,
+      "twitter": null
+    }
+  },
+
+  "visitingInformation": {
+    "openingTimes": {
+      "status_uk": "Відкрито цілий рік (з обмеженнями через воєнний стан)",
+      "status_en": "Open year-round (with restrictions due to martial law)",
+      "status_de": "Ganzjährig geöffnet (mit Einschränkungen aufgrund des Kriegsrechts)",
+      "seasonal": [
+        {
+          "season_uk": "Травень - Жовтень",
+          "season_en": "May - October",
+          "season_de": "Mai - Oktober",
+          "days_uk": "Щодня",
+          "days_en": "Daily",
+          "days_de": "Täglich",
+          "hours": "08:00 - 18:00",
+          "lastAdmission": "17:00"
+        },
+        {
+          "season_uk": "Листопад - Квітень",
+          "season_en": "November - April",
+          "season_de": "November - April",
+          "days_uk": "Щодня",
+          "days_en": "Daily",
+          "days_de": "Täglich",
+          "hours": "09:00 - 17:00",
+          "lastAdmission": "16:00"
+        }
+      ]
+    },
+    "admissionPrices": {
+      "currency": "UAH",
+      "adult": 50,
+      "student": 25,
+      "child": 25,
+      "senior": 25,
+      "family": null,
+      "notes_uk": "Деякі маршрути в прикордонній зоні потребують дозволу Державної прикордонної служби",
+      "notes_en": "Some routes in the border zone require permission from the State Border Guard Service",
+      "notes_de": "Einige Routen in der Grenzzone erfordern eine Genehmigung der Staatsgrenzschutzbehörde"
+    },
+    "tourOptions": [
+      {
+        "type_uk": "Самостійний огляд маршрутів",
+        "type_en": "Self-guided routes",
+        "type_de": "Selbstgeführte Routen",
+        "duration_uk": "2-6 годин",
+        "duration_en": "2-6 hours",
+        "duration_de": "2-6 Stunden",
+        "price": 0
+      },
+      {
+        "type_uk": "Екскурсія з гідом",
+        "type_en": "Guided tour",
+        "type_de": "Führung",
+        "duration_uk": "3-4 години",
+        "duration_en": "3-4 hours",
+        "duration_de": "3-4 Stunden",
+        "price": 500,
+        "groupSize": "до 15 осіб / up to 15 people / bis 15 Personen"
+      }
+    ],
+    "averageVisitDuration_uk": "1-2 дні",
+    "averageVisitDuration_en": "1-2 days",
+    "averageVisitDuration_de": "1-2 Tage",
+    "busyPeriods_uk": ["Літо (червень-серпень)", "Вихідні дні", "Осінь (вересень-жовтень) для грибників"],
+    "busyPeriods_en": ["Summer (June-August)", "Weekends", "Autumn (September-October) for mushroom pickers"],
+    "busyPeriods_de": ["Sommer (Juni-August)", "Wochenenden", "Herbst (September-Oktober) für Pilzsammler"],
+    "adviceForVisitors_uk": "Візьміть зручне взуття для гірських походів та теплий одяг. Для відвідування деяких маршрутів у прикордонній зоні потрібен дозвіл прикордонної служби — заздалегідь зверніться до адміністрації парку. Обов'язково відвідайте тисячолітні дуби в Стужиці та урочище Чорні Млаки.",
+    "adviceForVisitors_en": "Bring comfortable shoes for mountain hiking and warm clothing. To visit some routes in the border zone, you need permission from the border guard service — contact the park administration in advance. Be sure to visit the thousand-year-old oaks in Stuzhytsia and Chorni Mlaky area.",
+    "adviceForVisitors_de": "Bringen Sie bequeme Schuhe für Bergwanderungen und warme Kleidung mit. Um einige Routen in der Grenzzone zu besuchen, benötigen Sie eine Genehmigung des Grenzschutzes — wenden Sie sich im Voraus an die Parkverwaltung. Besuchen Sie unbedingt die tausendjährigen Eichen in Stuzhytsia und das Gebiet Chorni Mlaky."
+  },
+
+  "features": {
+    "highlights_uk": [
+      "Букові праліси UNESCO — понад 3000 гектарів",
+      "Тисячолітні дуби в Стужиці — найстаріші дерева України",
+      "Місце падіння метеориту Княгиня (1866 р.) — 500 кг",
+      "Укріплення Лінії Арпада (Друга світова війна)",
+      "Військові цвинтарі Першої світової війни",
+      "Дерев'яна церква св. Михаїла в Ужку (UNESCO)",
+      "Ужоцький перевал з видами на Східні Бескиди",
+      "140 км туристичних маршрутів",
+      "17 еко-туристичних маршрутів",
+      "8 карстових печер",
+      "11 мінеральних джерел",
+      "Витоки річок Сян та Уж"
+    ],
+    "highlights_en": [
+      "UNESCO beech primeval forests — over 3,000 hectares",
+      "Thousand-year-old oaks in Stuzhytsia — oldest trees in Ukraine",
+      "Knyahynia meteorite impact site (1866) — 500 kg",
+      "Arpad Line fortifications (World War II)",
+      "World War I military cemeteries",
+      "St. Michael wooden church in Uzhok (UNESCO)",
+      "Uzhok Pass with views of Eastern Beskids",
+      "140 km of tourist routes",
+      "17 eco-tourist routes",
+      "8 karst caves",
+      "11 mineral springs",
+      "Sources of Sian and Uzh rivers"
+    ],
+    "highlights_de": [
+      "UNESCO-Buchenurwälder — über 3.000 Hektar",
+      "Tausendjährige Eichen in Stuzhytsia — älteste Bäume der Ukraine",
+      "Knyahynia-Meteoriteneinschlagsort (1866) — 500 kg",
+      "Arpad-Linie-Festungen (Zweiter Weltkrieg)",
+      "Militärfriedhöfe des Ersten Weltkriegs",
+      "Holzkirche St. Michael in Uzhok (UNESCO)",
+      "Uzhok-Pass mit Blick auf die Östlichen Beskiden",
+      "140 km Wanderwege",
+      "17 Öko-Tourismus-Routen",
+      "8 Karsthöhlen",
+      "11 Mineralquellen",
+      "Quellen der Flüsse Sian und Uzh"
+    ],
+    "facilities_uk": ["Адміністративний центр", "Екостежки", "Місця для відпочинку", "Альтанки", "Туалети", "Парковки"],
+    "facilities_en": ["Administrative center", "Eco-trails", "Recreation areas", "Gazebos", "Toilets", "Parking"],
+    "facilities_de": ["Verwaltungszentrum", "Öko-Pfade", "Erholungsgebiete", "Pavillons", "Toiletten", "Parkplätze"],
+    "accessibility": {
+      "wheelchairAccessible": false,
+      "notes_uk": "Гірський рельєф та відсутність спеціально обладнаних доріжок роблять більшість території недоступною для інвалідних візків.",
+      "notes_en": "Mountain terrain and lack of specially equipped paths make most of the territory inaccessible for wheelchairs.",
+      "notes_de": "Berggelände und Fehlen speziell ausgestatteter Wege machen den größten Teil des Gebiets für Rollstühle unzugänglich."
+    },
+    "uniqueSellingPoints_uk": [
+      "Єдине місце в Україні з тисячолітніми дубами",
+      "Найбільший метеорит, що впав на території України",
+      "Частина транскордонного біосферного резервату трьох країн",
+      "Частина Всесвітньої спадщини UNESCO (букові праліси)",
+      "Унікальна комбінація природи та історії світових воєн"
+    ],
+    "uniqueSellingPoints_en": [
+      "Only place in Ukraine with thousand-year-old oaks",
+      "Largest meteorite to fall on Ukrainian territory",
+      "Part of transboundary biosphere reserve of three countries",
+      "Part of UNESCO World Heritage (beech primeval forests)",
+      "Unique combination of nature and world war history"
+    ],
+    "uniqueSellingPoints_de": [
+      "Einziger Ort in der Ukraine mit tausendjährigen Eichen",
+      "Größter Meteorit, der auf ukrainisches Territorium fiel",
+      "Teil des grenzüberschreitenden Biosphärenreservats dreier Länder",
+      "Teil des UNESCO-Welterbes (Buchenurwälder)",
+      "Einzigartige Kombination aus Natur und Weltkriegsgeschichte"
+    ]
+  },
+
+  "images": {
+    "heroImage": {
+      "url": "https://wownature.in.ua/wp-content/uploads/2021/10/Uzhanskyy-pryrodniy-park.-Vse-navkolo-vkryto-bukovymy-pralisamy-a-tse-bilshe-3-tys.-ha-lisu-iakyy-okhoroniaietsia-YUNESKO.-Daniel-Rosengren.jpg",
+      "alt_uk": "Букові праліси Ужанського парку",
+      "alt_en": "Beech primeval forests of Uzhansky Park",
+      "alt_de": "Buchenurwälder des Uzhansky-Parks",
+      "caption_uk": "Все навколо вкрито буковими пралісами — більше 3 тис. га лісу, який охороняється ЮНЕСКО",
+      "caption_en": "Everything around is covered with beech primeval forests — more than 3,000 hectares of forest protected by UNESCO",
+      "caption_de": "Alles ist von Buchenurwäldern bedeckt — mehr als 3.000 Hektar Wald, der von der UNESCO geschützt wird"
+    },
+    "gallery": [
+      {
+        "url": "https://wownature.in.ua/wp-content/uploads/2021/10/Dido-dub.-Tut-znakhodytsia-odni-z-naystarishykh-derev-v-kraini-tysiacholitni-Dido-dub-ta-Dub-chempion.-Oleh-Horbey.jpg",
+        "alt_uk": "Дідо-дуб — тисячолітній дуб в селі Стужиця",
+        "alt_en": "Grandfather Oak — thousand-year-old oak in Stuzhytsia village",
+        "alt_de": "Großvater-Eiche — tausendjährige Eiche im Dorf Stuzhytsia",
+        "caption_uk": "Тут знаходяться одні з найстаріших дерев в країні — тисячолітні Дідо-дуб та Дуб-чемпіон"
+      },
+      {
+        "url": "https://wownature.in.ua/wp-content/uploads/2021/10/Derev_iani-tserkvy.-TSerkva-Sviatoho-Arkhystratyha-Mykhaila-v-seli-Uzhok.-Svitova-spadshchyna-YUNESKO.-Serhiy-Kantsyrenko.jpg",
+        "alt_uk": "Церква Святого Архістратига Михаїла в селі Ужок",
+        "alt_en": "Church of St. Michael the Archangel in Uzhok village",
+        "alt_de": "Kirche des Erzengels Michael im Dorf Uzhok",
+        "caption_uk": "Дерев'яна церква — об'єкт Світової спадщини ЮНЕСКО"
+      },
+      {
+        "url": "https://wownature.in.ua/wp-content/uploads/2021/10/Ohliadovyy-maydanchyk-Uzhotskoho-perevalu.-Tut-vidkryvaietsia-vyd-na-Skhidni-Beskydy.-Vse-navkolo-vkryto-bukovymy-pralisamy.-Vasyl-Kopach.jpg",
+        "alt_uk": "Оглядовий майданчик Ужоцького перевалу",
+        "alt_en": "Observation deck of Uzhok Pass",
+        "alt_de": "Aussichtspunkt des Uzhok-Passes",
+        "caption_uk": "Тут відкривається вид на Східні Бескиди. Все навколо вкрито буковими пралісами"
+      },
+      {
+        "url": "https://wownature.in.ua/wp-content/uploads/2021/10/Ukriplennia-Linii-Arpada.-TSia-terytoriia-Skhidnykh-Karpat-bula-arenoiu-boiv-Pershoi-ta-Druhoi-svitovoi-viyny.-Vasyl-Kopach.jpg",
+        "alt_uk": "Укріплення Лінії Арпада",
+        "alt_en": "Arpad Line fortifications",
+        "alt_de": "Arpad-Linie-Festungen",
+        "caption_uk": "Ця територія Східних Карпат була ареною боїв Першої та Другої світової війни"
+      },
+      {
+        "url": "https://wownature.in.ua/wp-content/uploads/2021/10/Bukovi-lisy-Uzhanskoho-parku.-Vse-navkolo-vkryto-takymy-pralisamy-a-tse-bilshe-3-tys.-ha-lisu-iakyy-okhoroniaietsia-YUNESKO.-.jpg",
+        "alt_uk": "Букові ліси Ужанського парку",
+        "alt_en": "Beech forests of Uzhansky Park",
+        "alt_de": "Buchenwälder des Uzhansky-Parks",
+        "caption_uk": "Все навколо вкрито такими пралісами — більше 3 тис. га лісу, який охороняється ЮНЕСКО"
+      }
+    ]
+  },
+
+  "historicalData": {
+    "yearBuilt": "1999",
+    "yearBuiltNote_uk": "Створений 3 червня 1999 року",
+    "yearBuiltNote_en": "Established on June 3, 1999",
+    "yearBuiltNote_de": "Gegründet am 3. Juni 1999",
+    "architecturalStyle_uk": "Природний ландшафт",
+    "architecturalStyle_en": "Natural landscape",
+    "architecturalStyle_de": "Naturlandschaft",
+    "architects": [],
+    "unescoStatus": "inscribed",
+    "unescoYear": 2007,
+    "nationalHeritageStatus": "National Nature Park, Transboundary Biosphere Reserve",
+    "referenceNumber": "1133",
+    "managedBy_uk": "Ужанський національний природний парк",
+    "managedBy_en": "Uzhansky National Nature Park",
+    "managedBy_de": "Uzhansky-Nationalpark"
+  },
+
+  "culturalEvents": [],
+
+  "tags": [
+    "national-park",
+    "nature-reserve",
+    "unesco-site",
+    "beech-forests",
+    "primeval-forests",
+    "transboundary-park",
+    "ancient-trees",
+    "meteorite",
+    "world-war-history",
+    "fortifications",
+    "wooden-churches",
+    "zakarpattia",
+    "carpathians",
+    "beskids",
+    "eco-tourism",
+    "hiking",
+    "wildlife"
+  ],
+
+  "suitableFor_uk": [
+    "Любителі природи",
+    "Історики",
+    "Фотографи",
+    "Туристи-пішохідники",
+    "Дослідники",
+    "Сімейні подорожі",
+    "Шкільні екскурсії"
+  ],
+  "suitableFor_en": [
+    "Nature lovers",
+    "Historians",
+    "Photographers",
+    "Hikers",
+    "Researchers",
+    "Family travel",
+    "School excursions"
+  ],
+  "suitableFor_de": [
+    "Naturliebhaber",
+    "Historiker",
+    "Fotografen",
+    "Wanderer",
+    "Forscher",
+    "Familienreisen",
+    "Schulausflüge"
+  ],
+
+  "weatherDependent": true,
+  "indoorActivities": false,
+  "outdoorActivities": true,
+
+  "priceRange": "$",
+  "rating": 4.7,
+  "reviewsCount": 892,
+  "featured": true,
+  "status": "published",
+
+  "metaDescription_uk": "Ужанський національний парк — букові праліси UNESCO, тисячолітні дуби, місце падіння метеориту, укріплення світових воєн на кордоні трьох країн у Закарпатті.",
+  "metaDescription_en": "Uzhansky National Park — UNESCO beech primeval forests, thousand-year-old oaks, meteorite impact site, world war fortifications at the border of three countries in Zakarpattia.",
+  "metaDescription_de": "Uzhansky-Nationalpark — UNESCO-Buchenurwälder, tausendjährige Eichen, Meteoriteneinschlagsort, Festungen der Weltkriege an der Grenze dreier Länder in Transkarpatien.",
+
+  "keywords": [
+    "Ужанський парк",
+    "Uzhansky Park",
+    "національний парк",
+    "national park",
+    "Nationalpark",
+    "Закарпаття",
+    "Zakarpattia",
+    "Transkarpatien",
+    "UNESCO",
+    "букові праліси",
+    "beech forests",
+    "Buchenwälder",
+    "тисячолітні дуби",
+    "ancient oaks",
+    "alte Eichen",
+    "метеорит",
+    "meteorite",
+    "Meteorit",
+    "Лінія Арпада",
+    "Arpad Line",
+    "Карпати",
+    "Carpathians",
+    "Karpaten"
+  ],
+
+  "lastUpdated": "2025-11-30",
+  "source": "Wikipedia, Uzhansky Park Official Website, WOWNature.in.ua, Jina AI Research",
+  "verified": true
+}

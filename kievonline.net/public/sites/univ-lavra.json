@@ -1,0 +1,379 @@
+{
+  "id": "univ-lavra",
+  "slug": "univ-lavra",
+  "name_uk": "Свято-Успенська Унівська Лавра",
+  "name_en": "Univ Holy Dormition Lavra",
+  "name_de": "Univ Mariä-Entschlafens-Lavra",
+
+  "tagline_uk": "Єдина лавра Української Греко-Католицької Церкви та оплот студійського чернецтва",
+  "tagline_en": "The only Lavra of the Ukrainian Greek Catholic Church and stronghold of Studite monasticism",
+  "tagline_de": "Die einzige Lavra der Ukrainisch-Griechisch-Katholischen Kirche und Hochburg des Studiten-Mönchtums",
+
+  "category": "monastery",
+  "subcategories": ["lavra", "greek-catholic", "studite", "medieval-architecture", "pilgrimage-site"],
+  "region": "Peremyshliany",
+  "oblast": "Lviv Oblast",
+
+  "description_uk": {
+    "short": "Унівська Лавра — єдина лавра Української Греко-Католицької Церкви, заснована близько 1400 року. Монастир Студійського уставу налічує близько 70 монахів і є центром духовного життя та паломництва.",
+    "full": "Свято-Успенська Унівська Лавра Студійського Уставу — чоловічий ставропігійний монастир, що підлягає Главі УГКЦ. Це єдина лавра Української Греко-Католицької Церкви, розташована в селі Унів Львівської області.\n\nМонастир керується Кодексом Канонів Східних Церков та монашим \"Типіконом\", укладеним Митрополитом Андреєм (1865-1944) та блаженним архимандритом Климентієм (1869-1951) Шептицькими на основі уставів Студійської традиції та інших древніх іночеських уставів.\n\nУнівська Лавра налічує близько 70 монахів, які проживають у Лаврі та в семи її дочірніх монастирях, служачи Богові і Церкві своїм аскетичним життям молитви й посту, плекаючи богослужбову та духовну традицію християнського Сходу. Студійські монастирі теж займаються душпастирською діяльністю, приймають прочан.\n\nМонахи живуть за принципами богопосвяченого життя, відмовляючись від світу й віддаючи себе на служіння Богу. Вони складають монаші обіти бідності, чистоти та послуху, присвячуючи своє життя молитві, праці та духовному зростанню.",
+    "history": "Перший православний монастир був заснований близько 1400 року Теодором, сином князя Любарта. Частини стін XV століття збереглися до наших днів. Абатство було оточене високим валом і глибоким ровом.\n\nГоловна церква присвячена Успінню Пресвятої Богородиці. Вона була побудована після татарського набігу 1548 року і виглядає як маленька фортеця. Двоповерхова дзвіниця 1630-х років стоїть поруч.\n\nУ XVIII столітті в Унові працювала друкарня. Монастир був розпущений у 1790 році. Михайло Левицький перетворив маєток на свою резиденцію. Рів засипали, а частини середньовічних стін знесли. Літній палац Левицького датується 1820-ми роками.\n\nЛавру було відновлено у 1904 році на основі Кристинопільського Василіанського монастиря Митрополитом Андреєм Шептицьким. Під час радянських часів монастир зазнав переслідувань, але відродився після здобуття Україною незалежності.",
+    "significance": "Унівська Лавра є унікальною пам'яткою духовної спадщини України, єдиною лаврою Української Греко-Католицької Церкви. Вона є центром студійського чернецтва, зберігає древні традиції східного монашества та відіграє важливу роль у духовному житті українського народу."
+  },
+
+  "description_en": {
+    "short": "Univ Lavra is the only Lavra of the Ukrainian Greek Catholic Church, founded around 1400. The Studite monastery houses about 70 monks and serves as a center of spiritual life and pilgrimage.",
+    "full": "The Univ Holy Dormition Lavra of the Studite Rite is a male stavropegial monastery under the Head of the UGCC. It is the only Lavra of the Ukrainian Greek Catholic Church, located in the village of Univ in Lviv Oblast.\n\nThe monastery is governed by the Code of Canons of the Eastern Churches and the monastic \"Typikon\" compiled by Metropolitan Andrey (1865-1944) and Blessed Archimandrite Klymentiy (1869-1951) Sheptytsky based on the statutes of the Studite tradition and other ancient monastic rules.\n\nUniv Lavra has about 70 monks living in the Lavra and in its seven daughter monasteries, serving God and the Church through their ascetic life of prayer and fasting, cultivating the liturgical and spiritual tradition of the Christian East. The Studite monasteries also engage in pastoral activities and receive pilgrims.\n\nMonks live according to the principles of consecrated life, renouncing the world and dedicating themselves to serving God. They take monastic vows of poverty, chastity, and obedience, devoting their lives to prayer, work, and spiritual growth.",
+    "history": "The original Orthodox monastery was founded ca. 1400 by Theodore, the son of Prince Liubartas. Parts of the 15th century walls survive. The abbey was surrounded by a high rampart and a deep moat.\n\nThe main church is dedicated to the Assumption of Mary. It was built after a Tatar raid in 1548 and looks like a small fortress. A two-storey bell tower from the 1630s stands nearby.\n\nIn the 18th century, Univ housed a printing house. The monastery was disbanded in 1790. Mykhajlo Levitsky transformed the property into his residence. The moat was filled in and parts of the medieval wall were demolished. Levitsky's summer palace dates from the 1820s.\n\nThe Lavra was re-established in 1904 on the basis of the Krystinopil Basilian Monastery by Metropolitan Andrey Sheptytsky. During Soviet times, the monastery suffered persecution but was revived after Ukraine gained independence.",
+    "significance": "Univ Lavra is a unique monument of Ukraine's spiritual heritage, the only Lavra of the Ukrainian Greek Catholic Church. It is a center of Studite monasticism, preserves ancient traditions of Eastern monasticism, and plays an important role in the spiritual life of the Ukrainian people."
+  },
+
+  "description_de": {
+    "short": "Die Univ-Lavra ist die einzige Lavra der Ukrainisch-Griechisch-Katholischen Kirche, gegründet um 1400. Das Studiten-Kloster beherbergt etwa 70 Mönche und dient als Zentrum des geistlichen Lebens und der Wallfahrt.",
+    "full": "Die Univ Mariä-Entschlafens-Lavra des Studiten-Ritus ist ein männliches stavropegisches Kloster unter dem Haupt der UGKK. Es ist die einzige Lavra der Ukrainisch-Griechisch-Katholischen Kirche, gelegen im Dorf Univ in der Oblast Lwiw.\n\nDas Kloster wird vom Kodex der Kanones der Ostkirchen und dem klösterlichen \"Typikon\" geleitet, zusammengestellt von Metropolit Andrey (1865-1944) und dem seligen Archimandrit Klymentiy (1869-1951) Sheptytsky basierend auf den Statuten der Studiten-Tradition.\n\nDie Univ-Lavra hat etwa 70 Mönche, die in der Lavra und in ihren sieben Tochterklöstern leben und Gott und der Kirche durch ihr asketisches Leben des Gebets und Fastens dienen.",
+    "history": "Das ursprüngliche orthodoxe Kloster wurde um 1400 von Theodor, dem Sohn von Fürst Liubartas, gegründet. Teile der Mauern aus dem 15. Jahrhundert sind erhalten geblieben.",
+    "significance": "Die Univ-Lavra ist ein einzigartiges Denkmal des geistlichen Erbes der Ukraine, die einzige Lavra der Ukrainisch-Griechisch-Katholischen Kirche."
+  },
+
+  "location": {
+    "city": "Univ",
+    "region": "Lviv Oblast",
+    "address_uk": "село Унів, Львівська область, Україна",
+    "address_en": "Univ village, Lviv Oblast, Ukraine",
+    "address_de": "Dorf Univ, Oblast Lwiw, Ukraine",
+    "coordinates": {
+      "latitude": 49.72278,
+      "longitude": 24.59528
+    },
+    "directions_uk": {
+      "general": "Розташована в селі Унів, Перемишлянський район, Львівська область",
+      "publicTransport": "Автобусом зі Львова до села Унів (близько 60 км)",
+      "car": "Зі Львова - 60 км через Перемишляни (близько 1 години)",
+      "parking": "Безкоштовна парковка біля монастиря"
+    },
+    "directions_en": {
+      "general": "Located in Univ village, Peremyshliany district, Lviv Oblast",
+      "publicTransport": "Bus from Lviv to Univ village (about 60 km)",
+      "car": "From Lviv - 60 km via Peremyshliany (about 1 hour)",
+      "parking": "Free parking near the monastery"
+    },
+    "directions_de": {
+      "general": "Im Dorf Univ, Bezirk Peremyshliany, Oblast Lwiw gelegen",
+      "publicTransport": "Bus von Lwiw zum Dorf Univ (ca. 60 km)",
+      "car": "Von Lwiw - 60 km über Peremyshliany (ca. 1 Stunde)",
+      "parking": "Kostenloser Parkplatz beim Kloster"
+    },
+    "nearbyAttractions": [
+      {
+        "name_uk": "Перемишляни",
+        "name_en": "Peremyshliany",
+        "distance": "15 km",
+        "type": "historic-town"
+      },
+      {
+        "name_uk": "Підгірці",
+        "name_en": "Pidhirtsi",
+        "distance": "25 km",
+        "type": "castle"
+      }
+    ]
+  },
+
+  "contact": {
+    "phone": "+380 67 314-69-09",
+    "email": "info@studyty.org.ua",
+    "website": "http://studyty.org.ua/",
+    "bookingUrl": null,
+    "socialMedia": {
+      "facebook": null,
+      "instagram": null,
+      "youtube": null
+    }
+  },
+
+  "visitingInformation": {
+    "openingTimes": {
+      "status_uk": "Відкрито цілий рік",
+      "status_en": "Open year-round",
+      "status_de": "Ganzjährig geöffnet",
+      "seasonal": [
+        {
+          "season_uk": "Цілий рік",
+          "season_en": "Year-round",
+          "season_de": "Ganzjährig",
+          "days_uk": "Щодня",
+          "days_en": "Daily",
+          "days_de": "Täglich",
+          "hours": "06:00 - 21:30",
+          "lastAdmission": "21:00"
+        }
+      ]
+    },
+    "admissionPrices": {
+      "currency": "UAH",
+      "adult": 0,
+      "student": 0,
+      "child": 0,
+      "senior": 0,
+      "family": 0,
+      "notes_uk": "Вхід безкоштовний. Пожертви вітаються",
+      "notes_en": "Free entrance. Donations welcome",
+      "notes_de": "Freier Eintritt. Spenden willkommen"
+    },
+    "tourOptions": [
+      {
+        "type_uk": "Самостійний огляд",
+        "type_en": "Self-guided tour",
+        "type_de": "Selbstgeführte Tour",
+        "duration_uk": "1-2 години",
+        "duration_en": "1-2 hours",
+        "duration_de": "1-2 Stunden",
+        "price": 0
+      },
+      {
+        "type_uk": "Екскурсія з монахом",
+        "type_en": "Guided tour with monk",
+        "type_de": "Führung mit Mönch",
+        "duration_uk": "1 година",
+        "duration_en": "1 hour",
+        "duration_de": "1 Stunde",
+        "price": 0,
+        "groupSize": "за домовленістю / by arrangement / nach Vereinbarung"
+      }
+    ],
+    "averageVisitDuration_uk": "1.5-2 години",
+    "averageVisitDuration_en": "1.5-2 hours",
+    "averageVisitDuration_de": "1,5-2 Stunden",
+    "busyPeriods_uk": ["Великі релігійні свята", "Неділі", "Літні місяці"],
+    "busyPeriods_en": ["Major religious holidays", "Sundays", "Summer months"],
+    "busyPeriods_de": ["Große religiöse Feiertage", "Sonntage", "Sommermonate"],
+    "adviceForVisitors_uk": "Дотримуйтесь скромного одягу. Можна взяти участь у богослужіннях. Є музей історії українського християнства. Доступна чудотворна вода.",
+    "adviceForVisitors_en": "Dress modestly. You can participate in services. Museum of Ukrainian Christianity history available. Miraculous water stream accessible.",
+    "adviceForVisitors_de": "Kleiden Sie sich bescheiden. Sie können an Gottesdiensten teilnehmen. Museum zur Geschichte des ukrainischen Christentums verfügbar."
+  },
+
+  "features": {
+    "highlights_uk": [
+      "Єдина лавра УГКЦ",
+      "Студійське чернецтво",
+      "Церква Успіння Богородиці (1548)",
+      "Дзвіниця XVII століття",
+      "Чудотворне джерело води",
+      "Музей історії українського християнства",
+      "Активна монаша громада 70 монахів"
+    ],
+    "highlights_en": [
+      "Only Lavra of UGCC",
+      "Studite monasticism",
+      "Church of Assumption of Mary (1548)",
+      "17th century bell tower",
+      "Miraculous water stream",
+      "Museum of Ukrainian Christianity history",
+      "Active monastic community of 70 monks"
+    ],
+    "highlights_de": [
+      "Einzige Lavra der UGKK",
+      "Studiten-Mönchtum",
+      "Mariä-Entschlafens-Kirche (1548)",
+      "Glockenturm aus dem 17. Jahrhundert",
+      "Wundertätiger Wasserquelle",
+      "Museum zur Geschichte des ukrainischen Christentums",
+      "Aktive Mönchsgemeinschaft von 70 Mönchen"
+    ],
+    "facilities_uk": ["Музей", "Паломницький центр", "Джерело води", "Сувенірний магазин", "Парковка"],
+    "facilities_en": ["Museum", "Pilgrimage center", "Water spring", "Gift shop", "Parking"],
+    "facilities_de": ["Museum", "Pilgerzentrum", "Wasserquelle", "Souvenirladen", "Parkplatz"],
+    "accessibility": {
+      "wheelchairAccessible": false,
+      "notes_uk": "Обмежений доступ для інвалідних візків через історичну архітектуру та сходи",
+      "notes_en": "Limited wheelchair access due to historical architecture and stairs",
+      "notes_de": "Begrenzter Rollstuhlzugang aufgrund historischer Architektur und Treppen"
+    },
+    "uniqueSellingPoints_uk": [
+      "Єдина лавра Української Греко-Католицької Церкви",
+      "Центр студійського монашества в Україні",
+      "Чудотворне джерело води",
+      "Активна духовна община",
+      "Збережені середньовічні укріплення"
+    ],
+    "uniqueSellingPoints_en": [
+      "Only Lavra of Ukrainian Greek Catholic Church",
+      "Center of Studite monasticism in Ukraine",
+      "Miraculous water spring",
+      "Active spiritual community",
+      "Preserved medieval fortifications"
+    ],
+    "uniqueSellingPoints_de": [
+      "Einzige Lavra der Ukrainisch-Griechisch-Katholischen Kirche",
+      "Zentrum des Studiten-Mönchtums in der Ukraine",
+      "Wundertätige Wasserquelle",
+      "Aktive geistliche Gemeinschaft",
+      "Erhaltene mittelalterliche Befestigungen"
+    ]
+  },
+
+  "images": {
+    "heroImage": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Univ_lavra.jpg",
+      "alt_uk": "Вид на Унівську Лавру",
+      "alt_en": "View of Univ Lavra",
+      "alt_de": "Ansicht der Univ-Lavra",
+      "caption_uk": "Свято-Успенська Унівська Лавра Студійського Уставу",
+      "caption_en": "Univ Holy Dormition Lavra of the Studite Rite",
+      "caption_de": "Univ Mariä-Entschlafens-Lavra des Studiten-Ritus"
+    },
+    "gallery": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Univ_Holy_Dormition_Lavra_of_the_Studite_Rite.JPG",
+        "alt_uk": "Головний вхід до Унівської Лаври",
+        "alt_en": "Main entrance to Univ Lavra",
+        "alt_de": "Haupteingang zur Univ-Lavra",
+        "caption_uk": "Фасад Унівської Лаври"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Temple_of_the_Ascension_of_the_Lord_UGCC._Univ_village.JPG",
+        "alt_uk": "Храм Вознесіння Господнього УГКЦ",
+        "alt_en": "Temple of the Ascension of the Lord UGCC",
+        "alt_de": "Himmelfahrts-Tempel der UGKK",
+        "caption_uk": "Храм Вознесіння в селі Унів"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/en/c/ca/Church_of_the_martyr_Clement_and_Leontius._Univ_Lavra.JPG",
+        "alt_uk": "Церква святих мучеників Климента і Леонтія",
+        "alt_en": "Church of the martyrs Clement and Leontius",
+        "alt_de": "Kirche der Märtyrer Klemens und Leontius",
+        "caption_uk": "Церква мучеників Климента і Леонтія в Унівській Лаврі"
+      }
+    ]
+  },
+
+  "historicalData": {
+    "yearBuilt": "1400",
+    "yearBuiltNote_uk": "Перші укріплення датуються близько 1400 року. Головна церква побудована після 1548 року",
+    "yearBuiltNote_en": "First fortifications date to ca. 1400. Main church built after 1548",
+    "yearBuiltNote_de": "Erste Befestigungen datieren auf ca. 1400. Hauptkirche nach 1548 erbaut",
+    "architecturalStyle_uk": "Середньовічна оборонна архітектура, українське бароко",
+    "architecturalStyle_en": "Medieval defensive architecture, Ukrainian Baroque",
+    "architecturalStyle_de": "Mittelalterliche Verteidigungsarchitektur, Ukrainischer Barock",
+    "architects": [
+      {
+        "name": "Митрополит Андрей Шептицький",
+        "period": "1904",
+        "contribution_uk": "Відновлення Лаври на основі Студійського уставу",
+        "contribution_en": "Re-establishment of Lavra based on Studite rule",
+        "contribution_de": "Wiederherstellung der Lavra nach der Studiten-Regel"
+      }
+    ],
+    "unescoStatus": "none",
+    "unescoYear": null,
+    "nationalHeritageStatus": "Monument of National Significance",
+    "referenceNumber": "UA-LV-UNIV-001",
+    "managedBy_uk": "Українська Греко-Католицька Церква, Студійські монахи",
+    "managedBy_en": "Ukrainian Greek Catholic Church, Studite Monks",
+    "managedBy_de": "Ukrainisch-Griechisch-Katholische Kirche, Studiten-Mönche"
+  },
+
+  "culturalEvents": [
+    {
+      "name_uk": "Празник Успіння Пресвятої Богородиці",
+      "name_en": "Feast of the Assumption of Mary",
+      "name_de": "Fest Mariä Himmelfahrt",
+      "period_uk": "28 серпня (щорічно)",
+      "period_en": "August 28 (annually)",
+      "period_de": "28. August (jährlich)",
+      "description_uk": "Головне свято Лаври з урочистими богослужіннями та паломництвом",
+      "description_en": "Main feast of the Lavra with solemn services and pilgrimage",
+      "description_de": "Hauptfest der Lavra mit feierlichen Gottesdiensten und Wallfahrt"
+    },
+    {
+      "name_uk": "Різдво Христове",
+      "name_en": "Christmas",
+      "name_de": "Weihnachten",
+      "period_uk": "7 січня",
+      "period_en": "January 7",
+      "period_de": "7. Januar",
+      "description_uk": "Святкові богослужіння за східним обрядом",
+      "description_en": "Festive services in Eastern rite",
+      "description_de": "Festliche Gottesdienste nach östlichem Ritus"
+    }
+  ],
+
+  "tags": [
+    "monastery",
+    "lavra",
+    "greek-catholic",
+    "studite",
+    "pilgrimage",
+    "spiritual",
+    "medieval",
+    "lviv-oblast",
+    "univ",
+    "ukrainian-heritage",
+    "religious-site",
+    "fortified-monastery",
+    "miraculous-water"
+  ],
+
+  "suitableFor_uk": [
+    "Паломники",
+    "Люди віри",
+    "Любителі історії",
+    "Духовні шукачі",
+    "Дослідники архітектури",
+    "Сімейні подорожі"
+  ],
+  "suitableFor_en": [
+    "Pilgrims",
+    "People of faith",
+    "History enthusiasts",
+    "Spiritual seekers",
+    "Architecture researchers",
+    "Family travel"
+  ],
+  "suitableFor_de": [
+    "Pilger",
+    "Gläubige Menschen",
+    "Geschichtsinteressierte",
+    "Spirituell Suchende",
+    "Architekturforscher",
+    "Familienreisen"
+  ],
+
+  "weatherDependent": false,
+  "indoorActivities": true,
+  "outdoorActivities": true,
+
+  "priceRange": "$",
+  "rating": 4.9,
+  "reviewsCount": 85,
+  "featured": true,
+  "status": "published",
+
+  "metaDescription_uk": "Унівська Лавра — єдина лавра УГКЦ, центр студійського чернецтва в Україні. Заснована 1400 року, чудотворне джерело, музей. Активна духовна община 70 монахів.",
+  "metaDescription_en": "Univ Lavra - the only Lavra of UGCC, center of Studite monasticism in Ukraine. Founded 1400, miraculous water spring, museum. Active spiritual community of 70 monks.",
+  "metaDescription_de": "Univ-Lavra - die einzige Lavra der UGKK, Zentrum des Studiten-Mönchtums in der Ukraine. Gegründet 1400, wundertätige Quelle, Museum. Aktive geistliche Gemeinschaft von 70 Mönchen.",
+
+  "keywords": [
+    "Унів",
+    "Univ",
+    "Лавра",
+    "Lavra",
+    "УГКЦ",
+    "UGCC",
+    "Студити",
+    "Studites",
+    "монастир",
+    "monastery",
+    "паломництво",
+    "pilgrimage",
+    "Львівська область",
+    "Lviv Oblast",
+    "православ'я",
+    "orthodoxy",
+    "spiritual tourism"
+  ],
+
+  "lastUpdated": "2025-11-30",
+  "source": "Wikipedia, Official website studyty.org.ua, Jina AI research",
+  "verified": true
+}

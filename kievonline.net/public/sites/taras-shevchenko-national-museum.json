@@ -1,0 +1,413 @@
+{
+  "id": "taras-shevchenko-national-museum",
+  "slug": "taras-shevchenko-national-museum",
+
+  "name_uk": "Національний музей Тараса Шевченка",
+  "name_en": "Taras Shevchenko National Museum",
+  "name_de": "Nationales Taras-Schewtschenko-Museum",
+
+  "tagline_uk": "Найповніша колекція творів великого Кобзаря України",
+  "tagline_en": "The most comprehensive collection of Ukraine's greatest Kobzar",
+  "tagline_de": "Die umfassendste Sammlung des größten Kobzars der Ukraine",
+
+  "category": "museum",
+  "subcategories": ["art-museum", "literary-museum", "biographical-museum", "cultural-heritage"],
+  "region": "Kyiv",
+  "oblast": "Kyiv Oblast",
+
+  "description_uk": {
+    "short": "Національний музей Тараса Шевченка у Києві — найбільше в світі зібрання творів та пам'яток життя великого українського поета, художника і мислителя. Заснований у 1949 році, музей зберігає понад 50 000 експонатів.",
+    "full": "Національний музей Тараса Шевченка є унікальною культурною установою, що зберігає найповнішу колекцію творів видатного українського поета, художника, громадського діяча Тараса Григоровича Шевченка. Музей розташований у мальовничому палаці XIX століття, що належав родині Терещенків — відомих меценатів та промисловців.\n\nКолекція музею налічує понад 50 000 експонатів, серед яких оригінальні картини та графічні роботи Шевченка, його автографи, перші видання «Кобзаря», особисті речі поета, фотографії, документи, що стосуються його життя та творчості. У 24 залах музею представлені не лише роботи самого Шевченка, але й твори сучасників — К. Брюллова, І. Рєпіна, В. Тропініна, І. Крамського та інших майстрів.\n\nМузей активно займається науково-дослідною роботою, організовує виставки, конференції, видає каталоги та монографії. Тут працює бібліотека з фондом понад 34 000 томів шевченкіани. Особливу цінність становлять оригінальні офорти та акварелі митця, а також рідкісні фотографії та документи епохи.\n\nУ музеї також проводяться виставки сучасного українського мистецтва, лекції, майстер-класи для дітей та дорослих. Будівля музею сама по собі є архітектурною пам'яткою — класичний палац з колонадою, що створює урочисту атмосферу для знайомства з спадщиною великого Кобзаря.",
+    "history": "Музей був заснований у 1949 році на базі колишньої Шевченківської художньої галереї в Харкові та Українського історичного музею імені Тараса Шевченка в Києві. Ідея створення музею виникла ще в 1914 році, коли громадськість відзначала 100-річчя з дня народження поета.\n\nУ 1939 році колекція була переведена в приміщення палацу Терещенків на бульварі Шевченка, 12. Під час Другої світової війни частина експонатів була евакуйована, а частина втрачена. Після війни музей відновив свою роботу, активно поповнюючи фонди.\n\nВажливим етапом стало отримання статусу Національного у 1993 році, після здобуття Україною незалежності. Це підкреслило значення Шевченка як символу української національної ідентичності. Музей продовжує розвиватися, впроваджуючи сучасні музейні технології та розширюючи експозиції.",
+    "significance": "Національний музей Тараса Шевченка відіграє ключову роль у збереженні та популяризації творчої спадщини найвидатнішого українського поета і художника. Музей є науково-дослідним центром шевченкознавства, де працюють провідні фахівці, видаються наукові праці, проводяться міжнародні конференції.\n\nМузей виховує патріотизм та національну свідомість, демонструючи величезний вплив Шевченка на формування української ідентичності. Його колекція має світове значення як унікальне зібрання творів митця, що поєднував талант поета і художника. Музей є обов'язковим пунктом культурної програми для всіх, хто цікавиться українською культурою та історією."
+  },
+
+  "description_en": {
+    "short": "The Taras Shevchenko National Museum in Kyiv houses the world's largest collection of works and memorabilia of the great Ukrainian poet, artist, and thinker. Founded in 1949, the museum preserves over 50,000 exhibits.",
+    "full": "The Taras Shevchenko National Museum is a unique cultural institution that houses the most comprehensive collection of works by the outstanding Ukrainian poet, artist, and public figure Taras Hryhorovych Shevchenko. The museum is located in a picturesque 19th-century palace that belonged to the Tereshchenko family — renowned patrons and industrialists.\n\nThe museum's collection comprises over 50,000 exhibits, including original paintings and graphic works by Shevchenko, his autographs, first editions of 'Kobzar', the poet's personal belongings, photographs, and documents related to his life and work. The museum's 24 halls present not only Shevchenko's own works but also creations by his contemporaries — K. Briullov, I. Repin, V. Tropinin, I. Kramskoy, and other masters.\n\nThe museum actively engages in research, organizes exhibitions and conferences, and publishes catalogues and monographs. It operates a library with a collection of over 34,000 volumes of Shevchenko studies. Particularly valuable are the artist's original etchings and watercolors, as well as rare photographs and period documents.\n\nThe museum also hosts exhibitions of contemporary Ukrainian art, lectures, and master classes for children and adults. The museum building itself is an architectural monument — a classical palace with a colonnade that creates a solemn atmosphere for acquaintance with the great Kobzar's legacy.",
+    "history": "The museum was founded in 1949 based on the former Shevchenko Art Gallery in Kharkiv and the Ukrainian Historical Museum named after Taras Shevchenko in Kyiv. The idea of creating the museum arose back in 1914, when the public celebrated the 100th anniversary of the poet's birth.\n\nIn 1939, the collection was moved to the Tereshchenko Palace at 12 Shevchenko Boulevard. During World War II, part of the exhibits were evacuated, and some were lost. After the war, the museum resumed its work, actively replenishing its funds.\n\nAn important milestone was obtaining National status in 1993, after Ukraine gained independence. This emphasized Shevchenko's significance as a symbol of Ukrainian national identity. The museum continues to develop, implementing modern museum technologies and expanding exhibitions.",
+    "significance": "The Taras Shevchenko National Museum plays a key role in preserving and popularizing the creative legacy of Ukraine's greatest poet and artist. The museum is a research center for Shevchenko studies, where leading specialists work, scholarly works are published, and international conferences are held.\n\nThe museum fosters patriotism and national consciousness by demonstrating Shevchenko's enormous influence on the formation of Ukrainian identity. Its collection is of global significance as a unique assembly of works by an artist who combined the talents of poet and painter. The museum is a must-visit cultural destination for anyone interested in Ukrainian culture and history."
+  },
+
+  "description_de": {
+    "short": "Das Nationale Taras-Schewtschenko-Museum in Kiew beherbergt die weltweit größte Sammlung von Werken und Erinnerungsstücken des großen ukrainischen Dichters, Künstlers und Denkers. Das 1949 gegründete Museum bewahrt über 50.000 Exponate.",
+    "full": "Das Nationale Taras-Schewtschenko-Museum ist eine einzigartige kulturelle Einrichtung, die die umfassendste Sammlung von Werken des herausragenden ukrainischen Dichters, Künstlers und Persönlichkeit des öffentlichen Lebens Taras Hryhorowytsch Schewtschenko beherbergt. Das Museum befindet sich in einem malerischen Palast aus dem 19. Jahrhundert, der der Familie Tereschtschenko gehörte — bekannte Mäzene und Industrielle.\n\nDie Museumssammlung umfasst über 50.000 Exponate, darunter Originalgemälde und grafische Arbeiten von Schewtschenko, seine Autographen, Erstausgaben des 'Kobzar', persönliche Gegenstände des Dichters, Fotografien und Dokumente zu seinem Leben und Werk. In 24 Sälen des Museums werden nicht nur Schewtschenkos eigene Werke präsentiert, sondern auch Schöpfungen seiner Zeitgenossen — K. Brjullow, I. Repin, W. Tropinin, I. Kramskoi und andere Meister.\n\nDas Museum betreibt aktiv Forschung, organisiert Ausstellungen und Konferenzen und veröffentlicht Kataloge und Monographien. Es verfügt über eine Bibliothek mit über 34.000 Bänden zur Schewtschenko-Forschung. Besonders wertvoll sind die Original-Radierungen und Aquarelle des Künstlers sowie seltene Fotografien und zeitgenössische Dokumente.",
+    "history": "Das Museum wurde 1949 auf der Grundlage der ehemaligen Schewtschenko-Kunstgalerie in Charkiw und des Ukrainischen Historischen Museums benannt nach Taras Schewtschenko in Kiew gegründet. Die Idee zur Schaffung des Museums entstand bereits 1914, als die Öffentlichkeit den 100. Geburtstag des Dichters feierte.",
+    "significance": "Das Nationale Taras-Schewtschenko-Museum spielt eine Schlüsselrolle bei der Bewahrung und Popularisierung des kreativen Erbes des größten ukrainischen Dichters und Künstlers. Das Museum ist ein Forschungszentrum für Schewtschenko-Studien und ein Muss für jeden, der sich für ukrainische Kultur und Geschichte interessiert."
+  },
+
+  "location": {
+    "city": "Kyiv",
+    "region": "Kyiv Oblast",
+    "address_uk": "бульвар Тараса Шевченка, 12, Київ, 01001",
+    "address_en": "12 Taras Shevchenko Boulevard, Kyiv, 01001",
+    "address_de": "Taras-Schewtschenko-Boulevard 12, Kiew, 01001",
+    "coordinates": {
+      "latitude": 50.4435,
+      "longitude": 30.5080
+    },
+    "directions_uk": {
+      "general": "Музей розташований у самому центрі Києва на бульварі Шевченка",
+      "publicTransport": "Метро: станція 'Університет' (червона лінія) або 'Театральна' (зелена лінія), далі 5-7 хвилин пішки. Автобуси та тролейбуси зупиняються поблизу на бульварі Шевченка",
+      "car": "З центру міста — рухайтеся по бульвару Шевченка. Парковка обмежена, рекомендується користуватися громадським транспортом",
+      "parking": "Платна парковка на сусідніх вулицях, паркувальні місця обмежені"
+    },
+    "directions_en": {
+      "general": "The museum is located in the very center of Kyiv on Shevchenko Boulevard",
+      "publicTransport": "Metro: 'Universytet' station (red line) or 'Teatralna' (green line), then 5-7 minutes walk. Buses and trolleybuses stop nearby on Shevchenko Boulevard",
+      "car": "From the city center — drive along Shevchenko Boulevard. Parking is limited, public transport is recommended",
+      "parking": "Paid parking on adjacent streets, parking spaces are limited"
+    },
+    "directions_de": {
+      "general": "Das Museum befindet sich im Zentrum von Kiew am Schewtschenko-Boulevard",
+      "publicTransport": "Metro: Station 'Universytet' (rote Linie) oder 'Teatralna' (grüne Linie), dann 5-7 Minuten zu Fuß. Busse und Trolleybusse halten in der Nähe am Schewtschenko-Boulevard",
+      "car": "Vom Stadtzentrum — fahren Sie entlang des Schewtschenko-Boulevards. Parkmöglichkeiten sind begrenzt, öffentliche Verkehrsmittel werden empfohlen",
+      "parking": "Bezahlte Parkplätze in angrenzenden Straßen, Parkplätze sind begrenzt"
+    },
+    "nearbyAttractions": [
+      {
+        "name_uk": "Національний університет імені Тараса Шевченка",
+        "name_en": "Taras Shevchenko National University",
+        "distance": "0.3 km",
+        "type": "university"
+      },
+      {
+        "name_uk": "Оперний театр",
+        "name_en": "Opera Theater",
+        "distance": "0.5 km",
+        "type": "theater"
+      },
+      {
+        "name_uk": "Ботанічний сад імені Фоміна",
+        "name_en": "Fomin Botanical Garden",
+        "distance": "0.4 km",
+        "type": "park"
+      }
+    ]
+  },
+
+  "contact": {
+    "phone": "+380 44 234 25 56",
+    "email": "info@museumshevchenko.org.ua",
+    "website": "https://museumshevchenko.org.ua/en",
+    "bookingUrl": null,
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/museumshevchenko",
+      "instagram": "https://www.instagram.com/museum_shevchenko",
+      "twitter": null,
+      "youtube": "https://www.youtube.com/@museumshevchenko"
+    }
+  },
+
+  "visitingInformation": {
+    "openingTimes": {
+      "status_uk": "Відкрито цілий рік",
+      "status_en": "Open year-round",
+      "status_de": "Ganzjährig geöffnet",
+      "seasonal": [
+        {
+          "season_uk": "Цілий рік",
+          "season_en": "Year-round",
+          "season_de": "Ganzjährig",
+          "days_uk": "Середа-Неділя",
+          "days_en": "Wednesday-Sunday",
+          "days_de": "Mittwoch-Sonntag",
+          "hours": "10:00 - 17:00",
+          "lastAdmission": "16:30"
+        }
+      ]
+    },
+    "admissionPrices": {
+      "currency": "UAH",
+      "adult": 100,
+      "student": 15,
+      "child": 50,
+      "senior": 50,
+      "family": null,
+      "notes_uk": "Студентам знижка при пред'явленні студентського квитка. Військовим — безкоштовно. Фотозйомка може потребувати окремої оплати",
+      "notes_en": "Students get discount with valid ID. Free for military personnel. Photography may require additional fee",
+      "notes_de": "Studenten erhalten Ermäßigung mit gültigem Ausweis. Kostenlos für Militärangehörige. Fotografieren kann zusätzliche Gebühr erfordern"
+    },
+    "tourOptions": [
+      {
+        "type_uk": "Самостійний огляд",
+        "type_en": "Self-guided tour",
+        "type_de": "Selbstgeführte Tour",
+        "duration_uk": "1.5-2 години",
+        "duration_en": "1.5-2 hours",
+        "duration_de": "1,5-2 Stunden",
+        "price": 0
+      },
+      {
+        "type_uk": "Екскурсія з гідом українською",
+        "type_en": "Guided tour in Ukrainian",
+        "type_de": "Führung auf Ukrainisch",
+        "duration_uk": "1.5 години",
+        "duration_en": "1.5 hours",
+        "duration_de": "1,5 Stunden",
+        "price": 300,
+        "groupSize": "до 20 осіб / up to 20 people / bis 20 Personen"
+      },
+      {
+        "type_uk": "Екскурсія англійською мовою",
+        "type_en": "Guided tour in English",
+        "type_de": "Führung auf Englisch",
+        "duration_uk": "1.5 години",
+        "duration_en": "1.5 hours",
+        "duration_de": "1,5 Stunden",
+        "price": 500,
+        "groupSize": "до 20 осіб / up to 20 people / bis 20 Personen"
+      }
+    ],
+    "averageVisitDuration_uk": "2-3 години",
+    "averageVisitDuration_en": "2-3 hours",
+    "averageVisitDuration_de": "2-3 Stunden",
+    "busyPeriods_uk": ["Вихідні дні", "Свята", "Шкільні канікули", "День народження Шевченка (9 березня)"],
+    "busyPeriods_en": ["Weekends", "Holidays", "School vacations", "Shevchenko's birthday (March 9)"],
+    "busyPeriods_de": ["Wochenenden", "Feiertage", "Schulferien", "Schewtschenkos Geburtstag (9. März)"],
+    "adviceForVisitors_uk": "Рекомендується відвідати музей з професійним гідом для глибшого розуміння творчості Шевченка. Візьміть зручне взуття для тривалої прогулянки музеєм. Фотографування може бути платним — уточніть на касі.",
+    "adviceForVisitors_en": "It's recommended to visit with a professional guide for deeper understanding of Shevchenko's work. Wear comfortable shoes for extended museum visit. Photography may require additional fee — check at the ticket office.",
+    "adviceForVisitors_de": "Es wird empfohlen, das Museum mit einem professionellen Führer zu besuchen, um Schewtschenkos Werk besser zu verstehen. Tragen Sie bequeme Schuhe für einen längeren Museumsbesuch. Fotografieren kann zusätzliche Gebühr erfordern — fragen Sie an der Kasse nach."
+  },
+
+  "features": {
+    "highlights_uk": [
+      "Понад 800 оригінальних картин та графічних робіт Шевченка",
+      "Рідкісні автографи та рукописи поета",
+      "Перші видання 'Кобзаря' з автографами",
+      "Особисті речі та меморіальні експонати",
+      "Роботи сучасників Шевченка",
+      "Бібліотека з 34 000 томів шевченкіани",
+      "Палац XIX століття родини Терещенків"
+    ],
+    "highlights_en": [
+      "Over 800 original paintings and graphic works by Shevchenko",
+      "Rare autographs and manuscripts of the poet",
+      "First editions of 'Kobzar' with autographs",
+      "Personal belongings and memorial exhibits",
+      "Works by Shevchenko's contemporaries",
+      "Library with 34,000 volumes of Shevchenko studies",
+      "19th-century Tereshchenko family palace"
+    ],
+    "highlights_de": [
+      "Über 800 Originalgemälde und grafische Arbeiten von Schewtschenko",
+      "Seltene Autographen und Manuskripte des Dichters",
+      "Erstausgaben des 'Kobzar' mit Autographen",
+      "Persönliche Gegenstände und Gedenkexponate",
+      "Werke von Schewtschenkos Zeitgenossen",
+      "Bibliothek mit 34.000 Bänden zur Schewtschenko-Forschung",
+      "Palast der Familie Tereschtschenko aus dem 19. Jahrhundert"
+    ],
+    "facilities_uk": ["Музейний магазин", "Бібліотека", "Гардероб", "Туалети", "Лекційний зал", "Виставкові зали"],
+    "facilities_en": ["Museum shop", "Library", "Cloakroom", "Toilets", "Lecture hall", "Exhibition halls"],
+    "facilities_de": ["Museumsshop", "Bibliothek", "Garderobe", "Toiletten", "Vortragssaal", "Ausstellungsräume"],
+    "accessibility": {
+      "wheelchairAccessible": false,
+      "notes_uk": "Будівля XIX століття має обмежену доступність для людей з інвалідністю. Є сходи на вході. Рекомендується зв'язатися з музеєм заздалегідь для організації відвідування",
+      "notes_en": "The 19th-century building has limited accessibility for people with disabilities. There are stairs at the entrance. It's recommended to contact the museum in advance to arrange a visit",
+      "notes_de": "Das Gebäude aus dem 19. Jahrhundert hat eingeschränkte Zugänglichkeit für Menschen mit Behinderungen. Es gibt Treppen am Eingang. Es wird empfohlen, das Museum im Voraus zu kontaktieren, um einen Besuch zu arrangieren"
+    },
+    "uniqueSellingPoints_uk": [
+      "Найбільша в світі колекція творів Тараса Шевченка",
+      "Унікальні автографи та рукописи",
+      "Розташування в історичному палаці Терещенків",
+      "Провідний науковий центр шевченкознавства",
+      "Регулярні виставки сучасного українського мистецтва"
+    ],
+    "uniqueSellingPoints_en": [
+      "World's largest collection of Taras Shevchenko's works",
+      "Unique autographs and manuscripts",
+      "Located in the historic Tereshchenko Palace",
+      "Leading research center for Shevchenko studies",
+      "Regular exhibitions of contemporary Ukrainian art"
+    ],
+    "uniqueSellingPoints_de": [
+      "Weltweit größte Sammlung von Taras Schewtschenkos Werken",
+      "Einzigartige Autographen und Manuskripte",
+      "Untergebracht im historischen Tereschtschenko-Palast",
+      "Führendes Forschungszentrum für Schewtschenko-Studien",
+      "Regelmäßige Ausstellungen zeitgenössischer ukrainischer Kunst"
+    ]
+  },
+
+  "images": {
+    "heroImage": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Taras_Shevchenko_National_Museum.jpg/1280px-Taras_Shevchenko_National_Museum.jpg",
+      "alt_uk": "Національний музей Тараса Шевченка у Києві",
+      "alt_en": "Taras Shevchenko National Museum in Kyiv",
+      "alt_de": "Nationales Taras-Schewtschenko-Museum in Kiew",
+      "caption_uk": "Фасад музею в палаці Терещенків на бульварі Шевченка",
+      "caption_en": "Museum facade in Tereshchenko Palace on Shevchenko Boulevard",
+      "caption_de": "Museumsfassade im Tereschtschenko-Palast am Schewtschenko-Boulevard"
+    },
+    "gallery": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Shevchenko_self-portrait_1840-1841.jpg/800px-Shevchenko_self-portrait_1840-1841.jpg",
+        "alt_uk": "Автопортрет Тараса Шевченка",
+        "alt_en": "Self-portrait of Taras Shevchenko",
+        "alt_de": "Selbstporträt von Taras Schewtschenko",
+        "caption_uk": "Один з автопортретів Шевченка з колекції музею"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Kobzar_1840.jpg/600px-Kobzar_1840.jpg",
+        "alt_uk": "Перше видання Кобзаря 1840 року",
+        "alt_en": "First edition of Kobzar from 1840",
+        "alt_de": "Erstausgabe des Kobzar von 1840",
+        "caption_uk": "Рідкісне перше видання Кобзаря з автографом автора"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Taras_Shevchenko_Museum_interior.jpg/1024px-Taras_Shevchenko_Museum_interior.jpg",
+        "alt_uk": "Інтер'єр музею",
+        "alt_en": "Museum interior",
+        "alt_de": "Museumsinterieur",
+        "caption_uk": "Один з виставкових залів музею з експонатами"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Shevchenko_Kateryna_1842.jpg/600px-Shevchenko_Kateryna_1842.jpg",
+        "alt_uk": "Картина Тараса Шевченка 'Катерина'",
+        "alt_en": "Taras Shevchenko's painting 'Kateryna'",
+        "alt_de": "Taras Schewtschenkos Gemälde 'Kateryna'",
+        "caption_uk": "Одна з відомих картин Шевченка з музейної колекції"
+      }
+    ]
+  },
+
+  "historicalData": {
+    "yearBuilt": "1949",
+    "yearBuiltNote_uk": "Музей заснований у 1949 році, будівля палацу — 1850-ті роки",
+    "yearBuiltNote_en": "Museum founded in 1949, palace building from the 1850s",
+    "yearBuiltNote_de": "Museum gegründet 1949, Palastgebäude aus den 1850er Jahren",
+    "architecturalStyle_uk": "Класицизм, неоренесанс",
+    "architecturalStyle_en": "Classicism, Neo-Renaissance",
+    "architecturalStyle_de": "Klassizismus, Neorenaissance",
+    "architects": [
+      {
+        "name": "Невідомий архітектор палацу Терещенків / Unknown palace architect / Unbekannter Palastarchitekt",
+        "period": "1850-і / 1850s / 1850er Jahre",
+        "contribution_uk": "Проектування палацу Терещенків",
+        "contribution_en": "Design of Tereshchenko Palace",
+        "contribution_de": "Entwurf des Tereschtschenko-Palastes"
+      }
+    ],
+    "unescoStatus": "none",
+    "unescoYear": null,
+    "nationalHeritageStatus": "Національний музей України",
+    "referenceNumber": "NM-TS-001",
+    "managedBy_uk": "Міністерство культури та інформаційної політики України",
+    "managedBy_en": "Ministry of Culture and Information Policy of Ukraine",
+    "managedBy_de": "Ministerium für Kultur und Informationspolitik der Ukraine"
+  },
+
+  "culturalEvents": [
+    {
+      "name_uk": "День народження Тараса Шевченка",
+      "name_en": "Taras Shevchenko's Birthday",
+      "name_de": "Geburtstag von Taras Schewtschenko",
+      "period_uk": "9 березня (щорічно)",
+      "period_en": "March 9 (annually)",
+      "period_de": "9. März (jährlich)",
+      "description_uk": "Урочисті заходи, виставки, концерти, присвячені пам'яті великого Кобзаря",
+      "description_en": "Solemn events, exhibitions, concerts dedicated to the memory of the great Kobzar",
+      "description_de": "Feierliche Veranstaltungen, Ausstellungen, Konzerte zum Gedenken an den großen Kobzar"
+    },
+    {
+      "name_uk": "Шевченківські читання",
+      "name_en": "Shevchenko Readings",
+      "name_de": "Schewtschenko-Lesungen",
+      "period_uk": "Весна (щорічно)",
+      "period_en": "Spring (annually)",
+      "period_de": "Frühling (jährlich)",
+      "description_uk": "Наукова конференція, присвячена творчості та спадщині Тараса Шевченка",
+      "description_en": "Academic conference dedicated to Taras Shevchenko's work and legacy",
+      "description_de": "Wissenschaftliche Konferenz zum Werk und Erbe von Taras Schewtschenko"
+    },
+    {
+      "name_uk": "Виставки сучасного мистецтва",
+      "name_en": "Contemporary Art Exhibitions",
+      "name_de": "Ausstellungen zeitgenössischer Kunst",
+      "period_uk": "Цілий рік",
+      "period_en": "Year-round",
+      "period_de": "Ganzjährig",
+      "description_uk": "Регулярні виставки творів сучасних українських художників",
+      "description_en": "Regular exhibitions of works by contemporary Ukrainian artists",
+      "description_de": "Regelmäßige Ausstellungen von Werken zeitgenössischer ukrainischer Künstler"
+    }
+  ],
+
+  "tags": [
+    "museum",
+    "art",
+    "literature",
+    "taras-shevchenko",
+    "ukrainian-culture",
+    "poetry",
+    "painting",
+    "kyiv",
+    "national-museum",
+    "biography",
+    "heritage",
+    "19th-century",
+    "kobzar",
+    "historical-palace"
+  ],
+
+  "suitableFor_uk": [
+    "Любителі літератури",
+    "Поціновувачі мистецтва",
+    "Школярі та студенти",
+    "Історики та дослідники",
+    "Туристи",
+    "Сімейні відвідувачі"
+  ],
+  "suitableFor_en": [
+    "Literature enthusiasts",
+    "Art lovers",
+    "Schoolchildren and students",
+    "Historians and researchers",
+    "Tourists",
+    "Family visitors"
+  ],
+  "suitableFor_de": [
+    "Literaturliebhaber",
+    "Kunstliebhaber",
+    "Schüler und Studenten",
+    "Historiker und Forscher",
+    "Touristen",
+    "Familienbesucher"
+  ],
+
+  "weatherDependent": false,
+  "indoorActivities": true,
+  "outdoorActivities": false,
+
+  "priceRange": "$",
+  "rating": 4.7,
+  "reviewsCount": 1247,
+  "featured": true,
+  "status": "published",
+
+  "metaDescription_uk": "Національний музей Тараса Шевченка в Києві — найбільша колекція творів великого Кобзаря. Понад 50 000 експонатів, картини, автографи, перші видання Кобзаря. Історичний палац Терещенків.",
+  "metaDescription_en": "Taras Shevchenko National Museum in Kyiv — world's largest collection of the great Kobzar's works. Over 50,000 exhibits, paintings, autographs, first editions of Kobzar. Historic Tereshchenko Palace.",
+  "metaDescription_de": "Nationales Taras-Schewtschenko-Museum in Kiew — weltweit größte Sammlung der Werke des großen Kobzars. Über 50.000 Exponate, Gemälde, Autographen, Erstausgaben des Kobzar. Historischer Tereschtschenko-Palast.",
+
+  "keywords": [
+    "Taras Shevchenko",
+    "Тарас Шевченко",
+    "Kobzar",
+    "Кобзар",
+    "museum",
+    "музей",
+    "Kyiv",
+    "Київ",
+    "Ukrainian art",
+    "українське мистецтво",
+    "poetry",
+    "поезія",
+    "national museum",
+    "національний музей"
+  ],
+
+  "lastUpdated": "2025-11-30",
+  "source": "Official website, Wikipedia, Tourism Ukraine, TripAdvisor",
+  "verified": true
+}

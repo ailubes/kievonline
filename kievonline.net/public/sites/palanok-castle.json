@@ -1,0 +1,422 @@
+{
+  "id": "palanok-castle",
+  "slug": "palanok-castle",
+  "name_uk": "Паланок (Мукачівський замок)",
+  "name_en": "Palanok Castle (Mukachevo Castle)",
+  "name_de": "Schloss Palanok (Burg Mukatschewo)",
+
+  "tagline_uk": "Величний замок на вулканічній горі - білий лебідь Закарпаття",
+  "tagline_en": "Majestic castle on a volcanic hill - the white swan of Transcarpathia",
+  "tagline_de": "Majestätisches Schloss auf einem Vulkanhügel - der weiße Schwan Transkarpatiens",
+
+  "category": "castle",
+  "subcategories": ["medieval-architecture", "museum", "historical-monument", "hilltop-fortress"],
+  "region": "Mukachevo",
+  "oblast": "Zakarpattia Oblast",
+
+  "description_uk": {
+    "short": "Замок Паланок - одна з найкрасивіших середньовічних фортець Закарпаття, розташована на вершині 68-метрової вулканічної гори над містом Мукачево. Побудований у XIV-XVIII століттях, замок став свідком багатьох історичних подій та легенд.",
+    "full": "Замок Паланок вражає своєю архітектурою та унікальним розташуванням на вулканічній горі вулкану, що згас мільйони років тому. Замковий комплекс займає площу близько 14 тисяч квадратних метрів і складається з трьох частин, розміщених на трьох терасах різного рівня.\n\nНайстаріша частина - Верхній замок (XIV-XVI ст.) розташована на вершині гори. На 6 метрів нижче знаходиться Середній замок (XVII ст.), а ще на 10 метрів нижче - Нижній замок (XVII ст.). На початку XVIII століття на четвертій терасі була збудована оборонна вежа, яка не збереглася до наших днів.\n\nЗамок має багату історію. У 1396 році фортеця стала житловою резиденцією. Сучасна назва 'Паланок' походить від дерев'яного палісаду (паланку), яким був обнесений замок у XVI столітті.\n\nУ замку зараз розміщується Закарпатський історико-краєзнавчий музей з багатими експозиціями археології, етнографії, історії краю. Тут можна побачити унікальні предмети Кам'яної та Мідно-Бронзової доби, колекції зброї, старовинних меблів, картинну галерею.\n\nОсобливої уваги заслуговує експозиція 'Вишивка та народний одяг регіону', унікальна колекція старовинних печей, каплиця Ілони Зріні та її спальня (де зараз проводяться церемонії одруження), кімната пам'яті Шандора Петефі та музей болгарської культури.",
+    "history": "Перші укріплення на вулканічній горі з'явилися ще в XI столітті. Літописи згадують про дерев'яну фортецю Мункач (Munkach), яка контролювала важливі торговельні шляхи через Карпати.\n\nКам'яний замок почали будувати у XIV столітті. У 1396 році угорський король Сигізмунд І подарував замок князю Федору Корятовичу, який зробив його своєю резиденцією і провів значну реконструкцію.\n\nНайбільш драматичний період в історії замку пов'язаний з Ілоною Зріні - дружиною трансільванського князя Імре Текелі. У 1685-1688 роках вона героїчно обороняла замок від австрійських військ. Після трирічної облоги, коли закінчилися припаси і померли усі захисники від епідемії, Ілона була змушена здатися. Австрійці вигнали її з дітьми з Угорщини.\n\nУ XVIII-XIX століттях замок використовувався як в'язниця для політичних ув'язнених. Серед відомих в'язнів були учасники національно-визвольних рухів.\n\nПісля Першої світової війни замок перейшов під контроль Чехословаччини, потім знову Угорщини. У 1945 році після визволення Закарпаття Радянською армією замок став музеєм. У 2000 році йому був наданий статус Державного історико-культурного заповідника.",
+    "significance": "Паланок - один із найкраще збережених замків Закарпаття та важлива туристична пам'ятка регіону. Замок є унікальним прикладом гірського замкового будівництва і демонструє еволюцію фортифікаційного мистецтва від XIV до XVIII століття. Музейна експозиція представляє багату історію та культуру Закарпаття. Замок є популярним місцем для проведення культурних заходів, виставок і середньовічних фестивалів."
+  },
+
+  "description_en": {
+    "short": "Palanok Castle is one of the most beautiful medieval fortresses of Transcarpathia, located on top of a 68-meter volcanic hill above the city of Mukachevo. Built in the 14th-18th centuries, the castle has witnessed many historical events and legends.",
+    "full": "Palanok Castle impresses with its architecture and unique location on a volcanic hill of an extinct volcano that died millions of years ago. The castle complex occupies an area of about 14 thousand square meters and consists of three parts located on three terraces of different levels.\n\nThe oldest part - the Upper Castle (14th-16th centuries) is located on the top of the hill. 6 meters lower is the Middle Castle (17th century), and another 10 meters lower - the Lower Castle (17th century). In the early 18th century, a defensive tower was built on the fourth terrace, which has not survived to this day.\n\nThe castle has a rich history. In 1396, the fortress became a residential residence. The modern name 'Palanok' comes from the wooden palisade (palanka) that surrounded the castle in the 16th century.\n\nThe castle now houses the Transcarpathian Museum of History and Local Lore with rich exhibitions of archaeology, ethnography, and regional history. Here you can see unique items from the Stone and Copper-Bronze Age, collections of weapons, antique furniture, and an art gallery.\n\nSpecial attention deserves the exposition 'Embroidery and regional folk clothes', a unique collection of ancient stoves, Ilona Zrini's chapel and her bedroom (where marriage ceremonies are now held), Sandor Petofi's memorial room and the museum of Bulgarian culture.",
+    "history": "The first fortifications on the volcanic hill appeared in the 11th century. Chronicles mention a wooden fortress Munkach, which controlled important trade routes through the Carpathians.\n\nThe stone castle began to be built in the 14th century. In 1396, Hungarian King Sigismund I gave the castle to Prince Fedir Koriatovych, who made it his residence and conducted significant reconstruction.\n\nThe most dramatic period in the castle's history is associated with Ilona Zrini - the wife of Transylvanian Prince Imre Thököly. In 1685-1688, she heroically defended the castle from Austrian troops. After a three-year siege, when supplies ran out and all defenders died from an epidemic, Ilona was forced to surrender. The Austrians expelled her with her children from Hungary.\n\nIn the 18th-19th centuries, the castle was used as a prison for political prisoners. Among the famous prisoners were participants in national liberation movements.\n\nAfter World War I, the castle came under the control of Czechoslovakia, then Hungary again. In 1945, after the liberation of Transcarpathia by the Soviet army, the castle became a museum. In 2000, it was granted the status of a State Historical and Cultural Reserve.",
+    "significance": "Palanok is one of the best-preserved castles of Transcarpathia and an important tourist landmark of the region. The castle is a unique example of mountain castle construction and demonstrates the evolution of fortification art from the 14th to 18th centuries. The museum exposition represents the rich history and culture of Transcarpathia. The castle is a popular venue for cultural events, exhibitions and medieval festivals."
+  },
+
+  "description_de": {
+    "short": "Schloss Palanok ist eine der schönsten mittelalterlichen Festungen Transkarpatiens auf einem 68 Meter hohen Vulkanhügel über der Stadt Mukatschewo. Im 14.-18. Jahrhundert erbaut, war das Schloss Zeuge vieler historischer Ereignisse und Legenden.",
+    "full": "Schloss Palanok beeindruckt durch seine Architektur und einzigartige Lage auf einem Vulkanhügel eines erloschenen Vulkans. Der Schlosskomplex nimmt eine Fläche von etwa 14.000 Quadratmetern ein und besteht aus drei Teilen auf drei verschiedenen Terrassenebenen.\n\nDer älteste Teil - die Oberburg (14.-16. Jahrhundert) befindet sich auf der Spitze des Hügels. 6 Meter tiefer liegt die Mittelburg (17. Jahrhundert) und weitere 10 Meter tiefer die Unterburg (17. Jahrhundert).\n\nDas Schloss beherbergt heute das Transkarpatische Museum für Geschichte und Heimatkunde mit reichen Ausstellungen zur Archäologie, Ethnographie und regionalen Geschichte.",
+    "history": "Die ersten Befestigungen auf dem Vulkanhügel erschienen im 11. Jahrhundert. Chroniken erwähnen eine hölzerne Festung Munkach, die wichtige Handelswege durch die Karpaten kontrollierte. Die steinerne Burg wurde im 14. Jahrhundert erbaut.",
+    "significance": "Palanok ist eine der am besten erhaltenen Burgen Transkarpatiens und ein wichtiges touristisches Wahrzeichen der Region. Das Schloss ist ein einzigartiges Beispiel für Bergburgenbau und demonstriert die Entwicklung der Festungskunst vom 14. bis 18. Jahrhundert."
+  },
+
+  "location": {
+    "city": "Mukachevo",
+    "region": "Zakarpattia Oblast",
+    "address_uk": "Замок 'Паланок', Мукачево, Закарпатська область, 89600",
+    "address_en": "Palanok Castle, Mukachevo, Zakarpattia Oblast, 89600",
+    "address_de": "Schloss Palanok, Mukatschewo, Oblast Transkarpatien, 89600",
+    "coordinates": {
+      "latitude": 48.43042,
+      "longitude": 22.68784
+    },
+    "directions_uk": {
+      "general": "Розташований на вершині вулканічної гори в західній частині міста Мукачево",
+      "publicTransport": "З вокзалу Мукачева автобусами №6 або №16 до підніжжя замку (15 хвилин), далі пішки вгору (10-15 хвилин)",
+      "car": "З Ужгорода - 40 км по трасі М06 (близько 40 хвилин). З Львова - 260 км (близько 4 години)",
+      "parking": "Безкоштовна парковка біля підніжжя гори"
+    },
+    "directions_en": {
+      "general": "Located on top of a volcanic hill in the western part of Mukachevo city",
+      "publicTransport": "From Mukachevo station by buses No. 6 or No. 16 to the foot of the castle (15 minutes), then walk uphill (10-15 minutes)",
+      "car": "From Uzhgorod - 40 km via M06 highway (about 40 minutes). From Lviv - 260 km (about 4 hours)",
+      "parking": "Free parking at the foot of the hill"
+    },
+    "directions_de": {
+      "general": "Auf der Spitze eines Vulkanhügels im westlichen Teil der Stadt Mukatschewo gelegen",
+      "publicTransport": "Vom Bahnhof Mukatschewo mit den Bussen Nr. 6 oder Nr. 16 zum Fuß des Schlosses (15 Minuten), dann zu Fuß bergauf (10-15 Minuten)",
+      "car": "Von Uschhorod - 40 km über die M06 (ca. 40 Minuten). Von Lemberg - 260 km (ca. 4 Stunden)",
+      "parking": "Kostenloser Parkplatz am Fuß des Hügels"
+    },
+    "nearbyAttractions": [
+      {
+        "name_uk": "Музей Михайла Мункачі",
+        "name_en": "Mihaly Munkacsy Museum",
+        "distance": "3 km",
+        "type": "museum"
+      },
+      {
+        "name_uk": "Галерея образотворчого мистецтва",
+        "name_en": "Fine Arts Gallery",
+        "distance": "3 km",
+        "type": "gallery"
+      },
+      {
+        "name_uk": "Свято-Миколаївський монастир",
+        "name_en": "St. Nicholas Monastery",
+        "distance": "2 km",
+        "type": "monastery"
+      }
+    ]
+  },
+
+  "contact": {
+    "phone": "+380 3131 4-40-96",
+    "email": "palanok@museum.uz.ua",
+    "website": "http://www.palanok.org.ua/",
+    "bookingUrl": null,
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/PalanokCastle/",
+      "instagram": "https://www.instagram.com/palanok_castle/",
+      "youtube": null
+    }
+  },
+
+  "visitingInformation": {
+    "openingTimes": {
+      "status_uk": "Відкрито цілий рік",
+      "status_en": "Open year-round",
+      "status_de": "Ganzjährig geöffnet",
+      "seasonal": [
+        {
+          "season_uk": "Літній період (квітень-жовтень)",
+          "season_en": "Summer period (April-October)",
+          "season_de": "Sommerzeit (April-Oktober)",
+          "days_uk": "Щодня",
+          "days_en": "Daily",
+          "days_de": "Täglich",
+          "hours": "09:00 - 18:00",
+          "lastAdmission": "17:30"
+        },
+        {
+          "season_uk": "Зимовий період (листопад-березень)",
+          "season_en": "Winter period (November-March)",
+          "season_de": "Winterzeit (November-März)",
+          "days_uk": "Щодня",
+          "days_en": "Daily",
+          "days_de": "Täglich",
+          "hours": "09:00 - 17:00",
+          "lastAdmission": "16:30"
+        }
+      ]
+    },
+    "admissionPrices": {
+      "currency": "UAH",
+      "adult": 100,
+      "student": 70,
+      "child": 50,
+      "senior": 50,
+      "family": null,
+      "notes_uk": "Діти до 7 років - безкоштовно. Екскурсія групова - 300 грн (до 20 осіб)",
+      "notes_en": "Children under 7 - free. Group tour - 300 UAH (up to 20 people)",
+      "notes_de": "Kinder unter 7 Jahren - kostenlos. Gruppenführung - 300 UAH (bis 20 Personen)"
+    },
+    "tourOptions": [
+      {
+        "type_uk": "Самостійний огляд",
+        "type_en": "Self-guided tour",
+        "type_de": "Selbstgeführte Tour",
+        "duration_uk": "1,5-2 години",
+        "duration_en": "1.5-2 hours",
+        "duration_de": "1,5-2 Stunden",
+        "price": 0
+      },
+      {
+        "type_uk": "Екскурсія з гідом (дорослі)",
+        "type_en": "Guided tour (adults)",
+        "type_de": "Führung (Erwachsene)",
+        "duration_uk": "1,5 години",
+        "duration_en": "1.5 hours",
+        "duration_de": "1,5 Stunden",
+        "price": 300,
+        "groupSize": "до 20 осіб / up to 20 people / bis 20 Personen"
+      }
+    ],
+    "averageVisitDuration_uk": "2-2,5 години",
+    "averageVisitDuration_en": "2-2.5 hours",
+    "averageVisitDuration_de": "2-2,5 Stunden",
+    "busyPeriods_uk": ["Літні місяці (липень-серпень)", "Вихідні дні", "Свята", "Середньовічні фестивалі"],
+    "busyPeriods_en": ["Summer months (July-August)", "Weekends", "Holidays", "Medieval festivals"],
+    "busyPeriods_de": ["Sommermonate (Juli-August)", "Wochenenden", "Feiertage", "Mittelalterliche Festivals"],
+    "adviceForVisitors_uk": "Взуйте зручне взуття для підйому на гору та ходіння по замку. Рекомендуємо відвідати всі три рівні замку. Не пропустіть експозицію старовинних печей та каплицю Ілони Зріні. У замку є ресторан з традиційною кухнею.",
+    "adviceForVisitors_en": "Wear comfortable shoes for climbing the hill and walking around the castle. We recommend visiting all three levels of the castle. Don't miss the exposition of ancient stoves and Ilona Zrini's chapel. The castle has a restaurant with traditional cuisine.",
+    "adviceForVisitors_de": "Tragen Sie bequeme Schuhe zum Bergsteigen und Gehen im Schloss. Wir empfehlen, alle drei Ebenen des Schlosses zu besuchen. Verpassen Sie nicht die Ausstellung antiker Öfen und die Kapelle von Ilona Zrini. Das Schloss hat ein Restaurant mit traditioneller Küche."
+  },
+
+  "features": {
+    "highlights_uk": [
+      "Унікальне розташування на вулканічній горі (68 м)",
+      "Три рівні замку на різних терасах",
+      "Музей з експозиціями археології, етнографії, історії",
+      "Унікальна колекція старовинних печей",
+      "Каплиця та спальня Ілони Зріні",
+      "Панорамні види на Закарпаття та Карпати",
+      "Експозиція вишивки та народного одягу",
+      "Кімната пам'яті Шандора Петефі",
+      "Ресторан з традиційною закарпатською кухнею"
+    ],
+    "highlights_en": [
+      "Unique location on a volcanic hill (68 m)",
+      "Three levels of the castle on different terraces",
+      "Museum with exhibitions of archaeology, ethnography, history",
+      "Unique collection of ancient stoves",
+      "Ilona Zrini's chapel and bedroom",
+      "Panoramic views of Transcarpathia and the Carpathians",
+      "Exhibition of embroidery and folk clothes",
+      "Sandor Petofi memorial room",
+      "Restaurant with traditional Transcarpathian cuisine"
+    ],
+    "highlights_de": [
+      "Einzigartige Lage auf einem Vulkanhügel (68 m)",
+      "Drei Ebenen des Schlosses auf verschiedenen Terrassen",
+      "Museum mit Ausstellungen zu Archäologie, Ethnographie, Geschichte",
+      "Einzigartige Sammlung antiker Öfen",
+      "Kapelle und Schlafzimmer von Ilona Zrini",
+      "Panoramablick auf Transkarpatien und die Karpaten",
+      "Ausstellung von Stickereien und Volkstrachten",
+      "Gedenkraum für Sandor Petofi",
+      "Restaurant mit traditioneller transkarpatischer Küche"
+    ],
+    "facilities_uk": ["Музей", "Сувенірні магазини", "Ресторан", "Кафе", "Туалети", "Парковка (безкоштовна)", "Оглядові майданчики"],
+    "facilities_en": ["Museum", "Gift shops", "Restaurant", "Cafe", "Toilets", "Parking (free)", "Observation platforms"],
+    "facilities_de": ["Museum", "Souvenirläden", "Restaurant", "Café", "Toiletten", "Parkplatz (kostenlos)", "Aussichtsplattformen"],
+    "accessibility": {
+      "wheelchairAccessible": false,
+      "notes_uk": "Замок розташований на горі з крутими сходами. Недоступний для людей з обмеженими можливостями. Деякі експозиції можуть бути важкодоступними.",
+      "notes_en": "The castle is located on a hill with steep stairs. Not accessible for people with disabilities. Some exhibitions may be difficult to access.",
+      "notes_de": "Das Schloss befindet sich auf einem Hügel mit steilen Treppen. Für Menschen mit Behinderungen nicht zugänglich. Einige Ausstellungen können schwer zugänglich sein."
+    },
+    "uniqueSellingPoints_uk": [
+      "Побудований на справжній вулканічній горі",
+      "Героїчна оборона Ілони Зріні проти австрійців (1685-1688)",
+      "Унікальна триярусна структура замку",
+      "Багата музейна колекція Закарпаття",
+      "Вражаючі панорамні види на Карпати",
+      "Місце церемоній одруження в каплиці Ілони Зріні"
+    ],
+    "uniqueSellingPoints_en": [
+      "Built on a real volcanic hill",
+      "Heroic defense of Ilona Zrini against the Austrians (1685-1688)",
+      "Unique three-tier castle structure",
+      "Rich museum collection of Transcarpathia",
+      "Impressive panoramic views of the Carpathians",
+      "Wedding ceremony venue in Ilona Zrini's chapel"
+    ],
+    "uniqueSellingPoints_de": [
+      "Auf einem echten Vulkanhügel erbaut",
+      "Heroische Verteidigung von Ilona Zrini gegen die Österreicher (1685-1688)",
+      "Einzigartige dreistufige Schlossstruktur",
+      "Reiche Museumssammlung Transkarpatiens",
+      "Beeindruckender Panoramablick auf die Karpaten",
+      "Hochzeitszeremonienort in der Kapelle von Ilona Zrini"
+    ]
+  },
+
+  "images": {
+    "heroImage": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Palanok_Castle_Mukachevo.jpg",
+      "alt_uk": "Замок Паланок на вулканічній горі",
+      "alt_en": "Palanok Castle on volcanic hill",
+      "alt_de": "Schloss Palanok auf Vulkanhügel",
+      "caption_uk": "Величний замок Паланок на 68-метровій вулканічній горі над Мукачевом",
+      "caption_en": "Majestic Palanok Castle on a 68-meter volcanic hill above Mukachevo",
+      "caption_de": "Majestätisches Schloss Palanok auf einem 68 Meter hohen Vulkanhügel über Mukatschewo"
+    },
+    "gallery": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Mukachevo_Castle_three_levels.jpg",
+        "alt_uk": "Три рівні замку",
+        "alt_en": "Three levels of the castle",
+        "alt_de": "Drei Ebenen des Schlosses",
+        "caption_uk": "Верхній, Середній та Нижній замки на різних терасах"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Palanok_Castle_courtyard.jpg",
+        "alt_uk": "Внутрішній двір замку",
+        "alt_en": "Castle courtyard",
+        "alt_de": "Innenhof des Schlosses",
+        "caption_uk": "Двір замку з музейними експозиціями"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Panorama_from_Palanok.jpg",
+        "alt_uk": "Панорама Закарпаття з замку",
+        "alt_en": "Panorama of Transcarpathia from the castle",
+        "alt_de": "Panorama Transkarpatiens vom Schloss",
+        "caption_uk": "Вражаючий вид на Закарпатську низовину та Карпати"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Ilona_Zrini_chapel.jpg",
+        "alt_uk": "Каплиця Ілони Зріні",
+        "alt_en": "Ilona Zrini's chapel",
+        "alt_de": "Kapelle von Ilona Zrini",
+        "caption_uk": "Історична каплиця, де зараз проводяться церемонії одруження"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Palanok_ancient_stoves.jpg",
+        "alt_uk": "Старовинні печі",
+        "alt_en": "Ancient stoves",
+        "alt_de": "Antike Öfen",
+        "caption_uk": "Унікальна колекція старовинних художньо оздоблених печей"
+      }
+    ]
+  },
+
+  "historicalData": {
+    "yearBuilt": "XI-XVIII ст.",
+    "yearBuiltNote_uk": "Перші укріплення XI ст., кам'яний замок XIV ст., основна забудова XIV-XVIII ст.",
+    "yearBuiltNote_en": "First fortifications 11th c., stone castle 14th c., main construction 14th-18th c.",
+    "yearBuiltNote_de": "Erste Befestigungen 11. Jh., Steinburg 14. Jh., Hauptbau 14.-18. Jh.",
+    "architecturalStyle_uk": "Середньовічна гірська фортечна архітектура, ренесансні та барокові елементи",
+    "architecturalStyle_en": "Medieval mountain fortress architecture, Renaissance and Baroque elements",
+    "architecturalStyle_de": "Mittelalterliche Bergfestungsarchitektur, Renaissance- und Barockelemente",
+    "architects": [
+      {
+        "name": "Федір Корятович (Fedir Koriatovych)",
+        "period": "XIV ст. / 14th c. / 14. Jh.",
+        "contribution_uk": "Будівництво кам'яного замку та перетворення його на резиденцію",
+        "contribution_en": "Construction of stone castle and its transformation into a residence",
+        "contribution_de": "Bau der Steinburg und ihre Umwandlung in eine Residenz"
+      }
+    ],
+    "unescoStatus": "none",
+    "unescoYear": null,
+    "nationalHeritageStatus": "Державний історико-культурний заповідник / State Historical-Cultural Reserve",
+    "referenceNumber": "1892",
+    "managedBy_uk": "Закарпатський історико-краєзнавчий музей",
+    "managedBy_en": "Transcarpathian Museum of History and Local Lore",
+    "managedBy_de": "Transkarpatisches Museum für Geschichte und Heimatkunde"
+  },
+
+  "culturalEvents": [
+    {
+      "name_uk": "Фестиваль 'Паланок Фест'",
+      "name_en": "Palanok Fest Festival",
+      "name_de": "Palanok Fest Festival",
+      "period_uk": "Серпень (щорічно)",
+      "period_en": "August (annually)",
+      "period_de": "August (jährlich)",
+      "description_uk": "Середньовічний фестиваль з лицарськими турнірами, ремісничими майстернями, концертами",
+      "description_en": "Medieval festival with knight tournaments, craft workshops, concerts",
+      "description_de": "Mittelalterliches Festival mit Ritterturnieren, Handwerkswerkstätten, Konzerten"
+    },
+    {
+      "name_uk": "День замку",
+      "name_en": "Castle Day",
+      "name_de": "Tag des Schlosses",
+      "period_uk": "Травень",
+      "period_en": "May",
+      "period_de": "Mai",
+      "description_uk": "Святкування дня заповідника з екскурсіями та виставками",
+      "description_en": "Celebration of the reserve's day with tours and exhibitions",
+      "description_de": "Feier des Tages des Reservats mit Führungen und Ausstellungen"
+    }
+  ],
+
+  "tags": [
+    "castle",
+    "medieval",
+    "mukachevo",
+    "zakarpattia",
+    "museum",
+    "architecture",
+    "history",
+    "volcanic-hill",
+    "ilona-zrini",
+    "transcarpathia",
+    "panoramic-views",
+    "tourism"
+  ],
+
+  "suitableFor_uk": [
+    "Любителі історії",
+    "Сімейні подорожі",
+    "Фотографи",
+    "Поціновувачі архітектури",
+    "Шкільні екскурсії",
+    "Любителі середньовічних фестивалів",
+    "Закохані пари (церемонії одруження)"
+  ],
+  "suitableFor_en": [
+    "History enthusiasts",
+    "Family travel",
+    "Photographers",
+    "Architecture lovers",
+    "School excursions",
+    "Medieval festival lovers",
+    "Couples in love (wedding ceremonies)"
+  ],
+  "suitableFor_de": [
+    "Geschichtsinteressierte",
+    "Familienreisen",
+    "Fotografen",
+    "Architekturliebhaber",
+    "Schulausflüge",
+    "Liebhaber mittelalterlicher Festivals",
+    "Verliebte Paare (Hochzeitszeremonien)"
+  ],
+
+  "weatherDependent": true,
+  "indoorActivities": true,
+  "outdoorActivities": true,
+
+  "priceRange": "$$",
+  "rating": 4.7,
+  "reviewsCount": 4128,
+  "featured": true,
+  "status": "published",
+
+  "metaDescription_uk": "Замок Паланок (Мукачівський замок) - білий лебідь Закарпаття на вулканічній горі. Середньовічна фортеця XIV-XVIII ст. Музей, панорамні види, каплиця Ілони Зріні.",
+  "metaDescription_en": "Palanok Castle (Mukachevo Castle) - the white swan of Transcarpathia on a volcanic hill. Medieval fortress 14th-18th centuries. Museum, panoramic views, Ilona Zrini's chapel.",
+  "metaDescription_de": "Schloss Palanok (Mukatschewo-Schloss) - der weiße Schwan Transkarpatiens auf einem Vulkanhügel. Mittelalterliche Festung 14.-18. Jahrhundert. Museum, Panoramablick, Kapelle von Ilona Zrini.",
+
+  "keywords": [
+    "Паланок",
+    "Palanok Castle",
+    "Schloss Palanok",
+    "Мукачівський замок",
+    "Mukachevo Castle",
+    "замок",
+    "castle",
+    "Мукачево",
+    "Mukachevo",
+    "Закарпаття",
+    "Transcarpathia",
+    "вулканічна гора",
+    "volcanic hill",
+    "Ілона Зріні",
+    "Ilona Zrini",
+    "музей",
+    "museum",
+    "туризм",
+    "tourism"
+  ],
+
+  "lastUpdated": "2025-11-30",
+  "source": "Wikipedia, Museum Information, Historical Archives, Tourism Sites",
+  "verified": true
+}

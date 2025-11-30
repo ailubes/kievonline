@@ -1,0 +1,448 @@
+{
+  "id": "museum-ivan-franko-lviv",
+  "slug": "museum-ivan-franko-lviv",
+
+  "name_uk": "Музей Івана Франка у Львові (Дім Франка)",
+  "name_en": "Ivan Franko Museum in Lviv (Franko House)",
+  "name_de": "Iwan-Franko-Museum in Lemberg (Franko-Haus)",
+
+  "tagline_uk": "Автентична садиба, де жив та творив великий український письменник Іван Франко",
+  "tagline_en": "Authentic homestead where the great Ukrainian writer Ivan Franko lived and worked",
+  "tagline_de": "Authentisches Anwesen, in dem der große ukrainische Schriftsteller Iwan Franko lebte und arbeitete",
+
+  "category": "museum",
+  "subcategories": ["literary-museum", "memorial-museum", "cultural-heritage", "biography"],
+  "region": "Lviv",
+  "oblast": "Lviv Oblast",
+
+  "description_uk": {
+    "short": "Музей Івана Франка у Львові — меморіальний музей у будинку, де великий український письменник, поет, вчений та громадський діяч Іван Франко прожив останні 14 років свого життя (1902-1916) разом із родиною.",
+    "full": "Музей Івана Франка у Львові, відомий як 'Дім Франка', є меморіальним музеєм, розташованим у будинку на вулиці Івана Франка, 150-152. Тут великий український письменник, поет, учений, перекладач та громадський діяч Іван Франко прожив останні 14 років свого життя (1902-1916) разом з дружиною Ольгою та чотирма дітьми.\n\nБудинок являє собою старовинну віллу на околиці Львова початку ХХ століття, оточену садом. Саме тут Франко написав свої найважливіші твори пізнього періоду творчості, приймав гостей, займався науковою діяльністю. Музей було відкрито у 1940 році, всього через 24 роки після смерті письменника.\n\nМеморіальна експозиція відтворює автентичну атмосферу життя родини Франків. Відвідувачі можуть побачити справжні меблі, особисті речі письменника, його бібліотеку з тисячами книг, робочий кабінет, де він писав свої твори. Зберігаються рукописи, листи, фотографії, особисті документи.\n\nСьогодні 'Дім Франка' — це не просто музей, а сучасний культурний простір для плідного діалогу, наукових досліджень, художніх практик, інтелектуальної праці та дозвілля. Музей проводить лекції, літературні вечори, наукові конференції, освітні програми, майстер-класи.",
+    "history": "Іван Франко придбав цей будинок у 1902 році і переїхав сюди з родиною. Тут він прожив до своєї смерті 28 травня 1916 року. Протягом цих 14 років будинок був центром інтелектуального та культурного життя Львова — тут збиралися письменники, вчені, громадські діячі.\n\nПісля смерті Франка родина продовжувала жити в будинку. У 1940 році, за радянської влади, тут було відкрито меморіальний музей. Під час Другої світової війни будинок зазнав пошкоджень, але експонати були збережені.\n\nУ 1960-х роках музей було реконструйовано, відновлено автентічні інтер'єри. У 2006 році, до 150-річчя від дня народження Івана Франка, музей пройшов капітальну реставрацію. Було відновлено меблі, декор, створено нову експозицію.\n\nУ 2020-х роках музей пройшов ребрендинг, ставши сучасним культурним центром. Було створено новий сайт FrankoData як частину проекту 'Відкритий цифровий музей' за підтримки Українського культурного фонду.",
+    "significance": "Музей Івана Франка має виняткове значення для української культури. Іван Франко (1856-1916) — один із найвидатніших українських письменників, поетів, учених, громадських діячів. Його творча спадщина налічує понад 3000 творів різних жанрів: поезія, проза, драматургія, публіцистика, наукові праці, переклади.\n\nБудинок зберігає пам'ять про останні, найплідніші роки життя письменника. Тут він написав такі важливі твори як поеми 'Мойсей', збірки поезій, наукові дослідження. Музей демонструє не лише творчу спадщину Франка, а й його родинне життя, побут інтелігентної сім'ї початку ХХ століття.\n\nМузей є важливим дослідницьким центром франкознавства, місцем зустрічей науковців, письменників, студентів. Колекція музею включає понад 10 000 експонатів: рукописи, книги, фотографії, особисті речі, меблі, предмети побуту."
+  },
+
+  "description_en": {
+    "short": "The Ivan Franko Museum in Lviv is a memorial museum in the house where the great Ukrainian writer, poet, scientist and public figure Ivan Franko lived the last 14 years of his life (1902-1916) with his family.",
+    "full": "The Ivan Franko Museum in Lviv, known as 'Franko House', is a memorial museum located in the house at 150-152 Ivan Franko Street. Here the great Ukrainian writer, poet, scientist, translator and public figure Ivan Franko lived the last 14 years of his life (1902-1916) with his wife Olha and four children.\n\nThe house is an old villa on the outskirts of early 20th-century Lviv, surrounded by a garden. It was here that Franko wrote his most important works of the late creative period, received guests, and engaged in scientific activities. The museum was opened in 1940, just 24 years after the writer's death.\n\nThe memorial exhibition recreates the authentic atmosphere of the Franko family's life. Visitors can see genuine furniture, the writer's personal belongings, his library with thousands of books, the study where he wrote his works. Manuscripts, letters, photographs, personal documents are preserved.\n\nToday, 'Franko House' is not just a museum, but a modern cultural space for fruitful dialogue, scientific research, artistic practices, intellectual work and leisure. The museum holds lectures, literary evenings, scientific conferences, educational programs, master classes.",
+    "history": "Ivan Franko purchased this house in 1902 and moved here with his family. He lived here until his death on May 28, 1916. During these 14 years, the house was the center of Lviv's intellectual and cultural life - writers, scientists, and public figures gathered here.\n\nAfter Franko's death, the family continued to live in the house. In 1940, under Soviet rule, a memorial museum was opened here. During World War II, the house was damaged, but the exhibits were preserved.\n\nIn the 1960s, the museum was reconstructed and authentic interiors were restored. In 2006, for the 150th anniversary of Ivan Franko's birth, the museum underwent major restoration. Furniture and decor were restored, and a new exhibition was created.\n\nIn the 2020s, the museum underwent rebranding, becoming a modern cultural center. A new FrankoData website was created as part of the 'Open Digital Museum' project with support from the Ukrainian Cultural Foundation.",
+    "significance": "The Ivan Franko Museum has exceptional significance for Ukrainian culture. Ivan Franko (1856-1916) is one of the most outstanding Ukrainian writers, poets, scientists, and public figures. His creative heritage includes over 3,000 works of various genres: poetry, prose, drama, journalism, scientific works, translations.\n\nThe house preserves the memory of the last, most productive years of the writer's life. Here he wrote such important works as the poem 'Moses', poetry collections, scientific studies. The museum demonstrates not only Franko's creative heritage but also his family life, the daily life of an intelligentsia family of the early 20th century.\n\nThe museum is an important research center for Franko studies, a meeting place for scientists, writers, and students. The museum's collection includes over 10,000 exhibits: manuscripts, books, photographs, personal items, furniture, household objects."
+  },
+
+  "description_de": {
+    "short": "Das Iwan-Franko-Museum in Lemberg ist ein Gedenkmuseum in dem Haus, in dem der große ukrainische Schriftsteller, Dichter, Wissenschaftler und Persönlichkeit des öffentlichen Lebens Iwan Franko die letzten 14 Jahre seines Lebens (1902-1916) mit seiner Familie verbrachte.",
+    "full": "Das Iwan-Franko-Museum in Lemberg, bekannt als 'Franko-Haus', ist ein Gedenkmuseum in dem Haus in der Iwan-Franko-Straße 150-152. Hier lebte der große ukrainische Schriftsteller, Dichter, Wissenschaftler, Übersetzer und Persönlichkeit des öffentlichen Lebens Iwan Franko die letzten 14 Jahre seines Lebens (1902-1916) mit seiner Frau Olha und vier Kindern.\n\nDas Haus ist eine alte Villa am Stadtrand von Lemberg Anfang des 20. Jahrhunderts, umgeben von einem Garten. Hier schrieb Franko seine wichtigsten Werke der späten Schaffensperiode, empfing Gäste und betrieb wissenschaftliche Tätigkeiten. Das Museum wurde 1940 eröffnet, nur 24 Jahre nach dem Tod des Schriftstellers.\n\nDie Gedenkausstellung rekonstruiert die authentische Atmosphäre des Lebens der Familie Franko. Besucher können echte Möbel, persönliche Gegenstände des Schriftstellers, seine Bibliothek mit Tausenden von Büchern, das Arbeitszimmer, in dem er seine Werke schrieb, sehen.\n\nHeute ist das 'Franko-Haus' nicht nur ein Museum, sondern ein moderner Kulturraum für fruchtbaren Dialog, wissenschaftliche Forschung, künstlerische Praktiken, intellektuelle Arbeit und Freizeit.",
+    "history": "Iwan Franko kaufte dieses Haus 1902 und zog mit seiner Familie hierher. Er lebte hier bis zu seinem Tod am 28. Mai 1916. Während dieser 14 Jahre war das Haus das Zentrum des intellektuellen und kulturellen Lebens in Lemberg.\n\n1940 wurde hier unter sowjetischer Herrschaft ein Gedenkmuseum eröffnet. In den 1960er Jahren wurde das Museum rekonstruiert und authentische Interieurs wiederhergestellt.",
+    "significance": "Das Iwan-Franko-Museum hat außergewöhnliche Bedeutung für die ukrainische Kultur. Iwan Franko (1856-1916) ist einer der herausragendsten ukrainischen Schriftsteller, Dichter, Wissenschaftler und Persönlichkeiten des öffentlichen Lebens. Sein kreatives Erbe umfasst über 3.000 Werke verschiedener Genres.\n\nDas Museum ist ein wichtiges Forschungszentrum für Franko-Studien."
+  },
+
+  "location": {
+    "city": "Lviv",
+    "region": "Lviv Oblast",
+    "address_uk": "вул. Івана Франка, 150/152, Львів, 79011",
+    "address_en": "150/152 Ivan Franko Street, Lviv, 79011",
+    "address_de": "Iwan-Franko-Straße 150/152, Lemberg, 79011",
+    "coordinates": {
+      "latitude": 49.8356,
+      "longitude": 24.0087
+    },
+    "directions_uk": {
+      "general": "Розташований на вулиці Івана Франка, в тихому районі Львова",
+      "publicTransport": "Трамваї 4, 8 до зупинки 'Стрийський парк'. Автобуси 16, 13, 27 до зупинки 'Католицький університет'",
+      "car": "З центру Львова — 10 хвилин. З залізничного вокзалу — 15 хвилин",
+      "parking": "Безкоштовна парковка біля музею"
+    },
+    "directions_en": {
+      "general": "Located on Ivan Franko Street, in a quiet area of Lviv",
+      "publicTransport": "Trams 4, 8 to 'Stryiskyi Park' stop. Buses 16, 13, 27 to 'Catholic University' stop",
+      "car": "From Lviv city center - 10 minutes. From railway station - 15 minutes",
+      "parking": "Free parking near the museum"
+    },
+    "directions_de": {
+      "general": "In der Iwan-Franko-Straße, in einem ruhigen Viertel von Lemberg gelegen",
+      "publicTransport": "Straßenbahnen 4, 8 zur Haltestelle 'Stryiskyi-Park'. Busse 16, 13, 27 zur Haltestelle 'Katholische Universität'",
+      "car": "Vom Lemberger Stadtzentrum - 10 Minuten. Vom Bahnhof - 15 Minuten",
+      "parking": "Kostenloser Parkplatz am Museum"
+    },
+    "nearbyAttractions": [
+      {
+        "name_uk": "Стрийський парк",
+        "name_en": "Stryiskyi Park",
+        "distance": "0.6 km",
+        "type": "park"
+      },
+      {
+        "name_uk": "Львівський національний університет імені Івана Франка",
+        "name_en": "Ivan Franko National University of Lviv",
+        "distance": "1.2 km",
+        "type": "university"
+      },
+      {
+        "name_uk": "Личаківський цвинтар",
+        "name_en": "Lychakiv Cemetery",
+        "distance": "2 km",
+        "type": "historic-cemetery"
+      }
+    ]
+  },
+
+  "contact": {
+    "phone": "+380 96 15 84 606",
+    "email": "dimfranka@gmail.com",
+    "website": "https://dimfranka.lviv.ua/en",
+    "bookingUrl": "https://dimfranka.event.net.ua/cart/cart?id_date=10362&language=en",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/dimfranka",
+      "instagram": "https://www.instagram.com/dim_franka/",
+      "twitter": null,
+      "youtube": "https://www.youtube.com/channel/UC6UeOsivTNCowjVt3Hg5G0g"
+    }
+  },
+
+  "visitingInformation": {
+    "openingTimes": {
+      "status_uk": "Відкрито щодня, крім вівторка",
+      "status_en": "Open daily except Tuesday",
+      "status_de": "Täglich außer Dienstag geöffnet",
+      "seasonal": [
+        {
+          "season_uk": "Цілий рік",
+          "season_en": "Year-round",
+          "season_de": "Ganzjährig",
+          "days_uk": "Щодня, крім вівторка",
+          "days_en": "Daily except Tuesday",
+          "days_de": "Täglich außer Dienstag",
+          "hours": "10:00 - 17:00",
+          "lastAdmission": "16:30"
+        }
+      ]
+    },
+    "admissionPrices": {
+      "currency": "UAH",
+      "adult": 80,
+      "student": 40,
+      "child": 20,
+      "senior": 40,
+      "family": 180,
+      "notes_uk": "Діти до 6 років - безкоштовно. Фотозйомка дозволена. Онлайн бронювання доступне",
+      "notes_en": "Children under 6 - free. Photography allowed. Online booking available",
+      "notes_de": "Kinder unter 6 Jahren - kostenlos. Fotografieren erlaubt. Online-Buchung verfügbar"
+    },
+    "tourOptions": [
+      {
+        "type_uk": "Самостійний огляд",
+        "type_en": "Self-guided tour",
+        "type_de": "Selbstgeführte Tour",
+        "duration_uk": "45-60 хвилин",
+        "duration_en": "45-60 minutes",
+        "duration_de": "45-60 Minuten",
+        "price": 0
+      },
+      {
+        "type_uk": "Аудіогід",
+        "type_en": "Audio guide",
+        "type_de": "Audioführer",
+        "duration_uk": "1 година",
+        "duration_en": "1 hour",
+        "duration_de": "1 Stunde",
+        "price": 50
+      },
+      {
+        "type_uk": "Екскурсія з гідом",
+        "type_en": "Guided tour",
+        "type_de": "Führung",
+        "duration_uk": "1 година",
+        "duration_en": "1 hour",
+        "duration_de": "1 Stunde",
+        "price": 250,
+        "groupSize": "до 20 осіб / up to 20 people / bis 20 Personen"
+      },
+      {
+        "type_uk": "Тематичні екскурсії ('Мама і Доня', 'Лис Микита', 'Візит до родини Франків')",
+        "type_en": "Thematic tours ('Mama and Donya', 'Fox Mykyta', 'Visit to Franko Family')",
+        "type_de": "Thematische Touren",
+        "duration_uk": "1 година",
+        "duration_en": "1 hour",
+        "duration_de": "1 Stunde",
+        "price": 250
+      }
+    ],
+    "averageVisitDuration_uk": "1-1.5 години",
+    "averageVisitDuration_en": "1-1.5 hours",
+    "averageVisitDuration_de": "1-1,5 Stunden",
+    "busyPeriods_uk": ["Вихідні дні", "Літо (червень-серпень)", "День народження Івана Франка (27 серпня)"],
+    "busyPeriods_en": ["Weekends", "Summer (June-August)", "Ivan Franko's birthday (August 27)"],
+    "busyPeriods_de": ["Wochenenden", "Sommer (Juni-August)", "Iwan Frankos Geburtstag (27. August)"],
+    "adviceForVisitors_uk": "Рекомендуємо попередньо забронювати квитки онлайн. Візьміть участь у тематичній екскурсії для глибшого розуміння. Відвідайте садибу навколо будинку. Літературні вечори та лекції проводяться регулярно - перевіряйте розклад на сайті.",
+    "adviceForVisitors_en": "We recommend booking tickets online in advance. Participate in a thematic tour for deeper understanding. Visit the estate around the house. Literary evenings and lectures are held regularly - check the schedule on the website.",
+    "adviceForVisitors_de": "Wir empfehlen, Tickets online im Voraus zu buchen. Nehmen Sie an einer thematischen Tour für tieferes Verständnis teil. Besuchen Sie das Anwesen rund um das Haus. Literarische Abende und Vorträge finden regelmäßig statt - überprüfen Sie den Zeitplan auf der Website."
+  },
+
+  "features": {
+    "highlights_uk": [
+      "Автентичний будинок Івана Франка 1902-1916 років",
+      "Меморіальна експозиція з оригінальними меблями",
+      "Робочий кабінет письменника",
+      "Бібліотека з тисячами книг",
+      "Особисті речі родини Франків",
+      "Рукописи та листи",
+      "Сад навколо будинку",
+      "Сучасний культурний простір",
+      "Літературні вечори та лекції",
+      "Понад 10 000 експонатів"
+    ],
+    "highlights_en": [
+      "Authentic Ivan Franko house 1902-1916",
+      "Memorial exhibition with original furniture",
+      "Writer's study",
+      "Library with thousands of books",
+      "Personal belongings of Franko family",
+      "Manuscripts and letters",
+      "Garden around the house",
+      "Modern cultural space",
+      "Literary evenings and lectures",
+      "Over 10,000 exhibits"
+    ],
+    "highlights_de": [
+      "Authentisches Iwan-Franko-Haus 1902-1916",
+      "Gedenkausstellung mit Originalmöbeln",
+      "Arbeitszimmer des Schriftstellers",
+      "Bibliothek mit Tausenden von Büchern",
+      "Persönliche Gegenstände der Familie Franko",
+      "Manuskripte und Briefe",
+      "Garten um das Haus",
+      "Moderner Kulturraum",
+      "Literarische Abende und Vorträge",
+      "Über 10.000 Exponate"
+    ],
+    "facilities_uk": ["Меморіальні кімнати", "Виставкові зали", "Сад", "Сувенірна крамниця", "Туалети", "Wi-Fi", "Безкоштовна парковка"],
+    "facilities_en": ["Memorial rooms", "Exhibition halls", "Garden", "Gift shop", "Toilets", "Wi-Fi", "Free parking"],
+    "facilities_de": ["Gedenkräume", "Ausstellungsräume", "Garten", "Souvenirladen", "Toiletten", "WLAN", "Kostenloser Parkplatz"],
+    "accessibility": {
+      "wheelchairAccessible": true,
+      "notes_uk": "Музей має пандус та доступ для відвідувачів з обмеженими можливостями до основних залів. Частина експозиції на другому поверсі може бути недоступна.",
+      "notes_en": "The museum has a ramp and access for visitors with disabilities to main halls. Part of the second floor exhibition may be inaccessible.",
+      "notes_de": "Das Museum verfügt über eine Rampe und Zugang für Besucher mit Behinderungen zu den Hauptsälen. Ein Teil der Ausstellung im zweiten Stock ist möglicherweise nicht zugänglich."
+    },
+    "uniqueSellingPoints_uk": [
+      "Автентичний будинок великого письменника",
+      "Відтворення атмосфери інтелігентної родини початку ХХ ст.",
+      "Унікальна колекція рукописів та книг",
+      "Сучасний культурний простір",
+      "Цифровий проект FrankoData",
+      "Регулярні літературні події",
+      "Дослідницький центр франкознавства"
+    ],
+    "uniqueSellingPoints_en": [
+      "Authentic house of the great writer",
+      "Recreation of intelligentsia family atmosphere of early 20th century",
+      "Unique collection of manuscripts and books",
+      "Modern cultural space",
+      "FrankoData digital project",
+      "Regular literary events",
+      "Franko studies research center"
+    ],
+    "uniqueSellingPoints_de": [
+      "Authentisches Haus des großen Schriftstellers",
+      "Nachbildung der Atmosphäre einer Intelligenzfamilie des frühen 20. Jahrhunderts",
+      "Einzigartige Sammlung von Manuskripten und Büchern",
+      "Moderner Kulturraum",
+      "FrankoData digitales Projekt",
+      "Regelmäßige literarische Veranstaltungen",
+      "Forschungszentrum für Franko-Studien"
+    ]
+  },
+
+  "images": {
+    "heroImage": {
+      "url": "https://dimfranka.lviv.ua/wp-content/uploads/2023/10/%D0%91%D1%83%D0%B4%D0%B8%D0%BD%D0%BE%D0%BA-%D0%86.%D0%A4%D1%80%D0%B0%D0%BD%D0%BA%D0%B0.-1916-%D1%80.jpg",
+      "alt_uk": "Будинок Івана Франка у Львові, 1916 рік",
+      "alt_en": "Ivan Franko's House in Lviv, 1916",
+      "alt_de": "Iwan Frankos Haus in Lemberg, 1916",
+      "caption_uk": "Автентичний будинок, де Іван Франко жив з 1902 по 1916 рік",
+      "caption_en": "Authentic house where Ivan Franko lived from 1902 to 1916",
+      "caption_de": "Authentisches Haus, in dem Iwan Franko von 1902 bis 1916 lebte"
+    },
+    "gallery": [
+      {
+        "url": "https://dimfranka.lviv.ua/wp-content/uploads/2023/10/%D0%9A%D1%96%D0%BC%D0%BD%D0%B0%D1%82%D0%B0-%D1%81%D0%B8%D0%BD%D1%96%D0%B2.jpg",
+        "alt_uk": "Кімната синів Івана Франка",
+        "alt_en": "Ivan Franko's sons' room",
+        "alt_de": "Zimmer der Söhne von Iwan Franko",
+        "caption_uk": "Меморіальна експозиція кімнати синів з автентичними меблями"
+      },
+      {
+        "url": "https://dimfranka.lviv.ua/wp-content/uploads/2023/10/%D0%91%D1%96%D0%B1%D0%BB%D1%96%D0%BE%D1%82%D0%B5%D0%BA%D0%B0.jpg",
+        "alt_uk": "Бібліотека Івана Франка",
+        "alt_en": "Ivan Franko's library",
+        "alt_de": "Iwan Frankos Bibliothek",
+        "caption_uk": "Особиста бібліотека письменника з тисячами книг"
+      },
+      {
+        "url": "https://dimfranka.lviv.ua/wp-content/uploads/2023/10/%D0%A0%D0%BE%D0%B1%D0%BE%D1%87%D0%B8%D0%B9-%D0%BA%D0%B0%D0%B1%D1%96%D0%BD%D0%B5%D1%82.jpg",
+        "alt_uk": "Робочий кабінет Івана Франка",
+        "alt_en": "Ivan Franko's study",
+        "alt_de": "Iwan Frankos Arbeitszimmer",
+        "caption_uk": "Кабінет, де письменник створював свої твори"
+      },
+      {
+        "url": "https://dimfranka.lviv.ua/wp-content/uploads/2023/10/%D0%A1%D0%B0%D0%B4.jpg",
+        "alt_uk": "Сад навколо музею",
+        "alt_en": "Garden around the museum",
+        "alt_de": "Garten um das Museum",
+        "caption_uk": "Садиба з садом, де любила відпочивати родина Франків"
+      }
+    ]
+  },
+
+  "historicalData": {
+    "yearBuilt": "1902",
+    "yearBuiltNote_uk": "Будинок придбаний Іваном Франком у 1902 році, музей відкритий у 1940 році",
+    "yearBuiltNote_en": "House purchased by Ivan Franko in 1902, museum opened in 1940",
+    "yearBuiltNote_de": "Haus 1902 von Iwan Franko gekauft, Museum 1940 eröffnet",
+    "architecturalStyle_uk": "Віла початку ХХ століття",
+    "architecturalStyle_en": "Early 20th century villa",
+    "architecturalStyle_de": "Villa des frühen 20. Jahrhunderts",
+    "architects": [],
+    "unescoStatus": "none",
+    "unescoYear": null,
+    "nationalHeritageStatus": "National Memorial Museum of Ukraine",
+    "referenceNumber": "MIF-1940",
+    "managedBy_uk": "Інститут Івана Франка НАН України",
+    "managedBy_en": "Ivan Franko Institute of the National Academy of Sciences of Ukraine",
+    "managedBy_de": "Iwan-Franko-Institut der Nationalen Akademie der Wissenschaften der Ukraine"
+  },
+
+  "culturalEvents": [
+    {
+      "name_uk": "День народження Івана Франка",
+      "name_en": "Ivan Franko's Birthday",
+      "name_de": "Iwan Frankos Geburtstag",
+      "period_uk": "27 серпня (щорічно)",
+      "period_en": "August 27 (annually)",
+      "period_de": "27. August (jährlich)",
+      "description_uk": "Урочисті заходи, літературні читання, концерти, виставки присвячені великому письменнику",
+      "description_en": "Solemn events, literary readings, concerts, exhibitions dedicated to the great writer",
+      "description_de": "Feierliche Veranstaltungen, literarische Lesungen, Konzerte, Ausstellungen, die dem großen Schriftsteller gewidmet sind"
+    },
+    {
+      "name_uk": "Літературні вечори",
+      "name_en": "Literary Evenings",
+      "name_de": "Literarische Abende",
+      "period_uk": "Щомісяця",
+      "period_en": "Monthly",
+      "period_de": "Monatlich",
+      "description_uk": "Зустрічі з письменниками, поетами, презентації книг, читання творів Франка",
+      "description_en": "Meetings with writers, poets, book presentations, readings of Franko's works",
+      "description_de": "Treffen mit Schriftstellern, Dichtern, Buchpräsentationen, Lesungen von Frankos Werken"
+    },
+    {
+      "name_uk": "Наукові конференції з франкознавства",
+      "name_en": "Scientific Conferences on Franko Studies",
+      "name_de": "Wissenschaftliche Konferenzen zu Franko-Studien",
+      "period_uk": "Протягом року",
+      "period_en": "Throughout the year",
+      "period_de": "Das ganze Jahr über",
+      "description_uk": "Міжнародні та національні конференції, круглі столи, семінари з вивчення спадщини Івана Франка",
+      "description_en": "International and national conferences, roundtables, seminars on studying Ivan Franko's heritage",
+      "description_de": "Internationale und nationale Konferenzen, Rundtischgespräche, Seminare zum Studium von Iwan Frankos Erbe"
+    },
+    {
+      "name_uk": "Освітні програми для дітей",
+      "name_en": "Educational Programs for Children",
+      "name_de": "Bildungsprogramme für Kinder",
+      "period_uk": "Протягом року",
+      "period_en": "Throughout the year",
+      "period_de": "Das ganze Jahr über",
+      "description_uk": "Інтерактивні програми, майстер-класи, квести для школярів за творами Франка",
+      "description_en": "Interactive programs, master classes, quests for schoolchildren based on Franko's works",
+      "description_de": "Interaktive Programme, Meisterklassen, Quests für Schüler basierend auf Frankos Werken"
+    }
+  ],
+
+  "tags": [
+    "museum",
+    "literary-museum",
+    "memorial-museum",
+    "ivan-franko",
+    "lviv",
+    "ukrainian-literature",
+    "writer",
+    "poet",
+    "cultural-heritage",
+    "franko-studies",
+    "biography",
+    "19th-century",
+    "20th-century",
+    "library",
+    "manuscripts"
+  ],
+
+  "suitableFor_uk": [
+    "Любителі літератури",
+    "Студенти та школярі",
+    "Науковці",
+    "Письменники та поети",
+    "Туристи",
+    "Сімейні подорожі",
+    "Дослідники історії",
+    "Шанувальники творчості Івана Франка"
+  ],
+  "suitableFor_en": [
+    "Literature enthusiasts",
+    "Students and schoolchildren",
+    "Scientists",
+    "Writers and poets",
+    "Tourists",
+    "Family travel",
+    "History researchers",
+    "Fans of Ivan Franko's works"
+  ],
+  "suitableFor_de": [
+    "Literaturliebhaber",
+    "Studenten und Schüler",
+    "Wissenschaftler",
+    "Schriftsteller und Dichter",
+    "Touristen",
+    "Familienreisen",
+    "Geschichtsforscher",
+    "Fans von Iwan Frankos Werken"
+  ],
+
+  "weatherDependent": false,
+  "indoorActivities": true,
+  "outdoorActivities": true,
+
+  "priceRange": "$",
+  "rating": 4.9,
+  "reviewsCount": 876,
+  "featured": true,
+  "status": "published",
+
+  "metaDescription_uk": "Музей Івана Франка у Львові - автентичний будинок великого письменника (1902-1916). Меморіальна експозиція, бібліотека, рукописи. Літературні вечори. Сучасний культурний простір.",
+  "metaDescription_en": "Ivan Franko Museum in Lviv - authentic house of the great writer (1902-1916). Memorial exhibition, library, manuscripts. Literary evenings. Modern cultural space.",
+  "metaDescription_de": "Iwan-Franko-Museum in Lemberg - authentisches Haus des großen Schriftstellers (1902-1916). Gedenkausstellung, Bibliothek, Manuskripte. Literarische Abende. Moderner Kulturraum.",
+
+  "keywords": [
+    "Музей Івана Франка",
+    "Ivan Franko Museum",
+    "Львів",
+    "Lviv",
+    "Іван Франко",
+    "Ivan Franko",
+    "літературний музей",
+    "literary museum",
+    "меморіальний музей",
+    "memorial museum",
+    "українська література",
+    "Ukrainian literature",
+    "письменник",
+    "writer",
+    "Дім Франка",
+    "Franko House"
+  ],
+
+  "lastUpdated": "2025-11-30",
+  "source": "Official website dimfranka.lviv.ua, Wikipedia, Ukrainian Cultural Foundation",
+  "verified": true
+}

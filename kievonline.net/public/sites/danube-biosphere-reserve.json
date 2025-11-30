@@ -1,0 +1,414 @@
+{
+  "id": "danube-biosphere-reserve",
+  "slug": "danube-biosphere-reserve",
+
+  "name_uk": "Дунайський біосферний заповідник",
+  "name_en": "Danube Biosphere Reserve",
+  "name_de": "Donau-Biosphärenreservat",
+
+  "tagline_uk": "Українська частина дельти Дунаю — унікальна водно-болотна екосистема європейського значення",
+  "tagline_en": "Ukrainian part of the Danube Delta — unique wetland ecosystem of European importance",
+  "tagline_de": "Ukrainischer Teil des Donaudeltas — einzigartiges Feuchtgebietsökosystem von europäischer Bedeutung",
+
+  "category": "park",
+  "subcategories": ["biosphere-reserve", "unesco-site", "ramsar-site", "delta-ecosystem", "wetlands"],
+  "region": "Vilkovo",
+  "oblast": "Odesa Oblast",
+
+  "description_uk": {
+    "short": "Дунайський біосферний заповідник — унікальна природоохоронна територія на крайньому південному заході України, яка охоплює українську частину дельти Дунаю. Заповідник є найважливішою водно-болотною територією України та одним з найбільших водно-болотних угідь Європи.",
+    "full": "Дунайський біосферний заповідник був створений 10 серпня 1998 року Указом Президента України № 861/98 на базі заповідника «Дунайські плавні» (площею 14 851 га, існував з 1981 року). Загальна площа заповідника становить 50 252,9 гектарів в Ізмаїльському та Білгород-Дністровському районах Одеської області. Адміністративний центр розташований у місті Вілкове.\n\nДунайський біосферний заповідник охоплює українську частину дельти Дунаю, яка є другою за величиною річковою дельтою в Європі після Волги. Загальна площа дельти Дунаю становить 5640 км², з яких 1200 км² знаходиться на українській стороні, а 50 252,9 га складають прибережну зону заповідника.\n\nЗаповідник включає кілька основних територій:\n\n1. **Вторинна дельта** — система проток, рукавів та озер Кілійського гирла Дунаю з унікальною водною та водно-болотною рослинністю.\n\n2. **Стенцівсько-Жебріянівські плавні** — цінна природна система водно-болотних угідь з багатою орнітофауною.\n\n3. **Острів Єрмаків** — один з найбільших островів української дельти Дунаю (площа 2333,7 га), який щороку затоплюється весняними повенями.\n\n4. **Жебріянський хребет** — стародавній приморський хребет, піщана смуга завдовжки 11,5 км з унікальною псамофітною та степовою рослинністю.\n\n5. **Озеро Сасик** — велике прісноводне озеро площею близько 210 км² (верхня частина 3450 га в складі заповідника).\n\n6. **Джанцейський лиман** — частина Тузловських лиманів (450 га в складі заповідника).\n\nУ 1998 році Дунайський біосферний заповідник був включений до Всесвітньої мережі біосферних резерватів ЮНЕСКО. У 2004 році затока Сасик була включена до переліку водно-болотних угідь міжнародного значення (Рамсарська конвенція).\n\nФлора заповідника надзвичайно різноманітна і налічує понад 1500 видів судинних рослин. У Червону книгу України занесено близько 30 видів рослин, зокрема сальвінія плаваюча, водяний горіх, мініатюрна рогоза, пилчаста осока та інші.\n\nОрнітофауна заповідника — одна з найбагатших в Україні. Протягом року тут можна спостерігати понад 250 видів птахів, що становить близько 90% авіфауни всієї дельти Дунаю. На території заповідника гніздиться 11 видів птахів, занесених до Червоної книги України, зокрема рожевий та кучерявий пелікани, колпиця, чапля руда, орлан-білохвіст.\n\nДельта Дунаю є важливою зупинкою на африкансько-європейському міграційному шляху. Щороку тут зупиняються сотні тисяч водоплавних птахів. На ділянці «Нова земля» в деякі роки налічується близько 10 000 пар гніздових птахів.\n\nІхтіофауна надзвичайно багата — у водах заповідника зареєстровано 91 вид риб. Серед них цінні промислові види: дунайська оселедець, короп, сом, а також рідкісні види: атлантичний осетер, білуга, дунайський лосось.\n\nСеред ссавців охоронна зона включає видру, європейську норку, дикого лісового кота, а в прилеглих водах — афаліну, азово-чорноморську морську свиню та дельфіна-білобічку.\n\nЗаповідник веде активну роботу з відновлення деградованих екосистем. У 2010 році був відновлений природний гідрологічний режим острова Єрмаків, що призвело до повернення багатьох видів птахів та риб.",
+    "history": "Історія природоохоронної діяльності в дельті Дунаю розпочалася у 1973 році, коли Дунайські плавні були приєднані до Чорноморського заповідника як його філіал. У 1981 році філіал Чорноморського заповідника «Дунайські плавні» було виділено в самостійний природний заповідник площею 14 851 га.\n\n10 серпня 1998 року Указом Президента України № 861/98 на базі заповідника «Дунайські плавні» було створено Дунайський біосферний заповідник площею 46 402,9 га. 2 лютого 2004 року Указом Президента № 117/2004 територія заповідника була розширена до 50 252,9 га.\n\nВажливою віхою стало включення заповідника до Всесвітньої мережі біосферних резерватів ЮНЕСКО у 1998 році. У 2004 році озеро Сасик було включено до переліку водно-болотних угідд міжнародного значення згідно з Рамсарською конвенцією.\n\nУ 2008 році була підписана Меморандум про взаєморозуміння між Ізмаїльською райдержадміністрацією, Дунайським біосферним заповідником, ТОВ «Екофортпост», WWF Дунайсько-Карпатською програмою та Одеським центром ПівденНІРО щодо відновлення Стенцівсько-Жебріянівських плавнів. Роботи з розчистки головних проток та зарибнення дали позитивні результати.\n\nУ 2009-2010 роках за підтримки Всесвітнього фонду природи (WWF) було проведено унікальний проєкт відновлення природного гідрологічного режиму острова Єрмаків. Після десятиліть осушення та випасу худоби острів знову почав затоплюватися весняними повенями Дунаю, що призвело до відновлення природної екосистеми.",
+    "significance": "Дунайський біосферний заповідник має виняткове значення для збереження водно-болотних екосистем європейського рівня. Дельта Дунаю є другою за величиною річковою дельтою в Європі і однією з найбільш продуктивних водно-болотних екосистем континенту.\n\nЗаповідник відіграє критичну роль у підтриманні біорізноманіття регіону Чорного моря. Щороку Дунай приносить в Чорне море 200 000 тонн прісноводного планктону та інших прісноводних організмів, забезпечуючи живлення морської екосистеми.\n\nДельта Дунаю є ключовою зупинкою на африкансько-європейському міграційному шляху водоплавних птахів. Більше 90% авіфауни дельти представлені в заповіднику, включаючи понад 50 видів рідкісних птахів.\n\nЗаповідник є важливим центром наукових досліджень водно-болотних екосистем, гідрологічних процесів та збереження біорізноманіття. Дослідження, що проводяться тут, мають міжнародне значення для розуміння динаміки дельтових систем та розробки стратегій збереження.\n\nПроєкти з відновлення деградованих екосистем (острів Єрмаків, Стенцівсько-Жебріянівські плавні) є прикладами успішної екологічної реставрації на міжнародному рівні."
+  },
+
+  "description_en": {
+    "short": "Danube Biosphere Reserve is a unique protected area in the extreme southwest of Ukraine, encompassing the Ukrainian part of the Danube Delta. The reserve is Ukraine's most important wetland territory and one of Europe's largest wetlands.",
+    "full": "Danube Biosphere Reserve was established on August 10, 1998, by Presidential Decree of Ukraine No. 861/98 based on the 'Danube Floodplains' reserve (14,851 ha, existing since 1981). The total area of the reserve is 50,252.9 hectares in Izmail and Bilhorod-Dnistrovskyi districts of Odesa Oblast. The administrative center is located in Vilkovo city.\n\nDanube Biosphere Reserve encompasses the Ukrainian part of the Danube Delta, which is the second-largest river delta in Europe after the Volga. The total area of the Danube Delta is 5,640 km², of which 1,200 km² are on the Ukrainian side, and 50,252.9 ha constitute the reserve's coastal zone.\n\nThe reserve includes several main territories:\n\n1. **Secondary Delta** — system of channels, branches and lakes of the Kiliya mouth of the Danube with unique aquatic and wetland vegetation.\n\n2. **Stentsivsko-Zhebriyanivski Marshes** — valuable natural wetland system with rich avifauna.\n\n3. **Yermakov Island** — one of the largest islands in the Ukrainian Danube Delta (area 2,333.7 ha), flooded annually by spring floods.\n\n4. **Zhebriyansky Ridge** — ancient coastal ridge, sandy strip 11.5 km long with unique psammophytic and steppe vegetation.\n\n5. **Lake Sasyk** — large freshwater lake covering about 210 km² (upper part 3,450 ha within the reserve).\n\n6. **Dzhantseiskyi Estuary** — part of Tuzlovski estuaries (450 ha within the reserve).\n\nIn 1998, Danube Biosphere Reserve was included in the UNESCO World Network of Biosphere Reserves. In 2004, Lake Sasyk was included in the list of Wetlands of International Importance (Ramsar Convention).\n\nThe reserve's flora is extremely diverse, numbering over 1,500 species of vascular plants. About 30 plant species are listed in the Red Book of Ukraine, including salvinia natans, water chestnut, dwarf cattail, saw sedge, and others.\n\nThe reserve's avifauna is one of the richest in Ukraine. Throughout the year, over 250 bird species can be observed here, representing about 90% of the entire Danube Delta's avifauna. Eleven Red Book bird species nest in the reserve, including Dalmatian and great white pelicans, spoonbill, purple heron, and white-tailed eagle.\n\nThe Danube Delta is an important stopover on the African-European migration route. Hundreds of thousands of waterfowl stop here annually. On the 'New Land' section, about 10,000 pairs of nesting birds are counted in some years.\n\nIchthyofauna is extremely rich — 91 fish species are registered in the reserve's waters. Among them are valuable commercial species: Danube herring, carp, catfish, as well as rare species: Atlantic sturgeon, beluga, Danube salmon.\n\nAmong mammals, the protected area includes otter, European mink, wild forest cat, and in adjacent waters — bottlenose dolphin, harbor porpoise, and short-beaked common dolphin.\n\nThe reserve conducts active work on restoring degraded ecosystems. In 2010, the natural hydrological regime of Yermakov Island was restored, leading to the return of many bird and fish species.",
+    "history": "The history of conservation activities in the Danube Delta began in 1973 when the Danube floodplains were added to the Black Sea Reserve as its branch. In 1981, the branch 'Danube Floodplains' was separated into an independent nature reserve with an area of 14,851 ha.\n\nOn August 10, 1998, Presidential Decree of Ukraine No. 861/98 established the Danube Biosphere Reserve based on the 'Danube Floodplains' reserve with an area of 46,402.9 ha. On February 2, 2004, Presidential Decree No. 117/2004 expanded the reserve's territory to 50,252.9 ha.\n\nAn important milestone was the reserve's inclusion in the UNESCO World Network of Biosphere Reserves in 1998. In 2004, Lake Sasyk was included in the list of Wetlands of International Importance under the Ramsar Convention.\n\nIn 2008, a Memorandum of Understanding was signed between Izmail district administration, Danube Biosphere Reserve, LLC 'Ekofortpost', WWF Danube-Carpathian Programme, and Odesa center of YugNIRO regarding restoration of Stentsivsko-Zhebriyanivski Marshes. Work on clearing main channels and fish stocking gave positive results.\n\nIn 2009-2010, with WWF support, a unique project to restore the natural hydrological regime of Yermakov Island was implemented. After decades of drainage and cattle grazing, the island again began to be flooded by spring Danube floods, leading to natural ecosystem restoration.",
+    "significance": "Danube Biosphere Reserve is of exceptional importance for preserving wetland ecosystems of European level. The Danube Delta is the second-largest river delta in Europe and one of the continent's most productive wetland ecosystems.\n\nThe reserve plays a critical role in maintaining Black Sea region biodiversity. Annually, the Danube brings 200,000 tons of freshwater plankton and other freshwater organisms to the Black Sea, providing nutrition for the marine ecosystem.\n\nThe Danube Delta is a key stopover on the African-European waterfowl migration route. More than 90% of the delta's avifauna are represented in the reserve, including over 50 rare bird species.\n\nThe reserve is an important center for scientific research on wetland ecosystems, hydrological processes, and biodiversity conservation. Research conducted here has international significance for understanding delta system dynamics and developing conservation strategies.\n\nEcosystem restoration projects (Yermakov Island, Stentsivsko-Zhebriyanivski Marshes) are examples of successful ecological restoration at the international level."
+  },
+
+  "description_de": {
+    "short": "Das Donau-Biosphärenreservat ist ein einzigartiges Schutzgebiet im äußersten Südwesten der Ukraine, das den ukrainischen Teil des Donaudeltas umfasst. Das Reservat ist das wichtigste Feuchtgebiet der Ukraine und eines der größten Feuchtgebiete Europas.",
+    "full": "Das Donau-Biosphärenreservat wurde am 10. August 1998 durch Präsidialerlass der Ukraine Nr. 861/98 auf der Grundlage des Reservats 'Donauauen' (14.851 ha, seit 1981 bestehend) gegründet. Die Gesamtfläche des Reservats beträgt 50.252,9 Hektar in den Bezirken Ismail und Bilhorod-Dnistrowskyj der Oblast Odessa. Das Verwaltungszentrum befindet sich in der Stadt Vilkovo.",
+    "history": "Die Geschichte der Naturschutzaktivitäten im Donaudelta begann 1973, als die Donauauen als Zweigstelle dem Schwarzmeer-Reservat hinzugefügt wurden. 1981 wurde die Zweigstelle 'Donauauen' in ein unabhängiges Naturreservat mit einer Fläche von 14.851 ha ausgegliedert.",
+    "significance": "Das Donau-Biosphärenreservat ist von außerordentlicher Bedeutung für die Erhaltung von Feuchtgebietsökosystemen auf europäischer Ebene. Das Donaudelta ist das zweitgrößte Flussdelta in Europa und eines der produktivsten Feuchtgebietsökosysteme des Kontinents."
+  },
+
+  "location": {
+    "city": "Vilkovo",
+    "region": "Odesa Oblast",
+    "address_uk": "м. Вілкове, Ізмаїльський район, Одеська область, 68355",
+    "address_en": "Vilkovo, Izmail Raion, Odesa Oblast, 68355",
+    "address_de": "Vilkovo, Bezirk Ismail, Oblast Odessa, 68355",
+    "coordinates": {
+      "latitude": 45.3939,
+      "longitude": 29.6028
+    },
+    "directions_uk": {
+      "general": "Розташований на крайньому південному заході України в дельті Дунаю",
+      "publicTransport": "Автобус з Одеси або Ізмаїла до міста Вілкове",
+      "car": "З Києва — 720 км через Одесу та Ізмаїл (близько 10 годин). З Одеси — 230 км (близько 3,5 години)",
+      "parking": "Парковки в місті Вілкове біля причалів"
+    },
+    "directions_en": {
+      "general": "Located in the extreme southwest of Ukraine in the Danube Delta",
+      "publicTransport": "Bus from Odesa or Izmail to Vilkovo city",
+      "car": "From Kyiv — 720 km via Odesa and Izmail (about 10 hours). From Odesa — 230 km (about 3.5 hours)",
+      "parking": "Parking in Vilkovo city near piers"
+    },
+    "directions_de": {
+      "general": "Im äußersten Südwesten der Ukraine im Donaudelta gelegen",
+      "publicTransport": "Bus von Odessa oder Ismail nach Vilkovo",
+      "car": "Von Kiew — 720 km über Odessa und Ismail (ca. 10 Stunden). Von Odessa — 230 km (ca. 3,5 Stunden)",
+      "parking": "Parkplätze in Vilkovo in der Nähe der Anlegestellen"
+    },
+    "nearbyAttractions": [
+      {
+        "name_uk": "Місто Вілкове — Українська Венеція",
+        "name_en": "Vilkovo City — Ukrainian Venice",
+        "distance": "0 km",
+        "type": "city"
+      },
+      {
+        "name_uk": "Чорноморський біосферний заповідник",
+        "name_en": "Black Sea Biosphere Reserve",
+        "distance": "220 km",
+        "type": "biosphere-reserve"
+      },
+      {
+        "name_uk": "Дельта Дунаю (румунська частина)",
+        "name_en": "Danube Delta (Romanian part)",
+        "distance": "15 km",
+        "type": "unesco-site"
+      }
+    ]
+  },
+
+  "contact": {
+    "phone": "+380 4840 55231",
+    "email": "dunai_reserve@ukr.net",
+    "website": "https://www.dbr.org.ua/",
+    "bookingUrl": null,
+    "socialMedia": {
+      "facebook": null,
+      "instagram": null,
+      "youtube": null,
+      "twitter": null
+    }
+  },
+
+  "visitingInformation": {
+    "openingTimes": {
+      "status_uk": "Відкрито цілий рік",
+      "status_en": "Open year-round",
+      "status_de": "Ganzjährig geöffnet",
+      "seasonal": [
+        {
+          "season_uk": "Квітень - Жовтень",
+          "season_en": "April - October",
+          "season_de": "April - Oktober",
+          "days_uk": "Щодня",
+          "days_en": "Daily",
+          "days_de": "Täglich",
+          "hours": "08:00 - 18:00",
+          "lastAdmission": "17:00"
+        },
+        {
+          "season_uk": "Листопад - Березень",
+          "season_en": "November - March",
+          "season_de": "November - März",
+          "days_uk": "За попереднім узгодженням",
+          "days_en": "By prior arrangement",
+          "days_de": "Nach Voranmeldung",
+          "hours": "09:00 - 17:00",
+          "lastAdmission": "16:00"
+        }
+      ]
+    },
+    "admissionPrices": {
+      "currency": "UAH",
+      "adult": 50,
+      "student": 25,
+      "child": 25,
+      "senior": 25,
+      "family": null,
+      "notes_uk": "Водні екскурсії оплачуються окремо",
+      "notes_en": "Water excursions are paid separately",
+      "notes_de": "Wasserausflüge werden separat bezahlt"
+    },
+    "tourOptions": [
+      {
+        "type_uk": "Водна екскурсія дельтою",
+        "type_en": "Delta water tour",
+        "type_de": "Delta-Wassertour",
+        "duration_uk": "3-4 години",
+        "duration_en": "3-4 hours",
+        "duration_de": "3-4 Stunden",
+        "price": 400
+      },
+      {
+        "type_uk": "Орнітологічна екскурсія",
+        "type_en": "Ornithological tour",
+        "type_de": "Ornithologische Tour",
+        "duration_uk": "2-3 години",
+        "duration_en": "2-3 hours",
+        "duration_de": "2-3 Stunden",
+        "price": 300
+      }
+    ],
+    "averageVisitDuration_uk": "1-2 дні",
+    "averageVisitDuration_en": "1-2 days",
+    "averageVisitDuration_de": "1-2 Tage",
+    "busyPeriods_uk": ["Літо (червень-серпень)", "Весна під час цвітіння лотосів (липень-серпень)", "Міграційні періоди птахів"],
+    "busyPeriods_en": ["Summer (June-August)", "Spring during lotus blooming (July-August)", "Bird migration periods"],
+    "busyPeriods_de": ["Sommer (Juni-August)", "Frühling während der Lotusblüte (Juli-August)", "Vogelzugzeiten"],
+    "adviceForVisitors_uk": "Найкращий спосіб ознайомитись з дельтою — водна екскурсія човном. Візьміть сонцезахисний крем, капелюх та засоби від комарів. Обов'язково відвідайте місто Вілкове — Українську Венецію. Найкращий час для спостереження за птахами — весна та осінь.",
+    "adviceForVisitors_en": "The best way to explore the delta is a water excursion by boat. Bring sunscreen, a hat, and mosquito repellent. Be sure to visit Vilkovo city — the Ukrainian Venice. The best time for bird watching is spring and autumn.",
+    "adviceForVisitors_de": "Der beste Weg, das Delta zu erkunden, ist ein Wasserausflug mit dem Boot. Bringen Sie Sonnencreme, einen Hut und Mückenschutz mit. Besuchen Sie unbedingt die Stadt Vilkovo — das ukrainische Venedig. Die beste Zeit für Vogelbeobachtung ist Frühling und Herbst."
+  },
+
+  "features": {
+    "highlights_uk": [
+      "Біосферний резерват UNESCO (з 1998 року)",
+      "Українська частина другої за величиною дельти Європи",
+      "Рамсарське угіддя міжнародного значення",
+      "Понад 250 видів птахів (90% авіфауни дельти Дунаю)",
+      "91 вид риб",
+      "1500+ видів судинних рослин",
+      "Ключова зупинка на міграційному шляху африка-Європа",
+      "Відновлена екосистема острова Єрмаків",
+      "Унікальні лотосові поля",
+      "Місто Вілкове — Українська Венеція"
+    ],
+    "highlights_en": [
+      "UNESCO Biosphere Reserve (since 1998)",
+      "Ukrainian part of Europe's second-largest delta",
+      "Ramsar Wetland of International Importance",
+      "Over 250 bird species (90% of Danube Delta avifauna)",
+      "91 fish species",
+      "1,500+ vascular plant species",
+      "Key stopover on Africa-Europe migration route",
+      "Restored ecosystem of Yermakov Island",
+      "Unique lotus fields",
+      "Vilkovo city — Ukrainian Venice"
+    ],
+    "highlights_de": [
+      "UNESCO-Biosphärenreservat (seit 1998)",
+      "Ukrainischer Teil des zweitgrößten Deltas Europas",
+      "Ramsar-Feuchtgebiet von internationaler Bedeutung",
+      "Über 250 Vogelarten (90% der Avifauna des Donaudeltas)",
+      "91 Fischarten",
+      "1.500+ Gefäßpflanzenarten",
+      "Wichtiger Rastplatz auf der Afrika-Europa-Zugroute",
+      "Wiederhergestelltes Ökosystem der Yermakov-Insel",
+      "Einzigartige Lotusfelder",
+      "Stadt Vilkovo — Ukrainisches Venedig"
+    ],
+    "facilities_uk": ["Науковий центр", "Музей природи у Вілкові", "Причали для човнів", "Оглядові вежі"],
+    "facilities_en": ["Research center", "Nature museum in Vilkovo", "Boat piers", "Observation towers"],
+    "facilities_de": ["Forschungszentrum", "Naturmuseum in Vilkovo", "Bootsstege", "Aussichtstürme"],
+    "accessibility": {
+      "wheelchairAccessible": false,
+      "notes_uk": "Більшість території доступна лише водним транспортом. Обмежений доступ для інвалідних візків.",
+      "notes_en": "Most of territory accessible only by water transport. Limited wheelchair access.",
+      "notes_de": "Der größte Teil des Gebiets ist nur mit dem Wasserfahrzeug erreichbar. Eingeschränkter Rollstuhlzugang."
+    },
+    "uniqueSellingPoints_uk": [
+      "Друга за величиною річкова дельта в Європі",
+      "90% авіфауни всієї дельти Дунаю",
+      "Унікальний проєкт відновлення острова Єрмаків",
+      "Біосферний резерват UNESCO та Рамсарське угіддя",
+      "Поруч з містом Вілкове — Українською Венецією"
+    ],
+    "uniqueSellingPoints_en": [
+      "Second-largest river delta in Europe",
+      "90% of entire Danube Delta avifauna",
+      "Unique Yermakov Island restoration project",
+      "UNESCO Biosphere Reserve and Ramsar Wetland",
+      "Near Vilkovo city — Ukrainian Venice"
+    ],
+    "uniqueSellingPoints_de": [
+      "Zweitgrößtes Flussdelta in Europa",
+      "90% der gesamten Avifauna des Donaudeltas",
+      "Einzigartiges Wiederherstellungsprojekt der Yermakov-Insel",
+      "UNESCO-Biosphärenreservat und Ramsar-Feuchtgebiet",
+      "In der Nähe von Vilkovo — Ukrainisches Venedig"
+    ]
+  },
+
+  "images": {
+    "heroImage": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Danube_Delta_Ukraine.jpg/1280px-Danube_Delta_Ukraine.jpg",
+      "alt_uk": "Дельта Дунаю з висоти пташиного польоту",
+      "alt_en": "Danube Delta from bird's eye view",
+      "alt_de": "Donaudelta aus der Vogelperspektive",
+      "caption_uk": "Унікальна мережа проток, рукавів та озер української частини дельти Дунаю",
+      "caption_en": "Unique network of channels, branches and lakes of the Ukrainian part of the Danube Delta",
+      "caption_de": "Einzigartiges Netzwerk von Kanälen, Zweigen und Seen des ukrainischen Teils des Donaudeltas"
+    },
+    "gallery": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Lotus_Danube_Delta.jpg/1280px-Lotus_Danube_Delta.jpg",
+        "alt_uk": "Поля цвітучих лотосів",
+        "alt_en": "Fields of blooming lotuses",
+        "alt_de": "Felder blühender Lotusblumen",
+        "caption_uk": "Унікальні лотосові поля в дельті Дунаю"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Pelicans_Danube_Delta.jpg/1280px-Pelicans_Danube_Delta.jpg",
+        "alt_uk": "Колонія пеліканів",
+        "alt_en": "Pelican colony",
+        "alt_de": "Pelikankolonie",
+        "caption_uk": "Рожеві та кучеряві пелікани — символ дельти Дунаю"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Vilkovo_Ukrainian_Venice.jpg/1280px-Vilkovo_Ukrainian_Venice.jpg",
+        "alt_uk": "Місто Вілкове — Українська Венеція",
+        "alt_en": "Vilkovo city — Ukrainian Venice",
+        "alt_de": "Stadt Vilkovo — Ukrainisches Venedig",
+        "caption_uk": "Унікальне місто на воді з мережею каналів"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Yermakov_Island_flooding.jpg/1280px-Yermakov_Island_flooding.jpg",
+        "alt_uk": "Затоплення острова Єрмаків",
+        "alt_en": "Yermakov Island flooding",
+        "alt_de": "Yermakov-Insel Überschwemmung",
+        "caption_uk": "Весняне затоплення відновленої екосистеми острова Єрмаків"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Danube_Delta_waterways.jpg/1280px-Danube_Delta_waterways.jpg",
+        "alt_uk": "Водні шляхи дельти",
+        "alt_en": "Delta waterways",
+        "alt_de": "Delta-Wasserwege",
+        "caption_uk": "Лабіринт проток та озер — природна краса дельти Дунаю"
+      }
+    ]
+  },
+
+  "historicalData": {
+    "yearBuilt": "1973",
+    "yearBuiltNote_uk": "Створений як філіал у 1973 році, самостійний заповідник з 1981 року, біосферний статус з 1998 року",
+    "yearBuiltNote_en": "Created as branch in 1973, independent reserve since 1981, biosphere status since 1998",
+    "yearBuiltNote_de": "Als Zweigstelle 1973 gegründet, unabhängiges Reservat seit 1981, Biosphärenstatus seit 1998",
+    "architecturalStyle_uk": "Дельтовий природний ландшафт",
+    "architecturalStyle_en": "Delta natural landscape",
+    "architecturalStyle_de": "Delta-Naturlandschaft",
+    "architects": [],
+    "unescoStatus": "biosphere-reserve",
+    "unescoYear": 1998,
+    "nationalHeritageStatus": "Biosphere Reserve, Ramsar Site",
+    "referenceNumber": null,
+    "managedBy_uk": "Національна академія наук України",
+    "managedBy_en": "National Academy of Sciences of Ukraine",
+    "managedBy_de": "Nationale Akademie der Wissenschaften der Ukraine"
+  },
+
+  "culturalEvents": [
+    {
+      "name_uk": "Фестиваль лотосів у Вілкові",
+      "name_en": "Lotus Festival in Vilkovo",
+      "name_de": "Lotusfestival in Vilkovo",
+      "period_uk": "Липень-Серпень (щорічно)",
+      "period_en": "July-August (annually)",
+      "period_de": "Juli-August (jährlich)",
+      "description_uk": "Святкування цвітіння унікальних лотосових полів",
+      "description_en": "Celebration of blooming unique lotus fields",
+      "description_de": "Feier der Blüte einzigartiger Lotusfelder"
+    }
+  ],
+
+  "tags": [
+    "biosphere-reserve",
+    "unesco-site",
+    "ramsar-site",
+    "delta-ecosystem",
+    "wetlands",
+    "danube",
+    "waterfowl",
+    "bird-migration",
+    "pelicans",
+    "lotus-fields",
+    "vilkovo",
+    "ukrainian-venice",
+    "ornithology",
+    "fish-diversity",
+    "nature-conservation",
+    "odesa-oblast",
+    "eco-tourism",
+    "boat-tours"
+  ],
+
+  "suitableFor_uk": [
+    "Орнітологи",
+    "Фотографи природи",
+    "Любителі водних екскурсій",
+    "Біологи",
+    "Екотуристи",
+    "Сімейні подорожі",
+    "Науковці"
+  ],
+  "suitableFor_en": [
+    "Ornithologists",
+    "Nature photographers",
+    "Boat tour enthusiasts",
+    "Biologists",
+    "Eco-tourists",
+    "Family travel",
+    "Scientists"
+  ],
+  "suitableFor_de": [
+    "Ornithologen",
+    "Naturfotografen",
+    "Bootstour-Liebhaber",
+    "Biologen",
+    "Öko-Touristen",
+    "Familienreisen",
+    "Wissenschaftler"
+  ],
+
+  "weatherDependent": true,
+  "indoorActivities": true,
+  "outdoorActivities": true,
+
+  "priceRange": "$",
+  "rating": 4.7,
+  "reviewsCount": 1264,
+  "featured": true,
+  "status": "published",
+
+  "metaDescription_uk": "Дунайський біосферний заповідник — українська частина другої за величиною дельти Європи, біосферний резерват UNESCO з 250+ видами птахів, унікальними лотосовими полями.",
+  "metaDescription_en": "Danube Biosphere Reserve — Ukrainian part of Europe's second-largest delta, UNESCO biosphere reserve with 250+ bird species, unique lotus fields.",
+  "metaDescription_de": "Donau-Biosphärenreservat — ukrainischer Teil des zweitgrößten Deltas Europas, UNESCO-Biosphärenreservat mit 250+ Vogelarten, einzigartigen Lotusfeldern.",
+
+  "keywords": [
+    "Дунайський заповідник",
+    "Danube Reserve",
+    "Donau-Reservat",
+    "дельта Дунаю",
+    "Danube Delta",
+    "Donaudelta",
+    "біосферний заповідник",
+    "biosphere reserve",
+    "Biosphärenreservat",
+    "UNESCO",
+    "Рамсар",
+    "Ramsar",
+    "Вілкове",
+    "Vilkovo",
+    "водно-болотні угіддя",
+    "wetlands",
+    "Feuchtgebiete",
+    "лотоси",
+    "lotus",
+    "Lotus",
+    "пелікани",
+    "pelicans",
+    "Pelikane"
+  ],
+
+  "lastUpdated": "2025-11-30",
+  "source": "Wikipedia, Danube Reserve Official Website, UNESCO MAB, Ramsar Convention, WWF, Jina AI Research",
+  "verified": true
+}

@@ -1,0 +1,429 @@
+{
+  "id": "st-andrews-church",
+  "slug": "st-andrews-church",
+
+  "name_uk": "Андріївська церква",
+  "name_en": "St. Andrew's Church",
+  "name_de": "Andreaskirche",
+
+  "tagline_uk": "Перлина українського бароко на вершині Андріївського узвозу",
+  "tagline_en": "A Baroque pearl atop Andriyivskyy Descent",
+  "tagline_de": "Eine Barockperle auf dem Andreassteig",
+
+  "category": "monastery",
+  "subcategories": ["church", "baroque-architecture", "museum", "historical-monument", "viewpoint"],
+  "region": "Kyiv",
+  "oblast": "Kyiv City",
+
+  "description_uk": {
+    "short": "Андріївська церква — шедевр барокової архітектури роботи Бартоломео Растреллі, збудований у 1747–1754 роках на вершині історичного Андріївського узвозу. Церква є одним із найвизначніших архітектурних пам'яток Києва з неперевершеним видом на Поділ.",
+    "full": "Андріївська церква є рідкісним прикладом єлизаветинського бароко в Україні та єдиною збереженою роботою великого італійського архітектора Бартоломео Растреллі на українських землях. Збудована між 1747 та 1754 роками за наказом російської імператриці Єлизавети Петрівни, церква розташована на крутому пагорбі, де, за легендою, апостол Андрій Первозваний передбачив велике майбутнє Києва як колиски християнства у слов'янських землях.\n\nЦерква вражає своєю архітектурною досконалістю. Вона побудована на 15-метровому фундаменті-стилобаті, що з східного боку виходить на схил. Зовнішній фасад прикрашений коринфськими колонами та багатими декоративними деталями. Центральний купол та п'ять декоративних бань створюють неповторний силует, що домінує над історичним Подолом.\n\nІнтер'єр церкви близький до стилю рококо з багатими позолоченими прикрасами. Іконостас, спроектований самим Растреллі, виконаний у Санкт-Петербурзі та привезений до Києва. Для позолоти інтер'єру використано 1028 пластин золота. Церква має унікальну для православної архітектури кафедру проповідника — елемент, більш характерний для католицьких храмів.\n\nЗ 1968 року церква функціонує як музей, що є частиною Національного заповідника 'Софія Київська'. З 2018 року належить до Вселенського Патріархату Константинополя.",
+    "history": "Історія місця сягає 1086 року, коли князь Всеволод I побудував невелику церкву на честь встановлення хреста святим Андрієм. У 1215 році князь Мстислав Галицький побудував неподалік Церкву Воздвиження Хреста, але вона не пережила монгольської навали 1240 року.\n\nБудівництво сучасної церкви розпочалося 9 вересня 1744 року церемонією закладки першого каменя імператрицею Єлизаветою Петрівною. Спочатку проект доручили німецькому архітектору Готфріду Іоганну Шеделю, але його проект відхилили у 1745 році. Замість нього проект виконав Бартоломео Растреллі, головний архітектор імперського двору, чий план базувався на церкві петербурзького інституту.\n\nБудівництво вела команда російських та іноземних майстрів під керівництвом архітектора Івана Мічуріна. Зовнішні роботи завершилися у 1754 році, але інтер'єр та оздоблення закінчили лише у 1767 році. Ікони намалювали Олексій Антропов та Іван Вишняков, а фрески створили українські майстри І. Роменський та І. Чайковський.\n\nУ 1815 році сильний шторм зірвав куполи церкви, після чого у 1825–1828 роках провели відновлення. У 1978 році на основі оригінальних креслень Растреллі, знайдених у Відні, відновили первісний вигляд куполів.",
+    "significance": "Андріївська церква є унікальною архітектурною пам'яткою загальнонаціонального значення та єдиною роботою Растреллі, що збереглася в Україні. Вона демонструє найкращі традиції єлизаветинського бароко та є символом Києва. Розташування церкви на вершині Андріївського узвозу робить її видимою з багатьох точок міста та створює незабутній силует історичного центру."
+  },
+
+  "description_en": {
+    "short": "St. Andrew's Church is a masterpiece of Baroque architecture designed by Bartolomeo Rastrelli, built in 1747–1754 atop the historic Andriyivskyy Descent. The church is one of Kyiv's most prominent architectural landmarks with an unparalleled view of Podil.",
+    "full": "St. Andrew's Church is a rare example of Elizabethan Baroque in Ukraine and the only surviving work of the great Italian architect Bartolomeo Rastrelli on Ukrainian soil. Built between 1747 and 1754 by order of Russian Empress Elizabeth Petrovna, the church stands on a steep hill where, according to legend, the Apostle Andrew the First-Called prophesied the great future of Kyiv as the cradle of Christianity in Slavic lands.\n\nThe church impresses with its architectural perfection. It is built on a 15-meter foundation-stylobate that faces downhill from the eastern side. The exterior facade is decorated with Corinthian columns and rich ornamental details. The central dome and five decorative spires create a unique silhouette that dominates the historic Podil.\n\nThe church's interior is close to Rococo style with rich gilded decorations. The iconostasis, designed by Rastrelli himself, was made in St. Petersburg and brought to Kyiv. 1,028 gold plates were used for gilding the interior. The church has a preacher's pulpit unique to Orthodox architecture — an element more characteristic of Catholic churches.\n\nSince 1968, the church has functioned as a museum, part of the National Sanctuary 'Sophia of Kyiv'. Since 2018, it has belonged to the Ecumenical Patriarchate of Constantinople.",
+    "history": "The history of the site dates back to 1086, when Prince Vsevolod I built a small church in honor of Saint Andrew's erection of the cross. In 1215, Prince Mstyslav of Halych built the Church of the Exaltation of the Cross nearby, but it did not survive the Mongol invasion of 1240.\n\nConstruction of the current church began on September 9, 1744, with a foundation stone ceremony by Empress Elizabeth Petrovna. Initially, the project was entrusted to German architect Gottfried Johann Schädel, but his project was rejected in 1745. Instead, Bartolomeo Rastrelli, the chief architect of the imperial court, executed the project, whose plan was based on a St. Petersburg institute church.\n\nConstruction was led by a team of Russian and foreign masters under the direction of architect Ivan Michurin. External works were completed in 1754, but the interior and decorations were finished only in 1767. Icons were painted by Alexei Antropov and Ivan Vishnyakov, and frescoes were created by Ukrainian masters I. Romenskyi and I. Chaikovskyi.\n\nIn 1815, a strong storm tore off the church's cupolas, after which restoration was carried out in 1825–1828. In 1978, the original appearance of the cupolas was restored based on Rastrelli's original drawings found in Vienna.",
+    "significance": "St. Andrew's Church is a unique architectural monument of national significance and Rastrelli's only surviving work in Ukraine. It demonstrates the best traditions of Elizabethan Baroque and is a symbol of Kyiv. The church's location atop Andriyivskyy Descent makes it visible from many points in the city and creates an unforgettable silhouette of the historic center."
+  },
+
+  "description_de": {
+    "short": "Die Andreaskirche ist ein Meisterwerk der Barockarchitektur von Bartolomeo Rastrelli, gebaut 1747–1754 auf dem historischen Andreassteig. Die Kirche ist eines der prominentesten architektonischen Wahrzeichen Kiews mit einem unvergleichlichen Blick auf Podil.",
+    "full": "Die Andreaskirche ist ein seltenes Beispiel des elisabethanischen Barocks in der Ukraine und das einzige erhaltene Werk des großen italienischen Architekten Bartolomeo Rastrelli auf ukrainischem Boden. Erbaut zwischen 1747 und 1754 auf Befehl der russischen Kaiserin Elisabeth Petrowna, steht die Kirche auf einem steilen Hügel, wo der Legende nach der Apostel Andreas der Erstberufene die große Zukunft Kiews als Wiege des Christentums in den slawischen Ländern prophezeite.\n\nDie Kirche beeindruckt durch ihre architektonische Perfektion. Sie ist auf einem 15 Meter hohen Fundament-Stylobat gebaut, der von der Ostseite bergab führt. Die Außenfassade ist mit korinthischen Säulen und reichen ornamentalen Details verziert. Die zentrale Kuppel und fünf dekorative Türme schaffen eine einzigartige Silhouette, die über dem historischen Podil dominiert.",
+    "history": "Die Geschichte des Ortes reicht bis ins Jahr 1086 zurück, als Fürst Wsewolod I. eine kleine Kirche zu Ehren der Errichtung des Kreuzes durch den Heiligen Andreas baute. 1215 baute Fürst Mstyslaw von Halytsch in der Nähe die Kirche der Kreuzerhöhung, aber sie überlebte die mongolische Invasion von 1240 nicht.",
+    "significance": "Die Andreaskirche ist ein einzigartiges architektonisches Denkmal von nationaler Bedeutung und Rastrellis einziges erhaltenes Werk in der Ukraine. Sie demonstriert die besten Traditionen des elisabethanischen Barocks und ist ein Symbol von Kiew."
+  },
+
+  "location": {
+    "city": "Kyiv",
+    "region": "Kyiv City",
+    "address_uk": "Андріївський узвіз, 23, Київ, 04070",
+    "address_en": "23 Andriyivskyy Descent, Kyiv, 04070",
+    "address_de": "Andreassteig 23, Kiew, 04070",
+    "coordinates": {
+      "latitude": 50.4589,
+      "longitude": 30.518
+    },
+    "directions_uk": {
+      "general": "Розташована на вершині Андріївського узвозу в історичному центрі Києва",
+      "publicTransport": "Станція метро 'Контрактова площа' або 'Поштова площа', далі пішки вгору по Андріївському узвозу (15-20 хвилин)",
+      "car": "Обмежений доступ для автомобілів. Найближча парковка біля Михайлівського монастиря",
+      "parking": "Платна парковка на вулиці Десятинній та біля Михайлівської площі"
+    },
+    "directions_en": {
+      "general": "Located atop Andriyivskyy Descent in Kyiv's historic center",
+      "publicTransport": "Metro station 'Kontraktova Ploshcha' or 'Poshtova Ploshcha', then walk up Andriyivskyy Descent (15-20 minutes)",
+      "car": "Limited car access. Nearest parking near St. Michael's Monastery",
+      "parking": "Paid parking on Desiatynna Street and near St. Michael's Square"
+    },
+    "directions_de": {
+      "general": "Auf dem Andreassteig im historischen Zentrum von Kiew gelegen",
+      "publicTransport": "U-Bahn-Station 'Kontraktova Ploshcha' oder 'Poshtova Ploshcha', dann zu Fuß den Andreassteig hinauf (15-20 Minuten)",
+      "car": "Eingeschränkter Zugang für Autos. Nächster Parkplatz in der Nähe des Michaelsklosters",
+      "parking": "Gebührenpflichtige Parkplätze in der Desiatynna-Straße und in der Nähe des Michaelsplatzes"
+    },
+    "nearbyAttractions": [
+      {
+        "name_uk": "Андріївський узвіз",
+        "name_en": "Andriyivskyy Descent",
+        "distance": "0 km",
+        "type": "historic-street"
+      },
+      {
+        "name_uk": "Будинок Булгакова",
+        "name_en": "Bulgakov House Museum",
+        "distance": "0.2 km",
+        "type": "museum"
+      },
+      {
+        "name_uk": "Національний музей історії України",
+        "name_en": "National Museum of the History of Ukraine",
+        "distance": "0.3 km",
+        "type": "museum"
+      },
+      {
+        "name_uk": "Михайлівський монастир",
+        "name_en": "St. Michael's Monastery",
+        "distance": "0.5 km",
+        "type": "monastery"
+      },
+      {
+        "name_uk": "Поділ",
+        "name_en": "Podil District",
+        "distance": "0.3 km",
+        "type": "historic-district"
+      }
+    ]
+  },
+
+  "contact": {
+    "phone": "+380 44 278 1221",
+    "email": "museumstandrewschurch@gmail.com",
+    "website": "http://andriyivska-tserkva.kiev.ua/",
+    "bookingUrl": null,
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/st.andrewschurchmuseum/",
+      "instagram": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+
+  "visitingInformation": {
+    "openingTimes": {
+      "status_uk": "Відкрито цілий рік",
+      "status_en": "Open year-round",
+      "status_de": "Ganzjährig geöffnet",
+      "seasonal": [
+        {
+          "season_uk": "Цілий рік",
+          "season_en": "Year-round",
+          "season_de": "Ganzjährig",
+          "days_uk": "Вівторок-Неділя",
+          "days_en": "Tuesday-Sunday",
+          "days_de": "Dienstag-Sonntag",
+          "hours": "10:00 - 18:00",
+          "lastAdmission": "17:30"
+        }
+      ]
+    },
+    "admissionPrices": {
+      "currency": "UAH",
+      "adult": 100,
+      "student": 50,
+      "child": 50,
+      "senior": 50,
+      "family": 0,
+      "notes_uk": "Квиток на оглядовий майданчик: дорослі - 20 грн, пільговий - 5 грн. Екскурсія для групи до 15 осіб - 250 грн",
+      "notes_en": "Observation deck ticket: adults - 20 UAH, reduced - 5 UAH. Tour for group up to 15 people - 250 UAH",
+      "notes_de": "Ticket für Aussichtsplattform: Erwachsene - 20 UAH, ermäßigt - 5 UAH. Führung für Gruppe bis 15 Personen - 250 UAH"
+    },
+    "tourOptions": [
+      {
+        "type_uk": "Самостійний огляд",
+        "type_en": "Self-guided tour",
+        "type_de": "Selbstgeführte Tour",
+        "duration_uk": "30-60 хвилин",
+        "duration_en": "30-60 minutes",
+        "duration_de": "30-60 Minuten",
+        "price": 0
+      },
+      {
+        "type_uk": "Екскурсія з гідом",
+        "type_en": "Guided tour",
+        "type_de": "Führung",
+        "duration_uk": "45 хвилин",
+        "duration_en": "45 minutes",
+        "duration_de": "45 Minuten",
+        "price": 250,
+        "groupSize": "до 15 осіб / up to 15 people / bis 15 Personen"
+      },
+      {
+        "type_uk": "Відвідування оглядового майданчика",
+        "type_en": "Observation deck visit",
+        "type_de": "Besuch der Aussichtsplattform",
+        "duration_uk": "15-30 хвилин",
+        "duration_en": "15-30 minutes",
+        "duration_de": "15-30 Minuten",
+        "price": 20
+      }
+    ],
+    "averageVisitDuration_uk": "45-90 хвилин",
+    "averageVisitDuration_en": "45-90 minutes",
+    "averageVisitDuration_de": "45-90 Minuten",
+    "busyPeriods_uk": ["Вихідні дні", "Літні місяці (червень-серпень)", "Свята"],
+    "busyPeriods_en": ["Weekends", "Summer months (June-August)", "Holidays"],
+    "busyPeriods_de": ["Wochenenden", "Sommermonate (Juni-August)", "Feiertage"],
+    "adviceForVisitors_uk": "Взуйте зручне взуття для підйому по Андріївському узвозу. Відвідайте церкву ввечері, коли вона красиво підсвічується. Не пропустіть вид з оглядового майданчика. Церква може бути закрита під час реставраційних робіт — перевірте перед візитом.",
+    "adviceForVisitors_en": "Wear comfortable shoes for walking up Andriyivskyy Descent. Visit the church in the evening when it's beautifully illuminated. Don't miss the view from the observation deck. The church may be closed during restoration work — check before visiting.",
+    "adviceForVisitors_de": "Tragen Sie bequeme Schuhe für den Aufstieg am Andreassteig. Besuchen Sie die Kirche am Abend, wenn sie schön beleuchtet ist. Verpassen Sie nicht die Aussicht von der Aussichtsplattform. Die Kirche kann während Restaurierungsarbeiten geschlossen sein — prüfen Sie vor dem Besuch."
+  },
+
+  "features": {
+    "highlights_uk": [
+      "Єдина робота Растреллі в Україні",
+      "Єлизаветинський бароко XVIII століття",
+      "Панорамний вид на Поділ та Дніпро",
+      "Унікальна кафедра проповідника",
+      "Позолочений іконостас роботи Растреллі",
+      "Розташування на Андріївському узвозі",
+      "Частина Національного заповідника 'Софія Київська'"
+    ],
+    "highlights_en": [
+      "Rastrelli's only work in Ukraine",
+      "18th-century Elizabethan Baroque",
+      "Panoramic view of Podil and Dnipro River",
+      "Unique preacher's pulpit",
+      "Gilded iconostasis by Rastrelli",
+      "Location on Andriyivskyy Descent",
+      "Part of National Sanctuary 'Sophia of Kyiv'"
+    ],
+    "highlights_de": [
+      "Rastrellis einziges Werk in der Ukraine",
+      "Elisabethanisches Barock aus dem 18. Jahrhundert",
+      "Panoramablick auf Podil und den Dnipro",
+      "Einzigartige Predigerkanzel",
+      "Vergoldete Ikonostase von Rastrelli",
+      "Lage am Andreassteig",
+      "Teil des Nationalheiligtums 'Sophia von Kiew'"
+    ],
+    "facilities_uk": ["Музей", "Оглядовий майданчик", "Сувенірна крамниця", "Туалети"],
+    "facilities_en": ["Museum", "Observation deck", "Gift shop", "Toilets"],
+    "facilities_de": ["Museum", "Aussichtsplattform", "Souvenirladen", "Toiletten"],
+    "accessibility": {
+      "wheelchairAccessible": false,
+      "notes_uk": "Церква розташована на пагорбі з кам'яними сходами. Доступ для людей з інвалідністю обмежений через історичну архітектуру.",
+      "notes_en": "Church is located on a hill with stone stairs. Access for people with disabilities is limited due to historic architecture.",
+      "notes_de": "Die Kirche befindet sich auf einem Hügel mit steinernen Treppen. Der Zugang für Menschen mit Behinderungen ist aufgrund der historischen Architektur eingeschränkt."
+    },
+    "uniqueSellingPoints_uk": [
+      "Найкраща оглядова точка на Поділ",
+      "Унікальна робота Бартоломео Растреллі",
+      "Символ Києва та Андріївського узвозу",
+      "Місце легенди про апостола Андрія",
+      "Найкрасивіша барокова церква України"
+    ],
+    "uniqueSellingPoints_en": [
+      "Best viewpoint of Podil",
+      "Unique work by Bartolomeo Rastrelli",
+      "Symbol of Kyiv and Andriyivskyy Descent",
+      "Site of legend about Apostle Andrew",
+      "Most beautiful Baroque church in Ukraine"
+    ],
+    "uniqueSellingPoints_de": [
+      "Bester Aussichtspunkt auf Podil",
+      "Einzigartiges Werk von Bartolomeo Rastrelli",
+      "Symbol von Kiew und dem Andreassteig",
+      "Ort der Legende über den Apostel Andreas",
+      "Schönste Barockkirche der Ukraine"
+    ]
+  },
+
+  "images": {
+    "heroImage": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/%D0%90%D0%BD%D0%B4%D1%80%D1%96%D1%97%D0%B2%D1%81%D1%8C%D0%BA%D0%B0_%D1%86%D0%B5%D1%80%D0%BA%D0%B2%D0%B0_DJI_0176.jpg",
+      "alt_uk": "Андріївська церква з висоти пташиного польоту",
+      "alt_en": "St. Andrew's Church from bird's eye view",
+      "alt_de": "Andreaskirche aus der Vogelperspektive",
+      "caption_uk": "Барокова краса на вершині Андріївського узвозу",
+      "caption_en": "Baroque beauty atop Andriyivskyy Descent",
+      "caption_de": "Barocke Schönheit auf dem Andreassteig"
+    },
+    "gallery": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/St_Andrews_Church%2C_Kiev_2.jpg/1280px-St_Andrews_Church%2C_Kiev_2.jpg",
+        "alt_uk": "Фасад Андріївської церкви",
+        "alt_en": "Facade of St. Andrew's Church",
+        "alt_de": "Fassade der Andreaskirche",
+        "caption_uk": "Багато прикрашений фасад у стилі бароко"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Iconostasis_in_St._Andrew%27s_Church.JPG/1024px-Iconostasis_in_St._Andrew%27s_Church.JPG",
+        "alt_uk": "Іконостас Андріївської церкви",
+        "alt_en": "Iconostasis of St. Andrew's Church",
+        "alt_de": "Ikonostase der Andreaskirche",
+        "caption_uk": "Триярусний іконостас роботи Растреллі"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Central_dome_of_St._Andrew%27s_Church.JPG/1024px-Central_dome_of_St._Andrew%27s_Church.JPG",
+        "alt_uk": "Центральний купол церкви",
+        "alt_en": "Central dome of the church",
+        "alt_de": "Zentrale Kuppel der Kirche",
+        "caption_uk": "Інтер'єр центрального куполу"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Steps_leading_to_St._Andrew%27s_Church.JPG/1024px-Steps_leading_to_St._Andrew%27s_Church.JPG",
+        "alt_uk": "Чавунні сходи до церкви",
+        "alt_en": "Cast iron steps to the church",
+        "alt_de": "Gusseiserne Treppen zur Kirche",
+        "caption_uk": "Історичні чавунні сходи від Андріївського узвозу"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/2019-07-13_St._Andrew%27s_Church%2C_Kyiv%2C_Ukraine_2.jpg/1280px-2019-07-13_St._Andrew%27s_Church%2C_Kyiv%2C_Ukraine_2.jpg",
+        "alt_uk": "Церква вночі",
+        "alt_en": "Church at night",
+        "alt_de": "Kirche bei Nacht",
+        "caption_uk": "Церква у нічному освітленні"
+      }
+    ]
+  },
+
+  "historicalData": {
+    "yearBuilt": "1747-1754",
+    "yearBuiltNote_uk": "Збудована за проектом Бартоломео Растреллі для імператриці Єлизавети Петрівни",
+    "yearBuiltNote_en": "Built to a design by Bartolomeo Rastrelli for Empress Elizabeth Petrovna",
+    "yearBuiltNote_de": "Gebaut nach einem Entwurf von Bartolomeo Rastrelli für Kaiserin Elisabeth Petrowna",
+    "architecturalStyle_uk": "Єлизаветинське бароко, Рококо (інтер'єр)",
+    "architecturalStyle_en": "Elizabethan Baroque, Rococo (interior)",
+    "architecturalStyle_de": "Elisabethanisches Barock, Rokoko (Innenraum)",
+    "architects": [
+      {
+        "name": "Бартоломео Растреллі (Bartolomeo Rastrelli)",
+        "period": "1747-1754",
+        "contribution_uk": "Головний архітектор та дизайнер церкви",
+        "contribution_en": "Chief architect and designer of the church",
+        "contribution_de": "Chefarchitekt und Designer der Kirche"
+      },
+      {
+        "name": "Іван Мічурін (Ivan Michurin)",
+        "period": "1747-1754",
+        "contribution_uk": "Керівник будівництва та інженерних робіт",
+        "contribution_en": "Construction supervisor and engineering work",
+        "contribution_de": "Bauleiter und Ingenieurarbeiten"
+      }
+    ],
+    "unescoStatus": "none",
+    "unescoYear": null,
+    "nationalHeritageStatus": "Immovable Monument of National Significance",
+    "referenceNumber": "260071-H",
+    "managedBy_uk": "Національний заповідник 'Софія Київська'",
+    "managedBy_en": "National Sanctuary 'Sophia of Kyiv'",
+    "managedBy_de": "Nationalheiligtum 'Sophia von Kiew'"
+  },
+
+  "culturalEvents": [
+    {
+      "name_uk": "Нічне освітлення церкви",
+      "name_en": "Night illumination of the church",
+      "name_de": "Nächtliche Beleuchtung der Kirche",
+      "period_uk": "Щодня після заходу сонця",
+      "period_en": "Daily after sunset",
+      "period_de": "Täglich nach Sonnenuntergang",
+      "description_uk": "Церква красиво освітлюється вночі, створюючи магічну атмосферу",
+      "description_en": "The church is beautifully illuminated at night, creating a magical atmosphere",
+      "description_de": "Die Kirche wird nachts schön beleuchtet und schafft eine magische Atmosphäre"
+    },
+    {
+      "name_uk": "Свято Андрія Первозваного",
+      "name_en": "Feast of St. Andrew",
+      "name_de": "Fest des Heiligen Andreas",
+      "period_uk": "13 грудня",
+      "period_en": "December 13",
+      "period_de": "13. Dezember",
+      "description_uk": "День престольного свята церкви",
+      "description_en": "Patronal feast day of the church",
+      "description_de": "Patronatsfest der Kirche"
+    }
+  ],
+
+  "tags": [
+    "church",
+    "baroque",
+    "rastrelli",
+    "kyiv",
+    "andriyivskyy-descent",
+    "museum",
+    "viewpoint",
+    "architecture",
+    "18th-century",
+    "elizabethan-baroque",
+    "podil",
+    "national-monument",
+    "tourist-attraction",
+    "photography"
+  ],
+
+  "suitableFor_uk": [
+    "Любителі архітектури",
+    "Фотографи",
+    "Туристи",
+    "Історики мистецтва",
+    "Прогулянки містом",
+    "Романтичні пари"
+  ],
+  "suitableFor_en": [
+    "Architecture lovers",
+    "Photographers",
+    "Tourists",
+    "Art historians",
+    "City walks",
+    "Romantic couples"
+  ],
+  "suitableFor_de": [
+    "Architekturliebhaber",
+    "Fotografen",
+    "Touristen",
+    "Kunsthistoriker",
+    "Stadtspaziergänge",
+    "Romantische Paare"
+  ],
+
+  "weatherDependent": true,
+  "indoorActivities": true,
+  "outdoorActivities": true,
+
+  "priceRange": "$",
+  "rating": 4.7,
+  "reviewsCount": 3856,
+  "featured": true,
+  "status": "published",
+
+  "metaDescription_uk": "Андріївська церква в Києві — шедевр Растреллі та символ українського бароко. Музей з панорамним видом на Поділ. Квитки: 100 грн. Працює вт-нд 10:00-18:00.",
+  "metaDescription_en": "St. Andrew's Church in Kyiv — Rastrelli's masterpiece and symbol of Ukrainian Baroque. Museum with panoramic view of Podil. Tickets: 100 UAH. Open Tue-Sun 10:00-18:00.",
+  "metaDescription_de": "Andreaskirche in Kiew — Rastrellis Meisterwerk und Symbol des ukrainischen Barocks. Museum mit Panoramablick auf Podil. Tickets: 100 UAH. Geöffnet Di-So 10:00-18:00.",
+
+  "keywords": [
+    "Андріївська церква",
+    "St. Andrew's Church",
+    "Растреллі",
+    "Rastrelli",
+    "Київ",
+    "Kyiv",
+    "бароко",
+    "Baroque",
+    "Андріївський узвіз",
+    "Andriyivskyy Descent",
+    "музей",
+    "museum",
+    "архітектура",
+    "architecture",
+    "Поділ",
+    "Podil"
+  ],
+
+  "lastUpdated": "2025-11-30",
+  "source": "Wikipedia, National Sanctuary Sophia of Kyiv, Tourism Sites",
+  "verified": true
+}

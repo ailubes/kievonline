@@ -1,0 +1,380 @@
+{
+  "id": "lviv-historical-museum",
+  "slug": "lviv-historical-museum",
+
+  "name_uk": "Львівський історичний музей",
+  "name_en": "Lviv Historical Museum",
+  "name_de": "Lemberger Historisches Museum",
+
+  "tagline_uk": "Найбільший історичний музей України з 10 філіями в історичному центрі Львова",
+  "tagline_en": "Ukraine's largest historical museum with 10 branches in Lviv's historic center",
+  "tagline_de": "Größtes historisches Museum der Ukraine mit 10 Filialen im historischen Zentrum von Lemberg",
+
+  "category": "museum",
+  "subcategories": ["history", "art", "archaeology", "weapons", "unesco-heritage"],
+  "region": "Lviv",
+  "oblast": "Lviv Oblast",
+
+  "description_uk": {
+    "short": "Львівський історичний музей — найбільший історичний музей України з унікальною колекцією понад 350 000 експонатів та 10 філіями в пам'ятках архітектури історичного центру Львова.",
+    "full": "Львівський історичний музей є найбільшим історичним музеєм в Україні з унікальною колекцією понад 350 000 експонатів. Музей має 10 філій, розташованих у пам'ятках архітектури історичного центру Львова, що входить до списку Всесвітньої спадщини ЮНЕСКО.\n\nГоловна будівля музею розташована на площі Ринок, 6 — у Кам'яниці Корнякта, видатній пам'ятці архітектури XVI століття. Серед філій музею — Музей-Арсенал, Палаццо Бандінеллі, Музей історії України, Музей визвольної боротьби України, Музей історії науки і техніки, Літературний музей Львів, Музей Романа Шухевича та Музей Євгена Коновальця.\n\nКолекція музею включає археологічні знахідки, нумізматичні збірки, зброю різних епох, твори мистецтва, старовинні меблі, кераміку, тканини, книги та документи. Особливе місце займає колекція зброї в Музеї-Арсеналі — одна з найбагатших в Європі.\n\nМузей регулярно проводить виставки, наукові конференції, освітні програми. Філії музею розташовані в історичних будівлях, що самі по собі є цінними пам'ятками архітектури різних епох.",
+    "history": "Історія музею розпочалася у 1893 році, коли у Львові був створений Міський музей. У 1940 році на його базі створено Львівський історичний музей. Протягом років музей розширювався, створюючи філії в різних історичних будівлях міста.\n\nУ радянський період музей отримав нові приміщення та колекції. Після відновлення незалежності України музей продовжив розвиватися, створюючи нові експозиції та філії, зокрема музеї, присвячені українському визвольному руху.\n\nСьогодні Львівський історичний музей є одним із провідних музейних комплексів України, що зберігає та популяризує історію Львова, Галичини та України.",
+    "significance": "Львівський історичний музей має виключне значення для збереження історичної пам'яті України та Львова. Його колекції відображають багатовікову історію регіону, різноманітність культур та епох.\n\nРозташування філій у історичному центрі Львова, що є об'єктом Всесвітньої спадщини ЮНЕСКО, робить музей невід'ємною частиною культурного ландшафту міста. Кожна філія має свою унікальну тематику та розміщена в архітектурній пам'ятці.\n\nМузей є важливим науково-дослідним центром, що веде роботу з вивчення історії, археології, мистецтвознавства."
+  },
+
+  "description_en": {
+    "short": "The Lviv Historical Museum is Ukraine's largest historical museum with a unique collection of over 350,000 exhibits and 10 branches in architectural monuments of Lviv's historic center.",
+    "full": "The Lviv Historical Museum is the largest historical museum in Ukraine with a unique collection of over 350,000 exhibits. The museum has 10 branches located in architectural monuments of Lviv's historic center, which is part of the UNESCO World Heritage List.\n\nThe museum's main building is located at 6 Rynok Square - in the Korniakt Palace, an outstanding 16th-century architectural monument. The museum's branches include the Arsenal Museum, Palazzo Bandinelli, Museum of Ukrainian History, Museum of Ukraine's Liberation Struggle, Museum of History of Science and Technology, Literary Museum Lviv, Roman Shukhevych Museum, and Yevhen Konovalets Museum.\n\nThe museum's collection includes archaeological finds, numismatic collections, weapons from various epochs, works of art, antique furniture, ceramics, textiles, books and documents. The weapons collection at the Arsenal Museum holds a special place - one of the richest in Europe.\n\nThe museum regularly holds exhibitions, scientific conferences, and educational programs. The museum's branches are located in historic buildings that are themselves valuable architectural monuments from different eras.",
+    "history": "The museum's history began in 1893 when the City Museum was established in Lviv. In 1940, the Lviv Historical Museum was created on its basis. Over the years, the museum expanded, creating branches in various historic buildings of the city.\n\nDuring the Soviet period, the museum received new premises and collections. After Ukraine's independence, the museum continued to develop, creating new exhibitions and branches, particularly museums dedicated to the Ukrainian liberation movement.\n\nToday, the Lviv Historical Museum is one of Ukraine's leading museum complexes, preserving and promoting the history of Lviv, Galicia, and Ukraine.",
+    "significance": "The Lviv Historical Museum has exceptional significance for preserving the historical memory of Ukraine and Lviv. Its collections reflect the centuries-old history of the region, the diversity of cultures and epochs.\n\nThe location of branches in Lviv's historic center, which is a UNESCO World Heritage site, makes the museum an integral part of the city's cultural landscape. Each branch has its unique theme and is housed in an architectural monument.\n\nThe museum is an important research center conducting work in history, archaeology, and art history."
+  },
+
+  "description_de": {
+    "short": "Das Lemberger Historische Museum ist das größte historische Museum der Ukraine mit einer einzigartigen Sammlung von über 350.000 Exponaten und 10 Filialen in Architekturdenkmälern des historischen Zentrums von Lemberg.",
+    "full": "Das Lemberger Historische Museum ist das größte historische Museum in der Ukraine mit einer einzigartigen Sammlung von über 350.000 Exponaten. Das Museum hat 10 Filialen, die sich in Architekturdenkmälern des historischen Zentrums von Lemberg befinden, das Teil des UNESCO-Weltkulturerbes ist.\n\nDas Hauptgebäude des Museums befindet sich am Rynok-Platz 6 - im Korniakt-Palast, einem herausragenden Architekturdenkmal aus dem 16. Jahrhundert. Zu den Filialen des Museums gehören das Arsenal-Museum, der Palazzo Bandinelli, das Museum der ukrainischen Geschichte und andere.\n\nDie Sammlung des Museums umfasst archäologische Funde, numismatische Sammlungen, Waffen aus verschiedenen Epochen, Kunstwerke, antike Möbel, Keramik, Textilien, Bücher und Dokumente.",
+    "history": "Die Geschichte des Museums begann 1893, als in Lemberg das Stadtmuseum gegründet wurde. 1940 wurde auf seiner Grundlage das Lemberger Historische Museum geschaffen.\n\nHeute ist das Lemberger Historische Museum einer der führenden Museumskomplexe der Ukraine.",
+    "significance": "Das Lemberger Historische Museum hat außergewöhnliche Bedeutung für die Bewahrung des historischen Gedächtnisses der Ukraine und Lembergs. Seine Sammlungen spiegeln die jahrhundertealte Geschichte der Region wider."
+  },
+
+  "location": {
+    "city": "Lviv",
+    "region": "Lviv Oblast",
+    "address_uk": "площа Ринок, 6, Львів, 79008",
+    "address_en": "6 Rynok Square, Lviv, 79008",
+    "address_de": "Rynok-Platz 6, Lemberg, 79008",
+    "coordinates": {
+      "latitude": 49.8414,
+      "longitude": 24.0315
+    },
+    "directions_uk": {
+      "general": "Розташований у самому серці історичного центру Львова на площі Ринок",
+      "publicTransport": "Трамваї 1, 6, 7 до зупинки 'Площа Ринок'. Автобуси 3A, 24 до центру міста",
+      "car": "З вокзалу — 3 км (10 хвилин). Парковка обмежена в історичному центрі",
+      "parking": "Платні підземні паркінги на площі Ринок, вуличні парковки з обмеженням часу"
+    },
+    "directions_en": {
+      "general": "Located in the very heart of Lviv's historic center on Rynok Square",
+      "publicTransport": "Trams 1, 6, 7 to 'Rynok Square' stop. Buses 3A, 24 to city center",
+      "car": "From railway station - 3 km (10 minutes). Limited parking in historic center",
+      "parking": "Paid underground parking at Rynok Square, street parking with time limits"
+    },
+    "directions_de": {
+      "general": "Im Herzen des historischen Zentrums von Lemberg am Rynok-Platz gelegen",
+      "publicTransport": "Straßenbahnen 1, 6, 7 zur Haltestelle 'Rynok-Platz'. Busse 3A, 24 zum Stadtzentrum",
+      "car": "Vom Bahnhof - 3 km (10 Minuten). Begrenzte Parkplätze im historischen Zentrum",
+      "parking": "Bezahlte Tiefgaragen am Rynok-Platz, Straßenparkplätze mit Zeitlimit"
+    },
+    "nearbyAttractions": [
+      {
+        "name_uk": "Ратуша Львова",
+        "name_en": "Lviv City Hall",
+        "distance": "0.1 km",
+        "type": "historic-building"
+      },
+      {
+        "name_uk": "Латинський кафедральний собор",
+        "name_en": "Latin Cathedral",
+        "distance": "0.2 km",
+        "type": "church"
+      },
+      {
+        "name_uk": "Оперний театр",
+        "name_en": "Opera House",
+        "distance": "0.8 km",
+        "type": "theater"
+      }
+    ]
+  },
+
+  "contact": {
+    "phone": "+380 32 297 87 47",
+    "email": "info@lhm.lviv.ua",
+    "website": "https://lhm.lviv.ua/",
+    "bookingUrl": null,
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/lvivhistoricalmuseum",
+      "instagram": "https://www.instagram.com/lviv.historical.museum/",
+      "twitter": "https://twitter.com/LvivHistMUSEUM",
+      "youtube": "https://www.youtube.com/channel/UCtJgn4XnohqcK1wmEAkNhMA"
+    }
+  },
+
+  "visitingInformation": {
+    "openingTimes": {
+      "status_uk": "Відкрито цілий рік",
+      "status_en": "Open year-round",
+      "status_de": "Ganzjährig geöffnet",
+      "seasonal": [
+        {
+          "season_uk": "Цілий рік",
+          "season_en": "Year-round",
+          "season_de": "Ganzjährig",
+          "days_uk": "Вівторок - Неділя",
+          "days_en": "Tuesday - Sunday",
+          "days_de": "Dienstag - Sonntag",
+          "hours": "10:00 - 17:30",
+          "lastAdmission": "17:00"
+        }
+      ]
+    },
+    "admissionPrices": {
+      "currency": "UAH",
+      "adult": 70,
+      "student": 35,
+      "child": 20,
+      "senior": 35,
+      "family": null,
+      "notes_uk": "Діти до 7 років - безкоштовно. Ціни відрізняються для різних філій. Фото/відео - 30-50 грн додатково",
+      "notes_en": "Children under 7 - free. Prices vary for different branches. Photo/video - additional 30-50 UAH",
+      "notes_de": "Kinder unter 7 Jahren - kostenlos. Preise variieren für verschiedene Filialen. Foto/Video - zusätzlich 30-50 UAH"
+    },
+    "tourOptions": [
+      {
+        "type_uk": "Самостійний огляд",
+        "type_en": "Self-guided tour",
+        "type_de": "Selbstgeführte Tour",
+        "duration_uk": "1-2 години",
+        "duration_en": "1-2 hours",
+        "duration_de": "1-2 Stunden",
+        "price": 0
+      },
+      {
+        "type_uk": "Екскурсія з гідом",
+        "type_en": "Guided tour",
+        "type_de": "Führung",
+        "duration_uk": "1 година",
+        "duration_en": "1 hour",
+        "duration_de": "1 Stunde",
+        "price": 300,
+        "groupSize": "до 20 осіб / up to 20 people / bis 20 Personen"
+      }
+    ],
+    "averageVisitDuration_uk": "2-3 години (для всіх філій - цілий день)",
+    "averageVisitDuration_en": "2-3 hours (for all branches - full day)",
+    "averageVisitDuration_de": "2-3 Stunden (für alle Filialen - ganzer Tag)",
+    "busyPeriods_uk": ["Вихідні дні", "Літо (червень-серпень)", "Свята"],
+    "busyPeriods_en": ["Weekends", "Summer (June-August)", "Holidays"],
+    "busyPeriods_de": ["Wochenenden", "Sommer (Juni-August)", "Feiertage"],
+    "adviceForVisitors_uk": "Рекомендуємо відвідати декілька філій для повного розуміння історії Львова. Візьміть зручне взуття для прогулянок історичним центром. Кам'яниця Корнякта та Італійський дворик особливо гарні.",
+    "adviceForVisitors_en": "We recommend visiting several branches for a complete understanding of Lviv's history. Wear comfortable shoes for walking through the historic center. Korniakt Palace and Italian Courtyard are particularly beautiful.",
+    "adviceForVisitors_de": "Wir empfehlen, mehrere Filialen zu besuchen, um die Geschichte Lembergs vollständig zu verstehen. Tragen Sie bequeme Schuhe für Spaziergänge durch das historische Zentrum. Der Korniakt-Palast und der italienische Hof sind besonders schön."
+  },
+
+  "features": {
+    "highlights_uk": [
+      "10 філій у історичних будівлях центру Львова",
+      "Понад 350 000 експонатів",
+      "Найбагатша колекція зброї в Україні (Музей-Арсенал)",
+      "Кам'яниця Корнякта XVI століття",
+      "Італійський дворик епохи Ренесансу",
+      "Музей визвольної боротьби України",
+      "Експозиції від давнини до сучасності",
+      "Розташування в центрі ЮНЕСКО"
+    ],
+    "highlights_en": [
+      "10 branches in historic buildings of Lviv center",
+      "Over 350,000 exhibits",
+      "Richest weapons collection in Ukraine (Arsenal Museum)",
+      "16th-century Korniakt Palace",
+      "Renaissance Italian Courtyard",
+      "Museum of Ukraine's Liberation Struggle",
+      "Exhibitions from antiquity to present",
+      "Location in UNESCO center"
+    ],
+    "highlights_de": [
+      "10 Filialen in historischen Gebäuden des Lemberger Zentrums",
+      "Über 350.000 Exponate",
+      "Reichste Waffensammlung in der Ukraine (Arsenal-Museum)",
+      "Korniakt-Palast aus dem 16. Jahrhundert",
+      "Renaissance-Italienischer Hof",
+      "Museum des Befreiungskampfes der Ukraine",
+      "Ausstellungen von der Antike bis zur Gegenwart",
+      "Lage im UNESCO-Zentrum"
+    ],
+    "facilities_uk": ["Музейні зали", "Італійський дворик", "Сувенірні крамниці", "Кафе", "Туалети"],
+    "facilities_en": ["Museum halls", "Italian Courtyard", "Gift shops", "Cafe", "Toilets"],
+    "facilities_de": ["Museumssäle", "Italienischer Hof", "Souvenirläden", "Café", "Toiletten"],
+    "accessibility": {
+      "wheelchairAccessible": false,
+      "notes_uk": "Більшість філій розташовані в історичних будівлях з обмеженим доступом для інвалідних візків. Деякі зали доступні.",
+      "notes_en": "Most branches are located in historic buildings with limited wheelchair access. Some halls are accessible.",
+      "notes_de": "Die meisten Filialen befinden sich in historischen Gebäuden mit eingeschränktem Rollstuhlzugang. Einige Säle sind zugänglich."
+    },
+    "uniqueSellingPoints_uk": [
+      "Найбільший історичний музей України",
+      "10 філій в історичному центрі ЮНЕСКО",
+      "Унікальна колекція середньовічної зброї",
+      "Розташування в архітектурних пам'ятках",
+      "Повна історія Львова від заснування до сьогодення"
+    ],
+    "uniqueSellingPoints_en": [
+      "Ukraine's largest historical museum",
+      "10 branches in UNESCO historic center",
+      "Unique medieval weapons collection",
+      "Location in architectural monuments",
+      "Complete history of Lviv from foundation to present"
+    ],
+    "uniqueSellingPoints_de": [
+      "Größtes historisches Museum der Ukraine",
+      "10 Filialen im UNESCO-Zentrum",
+      "Einzigartige mittelalterliche Waffensammlung",
+      "Lage in Architekturdenkmälern",
+      "Vollständige Geschichte Lembergs von der Gründung bis heute"
+    ]
+  },
+
+  "images": {
+    "heroImage": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Lviv_-_Rynok_square_06.jpg/1200px-Lviv_-_Rynok_square_06.jpg",
+      "alt_uk": "Львівський історичний музей на площі Ринок",
+      "alt_en": "Lviv Historical Museum on Rynok Square",
+      "alt_de": "Lemberger Historisches Museum am Rynok-Platz",
+      "caption_uk": "Головна будівля музею — Кам'яниця Корнякта на площі Ринок",
+      "caption_en": "Main museum building - Korniakt Palace on Rynok Square",
+      "caption_de": "Hauptgebäude des Museums - Korniakt-Palast am Rynok-Platz"
+    },
+    "gallery": [
+      {
+        "url": "https://lhm.lviv.ua/images/italian-courtyard.jpg",
+        "alt_uk": "Італійський дворик Кам'яниці Корнякта",
+        "alt_en": "Italian Courtyard of Korniakt Palace",
+        "alt_de": "Italienischer Hof des Korniakt-Palasts",
+        "caption_uk": "Знаменитий Італійський дворик епохи Ренесансу"
+      },
+      {
+        "url": "https://lhm.lviv.ua/images/arsenal-museum.jpg",
+        "alt_uk": "Музей-Арсенал",
+        "alt_en": "Arsenal Museum",
+        "alt_de": "Arsenal-Museum",
+        "caption_uk": "Експозиція середньовічної зброї у Музеї-Арсеналі"
+      },
+      {
+        "url": "https://lhm.lviv.ua/images/exhibition-hall.jpg",
+        "alt_uk": "Виставковий зал музею",
+        "alt_en": "Museum exhibition hall",
+        "alt_de": "Museumsausstellungssaal",
+        "caption_uk": "Один із виставкових залів історичного музею"
+      }
+    ]
+  },
+
+  "historicalData": {
+    "yearBuilt": "1893",
+    "yearBuiltNote_uk": "Міський музей заснований у 1893 році, Львівський історичний музей створений у 1940 році",
+    "yearBuiltNote_en": "City Museum founded in 1893, Lviv Historical Museum created in 1940",
+    "yearBuiltNote_de": "Stadtmuseum 1893 gegründet, Lemberger Historisches Museum 1940 gegründet",
+    "architecturalStyle_uk": "Ренесанс, бароко, готика (різні філії)",
+    "architecturalStyle_en": "Renaissance, Baroque, Gothic (various branches)",
+    "architecturalStyle_de": "Renaissance, Barock, Gotik (verschiedene Filialen)",
+    "architects": [],
+    "unescoStatus": "inscribed",
+    "unescoYear": 1998,
+    "nationalHeritageStatus": "National Museum of Ukraine",
+    "referenceNumber": "LHM-1893",
+    "managedBy_uk": "Міністерство культури та інформаційної політики України",
+    "managedBy_en": "Ministry of Culture and Information Policy of Ukraine",
+    "managedBy_de": "Ministerium für Kultur und Informationspolitik der Ukraine"
+  },
+
+  "culturalEvents": [
+    {
+      "name_uk": "Ніч музеїв",
+      "name_en": "Museum Night",
+      "name_de": "Museumsnacht",
+      "period_uk": "Травень (щорічно)",
+      "period_en": "May (annually)",
+      "period_de": "Mai (jährlich)",
+      "description_uk": "Міжнародна акція з безкоштовним відвідуванням та спеціальними програмами",
+      "description_en": "International event with free admission and special programs",
+      "description_de": "Internationale Veranstaltung mit freiem Eintritt und Sonderprogrammen"
+    },
+    {
+      "name_uk": "Тимчасові виставки",
+      "name_en": "Temporary Exhibitions",
+      "name_de": "Temporäre Ausstellungen",
+      "period_uk": "Протягом року",
+      "period_en": "Throughout the year",
+      "period_de": "Das ganze Jahr über",
+      "description_uk": "Регулярні виставки присвячені історії Львова та України",
+      "description_en": "Regular exhibitions dedicated to the history of Lviv and Ukraine",
+      "description_de": "Regelmäßige Ausstellungen zur Geschichte Lembergs und der Ukraine"
+    }
+  ],
+
+  "tags": [
+    "museum",
+    "history",
+    "lviv",
+    "unesco",
+    "architecture",
+    "weapons",
+    "art",
+    "archaeology",
+    "medieval",
+    "renaissance",
+    "korniakt-palace",
+    "arsenal",
+    "liberation-struggle",
+    "cultural-heritage"
+  ],
+
+  "suitableFor_uk": [
+    "Любителі історії",
+    "Туристи",
+    "Студенти та школярі",
+    "Науковці",
+    "Сімейні подорожі",
+    "Поціновувачі архітектури"
+  ],
+  "suitableFor_en": [
+    "History enthusiasts",
+    "Tourists",
+    "Students and schoolchildren",
+    "Scientists",
+    "Family travel",
+    "Architecture lovers"
+  ],
+  "suitableFor_de": [
+    "Geschichtsinteressierte",
+    "Touristen",
+    "Studenten und Schüler",
+    "Wissenschaftler",
+    "Familienreisen",
+    "Architekturliebhaber"
+  ],
+
+  "weatherDependent": false,
+  "indoorActivities": true,
+  "outdoorActivities": false,
+
+  "priceRange": "$$",
+  "rating": 4.6,
+  "reviewsCount": 1923,
+  "featured": true,
+  "status": "published",
+
+  "metaDescription_uk": "Львівський історичний музей - найбільший історичний музей України з 10 філіями в центрі ЮНЕСКО. Понад 350 000 експонатів. Кам'яниця Корнякта. Музей-Арсенал.",
+  "metaDescription_en": "Lviv Historical Museum - Ukraine's largest historical museum with 10 branches in UNESCO center. Over 350,000 exhibits. Korniakt Palace. Arsenal Museum.",
+  "metaDescription_de": "Lemberger Historisches Museum - größtes historisches Museum der Ukraine mit 10 Filialen im UNESCO-Zentrum. Über 350.000 Exponate. Korniakt-Palast. Arsenal-Museum.",
+
+  "keywords": [
+    "Львівський історичний музей",
+    "Lviv Historical Museum",
+    "Львів",
+    "Lviv",
+    "музей",
+    "museum",
+    "історія",
+    "history",
+    "ЮНЕСКО",
+    "UNESCO",
+    "Кам'яниця Корнякта",
+    "Korniakt Palace",
+    "Арсенал",
+    "Arsenal"
+  ],
+
+  "lastUpdated": "2025-11-30",
+  "source": "Official website lhm.lviv.ua, Wikipedia, UNESCO",
+  "verified": true
+}

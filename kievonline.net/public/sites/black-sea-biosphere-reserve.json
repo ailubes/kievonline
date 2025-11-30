@@ -1,0 +1,371 @@
+{
+  "id": "black-sea-biosphere-reserve",
+  "slug": "black-sea-biosphere-reserve",
+
+  "name_uk": "Чорноморський біосферний заповідник",
+  "name_en": "Black Sea Biosphere Reserve",
+  "name_de": "Schwarzmeer-Biosphärenreservat",
+
+  "tagline_uk": "Унікальне прибережне водно-болотне угіддя з найбільшою популяцією водоплавних птахів у Північному Причорномор'ї",
+  "tagline_en": "Unique coastal wetland with the largest waterfowl population in the Northern Black Sea region",
+  "tagline_de": "Einzigartiges Küstenfeuchtgebiet mit der größten Wasservogelpopulation in der nördlichen Schwarzmeerregion",
+
+  "category": "park",
+  "subcategories": ["biosphere-reserve", "unesco-site", "wetlands", "ramsar-site", "coastal-ecosystem"],
+  "region": "Hola Prystan",
+  "oblast": "Kherson Oblast and Mykolaiv Oblast",
+
+  "description_uk": {
+    "short": "Чорноморський біосферний заповідник — одна з найцінніших природоохоронних територій України, розташована в прибережній зоні Чорного моря. Заповідник охоплює унікальні водно-болотні угіддя, включаючи затоку Тендра та Ягорлицьку затоку, і є домівкою для сотень видів водоплавних птахів.",
+    "full": "Чорноморський біосферний заповідник був створений у 1984 році на базі Чорноморського державного заповідника (заснованого у 1927 році) і займає площу понад 89 000 гектарів у Херсонській та Миколаївській областях. Це одна з найбільших природоохоронних територій України в прибережній зоні Чорного моря.\n\nЗаповідник включає кілька відокремлених ділянок:\n\n1. **Затока Тендра** — довгий піщаний півострів, що відділяє мілководну затоку від моря. Унікальна екосистема солончаків, піщаних дюн та прибережних вод.\n\n2. **Ягорлицька затока** — мілководна затока з багатою орнітофауною. Один з найважливіших пунктів зупинки перелітних птахів на африкансько-європейському міграційному шляху.\n\n3. **Острови Потієвського і Тендрівського заповідних урочищ** — численні невеликі острови, що є місцями гніздування колоніальних птахів.\n\n4. **Солоноозерна ділянка** — система солоних озер та степових ділянок на лівобережжі Дніпра.\n\nУ грудні 1984 року заповідник був включений до Всесвітньої мережі біосферних резерватів ЮНЕСКО. Територія заповідника також включена до міжнародного переліку водно-болотних угідь міжнародного значення (Рамсарська конвенція).\n\nЗаповідник характеризується виняткowym біорізноманіттям. Фауна включає близько 3500 видів, серед яких найбільш різноманітні комахи (понад 2200 видів), павукоподібні (168 видів) та молюски (65 видів). Хребетні представлені 462 видами, включаючи 304 види птахів, що становить близько 70% всіх видів птахів, зареєстрованих в Україні.\n\nСеред найцінніших видів: рожевий і кучерявий пелікани, коса каравайка, колпиця, чапля руда, лебідь-шипун, орлан-білохвіст та багато інших. Весною та восени тут зупиняються сотні тисяч водоплавних птахів під час міграції.\n\nМорська фауна представлена 83 видами риб, що становить близько 50% видового складу іхтіофауни Чорного моря. У морських водах заповідника зустрічаються три види дельфінів: афаліна, азово-чорноморська морська свиня (пухирець) та дельфін-білобічка.\n\nРослинний світ включає понад 800 видів судинних рослин, багато з яких адаптовані до засолених ґрунтів.",
+    "history": "Історія природоохоронної діяльності на цій території розпочалася 14 липня 1927 року, коли постановою №172 Ради Народних Комісарів УРСР було створено Чорноморський державний заповідник як частину Трансмаритимського заповідника. У 1933 році заповідник став самостійною науково-дослідною установою.\n\nУ 1973 році до Чорноморського заповідника були приєднані Дунайські плавні, Кінські острови в Ягорлицькій затоці та мілководна частина затоки Тендра. Наступного року приєднано сусідній Ягорлицький заповідник.\n\nУ 1981 році Дунайські плавні стали окремим заповідником (нині Дунайський біосферний заповідник). У 1983 році було створено Чорноморський біосферний заповідник, до складу якого увійшли Чорноморський державний заповідник та Ягорлицький державний орнітологічний заповідник (як його буферна зона).\n\nУ грудні 1984 року заповідник був прийнятий до Всесвітньої мережі біосферних резерватів ЮНЕСКО, що підтвердило його міжнародне значення для збереження біорізноманіття.\n\nУ березні 2022 року під час російського вторгнення в Україну заповідник зазнав пошкоджень від бойових дій, які спричинили кілька пожеж на території. Незважаючи на це, наукова та природоохоронна робота продовжується.",
+    "significance": "Чорноморський біосферний заповідник має виняткове значення для збереження водно-болотних екосистем Північного Причорномор'я. Це одна з ключових територій на африкансько-європейському міграційному шляху птахів, де щороку зупиняються та гніздяться мільйони водоплавних птахів.\n\nЗаповідник відіграє критичну роль у збереженні популяцій рідкісних та зникаючих видів птахів, включаючи види, занесені до Червоної книги України та міжнародних червоних списків. Понад 40 видів птахів, що гніздяться в заповіднику, мають природоохоронний статус.\n\nЯк біосферний резерват ЮНЕСКО, заповідник служить еталонною територією для моніторингу змін прибережних та морських екосистем Чорного моря. Наукові дослідження, що проводяться тут, мають важливе значення для розуміння екологічних процесів у водно-болотних угіддях та розробки стратегій їх збереження.\n\nЗаповідник також є важливим центром екологічної освіти та виховання, проводячи численні освітні програми для школярів та студентів."
+  },
+
+  "description_en": {
+    "short": "Black Sea Biosphere Reserve is one of Ukraine's most valuable protected areas, located in the Black Sea coastal zone. The reserve encompasses unique wetlands, including Tendra Bay and Yahorlyk Bay, and is home to hundreds of waterfowl species.",
+    "full": "Black Sea Biosphere Reserve was established in 1984 based on the Black Sea State Reserve (founded in 1927) and covers an area of over 89,000 hectares in Kherson and Mykolaiv Oblasts. It is one of Ukraine's largest protected areas in the Black Sea coastal zone.\n\nThe reserve includes several separated sections:\n\n1. **Tendra Bay** — a long sandy peninsula separating a shallow bay from the sea. Unique ecosystem of salt marshes, sand dunes, and coastal waters.\n\n2. **Yahorlyk Bay** — a shallow bay with rich avifauna. One of the most important stopover points for migratory birds on the African-European migration route.\n\n3. **Islands of Potiivsky and Tendriv  sky protected areas** — numerous small islands that are nesting sites for colonial birds.\n\n4. **Solonoozerna section** — a system of salt lakes and steppe sections on the left bank of the Dnipro.\n\nIn December 1984, the reserve was included in the UNESCO World Network of Biosphere Reserves. The reserve's territory is also included in the international list of Wetlands of International Importance (Ramsar Convention).\n\nThe reserve is characterized by exceptional biodiversity. Fauna includes about 3,500 species, among which insects are the most diverse (over 2,200 species), arachnids (168 species), and mollusks (65 species). Vertebrates are represented by 462 species, including 304 bird species, which is about 70% of all bird species recorded in Ukraine.\n\nAmong the most valuable species: Dalmatian and great white pelicans, glossy ibis, spoonbill, purple heron, mute swan, white-tailed eagle, and many others. In spring and autumn, hundreds of thousands of waterfowl stop here during migration.\n\nMarine fauna is represented by 83 fish species, which is about 50% of the Black Sea fish fauna composition. Three dolphin species occur in the reserve's marine waters: bottlenose dolphin, harbor porpoise, and short-beaked common dolphin.\n\nFlora includes over 800 species of vascular plants, many of which are adapted to saline soils.",
+    "history": "The history of conservation activities in this territory began on July 14, 1927, when Resolution No. 172 of the Council of People's Commissars of the Ukrainian SSR established the Black Sea State Reserve as part of the Trans-Maritime Reserve. In 1933, the reserve became an independent research institution.\n\nIn 1973, the Danube floodplains, Kinski islands in Yahorlyk Bay, and the shallow part of Tendra Bay were added to the Black Sea Reserve. The following year, the neighboring Yahorlyk Reserve was annexed.\n\nIn 1981, the Danube floodplains became a separate reserve (now the Danube Biosphere Reserve). In 1983, the Black Sea Biosphere Reserve was established, comprising the Black Sea State Reserve and the Yahorlyk State Ornithological Reserve (as its buffer zone).\n\nIn December 1984, the reserve was accepted into the UNESCO World Network of Biosphere Reserves, confirming its international importance for biodiversity conservation.\n\nIn March 2022, during the Russian invasion of Ukraine, the reserve was damaged by fighting, which caused several fires in the area. Despite this, scientific and conservation work continues.",
+    "significance": "Black Sea Biosphere Reserve is of exceptional importance for preserving wetland ecosystems of the Northern Black Sea region. It is one of the key territories on the African-European bird migration route, where millions of waterfowl stop and nest annually.\n\nThe reserve plays a critical role in preserving populations of rare and endangered bird species, including species listed in the Red Book of Ukraine and international red lists. Over 40 bird species nesting in the reserve have conservation status.\n\nAs a UNESCO biosphere reserve, it serves as a reference territory for monitoring changes in Black Sea coastal and marine ecosystems. Scientific research conducted here is important for understanding ecological processes in wetlands and developing conservation strategies.\n\nThe reserve is also an important center for environmental education, conducting numerous educational programs for schoolchildren and students."
+  },
+
+  "description_de": {
+    "short": "Das Schwarzmeer-Biosphärenreservat ist eines der wertvollsten Schutzgebiete der Ukraine in der Küstenzone des Schwarzen Meeres. Das Reservat umfasst einzigartige Feuchtgebiete, einschließlich der Tendra-Bucht und der Yahorlyk-Bucht, und beherbergt Hunderte von Wasservogelarten.",
+    "full": "Das Schwarzmeer-Biosphärenreservat wurde 1984 auf der Grundlage des Schwarzmeer-Staatsreservats (gegründet 1927) gegründet und umfasst eine Fläche von über 89.000 Hektar in den Oblasten Cherson und Mykolajiw. Es ist eines der größten Schutzgebiete der Ukraine in der Küstenzone des Schwarzen Meeres.",
+    "history": "Die Geschichte der Naturschutzaktivitäten in diesem Gebiet begann am 14. Juli 1927, als durch Resolution Nr. 172 des Rates der Volkskommissare der Ukrainischen SSR das Schwarzmeer-Staatsreservat als Teil des Trans-Maritimen Reservats gegründet wurde.",
+    "significance": "Das Schwarzmeer-Biosphärenreservat ist von außerordentlicher Bedeutung für die Erhaltung der Feuchtgebietsökosysteme der nördlichen Schwarzmeerregion. Es ist eines der Schlüsselgebiete auf der afrikanisch-europäischen Vogelzugroute."
+  },
+
+  "location": {
+    "city": "Hola Prystan",
+    "region": "Kherson Oblast and Mykolaiv Oblast",
+    "address_uk": "смт Гола Пристань, Скадовський район, Херсонська область, 75600",
+    "address_en": "Hola Prystan, Skadovsk Raion, Kherson Oblast, 75600",
+    "address_de": "Hola Prystan, Bezirk Skadowsk, Oblast Cherson, 75600",
+    "coordinates": {
+      "latitude": 46.25,
+      "longitude": 31.8667
+    },
+    "directions_uk": {
+      "general": "Розташований у прибережній зоні Чорного моря в Херсонській та Миколаївській областях",
+      "publicTransport": "Автобус з Херсона або Миколаєва до смт Гола Пристань",
+      "car": "З Києва — 610 км через Дніпро та Каховку. З Херсона — 90 км",
+      "parking": "Парковки біля адміністрації заповідника"
+    },
+    "directions_en": {
+      "general": "Located in the Black Sea coastal zone in Kherson and Mykolaiv Oblasts",
+      "publicTransport": "Bus from Kherson or Mykolaiv to Hola Prystan town",
+      "car": "From Kyiv — 610 km via Dnipro and Kakhovka. From Kherson — 90 km",
+      "parking": "Parking near reserve administration"
+    },
+    "directions_de": {
+      "general": "In der Küstenzone des Schwarzen Meeres in den Oblasten Cherson und Mykolajiw gelegen",
+      "publicTransport": "Bus von Cherson oder Mykolajiw nach Hola Prystan",
+      "car": "Von Kiew — 610 km über Dnipro und Kachowka. Von Cherson — 90 km",
+      "parking": "Parkplätze in der Nähe der Reservatsverwaltung"
+    },
+    "nearbyAttractions": [
+      {
+        "name_uk": "Дунайський біосферний заповідник",
+        "name_en": "Danube Biosphere Reserve",
+        "distance": "220 km",
+        "type": "biosphere-reserve"
+      },
+      {
+        "name_uk": "Біосферний заповідник Асканія-Нова",
+        "name_en": "Askania-Nova Biosphere Reserve",
+        "distance": "180 km",
+        "type": "biosphere-reserve"
+      }
+    ]
+  },
+
+  "contact": {
+    "phone": "+380 5543 93355",
+    "email": "bsbr@bsbr.org.ua",
+    "website": "http://bsbr.org.ua/",
+    "bookingUrl": null,
+    "socialMedia": {
+      "facebook": null,
+      "instagram": null,
+      "youtube": null,
+      "twitter": null
+    }
+  },
+
+  "visitingInformation": {
+    "openingTimes": {
+      "status_uk": "Обмежене відвідування через воєнний стан",
+      "status_en": "Limited visiting due to martial law",
+      "status_de": "Eingeschränkte Besichtigung aufgrund des Kriegsrechts",
+      "seasonal": [
+        {
+          "season_uk": "Квітень - Жовтень",
+          "season_en": "April - October",
+          "season_de": "April - Oktober",
+          "days_uk": "За попереднім узгодженням",
+          "days_en": "By prior arrangement",
+          "days_de": "Nach Voranmeldung",
+          "hours": "09:00 - 17:00",
+          "lastAdmission": "16:00"
+        }
+      ]
+    },
+    "admissionPrices": {
+      "currency": "UAH",
+      "adult": 40,
+      "student": 20,
+      "child": 20,
+      "senior": 20,
+      "family": null,
+      "notes_uk": "Відвідування лише з супроводом працівників заповідника",
+      "notes_en": "Visits only with reserve staff accompaniment",
+      "notes_de": "Besuche nur in Begleitung von Reservatsmitarbeitern"
+    },
+    "tourOptions": [
+      {
+        "type_uk": "Орнітологічна екскурсія",
+        "type_en": "Ornithological tour",
+        "type_de": "Ornithologische Tour",
+        "duration_uk": "3-4 години",
+        "duration_en": "3-4 hours",
+        "duration_de": "3-4 Stunden",
+        "price": 300
+      }
+    ],
+    "averageVisitDuration_uk": "4-5 годин",
+    "averageVisitDuration_en": "4-5 hours",
+    "averageVisitDuration_de": "4-5 Stunden",
+    "busyPeriods_uk": ["Весна (квітень-травень) — міграція птахів", "Осінь (вересень-жовтень) — міграція птахів"],
+    "busyPeriods_en": ["Spring (April-May) — bird migration", "Autumn (September-October) — bird migration"],
+    "busyPeriods_de": ["Frühling (April-Mai) — Vogelzug", "Herbst (September-Oktober) — Vogelzug"],
+    "adviceForVisitors_uk": "Візьміть бінокль для спостереження за птахами. Найкращий час для відвідування — весна та осінь під час міграцій птахів. Обов'язково попередньо узгоджуйте візит з адміністрацією. Візьміть сонцезахисний крем та капелюх — тут мало тіні.",
+    "adviceForVisitors_en": "Bring binoculars for bird watching. The best time to visit is spring and autumn during bird migrations. Be sure to arrange your visit with administration in advance. Bring sunscreen and a hat — there's little shade here.",
+    "adviceForVisitors_de": "Bringen Sie ein Fernglas zur Vogelbeobachtung mit. Die beste Besuchszeit ist Frühling und Herbst während des Vogelzugs. Vereinbaren Sie Ihren Besuch unbedingt im Voraus mit der Verwaltung. Bringen Sie Sonnencreme und einen Hut mit — es gibt hier wenig Schatten."
+  },
+
+  "features": {
+    "highlights_uk": [
+      "Біосферний резерват UNESCO (з 1984 року)",
+      "Рамсарське угіддя міжнародного значення",
+      "304 види птахів (70% птахів України)",
+      "Найбільша колонія пелік анів у регіоні",
+      "Ключова точка на африкансько-європейському міграційному шляху",
+      "89 000 гектарів водно-болотних угідь",
+      "3 види дельфінів у морських водах",
+      "83 види риб",
+      "Понад 40 видів птахів під охороною"
+    ],
+    "highlights_en": [
+      "UNESCO Biosphere Reserve (since 1984)",
+      "Ramsar Wetland of International Importance",
+      "304 bird species (70% of Ukraine's birds)",
+      "Largest pelican colony in the region",
+      "Key point on African-European migration route",
+      "89,000 hectares of wetlands",
+      "3 dolphin species in marine waters",
+      "83 fish species",
+      "Over 40 protected bird species"
+    ],
+    "highlights_de": [
+      "UNESCO-Biosphärenreservat (seit 1984)",
+      "Ramsar-Feuchtgebiet von internationaler Bedeutung",
+      "304 Vogelarten (70% der Vögel der Ukraine)",
+      "Größte Pelikankolonie in der Region",
+      "Schlüsselpunkt auf der afrikanisch-europäischen Zugroute",
+      "89.000 Hektar Feuchtgebiete",
+      "3 Delfinarten in Meeresgewässern",
+      "83 Fischarten",
+      "Über 40 geschützte Vogelarten"
+    ],
+    "facilities_uk": ["Науковий центр", "Оглядові вежі для спостереження за птахами", "Музей природи"],
+    "facilities_en": ["Research center", "Observation towers for bird watching", "Nature museum"],
+    "facilities_de": ["Forschungszentrum", "Beobachtungstürme zur Vogelbeobachtung", "Naturmuseum"],
+    "accessibility": {
+      "wheelchairAccessible": false,
+      "notes_uk": "Територія важкодоступна для інвалідних візків через природний рельєф та водно-болотні угіддя.",
+      "notes_en": "Territory is difficult to access for wheelchairs due to natural terrain and wetlands.",
+      "notes_de": "Das Gelände ist für Rollstühle aufgrund des natürlichen Geländes und der Feuchtgebiete schwer zugänglich."
+    },
+    "uniqueSellingPoints_uk": [
+      "Найбільша в Україні популяція водоплавних птахів",
+      "Ключова територія на міжнародному міграційному шляху",
+      "Унікальна прибережна екосистема Чорного моря",
+      "Біосферний резерват UNESCO та Рамсарське угіддя",
+      "70% видів птахів України"
+    ],
+    "uniqueSellingPoints_en": [
+      "Largest waterfowl population in Ukraine",
+      "Key territory on international migration route",
+      "Unique Black Sea coastal ecosystem",
+      "UNESCO Biosphere Reserve and Ramsar Wetland",
+      "70% of Ukraine's bird species"
+    ],
+    "uniqueSellingPoints_de": [
+      "Größte Wasservogelpopulation in der Ukraine",
+      "Schlüsselgebiet auf internationaler Zugroute",
+      "Einzigartiges Küstenökosystem des Schwarzen Meeres",
+      "UNESCO-Biosphärenreservat und Ramsar-Feuchtgebiet",
+      "70% der Vogelarten der Ukraine"
+    ]
+  },
+
+  "images": {
+    "heroImage": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/%D0%92%D0%B8%D0%B4_%D0%BD%D0%B0_%D0%AF%D0%B3%D0%BE%D1%80%D0%BB%D0%B8%D1%86%D1%8C%D0%BA%D1%83_%D0%B7%D0%B0%D1%82%D0%BE%D0%BA%D1%83.JPG/1280px-thumbnail.jpg",
+      "alt_uk": "Вид на Ягорлицьку затоку",
+      "alt_en": "View of Yahorlyk Bay",
+      "alt_de": "Blick auf die Yahorlyk-Bucht",
+      "caption_uk": "Ягорлицька затока — ключова територія для гніздування та відпочинку водоплавних птахів",
+      "caption_en": "Yahorlyk Bay — key territory for waterfowl nesting and resting",
+      "caption_de": "Yahorlyk-Bucht — Schlüsselgebiet für Brut und Rast von Wasservögeln"
+    },
+    "gallery": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Pelecanus_crispus_Black_Sea.jpg/1280px-Pelecanus_crispus_Black_Sea.jpg",
+        "alt_uk": "Кучеряві пелікани",
+        "alt_en": "Dalmatian pelicans",
+        "alt_de": "Krauskopfpelikane",
+        "caption_uk": "Кучеряві пелікани — одні з найбільших птахів заповідника"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Black_Sea_coast_wetlands.jpg/1280px-Black_Sea_coast_wetlands.jpg",
+        "alt_uk": "Прибережні водно-болотні угіддя",
+        "alt_en": "Coastal wetlands",
+        "alt_de": "Küstenfeuchtgebiete",
+        "caption_uk": "Унікальна екосистема прибережних водно-болотних угідь"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Yahorlyk_Bay_birds.jpg/1280px-Yahorlyk_Bay_birds.jpg",
+        "alt_uk": "Зграя птахів над затокою",
+        "alt_en": "Flock of birds over the bay",
+        "alt_de": "Vogelschwarm über der Bucht",
+        "caption_uk": "Міграція водоплавних птахів — незабутнє видовище"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tendra_spit.jpg/1280px-Tendra_spit.jpg",
+        "alt_uk": "Коса Тендра",
+        "alt_en": "Tendra Spit",
+        "alt_de": "Tendra-Nehrung",
+        "caption_uk": "Піщана коса Тендра — унікальний природний утвір"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Black_Sea_steppe_vegetation.jpg/1280px-Black_Sea_steppe_vegetation.jpg",
+        "alt_uk": "Степова рослинність",
+        "alt_en": "Steppe vegetation",
+        "alt_de": "Steppenvegetation",
+        "caption_uk": "Поєднання степу та водно-болотних угідь створює унікальну екосистему"
+      }
+    ]
+  },
+
+  "historicalData": {
+    "yearBuilt": "1927",
+    "yearBuiltNote_uk": "Створений 14 липня 1927 року, статус біосферного з 1984 року",
+    "yearBuiltNote_en": "Established July 14, 1927, biosphere status since 1984",
+    "yearBuiltNote_de": "Gegründet am 14. Juli 1927, Biosphärenstatus seit 1984",
+    "architecturalStyle_uk": "Прибережний природний ландшафт",
+    "architecturalStyle_en": "Coastal natural landscape",
+    "architecturalStyle_de": "Küsten-Naturlandschaft",
+    "architects": [],
+    "unescoStatus": "biosphere-reserve",
+    "unescoYear": 1984,
+    "nationalHeritageStatus": "Biosphere Reserve, Ramsar Site",
+    "referenceNumber": null,
+    "managedBy_uk": "Національна академія наук України",
+    "managedBy_en": "National Academy of Sciences of Ukraine",
+    "managedBy_de": "Nationale Akademie der Wissenschaften der Ukraine"
+  },
+
+  "culturalEvents": [],
+
+  "tags": [
+    "biosphere-reserve",
+    "unesco-site",
+    "ramsar-site",
+    "wetlands",
+    "coastal-ecosystem",
+    "black-sea",
+    "waterfowl",
+    "bird-migration",
+    "pelicans",
+    "ornithology",
+    "marine-ecosystem",
+    "dolphins",
+    "nature-conservation",
+    "kherson-oblast",
+    "mykolaiv-oblast",
+    "eco-tourism",
+    "bird-watching"
+  ],
+
+  "suitableFor_uk": [
+    "Орнітологи",
+    "Фотографи дикої природи",
+    "Біологи",
+    "Екотуристи",
+    "Науковці",
+    "Любителі спостереження за птахами"
+  ],
+  "suitableFor_en": [
+    "Ornithologists",
+    "Wildlife photographers",
+    "Biologists",
+    "Eco-tourists",
+    "Scientists",
+    "Bird watching enthusiasts"
+  ],
+  "suitableFor_de": [
+    "Ornithologen",
+    "Wildtierfotografen",
+    "Biologen",
+    "Öko-Touristen",
+    "Wissenschaftler",
+    "Vogelbeobachter"
+  ],
+
+  "weatherDependent": true,
+  "indoorActivities": false,
+  "outdoorActivities": true,
+
+  "priceRange": "$",
+  "rating": 4.6,
+  "reviewsCount": 478,
+  "featured": true,
+  "status": "limited-access",
+
+  "metaDescription_uk": "Чорноморський біосферний заповідник — біосферний резерват UNESCO та Рамсарське угіддя з 304 видами птахів (70% птахів України), найбільшою популяцією водоплавних у регіоні.",
+  "metaDescription_en": "Black Sea Biosphere Reserve — UNESCO biosphere reserve and Ramsar wetland with 304 bird species (70% of Ukraine's birds), largest waterfowl population in the region.",
+  "metaDescription_de": "Schwarzmeer-Biosphärenreservat — UNESCO-Biosphärenreservat und Ramsar-Feuchtgebiet mit 304 Vogelarten (70% der Vögel der Ukraine), größte Wasservogelpopulation in der Region.",
+
+  "keywords": [
+    "Чорноморський заповідник",
+    "Black Sea Reserve",
+    "Schwarzmeer-Reservat",
+    "біосферний заповідник",
+    "biosphere reserve",
+    "Biosphärenreservat",
+    "UNESCO",
+    "Рамсар",
+    "Ramsar",
+    "водно-болотні угіддя",
+    "wetlands",
+    "Feuchtgebiete",
+    "птахи",
+    "birds",
+    "Vögel",
+    "пелікани",
+    "pelicans",
+    "Pelikane",
+    "Чорне море",
+    "Black Sea",
+    "Schwarzes Meer"
+  ],
+
+  "lastUpdated": "2025-11-30",
+  "source": "Wikipedia, Black Sea Reserve Official Website, UNESCO MAB, Ramsar Convention, Jina AI Research",
+  "verified": true,
+  "warningNote_uk": "УВАГА: Через воєнний стан відвідування обмежене. Частина території постраждала від бойових дій у 2022 році.",
+  "warningNote_en": "WARNING: Visits limited due to martial law. Part of territory was damaged by fighting in 2022.",
+  "warningNote_de": "WARNUNG: Besuche aufgrund des Kriegsrechts eingeschränkt. Ein Teil des Gebiets wurde 2022 durch Kämpfe beschädigt."
+}

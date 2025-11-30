@@ -1,0 +1,363 @@
+{
+  "id": "armenian-cathedral-lviv",
+  "slug": "armenian-cathedral-lviv",
+  "name_uk": "Вірменський собор",
+  "name_en": "Armenian Cathedral",
+  "name_de": "Armenische Kathedrale",
+
+  "tagline_uk": "Найстаріша пам'ятка вірменської культури у Львові з унікальними фресками",
+  "tagline_en": "Oldest monument of Armenian culture in Lviv with unique frescoes",
+  "tagline_de": "Ältestes Denkmal armenischer Kultur in Lemberg mit einzigartigen Fresken",
+
+  "category": "monastery",
+  "subcategories": ["armenian", "cathedral", "medieval", "art-nouveau", "frescoes"],
+  "region": "Lviv",
+  "oblast": "Lviv Oblast",
+
+  "description_uk": {
+    "short": "Вірменський собор у Львові — одна з найстаріших вірменських церков України. Побудований у 14 столітті, прикрашений мозаїками Юзефа Меффера та фресками Яна Генріка Розена.",
+    "full": "Вірменський собор у Львові — це одна з найстаріших церков міста, заснована вірменською громадою. Храм складається з трьох частин: найстарша (XIV століття) — вівтарна частина, середня широка нава завершена у XVII столітті після прийняття львівськими вірменами унії з Ватиканом, а головний вхід додано на початку XX століття.\n\nІнтер'єр собору — це справжня природна краса, створює відчуття надзвичайного казкового світу Сходу. Склепіння і купол вівтарної частини прикрашені мозаїкою з Мурано, що поєднує кольорове каміння та емаль. Автором мозаїчного декору був відомий польський художник Юзеф Меффер з Кракова.\n\nНа стінах і стовпах — різьблені кам'яні хрести-хачкари, найдавніші з яких датуються XIV-XV століттями. Біля північної стіни — древня ніша-купіль, де хрестили немовлят. Фрески храму виконані наприкінці 20-х років молодим варшавським художником Яном Генріком Розеном у стилі пізнього модерну.\n\nЦентральна вівтарна картина — «Тайна вечеря», і вона дуже незвичайна тим, що всі учасники стоять. Розен зосереджується на великому таїнстві — причасті. Особливість картин у тому, що художник зображував у кожній фігурі відомих осіб, своїх сучасників та знайомих. На стінах храму можна побачити понад дві з половиною сотні облич.",
+    "history": "Вірменська громада жила у Львові з XIV століття. Перша дерев'яна церква була побудована близько 1363 року. Кам'яна церква на цьому місці була збудована у 1370-х роках і освячена у 1437 році.\n\nХрам зазнав численних перебудов. У 1630 році було додано дзвіницю. На початку XX століття церква була реконструйована та розширена. У 1908-1928 роках були додані мозаїки та фрески.\n\nУ 1945 році радянська влада ліквідувала Вірменську католицьку церкву, відправила головних священнослужителів до таборів, а більшість вірменських католиків виїхала до Польщі. Храм був закритий і переданий музейному фонду. Тільки у 2001 році Вірменський собор знову відкрився для вірян і туристів.",
+    "significance": "Вірменський собор є унікальною пам'яткою вірменської культури у Львові. Це один з найстаріших храмів міста з унікальним поєднанням середньовічної архітектури, мозаїк Мурано та фресок модерну. Собор зберігає історію вірменської громади Львова, яка відігравала важливу роль у культурному та економічному житті міста."
+  },
+
+  "description_en": {
+    "short": "The Armenian Cathedral in Lviv is one of the oldest Armenian churches in Ukraine. Built in the 14th century, decorated with Józef Mehoffer's mosaics and Jan Henryk Rosen's frescoes.",
+    "full": "The Armenian Cathedral in Lviv is one of the city's oldest churches, founded by the Armenian community. The temple consists of three parts: the oldest (14th century) is the altar part, the middle wide nave was completed in the 17th century after the Lviv Armenians accepted the union with the Vatican, and the main entrance was added at the beginning of the 20th century.\n\nThe cathedral's interior is a natural beauty, creating the feeling of an extraordinary fairy-tale world of the East. The vault and dome of the altar part are decorated with Murano mosaic, combining colored stones and enamel. The author of the mosaic decoration was the famous Polish artist Józef Mehoffer from Krakow.\n\nOn the walls and pillars are carved stone crosses - khachkars, the oldest of which date back to the 14th-15th centuries. Near the northern wall is an ancient niche - a baptismal font where babies were baptized. The temple's frescoes were executed in the late 1920s by a young Warsaw artist Jan Henryk Rosen in the late Art Nouveau style.\n\nThe central altar painting is \"The Last Supper\", and it is very unusual primarily because all its participants are standing. Rosen focuses on the great sacrament - communion. The peculiarity of the paintings is that the artist depicted famous persons, his contemporaries and acquaintances in each figure. On the temple walls you can see more than two and a half hundred faces.",
+    "history": "The Armenian community lived in Lviv from the 14th century. The first wooden church was built around 1363. A stone church on this site was built in the 1370s and consecrated in 1437.\n\nThe temple underwent numerous reconstructions. In 1630, a bell tower was added. At the beginning of the 20th century, the church was reconstructed and expanded. In 1908-1928, mosaics and frescoes were added.\n\nIn 1945, Soviet authorities liquidated the Armenian Catholic Church, sent leading clerics to camps, and most Armenian Catholics left for Poland. The temple was closed and given to the museum fund. Only in 2001 did the Armenian Cathedral open again for the faithful and tourists.",
+    "significance": "The Armenian Cathedral is a unique monument of Armenian culture in Lviv. It is one of the oldest temples in the city with a unique combination of medieval architecture, Murano mosaics, and Art Nouveau frescoes. The cathedral preserves the history of Lviv's Armenian community, which played an important role in the city's cultural and economic life."
+  },
+
+  "description_de": {
+    "short": "Die Armenische Kathedrale in Lemberg ist eine der ältesten armenischen Kirchen der Ukraine. Im 14. Jahrhundert erbaut, geschmückt mit Józef Mehoffers Mosaiken und Jan Henryk Rosens Fresken.",
+    "full": "Die Armenische Kathedrale in Lemberg ist eine der ältesten Kirchen der Stadt, gegründet von der armenischen Gemeinde. Der Tempel besteht aus drei Teilen: der älteste (14. Jahrhundert) ist der Altarbereich, das mittlere breite Schiff wurde im 17. Jahrhundert fertiggestellt, und der Haupteingang wurde Anfang des 20. Jahrhunderts hinzugefügt.\n\nDas Innere der Kathedrale ist eine natürliche Schönheit, die das Gefühl einer außergewöhnlichen Märchenwelt des Ostens vermittelt. Das Gewölbe und die Kuppel des Altarteils sind mit Murano-Mosaiken geschmückt, die farbige Steine und Emaille kombinieren.",
+    "history": "Die armenische Gemeinde lebte seit dem 14. Jahrhundert in Lemberg. Die erste Holzkirche wurde um 1363 erbaut. Eine Steinkirche an diesem Ort wurde in den 1370er Jahren erbaut und 1437 geweiht.",
+    "significance": "Die Armenische Kathedrale ist ein einzigartiges Denkmal der armenischen Kultur in Lemberg. Sie ist einer der ältesten Tempel der Stadt mit einer einzigartigen Kombination aus mittelalterlicher Architektur, Murano-Mosaiken und Jugendstil-Fresken."
+  },
+
+  "location": {
+    "city": "Lviv",
+    "region": "Lviv Oblast",
+    "address_uk": "вул. Вірменська, 7, Львів, 79000",
+    "address_en": "7 Virmenska Street, Lviv, 79000",
+    "address_de": "Virmenska Straße 7, Lemberg, 79000",
+    "coordinates": {
+      "latitude": 49.84317,
+      "longitude": 24.03090
+    },
+    "directions_uk": {
+      "general": "Розташований у самому центрі Старого міста Львова",
+      "publicTransport": "Трамваєм або автобусом до центру міста, далі пішки",
+      "car": "Обмежений доступ для автомобілів у Старому місті",
+      "parking": "Платні паркінги поблизу Ринкової площі"
+    },
+    "directions_en": {
+      "general": "Located in the very heart of Lviv's Old Town",
+      "publicTransport": "Tram or bus to city center, then walk",
+      "car": "Limited car access in Old Town",
+      "parking": "Paid parking near Rynok Square"
+    },
+    "directions_de": {
+      "general": "Im Herzen der Altstadt von Lemberg gelegen",
+      "publicTransport": "Straßenbahn oder Bus zum Stadtzentrum, dann zu Fuß",
+      "car": "Begrenzter Autozugang in der Altstadt",
+      "parking": "Bezahlte Parkplätze in der Nähe des Rynok-Platzes"
+    },
+    "nearbyAttractions": [
+      {
+        "name_uk": "Ринкова площа",
+        "name_en": "Rynok Square",
+        "distance": "0.2 km",
+        "type": "historic-square"
+      },
+      {
+        "name_uk": "Домініканський собор",
+        "name_en": "Dominican Cathedral",
+        "distance": "0.2 km",
+        "type": "church"
+      },
+      {
+        "name_uk": "Вірменська вулиця",
+        "name_en": "Virmenska Street",
+        "distance": "0 km",
+        "type": "historic-street"
+      }
+    ]
+  },
+
+  "contact": {
+    "phone": "+380 32 272-35-27",
+    "email": "armenian.cathedral@lviv.ua",
+    "website": "https://lart.lviv.ua/en/objects/virmenskyi-kafedralnyi-sobor",
+    "bookingUrl": null,
+    "socialMedia": {
+      "facebook": null,
+      "instagram": null,
+      "youtube": null
+    }
+  },
+
+  "visitingInformation": {
+    "openingTimes": {
+      "status_uk": "Відкрито цілий рік",
+      "status_en": "Open year-round",
+      "status_de": "Ganzjährig geöffnet",
+      "seasonal": [
+        {
+          "season_uk": "Цілий рік",
+          "season_en": "Year-round",
+          "season_de": "Ganzjährig",
+          "days_uk": "Вівторок-Неділя",
+          "days_en": "Tuesday-Sunday",
+          "days_de": "Dienstag-Sonntag",
+          "hours": "10:00 - 17:00",
+          "lastAdmission": "16:45"
+        }
+      ],
+      "closedDays_uk": "Понеділок",
+      "closedDays_en": "Monday",
+      "closedDays_de": "Montag"
+    },
+    "admissionPrices": {
+      "currency": "UAH",
+      "adult": 0,
+      "student": 0,
+      "child": 0,
+      "senior": 0,
+      "family": 0,
+      "notes_uk": "Вхід безкоштовний. Пожертви вітаються",
+      "notes_en": "Free entrance. Donations welcome",
+      "notes_de": "Freier Eintritt. Spenden willkommen"
+    },
+    "tourOptions": [
+      {
+        "type_uk": "Самостійний огляд",
+        "type_en": "Self-guided tour",
+        "type_de": "Selbstgeführte Tour",
+        "duration_uk": "30-60 хвилин",
+        "duration_en": "30-60 minutes",
+        "duration_de": "30-60 Minuten",
+        "price": 0
+      }
+    ],
+    "averageVisitDuration_uk": "30 хвилин - 1 година",
+    "averageVisitDuration_en": "30 minutes - 1 hour",
+    "averageVisitDuration_de": "30 Minuten - 1 Stunde",
+    "busyPeriods_uk": ["Вихідні", "Туристичний сезон (травень-вересень)", "Обідній час"],
+    "busyPeriods_en": ["Weekends", "Tourist season (May-September)", "Lunch time"],
+    "busyPeriods_de": ["Wochenenden", "Touristensaison (Mai-September)", "Mittagszeit"],
+    "adviceForVisitors_uk": "Відвідайте у будній день для більш спокійної атмосфери. Дотримуйтесь скромного одягу. Фотографія дозволена без спалаху. Візьміть час, щоб оглянути деталі фресок.",
+    "adviceForVisitors_en": "Visit on weekday for more serene atmosphere. Dress respectfully. Photography permitted without flash. Take time to observe fresco details.",
+    "adviceForVisitors_de": "Besuchen Sie an Wochentagen für eine ruhigere Atmosphäre. Kleiden Sie sich respektvoll. Fotografie ohne Blitz erlaubt. Nehmen Sie sich Zeit, um Freskendetails zu betrachten."
+  },
+
+  "features": {
+    "highlights_uk": [
+      "Мозаїки Мурано від Юзефа Меффера",
+      "Фрески Яна Генріка Розена (1920-ті рр.)",
+      "Хачкари XIV-XV століть",
+      "«Тайна вечеря» — унікальна вівтарна картина",
+      "Понад 250 портретів історичних осіб",
+      "Давня купіль для хрещення",
+      "Вірменський дворик"
+    ],
+    "highlights_en": [
+      "Murano mosaics by Józef Mehoffer",
+      "Frescoes by Jan Henryk Rosen (1920s)",
+      "Khachkars from 14th-15th centuries",
+      "\"The Last Supper\" - unique altar painting",
+      "Over 250 portraits of historical figures",
+      "Ancient baptismal font",
+      "Armenian courtyard"
+    ],
+    "highlights_de": [
+      "Murano-Mosaiken von Józef Mehoffer",
+      "Fresken von Jan Henryk Rosen (1920er)",
+      "Chatschkare aus dem 14.-15. Jahrhundert",
+      "\"Das Letzte Abendmahl\" - einzigartiges Altarbild",
+      "Über 250 Porträts historischer Persönlichkeiten",
+      "Alter Taufbrunnen",
+      "Armenischer Hof"
+    ],
+    "facilities_uk": ["Вірменський дворик", "Сувенірний магазин", "Інформаційний центр"],
+    "facilities_en": ["Armenian courtyard", "Gift shop", "Information center"],
+    "facilities_de": ["Armenischer Hof", "Souvenirladen", "Informationszentrum"],
+    "accessibility": {
+      "wheelchairAccessible": true,
+      "notes_uk": "Вхід з вул. Краківської біля будинку №20, з зовнішньою допомогою (один ступінь 8-10 см). Ширина воріт - 2 м. Можливий безбар'єрний рух у храмі.",
+      "notes_en": "Entrance from Krakivska St. near building No. 20, with outside help (one step 8-10 cm high). Gate width - 2 m. Barrier-free movement possible in cathedral.",
+      "notes_de": "Eingang von der Krakivska Str. bei Gebäude Nr. 20, mit Hilfe von außen (eine Stufe 8-10 cm hoch). Torbreite - 2 m. Barrierefreie Bewegung in der Kathedrale möglich."
+    },
+    "uniqueSellingPoints_uk": [
+      "Унікальне поєднання вірменської, польської та української культури",
+      "Найкрасивіші мозаїки Мурано у Львові",
+      "Понад 250 портретів відомих осіб 20 століття",
+      "Один з найстаріших храмів Львова",
+      "Унікальні хачкари XIV-XV століть"
+    ],
+    "uniqueSellingPoints_en": [
+      "Unique combination of Armenian, Polish and Ukrainian culture",
+      "Most beautiful Murano mosaics in Lviv",
+      "Over 250 portraits of famous 20th century figures",
+      "One of the oldest temples in Lviv",
+      "Unique khachkars from 14th-15th centuries"
+    ],
+    "uniqueSellingPoints_de": [
+      "Einzigartige Kombination armenischer, polnischer und ukrainischer Kultur",
+      "Schönste Murano-Mosaiken in Lemberg",
+      "Über 250 Porträts berühmter Persönlichkeiten des 20. Jahrhunderts",
+      "Einer der ältesten Tempel in Lemberg",
+      "Einzigartige Chatschkare aus dem 14.-15. Jahrhundert"
+    ]
+  },
+
+  "images": {
+    "heroImage": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Lviv_Armenian_Cathedral_RB.jpg",
+      "alt_uk": "Вірменський собор у Львові",
+      "alt_en": "Armenian Cathedral in Lviv",
+      "alt_de": "Armenische Kathedrale in Lemberg",
+      "caption_uk": "Вірменський собор — перлина середньовічної вірменської архітектури",
+      "caption_en": "Armenian Cathedral - pearl of medieval Armenian architecture",
+      "caption_de": "Armenische Kathedrale - Perle mittelalterlicher armenischer Architektur"
+    },
+    "gallery": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Armenian_Cathedral_Lviv_interior_2015_G1.jpg",
+        "alt_uk": "Інтер'єр Вірменського собору",
+        "alt_en": "Interior of Armenian Cathedral",
+        "alt_de": "Interieur der Armenischen Kathedrale",
+        "caption_uk": "Мозаїки Мурано та фрески модерну"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Armenian_cathedral_bell_tower%2C_Lviv_%282015%29_01.jpg",
+        "alt_uk": "Дзвіниця Вірменського собору",
+        "alt_en": "Bell tower of Armenian Cathedral",
+        "alt_de": "Glockenturm der Armenischen Kathedrale",
+        "caption_uk": "Дзвіниця XVII століття"
+      }
+    ]
+  },
+
+  "historicalData": {
+    "yearBuilt": "1363-1437",
+    "yearBuiltNote_uk": "Перша дерев'яна церква близько 1363 р. Кам'яна церква 1370-х рр., освячена 1437 р.",
+    "yearBuiltNote_en": "First wooden church ca. 1363. Stone church 1370s, consecrated 1437",
+    "yearBuiltNote_de": "Erste Holzkirche ca. 1363. Steinkirche 1370er, geweiht 1437",
+    "architecturalStyle_uk": "Середньовічна вірменська архітектура, модерн (фрески)",
+    "architecturalStyle_en": "Medieval Armenian architecture, Art Nouveau (frescoes)",
+    "architecturalStyle_de": "Mittelalterliche armenische Architektur, Jugendstil (Fresken)",
+    "architects": [
+      {
+        "name": "Юзеф Меффер (Józef Mehoffer)",
+        "period": "1908-1928",
+        "contribution_uk": "Мозаїки Мурано",
+        "contribution_en": "Murano mosaics",
+        "contribution_de": "Murano-Mosaiken"
+      },
+      {
+        "name": "Ян Генрік Розен (Jan Henryk Rosen)",
+        "period": "1920-ті",
+        "contribution_uk": "Фрески у стилі пізнього модерну",
+        "contribution_en": "Late Art Nouveau frescoes",
+        "contribution_de": "Späte Jugendstil-Fresken"
+      }
+    ],
+    "unescoStatus": "none",
+    "unescoYear": null,
+    "nationalHeritageStatus": "Monument of National Significance",
+    "referenceNumber": "UA-LV-ARM-001",
+    "managedBy_uk": "Вірменська Апостольська Церква в Україні",
+    "managedBy_en": "Armenian Apostolic Church in Ukraine",
+    "managedBy_de": "Armenisch-Apostolische Kirche in der Ukraine"
+  },
+
+  "culturalEvents": [
+    {
+      "name_uk": "Вірменське Різдво",
+      "name_en": "Armenian Christmas",
+      "name_de": "Armenisches Weihnachten",
+      "period_uk": "6 січня",
+      "period_en": "January 6",
+      "period_de": "6. Januar",
+      "description_uk": "Святкові богослужіння за вірменським обрядом",
+      "description_en": "Festive services in Armenian rite",
+      "description_de": "Festliche Gottesdienste nach armenischem Ritus"
+    }
+  ],
+
+  "tags": [
+    "cathedral",
+    "armenian",
+    "medieval",
+    "art-nouveau",
+    "frescoes",
+    "mosaics",
+    "lviv",
+    "old-town",
+    "architecture",
+    "cultural-heritage",
+    "religious-site"
+  ],
+
+  "suitableFor_uk": [
+    "Любителі мистецтва",
+    "Історики",
+    "Фотографи",
+    "Туристи",
+    "Сімейні подорожі",
+    "Дослідники культури"
+  ],
+  "suitableFor_en": [
+    "Art lovers",
+    "Historians",
+    "Photographers",
+    "Tourists",
+    "Family travel",
+    "Culture researchers"
+  ],
+  "suitableFor_de": [
+    "Kunstliebhaber",
+    "Historiker",
+    "Fotografen",
+    "Touristen",
+    "Familienreisen",
+    "Kulturforscher"
+  ],
+
+  "weatherDependent": false,
+  "indoorActivities": true,
+  "outdoorActivities": true,
+
+  "priceRange": "$",
+  "rating": 4.8,
+  "reviewsCount": 3120,
+  "featured": true,
+  "status": "published",
+
+  "metaDescription_uk": "Вірменський собор — найстаріший вірменський храм Львова (XIV ст.). Унікальні мозаїки Мурано від Меффера, фрески Розена, хачкари. Безкоштовний вхід.",
+  "metaDescription_en": "Armenian Cathedral - oldest Armenian church in Lviv (14th c.). Unique Murano mosaics by Mehoffer, Rosen frescoes, khachkars. Free entrance.",
+  "metaDescription_de": "Armenische Kathedrale - älteste armenische Kirche in Lemberg (14. Jh.). Einzigartige Murano-Mosaiken von Mehoffer, Rosen-Fresken, Chatschkare. Freier Eintritt.",
+
+  "keywords": [
+    "Львів",
+    "Lviv",
+    "Вірменський собор",
+    "Armenian Cathedral",
+    "Меффер",
+    "Mehoffer",
+    "Розен",
+    "Rosen",
+    "мозаїки",
+    "mosaics",
+    "фрески",
+    "frescoes",
+    "хачкари",
+    "khachkars",
+    "tourism"
+  ],
+
+  "lastUpdated": "2025-11-30",
+  "source": "Wikipedia, lart.lviv.ua, Jina AI research",
+  "verified": true
+}

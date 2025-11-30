@@ -1,0 +1,342 @@
+{
+  "id": "bernardine-church-lviv",
+  "slug": "bernardine-church-lviv",
+  "name_uk": "Костел і монастир Бернардинів",
+  "name_en": "Bernardine Church and Monastery",
+  "name_de": "Bernardinerkirche und Kloster",
+
+  "tagline_uk": "Оборонний монастир XVII століття з унікальними фортифікаціями",
+  "tagline_en": "17th century fortified monastery with unique fortifications",
+  "tagline_de": "Befestigtes Kloster aus dem 17. Jahrhundert mit einzigartigen Befestigungsanlagen",
+
+  "category": "monastery",
+  "subcategories": ["baroque", "fortified", "franciscan", "greek-catholic", "historical"],
+  "region": "Lviv",
+  "oblast": "Lviv Oblast",
+
+  "description_uk": {
+    "short": "Костел і монастир бернардинів у Львові — унікальний оборонний комплекс XVII століття. Побудований у стилі італійсько-голландського маньєризму, сьогодні належить УГКЦ.",
+    "full": "Костел і монастир бернардинів розташований у Старому місті Львова, на південь від ринкової площі. Спроектований Паоло Домініці, це унікальна пам'ятка архітектури з власною системою фортифікацій.\n\nФранцисканці-обсерванти, відомі в регіоні як бернардинці за назвою їхнього монастиря в Кракові, були запрошені до Львова Анджеєм Одровонжем у 1460 році. У 1509 році монастир був пограбований молдавським господарем Богданом III.\n\nУ XVII столітті були збудовані сучасна церква і монастир у стилі італійського маньєризму і освячені в 1630 році, після 30 років будівництва. Оскільки комплекс розташований за межами міських стін Львова, він був обладнаний власними укріпленнями зі сходу і півдня, здебільшого розібраними на початку XIX століття.\n\nУ 1733 році до комплексу була додана квадратна дзвіниця, а в 1736 році перед церквою був побудований пам'ятник святому Йоану з Дукли, який помер у монастирі в 1484 році. Інтер'єр був переоблаштований у стилі бароко в роки 1738-1740.\n\nЦерква зуміла уникнути закриття австрійським імператором Йосифом II, хоча частина монастиря була передана під міський архів. Після Другої світової війни церкву закрили радянці, і вона не використовувалася до розпаду Радянського Союзу. З 1991 року комплекс перебуває під опікою Василіанського чину УГКЦ і пройшов ретельну реставрацію.",
+    "history": "Бернардинці були запрошені до Львова Анджеєм Одровонжем у 1460 році. У 1509 році монастир був пограбований молдавським господарем Богданом III.\n\nУ XVII столітті сучасні церква і монастир були побудовані в стилі італійського маньєризму і освячені в 1630 році, після 30 років будівництва. Комплекс був обладнаний власними укріпленнями зі сходу і півдня.\n\nУ 1733 році була додана квадратна дзвіниця, а в 1736 році перед церквою побудований пам'ятник святому Йоану з Дукли. Інтер'єр був переоблаштований у стилі бароко в 1738-1740 роках.\n\nЦерква уникнула закриття імператором Йосифом II. Після Другої світової війни була закрита радянцями. З 1991 року належить УГКЦ.",
+    "significance": "Костел і монастир бернардинів — унікальна пам'ятка оборонної архітектури Львова. На відміну від більшості інших церков і монастирів, цей комплекс має власну систему фортифікацій через розташування за межами міських стін. Це єдиний у Львові монастир-фортеця, що зберіг частину своїх оборонних споруд."
+  },
+
+  "description_en": {
+    "short": "The Bernardine Church and Monastery in Lviv is a unique fortified complex from the 17th century. Built in Italian-Dutch Mannerist style, today it belongs to the UGCC.",
+    "full": "The Bernardine church and monastery is located in Lviv's Old Town, south of the market square. Designed by Paolo Dominici, it is a unique architectural monument with its own fortification system.\n\nThe Franciscan Observantists, known in the region as Bernardines after their monastery in Kraków, were invited to Lviv by Andrzej Odrowąż in 1460. In 1509 the monastery was plundered by the Moldovan hospodar Bogdan III.\n\nIn the 17th century the present day church and monastery were constructed in the style of Italian mannerism and consecrated in 1630, after 30 years of construction. As the complex was located outside Lviv's city walls it was equipped with its own fortifications from the east and south, mostly taken apart at the beginning of the 19th century.\n\nIn 1733 a square belfry was added to the complex and in 1736 a monument to Saint John of Dukla, who died in the monastery in 1484, was built in front of the church. The interior was refurbished in the Baroque style in the years 1738–1740.\n\nThe church managed to avoid being closed by the Austrian emperor Joseph II, although part of the monastery was taken over for the city archive. After the Second World War the church was closed by the Soviets and fell into disuse until the collapse of the Soviet Union. Since 1991 the complex is under the care of Ukrainian Greek Catholic Basilian Order and has undergone thorough renovation.",
+    "history": "The Bernardines were invited to Lviv by Andrzej Odrowąż in 1460. In 1509 the monastery was plundered by Moldovan hospodar Bogdan III.\n\nIn the 17th century the present day church and monastery were constructed in the style of Italian mannerism and consecrated in 1630, after 30 years of construction. The complex was equipped with its own fortifications from the east and south.\n\nIn 1733 a square belfry was added, and in 1736 a monument to Saint John of Dukla was built in front of the church. The interior was refurbished in Baroque style in 1738-1740.\n\nThe church avoided closure by Emperor Joseph II. After World War II it was closed by the Soviets. Since 1991 it belongs to the UGCC.",
+    "significance": "The Bernardine Church and Monastery is a unique monument of Lviv's defensive architecture. Unlike most other churches and monasteries, this complex has its own system of fortifications due to its location outside the city walls. It is the only fortress-monastery in Lviv that has preserved part of its defensive structures."
+  },
+
+  "description_de": {
+    "short": "Die Bernardinerkirche und das Kloster in Lemberg sind ein einzigartiger befestigter Komplex aus dem 17. Jahrhundert. Im italienisch-niederländischen Manierismus erbaut, gehört es heute zur UGKK.",
+    "full": "Die Bernardinerkirche und das Kloster befinden sich in der Altstadt von Lemberg, südlich des Marktplatzes. Entworfen von Paolo Dominici, ist es ein einzigartiges architektonisches Denkmal mit eigenem Befestigungssystem.\n\nDie Franziskaner-Observanten, in der Region als Bernardiner nach ihrem Kloster in Krakau bekannt, wurden 1460 von Andrzej Odrowąż nach Lemberg eingeladen. Im Jahr 1509 wurde das Kloster vom moldauischen Fürsten Bogdan III geplündert.",
+    "history": "Die Bernardiner wurden 1460 von Andrzej Odrowąż nach Lemberg eingeladen. Im Jahr 1509 wurde das Kloster vom moldauischen Fürsten Bogdan III geplündert.",
+    "significance": "Die Bernardinerkirche und das Kloster sind ein einzigartiges Denkmal der Verteidigungsarchitektur von Lemberg."
+  },
+
+  "location": {
+    "city": "Lviv",
+    "region": "Lviv Oblast",
+    "address_uk": "пл. Соборна, 1, Львів, 79000",
+    "address_en": "1 Soborna Square, Lviv, 79000",
+    "address_de": "Kathedralenplatz 1, Lemberg, 79000",
+    "coordinates": {
+      "latitude": 49.83944,
+      "longitude": 24.03472
+    },
+    "directions_uk": {
+      "general": "Розташований у Старому місті, на південь від Ринкової площі",
+      "publicTransport": "Трамваєм або автобусом до центру міста, далі пішки 10 хвилин",
+      "car": "Обмежений доступ для автомобілів у Старому місті",
+      "parking": "Платні паркінги на Соборній площі та поблизу"
+    },
+    "directions_en": {
+      "general": "Located in Old Town, south of Market Square",
+      "publicTransport": "Tram or bus to city center, then 10 minutes walk",
+      "car": "Limited car access in Old Town",
+      "parking": "Paid parking at Soborna Square and nearby"
+    },
+    "directions_de": {
+      "general": "In der Altstadt gelegen, südlich des Marktplatzes",
+      "publicTransport": "Straßenbahn oder Bus zum Stadtzentrum, dann 10 Minuten zu Fuß",
+      "car": "Begrenzter Autozugang in der Altstadt",
+      "parking": "Bezahlte Parkplätze am Kathedralenplatz und in der Nähe"
+    },
+    "nearbyAttractions": [
+      {
+        "name_uk": "Ринкова площа",
+        "name_en": "Rynok Square",
+        "distance": "0.5 km",
+        "type": "historic-square"
+      },
+      {
+        "name_uk": "Гребінські ворота",
+        "name_en": "Hlyniany Gate",
+        "distance": "0.1 km",
+        "type": "historic-gate"
+      },
+      {
+        "name_uk": "Латинська катедра",
+        "name_en": "Latin Cathedral",
+        "distance": "0.6 km",
+        "type": "cathedral"
+      }
+    ]
+  },
+
+  "contact": {
+    "phone": "+380 32 272-15-38",
+    "email": "bernardine.lviv@ugcc.org.ua",
+    "website": null,
+    "bookingUrl": null,
+    "socialMedia": {
+      "facebook": null,
+      "instagram": null,
+      "youtube": null
+    }
+  },
+
+  "visitingInformation": {
+    "openingTimes": {
+      "status_uk": "Відкрито цілий рік",
+      "status_en": "Open year-round",
+      "status_de": "Ganzjährig geöffnet",
+      "seasonal": [
+        {
+          "season_uk": "Цілий рік",
+          "season_en": "Year-round",
+          "season_de": "Ganzjährig",
+          "days_uk": "Щодня",
+          "days_en": "Daily",
+          "days_de": "Täglich",
+          "hours": "07:00 - 19:00",
+          "lastAdmission": "18:45"
+        }
+      ]
+    },
+    "admissionPrices": {
+      "currency": "UAH",
+      "adult": 0,
+      "student": 0,
+      "child": 0,
+      "senior": 0,
+      "family": 0,
+      "notes_uk": "Вхід безкоштовний. Пожертви вітаються",
+      "notes_en": "Free entrance. Donations welcome",
+      "notes_de": "Freier Eintritt. Spenden willkommen"
+    },
+    "tourOptions": [
+      {
+        "type_uk": "Самостійний огляд",
+        "type_en": "Self-guided tour",
+        "type_de": "Selbstgeführte Tour",
+        "duration_uk": "1-1.5 години",
+        "duration_en": "1-1.5 hours",
+        "duration_de": "1-1,5 Stunden",
+        "price": 0
+      }
+    ],
+    "averageVisitDuration_uk": "1-1.5 години",
+    "averageVisitDuration_en": "1-1.5 hours",
+    "averageVisitDuration_de": "1-1,5 Stunden",
+    "busyPeriods_uk": ["Неділі", "Великі релігійні свята", "Туристичний сезон"],
+    "busyPeriods_en": ["Sundays", "Major religious holidays", "Tourist season"],
+    "busyPeriods_de": ["Sonntage", "Große religiöse Feiertage", "Touristensaison"],
+    "adviceForVisitors_uk": "Візьміть участь у екскурсії, щоб дізнатися про історію монастиря. Відвідайте музей у сусідній будівлі. Оглянути фортифікації з зовнішнього боку.",
+    "adviceForVisitors_en": "Join guided tour to learn monastery's history. Visit museum in adjacent building. Explore fortifications from outside.",
+    "adviceForVisitors_de": "Nehmen Sie an einer Führung teil, um die Geschichte des Klosters zu erfahren. Besuchen Sie das Museum im Nebengebäude. Erkunden Sie die Befestigungen von außen."
+  },
+
+  "features": {
+    "highlights_uk": [
+      "Унікальна оборонна система фортифікацій",
+      "Італійсько-голландський маньєризм",
+      "Барокові фрески та оздоблення",
+      "Пам'ятник святому Йоану з Дукли",
+      "Монастирський комплекс XVII століття",
+      "Квадратна дзвіниця (1733)"
+    ],
+    "highlights_en": [
+      "Unique defensive fortification system",
+      "Italian-Dutch Mannerism",
+      "Baroque frescoes and decoration",
+      "Monument to Saint John of Dukla",
+      "17th century monastery complex",
+      "Square belfry (1733)"
+    ],
+    "highlights_de": [
+      "Einzigartiges Verteidigungsbefestigungssystem",
+      "Italienisch-niederländischer Manierismus",
+      "Barocke Fresken und Dekoration",
+      "Denkmal für den heiligen Johannes von Dukla",
+      "Klosterkomplex aus dem 17. Jahrhundert",
+      "Quadratischer Glockenturm (1733)"
+    ],
+    "facilities_uk": ["Музей (сусідня будівля)", "Монастирський двір", "Туалети"],
+    "facilities_en": ["Museum (adjacent building)", "Monastery courtyard", "Toilets"],
+    "facilities_de": ["Museum (Nebengebäude)", "Klosterhof", "Toiletten"],
+    "accessibility": {
+      "wheelchairAccessible": false,
+      "notes_uk": "Обмежений доступ через історичну архітектуру та сходи",
+      "notes_en": "Limited access due to historical architecture and stairs",
+      "notes_de": "Begrenzter Zugang aufgrund historischer Architektur und Treppen"
+    },
+    "uniqueSellingPoints_uk": [
+      "Єдиний у Львові монастир-фортеця",
+      "Збережені оборонні укріплення",
+      "Італійсько-голландська архітектура XVII ст.",
+      "Пов'язаний з історією святого Йоана з Дукли",
+      "Уникнув закриття Йосифом II"
+    ],
+    "uniqueSellingPoints_en": [
+      "Only fortress-monastery in Lviv",
+      "Preserved defensive fortifications",
+      "17th century Italian-Dutch architecture",
+      "Connected to history of Saint John of Dukla",
+      "Avoided closure by Joseph II"
+    ],
+    "uniqueSellingPoints_de": [
+      "Einziges Festungskloster in Lemberg",
+      "Erhaltene Verteidigungsbefestigungen",
+      "Italienisch-niederländische Architektur des 17. Jahrhunderts",
+      "Verbunden mit der Geschichte des heiligen Johannes von Dukla",
+      "Vermeidung der Schließung durch Joseph II"
+    ]
+  },
+
+  "images": {
+    "heroImage": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/%D0%A6%D0%B5%D1%80%D0%BA%D0%B2%D0%B0_%D1%81%D0%B2.%D0%90%D0%BD%D0%B4%D1%80%D1%96%D1%8F.JPG",
+      "alt_uk": "Костел і монастир Бернардинів",
+      "alt_en": "Bernardine Church and Monastery",
+      "alt_de": "Bernardinerkirche und Kloster",
+      "caption_uk": "Оборонний монастир бернардинів у Львові",
+      "caption_en": "Fortified Bernardine monastery in Lviv",
+      "caption_de": "Befestigtes Bernardinerkloster in Lemberg"
+    },
+    "gallery": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Church_of_St._Andrew%2C_Lviv_%282014%29.jpg",
+        "alt_uk": "Інтер'єр костелу святого Андрія",
+        "alt_en": "Interior of St. Andrew's Church",
+        "alt_de": "Interieur der St.-Andreas-Kirche",
+        "caption_uk": "Барокове оздоблення інтер'єру"
+      }
+    ]
+  },
+
+  "historicalData": {
+    "yearBuilt": "1600-1630",
+    "yearBuiltNote_uk": "Будівництво сучасного костелу та монастиря тривало 30 років, 1600-1630 рр.",
+    "yearBuiltNote_en": "Construction of present church and monastery lasted 30 years, 1600-1630",
+    "yearBuiltNote_de": "Bau der heutigen Kirche und des Klosters dauerte 30 Jahre, 1600-1630",
+    "architecturalStyle_uk": "Італійсько-голландський маньєризм, бароко",
+    "architecturalStyle_en": "Italian-Dutch Mannerism, Baroque",
+    "architecturalStyle_de": "Italienisch-niederländischer Manierismus, Barock",
+    "architects": [
+      {
+        "name": "Паоло Домініці (Paolo Dominici)",
+        "period": "1600-1630",
+        "contribution_uk": "Проектування костелу та монастиря",
+        "contribution_en": "Design of church and monastery",
+        "contribution_de": "Entwurf von Kirche und Kloster"
+      }
+    ],
+    "unescoStatus": "none",
+    "unescoYear": null,
+    "nationalHeritageStatus": "Monument of National Significance",
+    "referenceNumber": "UA-LV-BER-001",
+    "managedBy_uk": "Василіанський чин УГКЦ",
+    "managedBy_en": "Basilian Order of UGCC",
+    "managedBy_de": "Basilianer-Orden der UGKK"
+  },
+
+  "culturalEvents": [
+    {
+      "name_uk": "Свято святого Андрія",
+      "name_en": "Feast of Saint Andrew",
+      "name_de": "Fest des heiligen Andreas",
+      "period_uk": "30 листопада",
+      "period_en": "November 30",
+      "period_de": "30. November",
+      "description_uk": "Престольне свято церкви",
+      "description_en": "Patronal feast of the church",
+      "description_de": "Patronatsfest der Kirche"
+    }
+  ],
+
+  "tags": [
+    "monastery",
+    "church",
+    "fortified",
+    "bernardine",
+    "mannerism",
+    "baroque",
+    "lviv",
+    "old-town",
+    "defensive-architecture",
+    "greek-catholic"
+  ],
+
+  "suitableFor_uk": [
+    "Любителі історії",
+    "Дослідники архітектури",
+    "Фотографи",
+    "Туристи",
+    "Сімейні подорожі",
+    "Любителі фортифікацій"
+  ],
+  "suitableFor_en": [
+    "History enthusiasts",
+    "Architecture researchers",
+    "Photographers",
+    "Tourists",
+    "Family travel",
+    "Fortification lovers"
+  ],
+  "suitableFor_de": [
+    "Geschichtsinteressierte",
+    "Architekturforscher",
+    "Fotografen",
+    "Touristen",
+    "Familienreisen",
+    "Befestigungsliebhaber"
+  ],
+
+  "weatherDependent": false,
+  "indoorActivities": true,
+  "outdoorActivities": true,
+
+  "priceRange": "$",
+  "rating": 4.9,
+  "reviewsCount": 419,
+  "featured": true,
+  "status": "published",
+
+  "metaDescription_uk": "Костел і монастир Бернардинів — унікальний оборонний комплекс XVII ст. у Львові. Фортифікації, італійський маньєризм, барокові фрески. Безкоштовний вхід.",
+  "metaDescription_en": "Bernardine Church and Monastery - unique fortified complex from 17th c. in Lviv. Fortifications, Italian Mannerism, Baroque frescoes. Free entrance.",
+  "metaDescription_de": "Bernardinerkirche und Kloster - einzigartiger befestigter Komplex aus dem 17. Jh. in Lemberg. Befestigungen, italienischer Manierismus, barocke Fresken. Freier Eintritt.",
+
+  "keywords": [
+    "Львів",
+    "Lviv",
+    "Бернардинці",
+    "Bernardines",
+    "монастир",
+    "monastery",
+    "фортеця",
+    "fortress",
+    "маньєризм",
+    "mannerism",
+    "бароко",
+    "baroque",
+    "УГКЦ",
+    "UGCC",
+    "tourism"
+  ],
+
+  "lastUpdated": "2025-11-30",
+  "source": "Wikipedia, Wanderlog, Jina AI research",
+  "verified": true
+}

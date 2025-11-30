@@ -1,0 +1,428 @@
+{
+  "id": "national-museum-history-ukraine",
+  "slug": "national-museum-history-ukraine",
+
+  "name_uk": "Національний музей історії України",
+  "name_en": "National Museum of the History of Ukraine",
+  "name_de": "Nationales Museum der Geschichte der Ukraine",
+
+  "tagline_uk": "Один із провідних музеїв України з колекцією понад 800 000 експонатів",
+  "tagline_en": "One of Ukraine's leading museums with a collection of over 800,000 exhibits",
+  "tagline_de": "Eines der führenden Museen der Ukraine mit einer Sammlung von über 800.000 Exponaten",
+
+  "category": "museum",
+  "subcategories": ["history", "archaeology", "ethnography", "national-heritage"],
+  "region": "Kyiv",
+  "oblast": "Kyiv Oblast",
+
+  "description_uk": {
+    "short": "Національний музей історії України — один із провідних музеїв країни з унікальною колекцією понад 800 000 експонатів, що розповідають історію України від найдавніших часів до сьогодення.",
+    "full": "Національний музей історії України є одним із найважливіших культурних закладів країни, заснованим у 1899 році як Музей старожитностей та мистецтв. Розташований у серці Києва на вулиці Володимирській, музей займає історичну будівлю колишньої художньої школи з класичним фасадом.\n\nМузейна колекція налічує понад 800 000 експонатів світового значення: археологічні та нумізматичні збірки, етнографічні колекції, колекції зброї, пам'ятки декоративно-прикладного мистецтва, рукописи, стародруки, твори живопису та графіки, реліквії українського національно-визвольного руху ХХ століття. Експозиція відображає історію України від найдавніших часів до сучасності.\n\nУ 2000 році музей пройшов ребрендинг з абревіатурою МІСТ (Музей ІСТорії), що символізує місце, де минуле і майбутнє зустрічаються, де об'єднуються цивілізації та знання. Музей має філію — Скарбницю Національного музею історії України, де зберігаються унікальні матеріали з дорогоцінних металів та коштовного каміння.\n\nПісля початку повномасштабного російського вторгнення у лютому 2022 року експонати музею були демонтовані та евакуйовані, але музей продовжує реалізовувати тимчасові виставкові проекти та збирати матеріали російсько-української війни.",
+    "history": "Історія музею розпочалася у 1899 році з археологічної виставки у недобудованій будівлі на Олександрівській вулиці (нині вулиця Грушевського, 6). Будівлю для музею спроектував видатний київський архітектор Владислав Городецький, а кошти на будівництво зібрали кияни.\n\nУ 1904 році музей був освячений і офіційно відкритий під новою назвою — Київський художньо-промисловий і науковий музей. Значну роль у формуванні музейної колекції відіграли перший директор Микола Біляшівський, археолог Вікентій Хвойка та завідувач історико-етнографічними відділами Данило Щербаківський. Колекції поповнювалися завдяки меценатській підтримці родини Терещенків та Богдана Ханенка.\n\nПід час Першої світової війни та періоду національно-визвольних змагань музей продовжував працювати. У 1919 році Рада народних комісарів УРСР націоналізувала музей, перейменувавши його на Перший державний музей. Після Другої світової війни найцінніші експонати було евакуйовано до Уфи та повернено до Києва у 1947 році.\n\nУ 1944 році музей отримав приміщення на вулиці Володимирській, 2, де працює досі. 15 жовтня 1991 року, після відновлення незалежності України, постановою Кабінету Міністрів музей отримав статус Національного музею історії України.",
+    "significance": "Національний музей історії України є одним із провідних музеїв країни за кількістю та цінністю колекцій. Його фондові збірки включають понад 800 000 експонатів світового значення: археологічні та нумізматичні колекції, етнографічні збірки, колекції зброї, пам'ятки декоративно-прикладного мистецтва, рукописи, стародруки, твори живопису та графіки.\n\nМузей є важливим науково-дослідним центром, який зберігає та досліджує культурну спадщину України, робить історію України зрозумілішою для українців і світу. Абревіатура МІСТ (мост) символізує, що музей з'єднує не лише епохи, але й людей.\n\nСьогодні музей продовжує виконувати важливу місію збереження національної пам'яті, особливо в умовах війни, документуючи російсько-українську війну для майбутніх поколінь."
+  },
+
+  "description_en": {
+    "short": "The National Museum of the History of Ukraine is one of the country's leading museums with a unique collection of over 800,000 exhibits chronicling Ukraine's history from ancient times to the present day.",
+    "full": "The National Museum of the History of Ukraine is one of the most important cultural institutions in the country, founded in 1899 as the Museum of Antiquities and Art. Located in the heart of Kyiv on Volodymyrska Street, the museum occupies a historic building of the former art school with a classical facade.\n\nThe museum's collection includes over 800,000 exhibits of world significance: archaeological and numismatic collections, ethnographic collections, weapons collections, decorative and applied art monuments, manuscripts, old prints, paintings and graphics, and relics of the Ukrainian national liberation movement of the 20th century. The exhibition reflects the history of Ukraine from ancient times to the present.\n\nIn 2000, the museum underwent rebranding with the acronym MIST (Museum of HISTory), symbolizing a place where past and future meet, where civilizations and knowledge unite. The museum has a branch - the Treasury of the National Museum of the History of Ukraine, which stores unique materials made of precious metals and precious stones.\n\nAfter the full-scale Russian invasion began in February 2022, the museum's exhibits were dismantled and evacuated, but the museum continues to implement temporary exhibition projects and collect materials on the Russian-Ukrainian war.",
+    "history": "The museum's history began in 1899 with an archaeological exhibition in an unfinished building on Oleksandrivska Street (now Hrushevskyi Street, 6). The prominent Kyiv architect Vladyslav Horodetskyi designed the building for the museum, and Kyiv residents raised funds for its construction.\n\nIn 1904, the museum was consecrated and officially opened under a new name - Kyiv Art-Industrial and Scientific Museum. Significant roles in forming the museum collection were played by first director Mykola Biliashivskyi, archaeologist Vikentii Khvoika, and head of historical-ethnographic departments Danylo Shcherbakivskyi. Collections were replenished thanks to patronage from the Tereshchenko family and Bohdan Khanenko.\n\nDuring World War I and the period of national liberation struggles, the museum continued to operate. In 1919, the Council of People's Commissars of the Ukrainian SSR nationalized the museum, renaming it the First State Museum. After World War II, the most valuable exhibits were evacuated to Ufa and returned to Kyiv in 1947.\n\nIn 1944, the museum received premises at 2 Volodymyrska Street, where it still operates today. On October 15, 1991, after Ukraine's independence was restored, by resolution of the Cabinet of Ministers, the museum received the status of the National Museum of the History of Ukraine.",
+    "significance": "The National Museum of the History of Ukraine is one of the country's leading museums in terms of the quantity and value of its collections. Its holdings include over 800,000 exhibits of world significance: archaeological and numismatic collections, ethnographic collections, weapons collections, decorative and applied art monuments, manuscripts, old prints, paintings and graphics.\n\nThe museum is an important research center that preserves and studies Ukraine's cultural heritage, making Ukrainian history more understandable for Ukrainians and the world. The acronym MIST (bridge) symbolizes that the museum connects not only epochs but also people.\n\nToday, the museum continues to fulfill its important mission of preserving national memory, especially during wartime, documenting the Russian-Ukrainian war for future generations."
+  },
+
+  "description_de": {
+    "short": "Das Nationale Museum der Geschichte der Ukraine ist eines der führenden Museen des Landes mit einer einzigartigen Sammlung von über 800.000 Exponaten, die die Geschichte der Ukraine von der Antike bis zur Gegenwart erzählen.",
+    "full": "Das Nationale Museum der Geschichte der Ukraine ist eine der wichtigsten Kulturinstitutionen des Landes, gegründet 1899 als Museum für Altertümer und Kunst. Das Museum befindet sich im Herzen Kiews in der Wolodymyrska-Straße und nimmt ein historisches Gebäude der ehemaligen Kunstschule mit klassischer Fassade ein.\n\nDie Museumssammlung umfasst über 800.000 Exponate von Weltbedeutung: archäologische und numismatische Sammlungen, ethnographische Sammlungen, Waffensammlungen, Denkmäler der dekorativen und angewandten Kunst, Manuskripte, alte Drucke, Gemälde und Grafiken sowie Reliquien der ukrainischen Befreiungsbewegung des 20. Jahrhunderts. Die Ausstellung spiegelt die Geschichte der Ukraine von der Antike bis zur Gegenwart wider.\n\nIm Jahr 2000 wurde das Museum mit dem Akronym MIST (Museum der GESCHichte) umbenannt, das einen Ort symbolisiert, an dem Vergangenheit und Zukunft zusammentreffen, wo Zivilisationen und Wissen vereint werden. Das Museum hat eine Filiale - die Schatzkammer des Nationalen Museums der Geschichte der Ukraine, in der einzigartige Materialien aus Edelmetallen und Edelsteinen aufbewahrt werden.\n\nNach Beginn der umfassenden russischen Invasion im Februar 2022 wurden die Exponate des Museums demontiert und evakuiert, aber das Museum setzt weiterhin temporäre Ausstellungsprojekte um und sammelt Materialien über den russisch-ukrainischen Krieg.",
+    "history": "Die Geschichte des Museums begann 1899 mit einer archäologischen Ausstellung in einem unfertigen Gebäude in der Oleksandrivska-Straße (heute Hruschewskyj-Straße, 6). Der prominente Kiewer Architekt Wladyslaw Horodetskyi entwarf das Gebäude für das Museum, und die Kiewer Einwohner sammelten Geld für den Bau.\n\nIm Jahr 1904 wurde das Museum geweiht und offiziell unter einem neuen Namen eröffnet - Kiewer Kunstindustrie- und Wissenschaftsmuseum. Eine bedeutende Rolle bei der Bildung der Museumssammlung spielten der erste Direktor Mykola Biljaschiwskyj, der Archäologe Wikentij Chwojka und der Leiter der historisch-ethnographischen Abteilungen Danylo Schtscherbakiwskyj.\n\n1991, nach der Wiederherstellung der Unabhängigkeit der Ukraine, erhielt das Museum durch Beschluss des Ministerkabinetts den Status des Nationalen Museums der Geschichte der Ukraine.",
+    "significance": "Das Nationale Museum der Geschichte der Ukraine ist eines der führenden Museen des Landes hinsichtlich der Quantität und des Wertes seiner Sammlungen. Seine Bestände umfassen über 800.000 Exponate von Weltbedeutung.\n\nDas Museum ist ein wichtiges Forschungszentrum, das das kulturelle Erbe der Ukraine bewahrt und erforscht und die ukrainische Geschichte für Ukrainer und die Welt verständlicher macht. Heute erfüllt das Museum weiterhin seine wichtige Mission, das nationale Gedächtnis zu bewahren, insbesondere in Kriegszeiten."
+  },
+
+  "location": {
+    "city": "Kyiv",
+    "region": "Kyiv Oblast",
+    "address_uk": "вул. Володимирська, 2, Київ, 01001",
+    "address_en": "2 Volodymyrska Street, Kyiv, 01001",
+    "address_de": "Wolodymyrska-Straße 2, Kiew, 01001",
+    "coordinates": {
+      "latitude": 50.4547,
+      "longitude": 30.5238
+    },
+    "directions_uk": {
+      "general": "Розташований у центрі Києва на вулиці Володимирській, поблизу Золотих воріт",
+      "publicTransport": "Станція метро 'Золоті ворота' (5 хвилин пішки), станція метро 'Театральна' (10 хвилин пішки). Тролейбуси 16, 18, автобуси 24, 62",
+      "car": "З центру Києва — 5-10 хвилин. Парковка обмежена на вулицях центру міста",
+      "parking": "Платні паркінги поблизу, вуличні парковки з обмеженням часу"
+    },
+    "directions_en": {
+      "general": "Located in the center of Kyiv on Volodymyrska Street, near the Golden Gate",
+      "publicTransport": "Metro station 'Zoloti Vorota' (5 minutes walk), metro station 'Teatralna' (10 minutes walk). Trolleybuses 16, 18, buses 24, 62",
+      "car": "From Kyiv city center - 5-10 minutes. Limited parking in city center streets",
+      "parking": "Paid parking nearby, street parking with time limits"
+    },
+    "directions_de": {
+      "general": "Im Zentrum von Kiew in der Wolodymyrska-Straße, in der Nähe des Goldenen Tors gelegen",
+      "publicTransport": "U-Bahnstation 'Soloti Worota' (5 Minuten zu Fuß), U-Bahnstation 'Teatralna' (10 Minuten zu Fuß). Oberleitungsbusse 16, 18, Busse 24, 62",
+      "car": "Vom Kiewer Stadtzentrum - 5-10 Minuten. Begrenzte Parkplätze in den Straßen des Stadtzentrums",
+      "parking": "Bezahlte Parkplätze in der Nähe, Straßenparkplätze mit Zeitlimit"
+    },
+    "nearbyAttractions": [
+      {
+        "name_uk": "Золоті ворота",
+        "name_en": "Golden Gate",
+        "distance": "0.4 km",
+        "type": "historical-monument"
+      },
+      {
+        "name_uk": "Софійський собор",
+        "name_en": "St. Sophia Cathedral",
+        "distance": "0.8 km",
+        "type": "unesco-site"
+      },
+      {
+        "name_uk": "Михайлівський Золотоверхий монастир",
+        "name_en": "St. Michael's Golden-Domed Monastery",
+        "distance": "1.2 km",
+        "type": "monastery"
+      }
+    ]
+  },
+
+  "contact": {
+    "phone": "+380 44 278 48 64",
+    "email": "history_museum@nmiu.org",
+    "website": "https://nmiu.org/en",
+    "bookingUrl": "https://tickets.nmiu.org/",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/mist.museum",
+      "instagram": "https://www.instagram.com/mist.museum/",
+      "twitter": null,
+      "youtube": "https://www.youtube.com/channel/UC0JAcxgF0zp3-JGC5VhZESQ"
+    }
+  },
+
+  "visitingInformation": {
+    "openingTimes": {
+      "status_uk": "Відкрито щодня",
+      "status_en": "Open daily",
+      "status_de": "Täglich geöffnet",
+      "seasonal": [
+        {
+          "season_uk": "Цілий рік",
+          "season_en": "Year-round",
+          "season_de": "Ganzjährig",
+          "days_uk": "Щодня",
+          "days_en": "Daily",
+          "days_de": "Täglich",
+          "hours": "10:00 - 18:00",
+          "lastAdmission": "17:00"
+        }
+      ]
+    },
+    "admissionPrices": {
+      "currency": "UAH",
+      "adult": 80,
+      "student": 40,
+      "child": 20,
+      "senior": 40,
+      "family": null,
+      "notes_uk": "Діти до 7 років - безкоштовно. Онлайн бронювання квитків доступне",
+      "notes_en": "Children under 7 - free. Online ticket booking available",
+      "notes_de": "Kinder unter 7 Jahren - kostenlos. Online-Ticketbuchung verfügbar"
+    },
+    "tourOptions": [
+      {
+        "type_uk": "Самостійний огляд",
+        "type_en": "Self-guided tour",
+        "type_de": "Selbstgeführte Tour",
+        "duration_uk": "1-2 години",
+        "duration_en": "1-2 hours",
+        "duration_de": "1-2 Stunden",
+        "price": 0
+      },
+      {
+        "type_uk": "Екскурсія з гідом українською",
+        "type_en": "Guided tour in Ukrainian",
+        "type_de": "Führung auf Ukrainisch",
+        "duration_uk": "1 година",
+        "duration_en": "1 hour",
+        "duration_de": "1 Stunde",
+        "price": 300,
+        "groupSize": "до 25 осіб / up to 25 people / bis 25 Personen"
+      },
+      {
+        "type_uk": "Екскурсія з гідом англійською",
+        "type_en": "Guided tour in English",
+        "type_de": "Führung auf Englisch",
+        "duration_uk": "1 година",
+        "duration_en": "1 hour",
+        "duration_de": "1 Stunde",
+        "price": 400,
+        "groupSize": "до 20 осіб / up to 20 people / bis 20 Personen"
+      }
+    ],
+    "averageVisitDuration_uk": "2-3 години",
+    "averageVisitDuration_en": "2-3 hours",
+    "averageVisitDuration_de": "2-3 Stunden",
+    "busyPeriods_uk": ["Вихідні дні", "Свята", "Червень-серпень"],
+    "busyPeriods_en": ["Weekends", "Holidays", "June-August"],
+    "busyPeriods_de": ["Wochenenden", "Feiertage", "Juni-August"],
+    "adviceForVisitors_uk": "Рекомендуємо бронювати квитки онлайн. Візьміть зручне взуття для тривалого огляду. Фотографування дозволено (перевірте правила для окремих експозицій). Скарбниця розташована за окремою адресою на вулиці Лаврській, 9.",
+    "adviceForVisitors_en": "We recommend booking tickets online. Wear comfortable shoes for extended viewing. Photography is allowed (check rules for individual exhibitions). The Treasury is located at a separate address at 9 Lavrska Street.",
+    "adviceForVisitors_de": "Wir empfehlen, Tickets online zu buchen. Tragen Sie bequeme Schuhe für längere Besichtigungen. Fotografieren ist erlaubt (überprüfen Sie die Regeln für einzelne Ausstellungen). Die Schatzkammer befindet sich an einer separaten Adresse in der Lavrska-Straße 9."
+  },
+
+  "features": {
+    "highlights_uk": [
+      "Понад 800 000 експонатів світового значення",
+      "Унікальні археологічні та нумізматичні колекції",
+      "Етнографічні збірки з усіх регіонів України",
+      "Колекції зброї різних епох",
+      "Декоративно-прикладне мистецтво",
+      "Рукописи та стародруки",
+      "Реліквії українського національно-визвольного руху",
+      "Скарбниця з експонатами з дорогоцінних металів",
+      "Тимчасові виставки сучасного мистецтва"
+    ],
+    "highlights_en": [
+      "Over 800,000 exhibits of world significance",
+      "Unique archaeological and numismatic collections",
+      "Ethnographic collections from all regions of Ukraine",
+      "Weapons collections from various epochs",
+      "Decorative and applied arts",
+      "Manuscripts and old prints",
+      "Relics of Ukrainian national liberation movement",
+      "Treasury with precious metal exhibits",
+      "Temporary contemporary art exhibitions"
+    ],
+    "highlights_de": [
+      "Über 800.000 Exponate von Weltbedeutung",
+      "Einzigartige archäologische und numismatische Sammlungen",
+      "Ethnographische Sammlungen aus allen Regionen der Ukraine",
+      "Waffensammlungen aus verschiedenen Epochen",
+      "Dekorative und angewandte Kunst",
+      "Manuskripte und alte Drucke",
+      "Reliquien der ukrainischen Befreiungsbewegung",
+      "Schatzkammer mit Edelmetallexponaten",
+      "Temporäre zeitgenössische Kunstausstellungen"
+    ],
+    "facilities_uk": ["Музей", "Скарбниця (окрема локація)", "Виставкові зали", "Каса", "Гардероб", "Туалети", "Сувенірна крамниця"],
+    "facilities_en": ["Museum", "Treasury (separate location)", "Exhibition halls", "Ticket office", "Cloakroom", "Toilets", "Gift shop"],
+    "facilities_de": ["Museum", "Schatzkammer (separater Standort)", "Ausstellungsräume", "Kasse", "Garderobe", "Toiletten", "Souvenirladen"],
+    "accessibility": {
+      "wheelchairAccessible": false,
+      "notes_uk": "Будівля має обмежений доступ для людей з інвалідністю через історичну архітектуру. Деякі зали доступні на першому поверсі. Музей працює над покращенням доступності.",
+      "notes_en": "The building has limited wheelchair access due to historic architecture. Some halls are accessible on the ground floor. The museum is working on improving accessibility.",
+      "notes_de": "Das Gebäude hat aufgrund der historischen Architektur einen eingeschränkten Rollstuhlzugang. Einige Säle sind im Erdgeschoss zugänglich. Das Museum arbeitet an der Verbesserung der Zugänglichkeit."
+    },
+    "uniqueSellingPoints_uk": [
+      "Найбільша історична колекція в Україні",
+      "Понад 120 років історії музейництва",
+      "Унікальна Скарбниця з дорогоцінними експонатами",
+      "Провідний науково-дослідний центр",
+      "Документування сучасної історії України під час війни",
+      "Розташування в історичному центрі Києва"
+    ],
+    "uniqueSellingPoints_en": [
+      "Largest historical collection in Ukraine",
+      "Over 120 years of museum history",
+      "Unique Treasury with precious exhibits",
+      "Leading research center",
+      "Documenting Ukraine's contemporary history during war",
+      "Location in Kyiv's historic center"
+    ],
+    "uniqueSellingPoints_de": [
+      "Größte historische Sammlung in der Ukraine",
+      "Über 120 Jahre Museumsgeschichte",
+      "Einzigartige Schatzkammer mit wertvollen Exponaten",
+      "Führendes Forschungszentrum",
+      "Dokumentation der zeitgenössischen Geschichte der Ukraine während des Krieges",
+      "Lage im historischen Zentrum von Kiew"
+    ]
+  },
+
+  "images": {
+    "heroImage": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/%D0%9D%D0%B0%D1%86%D1%96%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9_%D0%BC%D1%83%D0%B7%D0%B5%D0%B9_%D1%96%D1%81%D1%82%D0%BE%D1%80%D1%96%D1%97_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8%2C_2015_%D1%80..jpg",
+      "alt_uk": "Національний музей історії України, головний фасад будівлі",
+      "alt_en": "National Museum of the History of Ukraine, main building facade",
+      "alt_de": "Nationales Museum der Geschichte der Ukraine, Hauptfassade des Gebäudes",
+      "caption_uk": "Головна будівля музею на вулиці Володимирській в історичному центрі Києва",
+      "caption_en": "Main museum building on Volodymyrska Street in Kyiv's historic center",
+      "caption_de": "Hauptgebäude des Museums in der Wolodymyrska-Straße im historischen Zentrum von Kiew"
+    },
+    "gallery": [
+      {
+        "url": "https://nmiu.org/images/museum-interior-1.jpg",
+        "alt_uk": "Експозиція археологічного відділу",
+        "alt_en": "Archaeological department exhibition",
+        "alt_de": "Ausstellung der archäologischen Abteilung",
+        "caption_uk": "Один із залів археологічної експозиції музею"
+      },
+      {
+        "url": "https://nmiu.org/images/treasury-exhibits.jpg",
+        "alt_uk": "Експонати Скарбниці",
+        "alt_en": "Treasury exhibits",
+        "alt_de": "Exponate der Schatzkammer",
+        "caption_uk": "Унікальні вироби з дорогоцінних металів у Скарбниці"
+      },
+      {
+        "url": "https://nmiu.org/images/ethnographic-collection.jpg",
+        "alt_uk": "Етнографічна колекція",
+        "alt_en": "Ethnographic collection",
+        "alt_de": "Ethnographische Sammlung",
+        "caption_uk": "Традиційні українські костюми та предмети побуту"
+      },
+      {
+        "url": "https://nmiu.org/images/weapons-collection.jpg",
+        "alt_uk": "Колекція зброї",
+        "alt_en": "Weapons collection",
+        "alt_de": "Waffensammlung",
+        "caption_uk": "Історична зброя різних епох української історії"
+      }
+    ]
+  },
+
+  "historicalData": {
+    "yearBuilt": "1899",
+    "yearBuiltNote_uk": "Заснований у 1899 році як Музей старожитностей та мистецтв",
+    "yearBuiltNote_en": "Founded in 1899 as the Museum of Antiquities and Art",
+    "yearBuiltNote_de": "1899 als Museum für Altertümer und Kunst gegründet",
+    "architecturalStyle_uk": "Класична архітектура XIX століття",
+    "architecturalStyle_en": "19th-century classical architecture",
+    "architecturalStyle_de": "Klassische Architektur des 19. Jahrhunderts",
+    "architects": [
+      {
+        "name": "Владислав Городецький (Vladyslav Horodetskyi)",
+        "period": "1899-1904",
+        "contribution_uk": "Проектування оригінальної будівлі музею",
+        "contribution_en": "Design of the original museum building",
+        "contribution_de": "Entwurf des ursprünglichen Museumsgebäudes"
+      }
+    ],
+    "unescoStatus": "none",
+    "unescoYear": null,
+    "nationalHeritageStatus": "National Museum of Ukraine",
+    "referenceNumber": "NMHU-001",
+    "managedBy_uk": "Міністерство культури та інформаційної політики України",
+    "managedBy_en": "Ministry of Culture and Information Policy of Ukraine",
+    "managedBy_de": "Ministerium für Kultur und Informationspolitik der Ukraine"
+  },
+
+  "culturalEvents": [
+    {
+      "name_uk": "Тимчасові виставки",
+      "name_en": "Temporary Exhibitions",
+      "name_de": "Temporäre Ausstellungen",
+      "period_uk": "Цілий рік",
+      "period_en": "Year-round",
+      "period_de": "Ganzjährig",
+      "description_uk": "Музей регулярно організовує тимчасові виставки присвячені різним аспектам української історії та культури",
+      "description_en": "The museum regularly organizes temporary exhibitions dedicated to various aspects of Ukrainian history and culture",
+      "description_de": "Das Museum organisiert regelmäßig temporäre Ausstellungen zu verschiedenen Aspekten der ukrainischen Geschichte und Kultur"
+    },
+    {
+      "name_uk": "Науковідконференції",
+      "name_en": "Scientific Conferences",
+      "name_de": "Wissenschaftliche Konferenzen",
+      "period_uk": "Протягом року",
+      "period_en": "Throughout the year",
+      "period_de": "Das ganze Jahr über",
+      "description_uk": "Музей проводить наукові конференції, семінари та круглі столи з актуальних питань історії та музеєзнавства",
+      "description_en": "The museum conducts scientific conferences, seminars and roundtables on current issues of history and museology",
+      "description_de": "Das Museum führt wissenschaftliche Konferenzen, Seminare und Rundtischgespräche zu aktuellen Fragen der Geschichte und Museologie durch"
+    },
+    {
+      "name_uk": "Музейна ніч",
+      "name_en": "Museum Night",
+      "name_de": "Museumsnacht",
+      "period_uk": "Травень (щорічно)",
+      "period_en": "May (annually)",
+      "period_de": "Mai (jährlich)",
+      "description_uk": "Участь у міжнародній акції 'Ніч музеїв' з безкоштовним відвідуванням та спеціальними програмами",
+      "description_en": "Participation in the international 'Museum Night' event with free admission and special programs",
+      "description_de": "Teilnahme an der internationalen Veranstaltung 'Museumsnacht' mit freiem Eintritt und Sonderprogrammen"
+    }
+  ],
+
+  "tags": [
+    "museum",
+    "history",
+    "archaeology",
+    "ethnography",
+    "kyiv",
+    "national-museum",
+    "ukrainian-history",
+    "cultural-heritage",
+    "treasury",
+    "numismatics",
+    "manuscripts",
+    "weapons",
+    "decorative-arts",
+    "research-center",
+    "exhibitions"
+  ],
+
+  "suitableFor_uk": [
+    "Любителі історії",
+    "Студенти та школярі",
+    "Науковці та дослідники",
+    "Туристи",
+    "Сімейні відвідування",
+    "Шкільні екскурсії",
+    "Археологи та етнографи"
+  ],
+  "suitableFor_en": [
+    "History enthusiasts",
+    "Students and schoolchildren",
+    "Scientists and researchers",
+    "Tourists",
+    "Family visits",
+    "School excursions",
+    "Archaeologists and ethnographers"
+  ],
+  "suitableFor_de": [
+    "Geschichtsinteressierte",
+    "Studenten und Schüler",
+    "Wissenschaftler und Forscher",
+    "Touristen",
+    "Familienbesuche",
+    "Schulausflüge",
+    "Archäologen und Ethnographen"
+  ],
+
+  "weatherDependent": false,
+  "indoorActivities": true,
+  "outdoorActivities": false,
+
+  "priceRange": "$$",
+  "rating": 4.7,
+  "reviewsCount": 2847,
+  "featured": true,
+  "status": "published",
+
+  "metaDescription_uk": "Національний музей історії України в Києві — один із провідних музеїв країни з колекцією понад 800 000 експонатів. Археологія, етнографія, Скарбниця. Онлайн квитки.",
+  "metaDescription_en": "National Museum of the History of Ukraine in Kyiv - one of the country's leading museums with over 800,000 exhibits. Archaeology, ethnography, Treasury. Online tickets.",
+  "metaDescription_de": "Nationales Museum der Geschichte der Ukraine in Kiew - eines der führenden Museen des Landes mit über 800.000 Exponaten. Archäologie, Ethnographie, Schatzkammer. Online-Tickets.",
+
+  "keywords": [
+    "Національний музей історії України",
+    "National Museum of the History of Ukraine",
+    "Київ",
+    "Kyiv",
+    "музей",
+    "museum",
+    "історія України",
+    "Ukrainian history",
+    "археологія",
+    "archaeology",
+    "етнографія",
+    "ethnography",
+    "Скарбниця",
+    "Treasury",
+    "культурна спадщина",
+    "cultural heritage"
+  ],
+
+  "lastUpdated": "2025-11-30",
+  "source": "Official website nmiu.org, Wikipedia, UNESCO",
+  "verified": true
+}

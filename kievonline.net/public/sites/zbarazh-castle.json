@@ -1,0 +1,392 @@
+{
+  "id": "zbarazh-castle",
+  "slug": "zbarazh-castle",
+
+  "name_uk": "Збаразький замок",
+  "name_en": "Zbarazh Castle",
+  "name_de": "Festung Zbarazh",
+
+  "tagline_uk": "Ренесансна фортеця XVII століття — свідок героїчної облоги 1649 року",
+  "tagline_en": "A 17th-century Renaissance fortress — witness to the heroic siege of 1649",
+  "tagline_de": "Eine Renaissance-Festung aus dem 17. Jahrhundert — Zeuge der heroischen Belagerung von 1649",
+
+  "category": "castle",
+  "subcategories": ["fortress", "renaissance-architecture", "museum", "historical-monument"],
+  "region": "Zbarazh",
+  "oblast": "Ternopil Oblast",
+
+  "description_uk": {
+    "short": "Збаразький замок — це укріплена оборонна твердиня XVII століття в місті Збараж, що славиться героїчною обороною під час козацької облоги 1649 року та є центром Державного історико-архітектурного заповідника 'Замки Тернопілля'.",
+    "full": "Збаразький замок, розташований на Замкових пагорбах у центрі міста Збараж Тернопільської області, є видатною пам'яткою оборонної архітектури епохи Ренесансу та раннього Бароко. Фортеця займає домінуюче положення над містом і вражає своєю потужністю та величчю.\n\nЗамок був побудований у 1626-1631 роках за проектом голландського архітектора Генріка ван Пеєне для останніх представників князівського роду Збаразьких — Криштофа та Юрія. Комплекс являє собою прямокутну фортецю з чотирма бастіонами по кутах, оточену глибоким ровом та потужними валами. Всередині розташований двоповерховий палац у стилі Ренесансу з елементами раннього Бароко.\n\nЗбаразький замок увійшов в історію завдяки героїчній обороні під час Визвольної війни під проводом Богдана Хмельницького. У липні-серпні 1649 року козацьке військо на чолі з Богданом Хмельницьким облягало замок, де укріпився польський гарнізон під командуванням князя Яремії Вишневецького. Ця облога стала одним із найдраматичніших епізодів війни і була описана Генриком Сенкевичем у романі 'Вогнем і мечем'.\n\nПісля Визвольної війни замок перебував у власності різних магнатських родів: Вишневецьких, Потоцьких. У XVIII столітті фортеця втратила оборонне значення і була частково перебудована в палацову резиденцію. У 1994 році замок отримав статус Державного історико-культурного заповідника, а у 2005 році став центром національного заповідника 'Замки Тернопілля'.\n\nСьогодні Збаразький замок є одним із найкраще збережених ренесансних замків України з потужним музейним комплексом, що налічує понад 50,000 експонатів.",
+    "history": "Перші укріплення на місці сучасного Збаража з'явилися ще у 1211 році, коли литовські князі Збаразькі побудували дерев'яну фортецю в околиці сучасного села Старий Збараж. Після двох руйнівних татарських нападів у 1474 та 1589 роках, коли дерев'яні замки були спалені, князь Януш Збаразький вирішив побудувати кам'яну фортецю на новому місці.\n\nБудівництво сучасного замку розпочалося у 1626 році за ініціативи останніх представників роду Збаразьких — Криштофа та його брата Юрія. Спочатку розглядався проект відомого венеціанського архітектора Вінченцо Скамоцці, але він був відхилений як занадто витончений для оборонної споруди. Натомість був обраний проект голландського архітектора Генріка ван Пеєне, який мав досвід будівництва палацу Збаразьких у Кракові.\n\nВан Пеєне створив укріплення за принципом 'палаццо ін фортецца' (палац у фортеці), поєднавши комфортну резиденцію з потужними оборонними спорудами. Будівництво тривало до 1631 року. Фортеця мала прямокутний план з чотирма бастіонами по кутах, високі земляні вали до 12 метрів, широкий рів до 40 метрів та потужні казарми в товщі валів.\n\nУ 1648 році під час Визвольної війни замок вперше зазнав облоги козацьких військ, але витримав атаку. У 1649 році відбулася знаменита облога, коли 100-тисячне козацько-татарське військо Богдана Хмельницького оточило замок. Облога тривала з 10 липня до 25 серпня 1649 року і завершилася Зборівським перемир'ям.\n\nУ 1675 році замок був захоплений і спалений турками, але згодом відновлений Димитрієм Вишневецьким. У XVIII столітті замок втратив військове значення і став палацовою резиденцією. У 1928 році замок оголошено історико-культурним заповідником.",
+    "significance": "Збаразький замок є унікальною пам'яткою оборонної архітектури епохи Ренесансу та раннього Бароко в Україні. Це один із небагатьох замків, що зберігся у відносно непорушеному вигляді з повним комплексом укріплень: бастіонами, валами, ровами та казематами. Замок демонструє найдосконаліші досягнення європейського фортифікаційного мистецтва XVII століття. У 2005 році отримав статус Національного заповідника 'Замки Тернопілля'. Замок є місцем важливих історичних подій, описаних у класичній літературі, зокрема в романі Генрика Сенкевича 'Вогнем і мечем'. Музейна колекція налічує 50,000 експонатів, включаючи унікальні зразки трипільської культури, козацького озброєння, дерев'яної скульптури та церковного мистецтва."
+  },
+
+  "description_en": {
+    "short": "Zbarazh Castle is a 17th-century fortified stronghold in the town of Zbarazh, famous for its heroic defense during the 1649 Cossack siege and serving as the center of the State Historical-Architectural Reserve 'Castles of Ternopil Oblast'.",
+    "full": "Zbarazh Castle, located on the Castle Hills in the center of Zbarazh, Ternopil Oblast, is an outstanding monument of Renaissance and early Baroque defensive architecture. The fortress occupies a dominant position over the town and impresses with its power and majesty.\n\nThe castle was built in 1626-1631 according to the design of Dutch architect Henryk van Peene for the last representatives of the princely Zbaraski family — Krzysztof and Jerzy. The complex represents a rectangular fortress with four bastions at the corners, surrounded by a deep moat and powerful ramparts. Inside is a two-story Renaissance palace with elements of early Baroque.\n\nZbarazh Castle entered history through its heroic defense during the Liberation War led by Bohdan Khmelnytsky. In July-August 1649, Cossack forces led by Bohdan Khmelnytsky besieged the castle, where Polish garrison under Prince Jeremi Wiśniowiecki had fortified. This siege became one of the most dramatic episodes of the war and was described by Henryk Sienkiewicz in his novel 'With Fire and Sword'.\n\nToday, Zbarazh Castle is one of the best-preserved Renaissance castles in Ukraine with a powerful museum complex containing over 50,000 exhibits.",
+    "history": "The first fortifications at the site of modern Zbarazh appeared in 1211, when Lithuanian princes Zbaraski built a wooden fortress in the vicinity of modern Staryi Zbarazh village. After two devastating Tatar raids in 1474 and 1589, when wooden castles were burned, Prince Janusz Zbaraski decided to build a stone fortress in a new location.\n\nConstruction of the modern castle began in 1626 at the initiative of the last representatives of the Zbaraski family — Krzysztof and his brother Jerzy. Initially, the project of famous Venetian architect Vincenzo Scamozzi was considered, but it was rejected as too refined for a defensive structure. Instead, the project of Dutch architect Henryk van Peene was chosen, who had experience building the Zbaraski palace in Kraków.\n\nVan Peene created fortifications according to the 'palazzo in fortezza' (palace in fortress) principle, combining a comfortable residence with powerful defensive structures. Construction lasted until 1631.",
+    "significance": "Zbarazh Castle is a unique monument of Renaissance and early Baroque defensive architecture in Ukraine. It is one of the few castles preserved in relatively intact condition with a complete complex of fortifications: bastions, ramparts, moats and casemates. The castle demonstrates the most advanced achievements of 17th-century European fortification art. In 2005 it received the status of National Reserve 'Castles of Ternopil Oblast'. The museum collection contains 50,000 exhibits, including unique examples of Trypillian culture, Cossack weapons, wooden sculpture and church art."
+  },
+
+  "description_de": {
+    "short": "Die Festung Zbarazh ist eine befestigte Festung aus dem 17. Jahrhundert in der Stadt Zbarazh, berühmt für ihre heroische Verteidigung während der Kosakenbelagerung von 1649.",
+    "full": "Die Festung Zbarazh, gelegen auf den Schlosshügeln im Zentrum von Zbarazh, Oblast Ternopil, ist ein herausragendes Denkmal der Renaissance- und frühbarocken Verteidigungsarchitektur. Die Festung nimmt eine dominierende Position über der Stadt ein und beeindruckt durch ihre Macht und Größe.\n\nDie Burg wurde 1626-1631 nach dem Entwurf des niederländischen Architekten Henryk van Peene für die letzten Vertreter der Fürstenfamilie Zbaraski — Krzysztof und Jerzy — erbaut.",
+    "history": "Die ersten Befestigungen am Standort des modernen Zbarazh entstanden 1211, als litauische Fürsten Zbaraski eine Holzfestung in der Nähe des heutigen Dorfes Staryi Zbarazh errichteten.",
+    "significance": "Die Festung Zbarazh ist ein einzigartiges Denkmal der Renaissance- und frühbarocken Verteidigungsarchitektur in der Ukraine. 2005 erhielt sie den Status eines Nationalen Reservats 'Burgen des Oblast Ternopil'."
+  },
+
+  "location": {
+    "city": "Zbarazh",
+    "region": "Ternopil Oblast",
+    "address_uk": "вул. Замкова, 3, Збараж, Тернопільська область, 47300",
+    "address_en": "3 Zamkova Street, Zbarazh, Ternopil Oblast, 47300",
+    "address_de": "Zamkowa-Straße 3, Zbarazh, Oblast Ternopil, 47300",
+    "coordinates": {
+      "latitude": 49.66333,
+      "longitude": 25.78528
+    },
+    "directions_uk": {
+      "general": "Розташований у центрі міста Збараж на Замкових пагорбах",
+      "publicTransport": "Автобусом з Тернополя до Збаража (40 км, 45 хвилин), далі пішки 5 хвилин до замку",
+      "car": "З Києва — 420 км трасою М06 через Хмельницький і Тернопіль (близько 5.5 годин). З Львова — 120 км трасою Е40 через Тернопіль (близько 1.5 години). З Тернополя — 40 км трасою Н18 (близько 40 хвилин)",
+      "parking": "Безкоштовна парковка біля входу до замку"
+    },
+    "directions_en": {
+      "general": "Located in the center of Zbarazh on Castle Hills",
+      "publicTransport": "By bus from Ternopil to Zbarazh (40 km, 45 minutes), then 5 minutes walk to castle",
+      "car": "From Kyiv - 420 km via M06 through Khmelnytskyi and Ternopil (about 5.5 hours). From Lviv - 120 km via E40 through Ternopil (about 1.5 hours). From Ternopil - 40 km via H18 (about 40 minutes)",
+      "parking": "Free parking near castle entrance"
+    },
+    "directions_de": {
+      "general": "Im Zentrum von Zbarazh auf den Schlosshügeln gelegen",
+      "publicTransport": "Mit dem Bus von Ternopil nach Zbarazh (40 km, 45 Minuten), dann 5 Minuten zu Fuß zur Burg",
+      "car": "Von Kiew - 420 km über M06 durch Chmelnyzkyj und Ternopil (ca. 5,5 Stunden). Von Lwiw - 120 km über E40 durch Ternopil (ca. 1,5 Stunden). Von Ternopil - 40 km über H18 (ca. 40 Minuten)",
+      "parking": "Kostenloser Parkplatz am Burgeingang"
+    },
+    "nearbyAttractions": [
+      {
+        "name_uk": "Бернардинський монастир",
+        "name_en": "Bernardine Monastery",
+        "distance": "0.5 km",
+        "type": "monastery"
+      },
+      {
+        "name_uk": "Костел Святого Антонія",
+        "name_en": "Church of St. Anthony",
+        "distance": "0.3 km",
+        "type": "church"
+      }
+    ]
+  },
+
+  "contact": {
+    "phone": "+380 3550 2-13-94",
+    "email": "zamky.te@gmail.com",
+    "website": "https://zamky.te.ua/",
+    "bookingUrl": null,
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/zamkyternopillia/",
+      "instagram": "https://www.instagram.com/zamky_ternopillia/",
+      "youtube": null
+    }
+  },
+
+  "visitingInformation": {
+    "openingTimes": {
+      "status_uk": "Відкрито цілий рік",
+      "status_en": "Open year-round",
+      "status_de": "Ganzjährig geöffnet",
+      "seasonal": [
+        {
+          "season_uk": "Квітень - Жовтень",
+          "season_en": "April - October",
+          "season_de": "April - Oktober",
+          "days_uk": "Вівторок - Неділя",
+          "days_en": "Tuesday - Sunday",
+          "days_de": "Dienstag - Sonntag",
+          "hours": "10:00 - 18:00",
+          "lastAdmission": "17:30"
+        },
+        {
+          "season_uk": "Листопад - Березень",
+          "season_en": "November - March",
+          "season_de": "November - März",
+          "days_uk": "Вівторок - Неділя",
+          "days_en": "Tuesday - Sunday",
+          "days_de": "Dienstag - Sonntag",
+          "hours": "09:00 - 17:00",
+          "lastAdmission": "16:30"
+        }
+      ]
+    },
+    "admissionPrices": {
+      "currency": "UAH",
+      "adult": 80,
+      "student": 40,
+      "child": 30,
+      "senior": 40,
+      "family": 200,
+      "notes_uk": "Діти до 6 років - безкоштовно. Фото/відеозйомка - 30 грн додатково",
+      "notes_en": "Children under 6 - free. Photo/video - additional 30 UAH",
+      "notes_de": "Kinder unter 6 Jahren - kostenlos. Foto/Video - zusätzlich 30 UAH"
+    },
+    "tourOptions": [
+      {
+        "type_uk": "Самостійний огляд",
+        "type_en": "Self-guided tour",
+        "type_de": "Selbstgeführte Tour",
+        "duration_uk": "1.5-2 години",
+        "duration_en": "1.5-2 hours",
+        "duration_de": "1,5-2 Stunden",
+        "price": 0
+      },
+      {
+        "type_uk": "Екскурсія з гідом українською",
+        "type_en": "Guided tour in Ukrainian",
+        "type_de": "Führung auf Ukrainisch",
+        "duration_uk": "1.5 години",
+        "duration_en": "1.5 hours",
+        "duration_de": "1,5 Stunden",
+        "price": 500,
+        "groupSize": "до 20 осіб / up to 20 people / bis 20 Personen"
+      }
+    ],
+    "averageVisitDuration_uk": "2-2.5 години",
+    "averageVisitDuration_en": "2-2.5 hours",
+    "averageVisitDuration_de": "2-2,5 Stunden",
+    "busyPeriods_uk": ["Літні місяці (червень-серпень)", "Вихідні дні", "Свята"],
+    "busyPeriods_en": ["Summer months (June-August)", "Weekends", "Holidays"],
+    "busyPeriods_de": ["Sommermonate (Juni-August)", "Wochenenden", "Feiertage"],
+    "adviceForVisitors_uk": "Взуйте зручне взуття для ходіння по замку та бастіонах. Рекомендуємо відвідати всі 8 музейних експозицій. Кімната тортур не рекомендується для дітей до 12 років.",
+    "adviceForVisitors_en": "Wear comfortable shoes for walking around castle and bastions. We recommend visiting all 8 museum exhibitions. Torture chamber not recommended for children under 12.",
+    "adviceForVisitors_de": "Tragen Sie bequeme Schuhe zum Gehen auf der Burg und den Bastionen. Wir empfehlen, alle 8 Museumsausstellungen zu besuchen. Folterkammer nicht für Kinder unter 12 Jahren empfohlen."
+  },
+
+  "features": {
+    "highlights_uk": [
+      "Найкраще збережений ренесансний замок України",
+      "Чотири бастіони та потужні земляні вали",
+      "Музейний комплекс з 50,000+ експонатів",
+      "8 музейних експозицій включно з кімнатою тортур",
+      "Археологічна колекція трипільської культури",
+      "Дерев'яна скульптура учнів Йоганна Пінзеля",
+      "Каплиця пророка Іллі XVII століття",
+      "Місце героїчної облоги 1649 року"
+    ],
+    "highlights_en": [
+      "Best preserved Renaissance castle in Ukraine",
+      "Four bastions and powerful earthen ramparts",
+      "Museum complex with 50,000+ exhibits",
+      "8 museum exhibitions including torture chamber",
+      "Archaeological collection of Trypillian culture",
+      "Wooden sculpture by students of Johann Pinsel",
+      "17th-century Chapel of Prophet Elijah",
+      "Site of heroic siege of 1649"
+    ],
+    "highlights_de": [
+      "Am besten erhaltene Renaissance-Burg der Ukraine",
+      "Vier Bastionen und mächtige Erdwälle",
+      "Museumskomplex mit über 50.000 Exponaten",
+      "8 Museumsausstellungen einschließlich Folterkammer",
+      "Archäologische Sammlung der Trypillian-Kultur",
+      "Holzskulptur von Schülern von Johann Pinsel",
+      "Kapelle des Propheten Elija aus dem 17. Jahrhundert",
+      "Ort der heroischen Belagerung von 1649"
+    ],
+    "facilities_uk": ["Музей", "Сувенірний магазин", "Туалети", "Парковка", "Екскурсійне бюро"],
+    "facilities_en": ["Museum", "Gift shop", "Toilets", "Parking", "Tour office"],
+    "facilities_de": ["Museum", "Souvenirladen", "Toiletten", "Parkplatz", "Tourbüro"],
+    "accessibility": {
+      "wheelchairAccessible": true,
+      "notes_uk": "Частково доступний для інвалідних візків. Перший поверх палацу та частина експозицій доступні. Бастіони та вали недоступні через сходи.",
+      "notes_en": "Partially wheelchair accessible. First floor of palace and part of exhibitions accessible. Bastions and ramparts inaccessible due to stairs.",
+      "notes_de": "Teilweise für Rollstühle zugänglich. Erstes Stockwerk des Palastes und Teil der Ausstellungen zugänglich. Bastionen und Wälle wegen Treppen unzugänglich."
+    },
+    "uniqueSellingPoints_uk": [
+      "Центр Національного заповідника 'Замки Тернопілля'",
+      "Єдиний замок з повним комплексом оборонних споруд",
+      "Унікальна колекція дерев'яної скульптури школи Пінзеля",
+      "Місце подій роману 'Вогнем і мечем'",
+      "Найбільша музейна колекція серед замків України"
+    ],
+    "uniqueSellingPoints_en": [
+      "Center of National Reserve 'Castles of Ternopil Oblast'",
+      "Only castle with complete complex of defensive structures",
+      "Unique collection of wooden sculpture from Pinsel school",
+      "Setting of novel 'With Fire and Sword'",
+      "Largest museum collection among castles of Ukraine"
+    ],
+    "uniqueSellingPoints_de": [
+      "Zentrum des Nationalen Reservats 'Burgen des Oblast Ternopil'",
+      "Einzige Burg mit vollständigem Komplex von Verteidigungsanlagen",
+      "Einzigartige Sammlung von Holzskulpturen der Pinsel-Schule",
+      "Schauplatz des Romans 'Mit Feuer und Schwert'",
+      "Größte Museumssammlung unter den Burgen der Ukraine"
+    ]
+  },
+
+  "images": {
+    "heroImage": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/%D0%97%D0%B1%D0%B0%D1%80%D0%B0%D0%B7%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA_DSC7849.jpg",
+      "alt_uk": "Збаразький замок — вид з головного входу",
+      "alt_en": "Zbarazh Castle — view from main entrance",
+      "alt_de": "Festung Zbarazh — Ansicht vom Haupteingang",
+      "caption_uk": "Двоповерховий ренесансний палац Збаразького замку з чотирма бастіонами",
+      "caption_en": "Two-story Renaissance palace of Zbarazh Castle with four bastions",
+      "caption_de": "Zweistöckiger Renaissance-Palast der Festung Zbarazh mit vier Bastionen"
+    },
+    "gallery": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Zbarazh_castle_by_Serge_Leonov.jpg",
+        "alt_uk": "Внутрішній двір Збаразького замку",
+        "alt_en": "Inner courtyard of Zbarazh Castle",
+        "alt_de": "Innenhof der Festung Zbarazh",
+        "caption_uk": "Внутрішній двір з палацом та казематами в товщі валів"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Zbarazh_Ternopilska-castle-exhibition_of_wooden_sculpture.jpg",
+        "alt_uk": "Експозиція дерев'яної скульптури",
+        "alt_en": "Wooden sculpture exhibition",
+        "alt_de": "Holzskulptur-Ausstellung",
+        "caption_uk": "Унікальна колекція дерев'яної скульптури школи Йоганна Пінзеля"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Zbarazh_Ternopilska-castle-museum_of_tortures-exhibition-2.jpg",
+        "alt_uk": "Кімната тортур",
+        "alt_en": "Torture chamber",
+        "alt_de": "Folterkammer",
+        "caption_uk": "Кімната тортур з автентичними інструментами епохи Інквізиції"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/%D0%97%D0%B1%D0%B0%D1%80%D0%B0%D0%B7%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA_29.07.2008_-_531.jpg/800px-%D0%97%D0%B1%D0%B0%D1%80%D0%B0%D0%B7%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA_29.07.2008_-_531.jpg",
+        "alt_uk": "Головна будівля замку",
+        "alt_en": "Main castle building",
+        "alt_de": "Hauptgebäude der Burg",
+        "caption_uk": "Головний палац Збаразького замку в стилі Ренесансу"
+      }
+    ]
+  },
+
+  "historicalData": {
+    "yearBuilt": "1631",
+    "yearBuiltNote_uk": "Побудований у 1626-1631 роках. Ранні укріплення датуються 1211 роком",
+    "yearBuiltNote_en": "Built in 1626-1631. Early fortifications date to 1211",
+    "yearBuiltNote_de": "Erbaut 1626-1631. Frühe Befestigungen stammen aus 1211",
+    "architecturalStyle_uk": "Ренесанс, ранній Бароко",
+    "architecturalStyle_en": "Renaissance, early Baroque",
+    "architecturalStyle_de": "Renaissance, Frühbarock",
+    "architects": [
+      {
+        "name": "Генрік ван Пеєне (Henryk van Peene)",
+        "period": "1626-1631",
+        "contribution_uk": "Головний архітектор, автор проекту замку в стилі 'палаццо ін фортецца'",
+        "contribution_en": "Chief architect, author of castle project in 'palazzo in fortezza' style",
+        "contribution_de": "Hauptarchitekt, Autor des Burgprojekts im 'Palazzo in Fortezza'-Stil"
+      }
+    ],
+    "unescoStatus": "none",
+    "unescoYear": null,
+    "nationalHeritageStatus": "National Reserve 'Castles of Ternopil Oblast'",
+    "referenceNumber": "190008",
+    "managedBy_uk": "Державний історико-архітектурний заповідник 'Замки Тернопілля'",
+    "managedBy_en": "State Historical-Architectural Reserve 'Castles of Ternopil Oblast'",
+    "managedBy_de": "Staatliches Historisch-Architektonisches Reservat 'Burgen des Oblast Ternopil'"
+  },
+
+  "culturalEvents": [
+    {
+      "name_uk": "Збаразька облога — історична реконструкція",
+      "name_en": "Zbarazh Siege — Historical Reenactment",
+      "name_de": "Belagerung von Zbarazh — Historische Nachstellung",
+      "period_uk": "Серпень (щорічно)",
+      "period_en": "August (annually)",
+      "period_de": "August (jährlich)",
+      "description_uk": "Масштабна реконструкція облоги 1649 року з козацькими та польськими військами, битвами та історичними презентаціями",
+      "description_en": "Large-scale reenactment of 1649 siege with Cossack and Polish forces, battles and historical presentations",
+      "description_de": "Großangelegte Nachstellung der Belagerung von 1649 mit Kosaken- und polnischen Truppen, Schlachten und historischen Präsentationen"
+    }
+  ],
+
+  "tags": [
+    "castle",
+    "fortress",
+    "renaissance",
+    "baroque",
+    "museum",
+    "ternopil",
+    "zbarazh",
+    "bastion",
+    "cossacks",
+    "siege-1649",
+    "bohdan-khmelnytsky",
+    "with-fire-and-sword",
+    "pinsel-sculpture",
+    "national-reserve",
+    "tourism"
+  ],
+
+  "suitableFor_uk": [
+    "Любителі історії",
+    "Сімейні подорожі",
+    "Фотографи",
+    "Поціновувачі архітектури",
+    "Шкільні екскурсії",
+    "Музейні відвідувачі"
+  ],
+  "suitableFor_en": [
+    "History enthusiasts",
+    "Family travel",
+    "Photographers",
+    "Architecture lovers",
+    "School excursions",
+    "Museum visitors"
+  ],
+  "suitableFor_de": [
+    "Geschichtsinteressierte",
+    "Familienreisen",
+    "Fotografen",
+    "Architekturliebhaber",
+    "Schulausflüge",
+    "Museumsbesucher"
+  ],
+
+  "weatherDependent": false,
+  "indoorActivities": true,
+  "outdoorActivities": true,
+
+  "priceRange": "$$",
+  "rating": 4.7,
+  "reviewsCount": 1523,
+  "featured": true,
+  "status": "published",
+
+  "metaDescription_uk": "Збаразький замок - ренесансна фортеця XVII ст. з музеєм 50,000 експонатів. Місце героїчної облоги 1649 року. Центр заповідника 'Замки Тернопілля'.",
+  "metaDescription_en": "Zbarazh Castle - 17th-century Renaissance fortress with 50,000-exhibit museum. Site of heroic 1649 siege. Center of 'Castles of Ternopil Oblast' reserve.",
+  "metaDescription_de": "Festung Zbarazh - Renaissance-Festung aus dem 17. Jh. mit 50.000-Exponat-Museum. Ort der heroischen Belagerung von 1649.",
+
+  "keywords": [
+    "Збаразький замок",
+    "Zbarazh Castle",
+    "замок",
+    "castle",
+    "фортеця",
+    "fortress",
+    "Тернопільська область",
+    "Ternopil",
+    "Ренесанс",
+    "Renaissance",
+    "музей",
+    "museum",
+    "облога 1649",
+    "siege 1649",
+    "Вогнем і мечем",
+    "With Fire and Sword",
+    "туризм",
+    "tourism"
+  ],
+
+  "lastUpdated": "2025-11-30",
+  "source": "Wikipedia, National Reserve 'Castles of Ternopil Oblast', Historical Archives",
+  "verified": true
+}

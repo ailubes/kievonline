@@ -1,0 +1,685 @@
+{
+  "schemaVersion": "1.0",
+  "topic": "Ukrainian Heritage Sites",
+  "lastUpdated": "2025-11-30",
+  "dataSource": "Jina AI research from official websites, UNESCO, and tourism sources",
+  "description": "Comprehensive JSON schema for Ukrainian heritage sites directory covering castles, monasteries, UNESCO sites, museums, palaces, parks, historic cities, and intangible heritage across 25 regions",
+
+  "examples": [
+    {
+      "id": "kamianets-podilskyi-castle",
+      "slug": "kamianets-podilskyi-castle",
+      "name_uk": "Кам'янець-Подільська фортеця",
+      "name_en": "Kamianets-Podilskyi Castle",
+      "name_de": "Festung Kamjanez-Podilskyj",
+
+      "tagline_uk": "Кам'янець-Подільська фортеця — неприступна цитадель на межі століть",
+      "tagline_en": "An impregnable citadel standing through the centuries",
+      "tagline_de": "Eine uneinnehmbare Zitadelle durch die Jahrhunderte",
+
+      "category": "castle",
+      "subcategories": ["fortress", "medieval-architecture", "historical-monument"],
+      "region": "Khmelnytskyi",
+      "oblast": "Khmelnytskyi Oblast",
+
+      "description_uk": {
+        "short": "Кам'янець-Подільська фортеця — один із найдавніших і найвизначніших замків України, розташований на скелястому півострові, оточеному каньйоном річки Смотрич. Побудована у 14 столітті, фортеця понад 600 років була резиденцією могутніх правителів Поділля.",
+        "full": "Кам'янець-Подільська фортеця — унікальна пам'ятка оборонної архітектури, що поєднує елементи різних епох та культур. Заснована у 14 столітті, фортеця розташована на стратегічно важливому місці — на скелястому півострові, з трьох боків оточеному каньйоном річки Смотрич. Протягом століть замок неодноразово перебудовувався та розширювався, що відобразилося у його багатошаровій архітектурі.\n\nФортечний комплекс складається зі Старого та Нового замків, з'єднаних оборонними мурами та вежами. Всього збереглося 7 із 12 оригінальних веж, кожна з яких має свою назву та історію: Папська (Кармелюкова), Ковпак, Тенчинська, Біла (Ласка), Денна, Нова Західна та Нова Східна. Кожна вежа відігравала специфічну роль в оборонній системі замку.\n\nЗамок був центром численних історичних подій: тут відбувалися битви з татарськими ордами, турецькими військами, козацькими повстанцями. У різні періоди фортецею володіли литовські князі, польські королі, турецькі султани та російські царі. Кожен період залишив свій відбиток в архітектурі та культурі замку.\n\nСьогодні Кам'янець-Подільська фортеця є одним із семи чудес України та кандидатом на включення до списку Всесвітньої спадщини ЮНЕСКО.",
+        "history": "Перші письмові згадки про замок датуються 1374 роком, коли князь Юрій Коріатович надав Кам'янцю Магдебурзьке право. Археологічні дослідження 1960-х років довели, що укріплення на цьому місці існували вже у 12-13 століттях. Спочатку це було дерев'яно-земляне укріплення часів Київської Русі, яке згодом перетворилося на потужну кам'яну фортецю.\n\nВ епоху польського панування (14-17 століття) замок зазнав значних перебудов. Воєвода Краківський Спитко з Мельштина на початку 15 століття провів масштабну модернізацію, додавши 10 нових веж до існуючих укріплень. У 16 столітті архітектор Йов Бретфус збудував Нову Західну та Східну вежі, східну стіну та підземну галерею.\n\nУ 1672 році після тривалої облоги замок захопили турки на чолі з султаном Мехмедом IV. Протягом 27 років фортеця була центром османського правління на Поділлі. У 1699 році за Карловицьким мирним договором замок повернувся під владу Речі Посполитої.\n\nЗ 18 століття замок втратив своє оборонне значення та використовувався як в'язниця. Тут утримувалися козацькі старшини, гайдамаки, політичні в'язні. Найвідомішим ув'язненим був народний месник Устим Кармелюк, на честь якого названо одну з веж.\n\nУ 1928 році замок було оголошено історико-культурним заповідником, а у 1977 році створено Національний історико-архітектурний заповідник 'Кам'янець'.",
+        "significance": "Кам'янець-Подільська фортеця є унікальною пам'яткою оборонної архітектури, що демонструє еволюцію фортифікаційного мистецтва від Середньовіччя до Нового часу. Замок зберіг автентичну середньовічну структуру попри численні перебудови. Це один із небагатьох середньовічних замків на території України, що зберігся у відносно непорушеному вигляді. Фортеця входить до Національного історико-архітектурного заповідника 'Кам'янець' та Національного природного парку 'Подільські Товтри'. У 2007 році за народним голосуванням замок визнано одним із Семи чудес України."
+      },
+
+      "description_en": {
+        "short": "Kamianets-Podilskyi Castle is one of Ukraine's oldest and most prominent fortresses, located on a rocky peninsula surrounded by the Smotrych River canyon. Built in the 14th century, for over 600 years it served as the residence of Podillia's powerful rulers.",
+        "full": "Kamianets-Podilskyi Castle is a unique monument of defensive architecture combining elements from different epochs and cultures. Founded in the 14th century, the fortress occupies a strategically important location on a rocky peninsula surrounded on three sides by the Smotrych River canyon. Over the centuries, the castle was repeatedly rebuilt and expanded, reflected in its multi-layered architecture.\n\nThe fortress complex consists of the Old and New Castles connected by defensive walls and towers. Seven of the original 12 towers have been preserved, each with its own name and history: Pope's (Karmeliuk's), Kovpak, Tenchynska, White (Laska), Daily, New Western, and New Eastern. Each tower played a specific role in the castle's defensive system.\n\nThe castle was the center of numerous historical events: battles with Tatar hordes, Turkish armies, and Cossack rebels took place here. At different times, the fortress was owned by Lithuanian princes, Polish kings, Turkish sultans, and Russian tsars. Each period left its mark on the castle's architecture and culture.\n\nToday, Kamianets-Podilskyi Castle is one of the Seven Wonders of Ukraine and a candidate for UNESCO World Heritage status.",
+        "history": "The first written mentions of the castle date to 1374, when Prince Yuriy Koriatovych granted Kamianets Magdeburg rights. Archaeological excavations in the 1960s proved that fortifications existed on this site as early as the 12th-13th centuries. Initially, this was a wooden-earthen fortification from Kievan Rus' times, which later transformed into a powerful stone fortress.\n\nDuring the Polish period (14th-17th centuries), the castle underwent significant reconstruction. Kraków Voivode Spytek of Melsztyn conducted large-scale modernization at the beginning of the 15th century, adding 10 new towers to the existing fortifications. In the 16th century, architect Hiob Bretfus built the New Western and Eastern towers, the eastern wall, and an underground gallery.\n\nIn 1672, after a prolonged siege, the castle was captured by the Turks led by Sultan Mehmed IV. For 27 years, the fortress served as the center of Ottoman rule in Podillia. In 1699, under the Treaty of Karlowitz, the castle returned to Polish-Lithuanian Commonwealth control.\n\nFrom the 18th century, the castle lost its defensive significance and was used as a prison. Cossack officers, haidamaks, and political prisoners were held here. The most famous prisoner was the folk avenger Ustym Karmaliuk, after whom one of the towers is named.\n\nIn 1928, the castle was declared a historical-cultural preserve, and in 1977 the National Historical-Architectural Reserve 'Kamianets' was established.",
+        "significance": "Kamianets-Podilskyi Castle is a unique monument of defensive architecture demonstrating the evolution of fortification art from the Middle Ages to modern times. The castle preserved its authentic medieval structure despite numerous reconstructions. It is one of the few medieval castles in Ukraine that has survived in relatively intact condition. The fortress is part of the National Historical-Architectural Reserve 'Kamianets' and Podilski Tovtry National Nature Park. In 2007, by popular vote, the castle was recognized as one of the Seven Wonders of Ukraine."
+      },
+
+      "description_de": {
+        "short": "Die Festung Kamjanez-Podilskyj ist eine der ältesten und bedeutendsten Burgen der Ukraine, gelegen auf einer felsigen Halbinsel, umgeben von der Smotrych-Schlucht. Im 14. Jahrhundert erbaut, diente sie über 600 Jahre als Residenz mächtiger Herrscher Podoliens.",
+        "full": "Die Festung Kamjanez-Podilskyj ist ein einzigartiges Denkmal der Verteidigungsarchitektur, das Elemente verschiedener Epochen und Kulturen vereint. Im 14. Jahrhundert gegründet, befindet sich die Festung an einem strategisch wichtigen Ort - auf einer felsigen Halbinsel, die auf drei Seiten von der Smotrych-Schlucht umgeben ist. Im Laufe der Jahrhunderte wurde die Burg wiederholt umgebaut und erweitert, was sich in ihrer vielschichtigen Architektur widerspiegelt.\n\nDer Festungskomplex besteht aus der Alten und Neuen Burg, die durch Verteidigungsmauern und Türme verbunden sind. Von den ursprünglich 12 Türmen sind 7 erhalten geblieben, jeder mit eigenem Namen und Geschichte: Papst (Karmeliuk), Kovpak, Tenchynska, Weiß (Laska), Täglich, Neuer Westlicher und Neuer Östlicher Turm. Jeder Turm spielte eine spezifische Rolle im Verteidigungssystem der Burg.\n\nDie Burg war das Zentrum zahlreicher historischer Ereignisse: Hier fanden Schlachten mit Tatarenhorden, türkischen Armeen und Kosakenrebellen statt. Zu verschiedenen Zeiten gehörte die Festung litauischen Fürsten, polnischen Königen, türkischen Sultanen und russischen Zaren. Jede Periode hinterließ ihre Spuren in der Architektur und Kultur der Burg.",
+        "history": "Die ersten schriftlichen Erwähnungen der Burg stammen aus dem Jahr 1374, als Fürst Jurij Koriatowytsch Kamjanez das Magdeburger Recht verlieh. Archäologische Ausgrabungen in den 1960er Jahren bewiesen, dass Befestigungen an diesem Ort bereits im 12.-13. Jahrhundert existierten.",
+        "significance": "Die Festung Kamjanez-Podilskyj ist ein einzigartiges Denkmal der Verteidigungsarchitektur, das die Evolution der Festungskunst vom Mittelalter bis zur Neuzeit demonstriert. 2007 wurde die Burg durch Volksabstimmung als eines der Sieben Wunder der Ukraine anerkannt."
+      },
+
+      "location": {
+        "city": "Kamianets-Podilskyi",
+        "region": "Khmelnytskyi Oblast",
+        "address_uk": "Замкова вулиця, 1, Кам'янець-Подільський, Хмельницька область, 32301",
+        "address_en": "1 Zamkova Street, Kamianets-Podilskyi, Khmelnytskyi Oblast, 32301",
+        "address_de": "Zamkowa-Straße 1, Kamjanez-Podilskyj, Oblast Chmelnyzkyj, 32301",
+        "coordinates": {
+          "latitude": 48.67333,
+          "longitude": 26.56250
+        },
+        "directions_uk": {
+          "general": "Розташований у центрі міста Кам'янець-Подільський на Замковій вулиці",
+          "publicTransport": "Автобусом або маршруткою з автовокзалу до центру міста, далі пішки 10 хвилин",
+          "car": "З Києва — 386 км по трасі М21 через Вінницю (близько 5 годин). З Львова — 265 км через Тернопіль (близько 4 години)",
+          "parking": "Безкоштовна парковка біля входу в заповідник"
+        },
+        "directions_en": {
+          "general": "Located in the center of Kamianets-Podilskyi on Zamkova Street",
+          "publicTransport": "Bus or minibus from bus station to city center, then 10 minutes walk",
+          "car": "From Kyiv - 386 km via M21 highway through Vinnytsia (about 5 hours). From Lviv - 265 km through Ternopil (about 4 hours)",
+          "parking": "Free parking near the preserve entrance"
+        },
+        "directions_de": {
+          "general": "Im Zentrum von Kamjanez-Podilskyj in der Zamkowa-Straße gelegen",
+          "publicTransport": "Bus oder Minibus vom Busbahnhof zum Stadtzentrum, dann 10 Minuten zu Fuß",
+          "car": "Von Kiew - 386 km über M21 durch Winnyzja (ca. 5 Stunden). Von Lwiw - 265 km durch Ternopil (ca. 4 Stunden)",
+          "parking": "Kostenloser Parkplatz am Eingang des Reservats"
+        },
+        "nearbyAttractions": [
+          {
+            "name_uk": "Старе місто Кам'янець-Подільський",
+            "name_en": "Kamianets-Podilskyi Old Town",
+            "distance": "0.5 km",
+            "type": "historic-district"
+          },
+          {
+            "name_uk": "Турецький міст",
+            "name_en": "Turkish Bridge",
+            "distance": "0.3 km",
+            "type": "monument"
+          },
+          {
+            "name_uk": "Кафедральний костел Св. Петра і Павла",
+            "name_en": "Cathedral of Sts. Peter and Paul",
+            "distance": "0.7 km",
+            "type": "church"
+          }
+        ]
+      },
+
+      "contact": {
+        "phone": "+380 3849 2-32-49",
+        "email": "info@kam-pod.gov.ua",
+        "website": "http://www.niazkam-pod.gov.ua/",
+        "bookingUrl": null,
+        "socialMedia": {
+          "facebook": "https://www.facebook.com/kamianetspodilskyi.castle/",
+          "instagram": "https://www.instagram.com/kamianets_podilskyi_castle/",
+          "youtube": "https://www.youtube.com/@KamianetsPodilskyiCastle"
+        }
+      },
+
+      "visitingInformation": {
+        "openingTimes": {
+          "status_uk": "Відкрито цілий рік",
+          "status_en": "Open year-round",
+          "status_de": "Ganzjährig geöffnet",
+          "seasonal": [
+            {
+              "season_uk": "Травень - Вересень",
+              "season_en": "May - September",
+              "season_de": "Mai - September",
+              "days_uk": "Щодня",
+              "days_en": "Daily",
+              "days_de": "Täglich",
+              "hours": "09:00 - 19:00",
+              "lastAdmission": "18:30"
+            },
+            {
+              "season_uk": "Жовтень - Квітень",
+              "season_en": "October - April",
+              "season_de": "Oktober - April",
+              "days_uk": "Щодня",
+              "days_en": "Daily",
+              "days_de": "Täglich",
+              "hours": "09:00 - 17:00",
+              "lastAdmission": "16:30"
+            }
+          ]
+        },
+        "admissionPrices": {
+          "currency": "UAH",
+          "adult": 100,
+          "student": 50,
+          "child": 30,
+          "senior": 50,
+          "family": 250,
+          "notes_uk": "Діти до 6 років - безкоштовно. Фото/відеозйомка - 50 грн додатково",
+          "notes_en": "Children under 6 - free. Photo/video - additional 50 UAH",
+          "notes_de": "Kinder unter 6 Jahren - kostenlos. Foto/Video - zusätzlich 50 UAH"
+        },
+        "tourOptions": [
+          {
+            "type_uk": "Самостійний огляд",
+            "type_en": "Self-guided tour",
+            "type_de": "Selbstgeführte Tour",
+            "duration_uk": "1-2 години",
+            "duration_en": "1-2 hours",
+            "duration_de": "1-2 Stunden",
+            "price": 0
+          },
+          {
+            "type_uk": "Екскурсія з гідом українською",
+            "type_en": "Guided tour in Ukrainian",
+            "type_de": "Führung auf Ukrainisch",
+            "duration_uk": "1.5 години",
+            "duration_en": "1.5 hours",
+            "duration_de": "1,5 Stunden",
+            "price": 400,
+            "groupSize": "до 20 осіб / up to 20 people / bis 20 Personen"
+          },
+          {
+            "type_uk": "Екскурсія з гідом англійською/німецькою",
+            "type_en": "Guided tour in English/German",
+            "type_de": "Führung auf Englisch/Deutsch",
+            "duration_uk": "1.5 години",
+            "duration_en": "1.5 hours",
+            "duration_de": "1,5 Stunden",
+            "price": 600,
+            "groupSize": "до 20 осіб / up to 20 people / bis 20 Personen"
+          }
+        ],
+        "averageVisitDuration_uk": "1.5-2 години",
+        "averageVisitDuration_en": "1.5-2 hours",
+        "averageVisitDuration_de": "1,5-2 Stunden",
+        "busyPeriods_uk": ["Літні місяці (червень-серпень)", "Вихідні дні", "Свята", "Фестиваль 'Фортеця' (серпень)"],
+        "busyPeriods_en": ["Summer months (June-August)", "Weekends", "Holidays", "Fortetsia Festival (August)"],
+        "busyPeriods_de": ["Sommermonate (Juni-August)", "Wochenenden", "Feiertage", "Fortetsia-Festival (August)"],
+        "adviceForVisitors_uk": "Взуйте зручне взуття для ходіння по бруківці та сходах. Візьміть воду, особливо влітку. Рекомендуємо відвідати замок вранці або ввечері для кращих фото. У серпні проходить масштабний середньовічний фестиваль 'Фортеця'.",
+        "adviceForVisitors_en": "Wear comfortable shoes for walking on cobblestones and stairs. Bring water, especially in summer. We recommend visiting the castle in the morning or evening for best photos. In August, the large-scale medieval festival 'Fortetsia' takes place.",
+        "adviceForVisitors_de": "Tragen Sie bequeme Schuhe zum Gehen auf Kopfsteinpflaster und Treppen. Bringen Sie Wasser mit, besonders im Sommer. Wir empfehlen, die Burg morgens oder abends für die besten Fotos zu besuchen. Im August findet das großangelegte mittelalterliche Festival 'Fortetsia' statt."
+      },
+
+      "features": {
+        "highlights_uk": [
+          "7 середньовічних веж з унікальними назвами та історіями",
+          "Панорамні види на каньйон річки Смотрич",
+          "Автентична середньовічна архітектура 14-18 століть",
+          "Підземні галереї та казема",
+          "Музейні експозиції зброї та побуту",
+          "Турецький міст - унікальна інженерна споруда 1672 року",
+          "Один із Семи чудес України"
+        ],
+        "highlights_en": [
+          "7 medieval towers with unique names and histories",
+          "Panoramic views of Smotrych River canyon",
+          "Authentic medieval architecture from 14th-18th centuries",
+          "Underground galleries and casemates",
+          "Museum exhibitions of weapons and daily life",
+          "Turkish Bridge - unique engineering structure from 1672",
+          "One of the Seven Wonders of Ukraine"
+        ],
+        "highlights_de": [
+          "7 mittelalterliche Türme mit einzigartigen Namen und Geschichten",
+          "Panoramablick auf die Smotrych-Schlucht",
+          "Authentische mittelalterliche Architektur aus dem 14.-18. Jahrhundert",
+          "Unterirdische Galerien und Kasematten",
+          "Museumsausstellungen von Waffen und Alltagsleben",
+          "Türkische Brücke - einzigartiges Bauwerk aus 1672",
+          "Eines der Sieben Wunder der Ukraine"
+        ],
+        "facilities_uk": ["Музей", "Сувенірний магазин", "Кафе", "Туалети", "Парковка", "Wi-Fi у музейній частині"],
+        "facilities_en": ["Museum", "Gift shop", "Cafe", "Toilets", "Parking", "Wi-Fi in museum area"],
+        "facilities_de": ["Museum", "Souvenirladen", "Café", "Toiletten", "Parkplatz", "WLAN im Museumsbereich"],
+        "accessibility": {
+          "wheelchairAccessible": false,
+          "notes_uk": "Замок розташований на скелях з численними сходами, що робить його недоступним для інвалідних візків. Деякі експозиції на першому поверсі доступні для відвідувачів з обмеженими можливостями.",
+          "notes_en": "The castle is located on rocks with numerous stairs, making it inaccessible for wheelchairs. Some exhibitions on the ground floor are accessible for visitors with disabilities.",
+          "notes_de": "Die Burg befindet sich auf Felsen mit zahlreichen Treppen, was sie für Rollstühle unzugänglich macht. Einige Ausstellungen im Erdgeschoss sind für Besucher mit Behinderungen zugänglich."
+        },
+        "uniqueSellingPoints_uk": [
+          "Найкраще збережений середньовічний замок України",
+          "Унікальне розташування на скелястому півострові",
+          "Багатошарова архітектура різних епох",
+          "Місце проведення масштабного середньовічного фестивалю",
+          "Кандидат на включення до списку ЮНЕСКО"
+        ],
+        "uniqueSellingPoints_en": [
+          "Best preserved medieval castle in Ukraine",
+          "Unique location on a rocky peninsula",
+          "Multi-layered architecture from different epochs",
+          "Venue for large-scale medieval festival",
+          "UNESCO World Heritage candidate"
+        ],
+        "uniqueSellingPoints_de": [
+          "Am besten erhaltene mittelalterliche Burg der Ukraine",
+          "Einzigartige Lage auf einer felsigen Halbinsel",
+          "Mehrschichtige Architektur aus verschiedenen Epochen",
+          "Veranstaltungsort für großangelegtes mittelalterliches Festival",
+          "UNESCO-Welterbe-Kandidat"
+        ]
+      },
+
+      "images": {
+        "heroImage": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/%D0%97%D0%B8%D0%BC%D0%BE%D0%B2%D0%B0_%D1%84%D0%BE%D1%80%D1%82%D0%B5%D1%86%D1%8F.jpg",
+          "alt_uk": "Кам'янець-Подільська фортеця взимку",
+          "alt_en": "Kamianets-Podilskyi Castle in winter",
+          "alt_de": "Festung Kamjanez-Podilskyj im Winter",
+          "caption_uk": "Сім веж замку домінують над каньйоном річки Смотрич",
+          "caption_en": "Seven castle towers dominate over the Smotrych River canyon",
+          "caption_de": "Sieben Burgtürme dominieren über die Smotrych-Schlucht"
+        },
+        "gallery": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Kamianets-Podilskyi_map_1691.jpg",
+            "alt_uk": "Історична карта фортеці 1691 року",
+            "alt_en": "Historical map of the fortress from 1691",
+            "alt_de": "Historische Karte der Festung aus 1691",
+            "caption_uk": "Французька карта Старого міста та замку Кам'янця-Подільського 1691 року"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Kamianets-Podilskyi_Castle_old.jpg",
+            "alt_uk": "Стара літографія замку",
+            "alt_en": "Old lithograph of the castle",
+            "alt_de": "Alte Lithographie der Burg",
+            "caption_uk": "Історична літографія із зображенням замкових мурів"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Kamjanec_Podilskij%2C_hrad%2C_n%C3%A1dvo%C5%99%C3%AD_02.jpg",
+            "alt_uk": "Внутрішній двір замку",
+            "alt_en": "Castle interior courtyard",
+            "alt_de": "Innerer Burghof",
+            "caption_uk": "Внутрішній двір та музей замку"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Kamianets-Podilskyi-Castle-2007.jpg",
+            "alt_uk": "Вид на замок з південного заходу",
+            "alt_en": "View of the castle from southwest",
+            "alt_de": "Blick auf die Burg von Südwesten",
+            "caption_uk": "Старий замок (зліва вгорі) та Новий замок (справа внизу)"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Kamjanec_Podilskij%2C_hrad%2C_celek_01.jpg",
+            "alt_uk": "Вежі замку та подільський краєвид",
+            "alt_en": "Castle towers and Podolian landscape",
+            "alt_de": "Burgtürme und podolische Landschaft",
+            "caption_uk": "Вежі Кам'янець-Подільського замку на тлі подільського краєвиду"
+          }
+        ]
+      },
+
+      "historicalData": {
+        "yearBuilt": "1374",
+        "yearBuiltNote_uk": "Перша письмова згадка. Археологічно датується 12-13 століттям",
+        "yearBuiltNote_en": "First written mention. Archaeologically dated to 12th-13th century",
+        "yearBuiltNote_de": "Erste schriftliche Erwähnung. Archäologisch datiert auf das 12.-13. Jahrhundert",
+        "architecturalStyle_uk": "Середньовічна оборонна архітектура, готика, ренесанс",
+        "architecturalStyle_en": "Medieval defensive architecture, Gothic, Renaissance",
+        "architecturalStyle_de": "Mittelalterliche Verteidigungsarchitektur, Gotik, Renaissance",
+        "architects": [
+          {
+            "name": "Спитко з Мельштина (Spytek of Melsztyn)",
+            "period": "поч. 15 ст. / early 15th c. / Anfang 15. Jh.",
+            "contribution_uk": "Модернізація замку, додавання 10 нових веж",
+            "contribution_en": "Castle modernization, adding 10 new towers",
+            "contribution_de": "Burgmodernisierung, Hinzufügung von 10 neuen Türmen"
+          },
+          {
+            "name": "Йов Бретфус (Hiob Bretfus)",
+            "period": "16 ст. / 16th c. / 16. Jh.",
+            "contribution_uk": "Будівництво Нової Західної та Східної веж, підземної галереї",
+            "contribution_en": "Construction of New Western and Eastern Towers, underground gallery",
+            "contribution_de": "Bau der Neuen West- und Osttürme, unterirdische Galerie"
+          }
+        ],
+        "unescoStatus": "candidate",
+        "unescoYear": 1989,
+        "nationalHeritageStat us": "National Monument of Significance",
+        "referenceNumber": "220073",
+        "managedBy_uk": "Національний історико-архітектурний заповідник 'Кам'янець'",
+        "managedBy_en": "National Historical-Architectural Reserve 'Kamianets'",
+        "managedBy_de": "Nationales historisch-architektonisches Reservat 'Kamjanez'"
+      },
+
+      "culturalEvents": [
+        {
+          "name_uk": "Фестиваль 'Фортеця'",
+          "name_en": "Fortetsia Festival",
+          "name_de": "Fortetsia-Festival",
+          "period_uk": "Серпень (щорічно)",
+          "period_en": "August (annually)",
+          "period_de": "August (jährlich)",
+          "description_uk": "Масштабний середньовічний фестиваль з лицарськими турнірами, реконструкціями битв, ремісничими майстернями та концертами",
+          "description_en": "Large-scale medieval festival with knight tournaments, battle reconstructions, craft workshops and concerts",
+          "description_de": "Großangelegtes mittelalterliches Festival mit Ritterturnieren, Schlachtrekonstruktionen, Handwerkswerkstätten und Konzerten"
+        },
+        {
+          "name_uk": "Різдвяні свята у замку",
+          "name_en": "Christmas celebrations at the castle",
+          "name_de": "Weihnachtsfeiern in der Burg",
+          "period_uk": "Грудень-Січень",
+          "period_en": "December-January",
+          "period_de": "Dezember-Januar",
+          "description_uk": "Святкові екскурсії, ярмарки, виставки",
+          "description_en": "Festive tours, fairs, exhibitions",
+          "description_de": "Festliche Führungen, Märkte, Ausstellungen"
+        }
+      ],
+
+      "tags": [
+        "castle",
+        "fortress",
+        "medieval",
+        "unesco-candidate",
+        "seven-wonders-ukraine",
+        "museum",
+        "architecture",
+        "history",
+        "khmelnytskyi",
+        "podillia",
+        "towers",
+        "canyon",
+        "smotrych-river",
+        "turkish-bridge",
+        "festival",
+        "tourism"
+      ],
+
+      "suitableFor_uk": [
+        "Любителі історії",
+        "Сімейні подорожі",
+        "Фотографи",
+        "Поціновувачі архітектури",
+        "Шкільні екскурсії",
+        "Середньовічні фестивалі"
+      ],
+      "suitableFor_en": [
+        "History enthusiasts",
+        "Family travel",
+        "Photographers",
+        "Architecture lovers",
+        "School excursions",
+        "Medieval festivals"
+      ],
+      "suitableFor_de": [
+        "Geschichtsinteressierte",
+        "Familienreisen",
+        "Fotografen",
+        "Architekturliebhaber",
+        "Schulausflüge",
+        "Mittelalterliche Festivals"
+      ],
+
+      "weatherDependent": true,
+      "indoorActivities": true,
+      "outdoorActivities": true,
+
+      "priceRange": "$$",
+      "rating": 4.8,
+      "reviewsCount": 3247,
+      "featured": true,
+      "status": "published",
+
+      "metaDescription_uk": "Кам'янець-Подільська фортеця - один із Семи чудес України. Середньовічний замок 14 століття на скелях над річкою Смотрич. Музей, екскурсії, фестивалі. Кандидат ЮНЕСКО.",
+      "metaDescription_en": "Kamianets-Podilskyi Castle - one of the Seven Wonders of Ukraine. 14th-century medieval fortress on rocks above Smotrych River. Museum, tours, festivals. UNESCO candidate.",
+      "metaDescription_de": "Festung Kamjanez-Podilskyj - eines der Sieben Wunder der Ukraine. Mittelalterliche Burg aus dem 14. Jahrhundert auf Felsen über dem Smotrych. Museum, Führungen, Festivals. UNESCO-Kandidat.",
+
+      "keywords": [
+        "Кам'янець-Подільський",
+        "Kamianets-Podilskyi",
+        "замок",
+        "castle",
+        "фортеця",
+        "fortress",
+        "Хмельницька область",
+        "Khmelnytskyi",
+        "ЮНЕСКО",
+        "UNESCO",
+        "Сім чудес України",
+        "Seven Wonders of Ukraine",
+        "туризм",
+        "tourism"
+      ],
+
+      "lastUpdated": "2025-11-30",
+      "source": "Wikipedia, UNESCO, Official Tourism Sites",
+      "verified": true
+    }
+  ],
+
+  "schemaTemplate": {
+    "id": "string (URL-friendly slug, lowercase with hyphens)",
+    "slug": "string (same as id, for URL routing)",
+
+    "name_uk": "string (Ukrainian name)",
+    "name_en": "string (English name)",
+    "name_de": "string (German name)",
+
+    "tagline_uk": "string (catchy Ukrainian tagline, 1 sentence)",
+    "tagline_en": "string (catchy English tagline, 1 sentence)",
+    "tagline_de": "string (catchy German tagline, 1 sentence)",
+
+    "category": "string (one of: unesco, castle, monastery, park, palace, museum, city, intangible)",
+    "subcategories": ["array of strings (additional categorization)"],
+    "region": "string (city/district name)",
+    "oblast": "string (oblast/region name)",
+
+    "description_uk": {
+      "short": "string (1-2 sentences, Ukrainian)",
+      "full": "string (2-4 paragraphs, 300-500 words, Ukrainian)",
+      "history": "string (2-3 paragraphs, historical background, Ukrainian)",
+      "significance": "string (1-2 paragraphs, cultural/historical importance, Ukrainian)"
+    },
+
+    "description_en": {
+      "short": "string (1-2 sentences, English)",
+      "full": "string (2-4 paragraphs, 300-500 words, English)",
+      "history": "string (2-3 paragraphs, historical background, English)",
+      "significance": "string (1-2 paragraphs, cultural/historical importance, English)"
+    },
+
+    "description_de": {
+      "short": "string (1-2 sentences, German)",
+      "full": "string (2-4 paragraphs, 300-500 words, German)",
+      "history": "string (2-3 paragraphs, historical background, German)",
+      "significance": "string (1-2 paragraphs, cultural/historical importance, German)"
+    },
+
+    "location": {
+      "city": "string (city name)",
+      "region": "string (oblast name)",
+      "address_uk": "string (full Ukrainian address)",
+      "address_en": "string (full English address)",
+      "address_de": "string (full German address)",
+      "coordinates": {
+        "latitude": "number",
+        "longitude": "number"
+      },
+      "directions_uk": {
+        "general": "string (general location info in Ukrainian)",
+        "publicTransport": "string (optional, public transport directions in Ukrainian)",
+        "car": "string (optional, driving directions in Ukrainian)",
+        "parking": "string (optional, parking info in Ukrainian)"
+      },
+      "directions_en": {
+        "general": "string (general location info in English)",
+        "publicTransport": "string (optional, public transport directions in English)",
+        "car": "string (optional, driving directions in English)",
+        "parking": "string (optional, parking info in English)"
+      },
+      "directions_de": {
+        "general": "string (general location info in German)",
+        "publicTransport": "string (optional, public transport directions in German)",
+        "car": "string (optional, driving directions in German)",
+        "parking": "string (optional, parking info in German)"
+      },
+      "nearbyAttractions": [
+        {
+          "name_uk": "string (Ukrainian name)",
+          "name_en": "string (English name)",
+          "distance": "string (e.g., '0.5 km')",
+          "type": "string (type of attraction)"
+        }
+      ]
+    },
+
+    "contact": {
+      "phone": "string (phone number with country code)",
+      "email": "string (email address)",
+      "website": "string (official website URL)",
+      "bookingUrl": "string or null (online booking URL if available)",
+      "socialMedia": {
+        "facebook": "string or null (Facebook URL)",
+        "instagram": "string or null (Instagram URL)",
+        "twitter": "string or null (Twitter URL)",
+        "youtube": "string or null (YouTube URL)"
+      }
+    },
+
+    "visitingInformation": {
+      "openingTimes": {
+        "status_uk": "string (e.g., 'Відкрито цілий рік')",
+        "status_en": "string (e.g., 'Open year-round')",
+        "status_de": "string (e.g., 'Ganzjährig geöffnet')",
+        "seasonal": [
+          {
+            "season_uk": "string (season name in Ukrainian)",
+            "season_en": "string (season name in English)",
+            "season_de": "string (season name in German)",
+            "days_uk": "string (days in Ukrainian)",
+            "days_en": "string (days in English)",
+            "days_de": "string (days in German)",
+            "hours": "string (e.g., '09:00 - 18:00')",
+            "lastAdmission": "string (optional, last entry time)"
+          }
+        ]
+      },
+      "admissionPrices": {
+        "currency": "string (UAH)",
+        "adult": "number",
+        "student": "number",
+        "child": "number",
+        "senior": "number",
+        "family": "number (optional)",
+        "notes_uk": "string (pricing notes in Ukrainian)",
+        "notes_en": "string (pricing notes in English)",
+        "notes_de": "string (pricing notes in German)"
+      },
+      "tourOptions": [
+        {
+          "type_uk": "string (tour type in Ukrainian)",
+          "type_en": "string (tour type in English)",
+          "type_de": "string (tour type in German)",
+          "duration_uk": "string (duration in Ukrainian)",
+          "duration_en": "string (duration in English)",
+          "duration_de": "string (duration in German)",
+          "price": "number",
+          "groupSize": "string (optional, group size info)"
+        }
+      ],
+      "averageVisitDuration_uk": "string (Ukrainian)",
+      "averageVisitDuration_en": "string (English)",
+      "averageVisitDuration_de": "string (German)",
+      "busyPeriods_uk": ["array of strings (Ukrainian)"],
+      "busyPeriods_en": ["array of strings (English)"],
+      "busyPeriods_de": ["array of strings (German)"],
+      "adviceForVisitors_uk": "string (visitor tips in Ukrainian)",
+      "adviceForVisitors_en": "string (visitor tips in English)",
+      "adviceForVisitors_de": "string (visitor tips in German)"
+    },
+
+    "features": {
+      "highlights_uk": ["array of key features in Ukrainian"],
+      "highlights_en": ["array of key features in English"],
+      "highlights_de": ["array of key features in German"],
+      "facilities_uk": ["array of available facilities in Ukrainian"],
+      "facilities_en": ["array of available facilities in English"],
+      "facilities_de": ["array of available facilities in German"],
+      "accessibility": {
+        "wheelchairAccessible": "boolean",
+        "notes_uk": "string (accessibility info in Ukrainian)",
+        "notes_en": "string (accessibility info in English)",
+        "notes_de": "string (accessibility info in German)"
+      },
+      "uniqueSellingPoints_uk": ["array of USPs in Ukrainian"],
+      "uniqueSellingPoints_en": ["array of USPs in English"],
+      "uniqueSellingPoints_de": ["array of USPs in German"]
+    },
+
+    "images": {
+      "heroImage": {
+        "url": "string (image URL)",
+        "alt_uk": "string (Ukrainian alt text)",
+        "alt_en": "string (English alt text)",
+        "alt_de": "string (German alt text)",
+        "caption_uk": "string (Ukrainian caption)",
+        "caption_en": "string (English caption)",
+        "caption_de": "string (German caption)"
+      },
+      "gallery": [
+        {
+          "url": "string (image URL)",
+          "alt_uk": "string (Ukrainian alt text)",
+          "alt_en": "string (English alt text)",
+          "alt_de": "string (German alt text)",
+          "caption_uk": "string (optional, Ukrainian caption)",
+          "caption_en": "string (optional, English caption)",
+          "caption_de": "string (optional, German caption)"
+        }
+      ]
+    },
+
+    "historicalData": {
+      "yearBuilt": "string (year or century)",
+      "yearBuiltNote_uk": "string (optional, additional info in Ukrainian)",
+      "yearBuiltNote_en": "string (optional, additional info in English)",
+      "yearBuiltNote_de": "string (optional, additional info in German)",
+      "architecturalStyle_uk": "string (architectural style in Ukrainian)",
+      "architecturalStyle_en": "string (architectural style in English)",
+      "architecturalStyle_de": "string (architectural style in German)",
+      "architects": [
+        {
+          "name": "string (architect name)",
+          "period": "string (time period)",
+          "contribution_uk": "string (contribution in Ukrainian)",
+          "contribution_en": "string (contribution in English)",
+          "contribution_de": "string (contribution in German)"
+        }
+      ],
+      "unescoStatus": "string (one of: inscribed, candidate, tentative, none)",
+      "unescoYear": "number or null (year of inscription)",
+      "nationalHeritageStatus": "string (national designation)",
+      "referenceNumber": "string (official reference number)",
+      "managedBy_uk": "string (managing organization in Ukrainian)",
+      "managedBy_en": "string (managing organization in English)",
+      "managedBy_de": "string (managing organization in German)"
+    },
+
+    "culturalEvents": [
+      {
+        "name_uk": "string (event name in Ukrainian)",
+        "name_en": "string (event name in English)",
+        "name_de": "string (event name in German)",
+        "period_uk": "string (when event occurs in Ukrainian)",
+        "period_en": "string (when event occurs in English)",
+        "period_de": "string (when event occurs in German)",
+        "description_uk": "string (event description in Ukrainian)",
+        "description_en": "string (event description in English)",
+        "description_de": "string (event description in German)"
+      }
+    ],
+
+    "tags": ["array of lowercase searchable keywords"],
+
+    "suitableFor_uk": ["array of target audiences in Ukrainian"],
+    "suitableFor_en": ["array of target audiences in English"],
+    "suitableFor_de": ["array of target audiences in German"],
+
+    "weatherDependent": "boolean",
+    "indoorActivities": "boolean",
+    "outdoorActivities": "boolean",
+
+    "priceRange": "string (one of: $, $$, $$$, $$$$)",
+    "rating": "number (1-5, optional)",
+    "reviewsCount": "number (optional)",
+    "featured": "boolean (highlight on homepage)",
+    "status": "string (one of: published, draft)",
+
+    "metaDescription_uk": "string (150-160 chars, Ukrainian SEO description)",
+    "metaDescription_en": "string (150-160 chars, English SEO description)",
+    "metaDescription_de": "string (150-160 chars, German SEO description)",
+
+    "keywords": ["array of SEO keywords in multiple languages"],
+
+    "lastUpdated": "string (ISO date)",
+    "source": "string (data sources)",
+    "verified": "boolean (data verification status)"
+  }
+}

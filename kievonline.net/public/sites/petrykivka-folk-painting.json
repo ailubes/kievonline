@@ -1,0 +1,411 @@
+{
+  "id": "petrykivka-folk-painting",
+  "slug": "petrykivka-folk-painting",
+
+  "name_uk": "Петриківський розпис",
+  "name_en": "Petrykivka Folk Painting",
+  "name_de": "Petrykivka Volksmalerei",
+
+  "tagline_uk": "Фантастична квіткова символіка українського декоративного мистецтва",
+  "tagline_en": "Fantastic floral symbolism of Ukrainian decorative art",
+  "tagline_de": "Fantastische Blumensymbolik der ukrainischen dekorativen Kunst",
+
+  "category": "intangible",
+  "subcategories": ["folk-art", "painting", "decorative-arts", "unesco-heritage"],
+  "region": "Petrykivka",
+  "oblast": "Dnipropetrovsk Oblast",
+
+  "description_uk": {
+    "short": "Петриківський розпис - традиційне українське декоративне мистецтво з села Петриківка, внесене до списку ЮНЕСКО в 2013 році. Характеризується фантастичними квітковими візерунками та природними елементами.",
+    "full": "Петриківський розпис - унікальний вид українського декоративного мистецтва, що походить з села Петриківка Дніпропетровської області. Це яскраве і самобутнє явище народного орнаментального мистецтва, що характеризується фантастичними квітковими композиціями та іншими природними елементами, заснованими на ретельному спостереженні місцевої флори та фауни.\n\nЖителі села Петриківка прикрашають свої житлові приміщення, предмети побуту та музичні інструменти стилем орнаментального розпису, який відрізняється багатством символіки. Півень символізує вогонь і духовне пробудження, птахи представляють світло, гармонію та щастя. У народних віруваннях ці розписи захищають людей від смутку та зла.\n\nМісцеві жителі, особливо жінки всіх віків, залучені до цієї народної художньої традиції. У кожній родині є принаймні один практик, що робить декоративний розпис невід'ємною частиною повсякденного життя громади. Традиції розпису, включаючи символіку орнаментальних елементів, передаються, оновлюються та розширюються від покоління до покоління.\n\nПетриківський розпис використовує природні барвники та характеризується яскравими кольорами - червоним, зеленим, жовтим, синім. Основні мотиви включають квіти (жоржини, айстри, мальви), ягоди калини, виноград, листя та птахів.",
+    "history": "Петриківський розпис зародився у 18 столітті в селі Петриківка, заснованому запорізькими козаками після ліквідації Запорізької Січі у 1775 році. У 1772 році село отримало статус слободи Новобогородицької фортеці. Традиція розпису розвивалася як народне мистецтво, передаючись з покоління в покоління через родинні майстерні.\n\nУ 19 столітті петриківський розпис набув широкого визнання, майстри почали продавати свої роботи на ярмарках. На початку 20 століття мистецтво привернуло увагу етнографів та мистецтвознавців. У 1936 році у селі була відкрита артіль 'Декоративний розпис', яка згодом перетворилася на експериментальні майстерні.\n\nПісля Другої світової війни у 1960 році було створено Центр народного мистецтва 'Петриківка', який об'єднав понад 40 майстрів. У 2013 році петриківський декоративний розпис був внесений до Репрезентативного списку нематеріальної культурної спадщини людства ЮНЕСКО.",
+    "significance": "Петриківський розпис є важливою частиною української культурної ідентичності та національної спадщини. Він представляє унікальний художній стиль, що поєднує давні язичницькі традиції із християнською символікою. Мистецтво відображає світогляд українського народу, його зв'язок з природою та глибоке розуміння гармонії.\n\nВключення петриківського розпису до списку ЮНЕСКО підкреслює його глобальне культурне значення та необхідність збереження цієї унікальної традиції. Місцеві школи всіх рівнів, від дошкільних до коледжів, навчають основам петриківського розпису, забезпечуючи передачу знань молодим поколінням. Традиція сприяє оновленню історичної та духовної пам'яті і визначає ідентичність усієї громади."
+  },
+
+  "description_en": {
+    "short": "Petrykivka painting is a traditional Ukrainian decorative art from the village of Petrykivka, inscribed on UNESCO's list in 2013. It is characterized by fantastic floral patterns and natural elements.",
+    "full": "Petrykivka decorative painting is a unique form of Ukrainian decorative art originating from the village of Petrykivka in Dnipropetrovsk Oblast. This vibrant and distinctive phenomenon of folk ornamental art is characterized by fantastic floral compositions and other natural elements based on careful observation of local flora and fauna.\n\nThe people of Petrykivka village decorate their living quarters, household belongings, and musical instruments with a style of ornamental painting that is rich in symbolism. The rooster stands for fire and spiritual awakening, while birds represent light, harmony, and happiness. In folk belief, these paintings protect people from sorrow and evil.\n\nLocal people, particularly women of all ages, are involved in this folk art tradition. Every family has at least one practitioner, making decorative painting an integral part of daily existence in the community. The painting traditions, including the symbolism of ornamental elements, are transferred, renewed, and enhanced from one generation to another.\n\nPetrykivka painting uses natural dyes and is characterized by bright colors - red, green, yellow, and blue. Main motifs include flowers (dahlias, asters, mallows), viburnum berries, grapes, leaves, and birds.",
+    "history": "Petrykivka painting originated in the 18th century in the village of Petrykivka, founded by Zaporozhian Cossacks after the liquidation of the Zaporozhian Sich in 1775. In 1772, the village received the status of a sloboda of the Novomyrhorod fortress. The painting tradition developed as folk art, passed down through generations via family workshops.\n\nIn the 19th century, Petrykivka painting gained wide recognition, with masters beginning to sell their works at fairs. In the early 20th century, the art attracted the attention of ethnographers and art historians. In 1936, an artel 'Decorative Painting' was opened in the village, which later transformed into experimental workshops.\n\nAfter World War II, in 1960, the Center for Folk Art 'Petrykivka' was created, uniting more than 40 masters. In 2013, Petrykivka decorative painting was inscribed on UNESCO's Representative List of the Intangible Cultural Heritage of Humanity.",
+    "significance": "Petrykivka painting is an important part of Ukrainian cultural identity and national heritage. It represents a unique artistic style that combines ancient pagan traditions with Christian symbolism. The art reflects the worldview of the Ukrainian people, their connection to nature, and deep understanding of harmony.\n\nThe inclusion of Petrykivka painting on the UNESCO list emphasizes its global cultural significance and the need to preserve this unique tradition. Local schools at all levels, from pre-school to college, teach the fundamentals of Petrykivka decorative painting, ensuring the transmission of knowledge to younger generations. The tradition contributes to the renewal of historical and spiritual memory and defines the identity of the entire community."
+  },
+
+  "description_de": {
+    "short": "Petrykivka-Malerei ist eine traditionelle ukrainische dekorative Kunst aus dem Dorf Petrykivka, die 2013 in die UNESCO-Liste aufgenommen wurde. Sie zeichnet sich durch fantastische Blumenmuster und natürliche Elemente aus.",
+    "full": "Die dekorative Petrykivka-Malerei ist eine einzigartige Form der ukrainischen dekorativen Kunst, die aus dem Dorf Petrykivka im Gebiet Dnipropetrowsk stammt. Dieses lebendige und unverwechselbare Phänomen der volkstümlichen ornamentalen Kunst zeichnet sich durch fantastische Blumenkompositionen und andere natürliche Elemente aus, die auf sorgfältiger Beobachtung der lokalen Flora und Fauna basieren.\n\nDie Menschen im Dorf Petrykivka schmücken ihre Wohnräume, Haushaltsgegenstände und Musikinstrumente mit einem Stil der ornamentalen Malerei, der reich an Symbolik ist. Der Hahn steht für Feuer und spirituelles Erwachen, während Vögel Licht, Harmonie und Glück repräsentieren. Im Volksglauben schützen diese Gemälde die Menschen vor Traurigkeit und Bösem.\n\nEinheimische, besonders Frauen aller Altersgruppen, sind in diese volkstümliche Kunsttradition eingebunden. Jede Familie hat mindestens einen Praktizierenden, was die dekorative Malerei zu einem integralen Bestandteil des täglichen Lebens in der Gemeinschaft macht.",
+    "history": "Die Petrykivka-Malerei entstand im 18. Jahrhundert im Dorf Petrykivka, das von Saporoger Kosaken nach der Liquidierung der Saporoger Sitsch im Jahr 1775 gegründet wurde. 1772 erhielt das Dorf den Status einer Sloboda der Festung Nowomyrhorod.",
+    "significance": "Die Petrykivka-Malerei ist ein wichtiger Bestandteil der ukrainischen kulturellen Identität und des nationalen Erbes. Die Aufnahme in die UNESCO-Liste unterstreicht ihre globale kulturelle Bedeutung und die Notwendigkeit, diese einzigartige Tradition zu bewahren."
+  },
+
+  "location": {
+    "city": "Petrykivka",
+    "region": "Dnipropetrovsk Oblast",
+    "address_uk": "проспект П. Калнишевського, 65, село Петриківка, Дніпропетровська область, 52600",
+    "address_en": "65 P. Kalnyshevskyi Avenue, Petrykivka village, Dnipropetrovsk Oblast, 52600",
+    "address_de": "P. Kalnyshevskyi Prospekt 65, Dorf Petrykivka, Oblast Dnipropetrowsk, 52600",
+    "coordinates": {
+      "latitude": 48.716221,
+      "longitude": 34.629323
+    },
+    "directions_uk": {
+      "general": "Село Петриківка розташоване в Дніпровському районі Дніпропетровської області, за 40 км на південний схід від обласного центру",
+      "publicTransport": "Автобусом з Дніпра (автостанція Центральна) до Петриківки, час в дорозі близько 1 години",
+      "car": "З Дніпра по трасі Т0407 в напрямку Царичанки, потім по М18 до Петриківки (близько 40 км)",
+      "parking": "Безкоштовна парковка біля Центру народного мистецтва"
+    },
+    "directions_en": {
+      "general": "Petrykivka village is located in Dnipro district of Dnipropetrovsk Oblast, 40 km southeast of the regional center",
+      "publicTransport": "By bus from Dnipro (Central bus station) to Petrykivka, travel time about 1 hour",
+      "car": "From Dnipro via T0407 highway towards Tsarychanka, then via M18 to Petrykivka (about 40 km)",
+      "parking": "Free parking near the Center for Folk Art"
+    },
+    "directions_de": {
+      "general": "Das Dorf Petrykivka liegt im Bezirk Dnipro des Gebiets Dnipropetrowsk, 40 km südöstlich des Regionalzentrums",
+      "publicTransport": "Mit dem Bus von Dnipro (Zentraler Busbahnhof) nach Petrykivka, Fahrtzeit ca. 1 Stunde",
+      "car": "Von Dnipro über die T0407-Straße Richtung Tsarychanka, dann über M18 nach Petrykivka (ca. 40 km)",
+      "parking": "Kostenlose Parkplätze am Zentrum für Volkskunst"
+    },
+    "nearbyAttractions": [
+      {
+        "name_uk": "Музей етнографії, побуту і мистецтва Петриківки",
+        "name_en": "Petrykivka Museum of Ethnography, Life and Art",
+        "distance": "0.3 km",
+        "type": "museum"
+      },
+      {
+        "name_uk": "Дніпропетровський національний історичний музей",
+        "name_en": "Dnipropetrovsk National Historical Museum",
+        "distance": "45 km",
+        "type": "museum"
+      },
+      {
+        "name_uk": "Кам'янський розарій",
+        "name_en": "Kamianske Rosary",
+        "distance": "25 km",
+        "type": "park"
+      }
+    ]
+  },
+
+  "contact": {
+    "phone": "+380 5634 2-22-64",
+    "email": "petrykivka.center@gmail.com",
+    "website": "https://petrykivka.jimdo.com/",
+    "bookingUrl": null,
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/dnipro.tourist/",
+      "instagram": "https://www.instagram.com/petrykivka_art/",
+      "youtube": null
+    }
+  },
+
+  "visitingInformation": {
+    "openingTimes": {
+      "status_uk": "Відкрито цілий рік",
+      "status_en": "Open year-round",
+      "status_de": "Ganzjährig geöffnet",
+      "seasonal": [
+        {
+          "season_uk": "Цілий рік",
+          "season_en": "Year-round",
+          "season_de": "Ganzjährig",
+          "days_uk": "Понеділок-П'ятниця",
+          "days_en": "Monday-Friday",
+          "days_de": "Montag-Freitag",
+          "hours": "09:00 - 17:00",
+          "lastAdmission": "16:30"
+        },
+        {
+          "season_uk": "Цілий рік",
+          "season_en": "Year-round",
+          "season_de": "Ganzjährig",
+          "days_uk": "Субота",
+          "days_en": "Saturday",
+          "days_de": "Samstag",
+          "hours": "09:00 - 12:00",
+          "lastAdmission": "11:30"
+        }
+      ]
+    },
+    "admissionPrices": {
+      "currency": "UAH",
+      "adult": 20,
+      "student": 15,
+      "child": 10,
+      "senior": 15,
+      "family": 50,
+      "notes_uk": "Діти до 6 років - безкоштовно. Майстер-класи з розпису - від 100 грн",
+      "notes_en": "Children under 6 - free. Painting master classes - from 100 UAH",
+      "notes_de": "Kinder unter 6 Jahren - kostenlos. Malerei-Meisterklassen - ab 100 UAH"
+    },
+    "tourOptions": [
+      {
+        "type_uk": "Екскурсія виставкою",
+        "type_en": "Exhibition tour",
+        "type_de": "Ausstellungsführung",
+        "duration_uk": "45 хвилин",
+        "duration_en": "45 minutes",
+        "duration_de": "45 Minuten",
+        "price": 50,
+        "groupSize": "до 15 осіб / up to 15 people / bis 15 Personen"
+      },
+      {
+        "type_uk": "Майстер-клас з петриківського розпису",
+        "type_en": "Petrykivka painting master class",
+        "type_de": "Meisterklasse Petrykivka-Malerei",
+        "duration_uk": "2 години",
+        "duration_en": "2 hours",
+        "duration_de": "2 Stunden",
+        "price": 200,
+        "groupSize": "до 10 осіб / up to 10 people / bis 10 Personen"
+      }
+    ],
+    "averageVisitDuration_uk": "1-2 години",
+    "averageVisitDuration_en": "1-2 hours",
+    "averageVisitDuration_de": "1-2 Stunden",
+    "busyPeriods_uk": ["Літні місяці (червень-серпень)", "Вихідні дні", "Фестиваль петриківського розпису (вересень)"],
+    "busyPeriods_en": ["Summer months (June-August)", "Weekends", "Petrykivka Painting Festival (September)"],
+    "busyPeriods_de": ["Sommermonate (Juni-August)", "Wochenenden", "Petrykivka-Malerei-Festival (September)"],
+    "adviceForVisitors_uk": "Рекомендуємо попередньо замовити майстер-клас для практичного знайомства з мистецтвом. У Центрі можна придбати автентичні вироби місцевих майстрів. Візьміть фотоапарат - дозволяється фотографування.",
+    "adviceForVisitors_en": "We recommend pre-booking a master class for practical introduction to the art. At the Center you can purchase authentic products by local masters. Bring a camera - photography is allowed.",
+    "adviceForVisitors_de": "Wir empfehlen, einen Meisterkurs im Voraus zu buchen, um die Kunst praktisch kennenzulernen. Im Zentrum können Sie authentische Produkte lokaler Meister kaufen. Bringen Sie eine Kamera mit - Fotografieren ist erlaubt."
+  },
+
+  "features": {
+    "highlights_uk": [
+      "Внесено до списку нематеріальної культурної спадщини ЮНЕСКО (2013)",
+      "Унікальна техніка фантастичного квіткового розпису",
+      "Більше 40 майстрів-носіїв традиції",
+      "Природні барвники та автентичні техніки",
+      "Богата символіка орнаментів",
+      "Майстер-класи від визнаних майстрів",
+      "Виставка-продаж робіт петриківських художників"
+    ],
+    "highlights_en": [
+      "Inscribed on UNESCO Intangible Cultural Heritage List (2013)",
+      "Unique technique of fantastic floral painting",
+      "More than 40 master tradition bearers",
+      "Natural dyes and authentic techniques",
+      "Rich symbolism of ornaments",
+      "Master classes from recognized masters",
+      "Exhibition-sale of Petrykivka artists' works"
+    ],
+    "highlights_de": [
+      "Eingetragen in die UNESCO-Liste des immateriellen Kulturerbes (2013)",
+      "Einzigartige Technik der fantastischen Blumenmalerei",
+      "Mehr als 40 Meister-Traditionsträger",
+      "Natürliche Farbstoffe und authentische Techniken",
+      "Reiche Symbolik der Ornamente",
+      "Meisterkurse von anerkannten Meistern",
+      "Ausstellungsverkauf von Werken der Petrykivka-Künstler"
+    ],
+    "facilities_uk": ["Виставковий зал", "Майстерні", "Сувенірна крамниця", "Туалети", "Безкоштовна парковка"],
+    "facilities_en": ["Exhibition hall", "Workshops", "Souvenir shop", "Toilets", "Free parking"],
+    "facilities_de": ["Ausstellungshalle", "Werkstätten", "Souvenirladen", "Toiletten", "Kostenloser Parkplatz"],
+    "accessibility": {
+      "wheelchairAccessible": true,
+      "notes_uk": "Центр обладнано пандусом для візків, доступні туалети для людей з обмеженими можливостями",
+      "notes_en": "The center is equipped with a wheelchair ramp, accessible toilets for people with disabilities",
+      "notes_de": "Das Zentrum ist mit einer Rollstuhlrampe ausgestattet, barrierefreie Toiletten für Menschen mit Behinderungen"
+    },
+    "uniqueSellingPoints_uk": [
+      "Єдиний в Україні центр петриківського розпису",
+      "Визнання ЮНЕСКО як нематеріальна спадщина людства",
+      "Безперервна традиція з 18 століття",
+      "Автентичні техніки та природні барвники",
+      "Можливість навчитися у майстрів-носіїв традиції"
+    ],
+    "uniqueSellingPoints_en": [
+      "The only center of Petrykivka painting in Ukraine",
+      "UNESCO recognition as intangible heritage of humanity",
+      "Continuous tradition since the 18th century",
+      "Authentic techniques and natural dyes",
+      "Opportunity to learn from master tradition bearers"
+    ],
+    "uniqueSellingPoints_de": [
+      "Das einzige Zentrum der Petrykivka-Malerei in der Ukraine",
+      "UNESCO-Anerkennung als immaterielles Erbe der Menschheit",
+      "Kontinuierliche Tradition seit dem 18. Jahrhundert",
+      "Authentische Techniken und natürliche Farbstoffe",
+      "Möglichkeit, von Meister-Traditionsträgern zu lernen"
+    ]
+  },
+
+  "images": {
+    "heroImage": {
+      "url": "https://ich.unesco.org/img/photo/thumb/08412-BIG.jpg",
+      "alt_uk": "Петриківський розпис - яскраві квіткові візерунки",
+      "alt_en": "Petrykivka painting - bright floral patterns",
+      "alt_de": "Petrykivka-Malerei - helle Blumenmuster",
+      "caption_uk": "Традиційний петриківський розпис з характерними квітковими мотивами",
+      "caption_en": "Traditional Petrykivka painting with characteristic floral motifs",
+      "caption_de": "Traditionelle Petrykivka-Malerei mit charakteristischen Blumenmotiven"
+    },
+    "gallery": [
+      {
+        "url": "https://ich.unesco.org/img/photo/thumb/08413-BIG.jpg",
+        "alt_uk": "Майстриня за роботою",
+        "alt_en": "Master at work",
+        "alt_de": "Meisterin bei der Arbeit",
+        "caption_uk": "Петриківська майстриня виконує традиційний розпис"
+      },
+      {
+        "url": "https://ich.unesco.org/img/photo/thumb/08414-BIG.jpg",
+        "alt_uk": "Розписані тарілки",
+        "alt_en": "Painted plates",
+        "alt_de": "Bemalte Teller",
+        "caption_uk": "Декоративні тарілки з петриківським розписом"
+      },
+      {
+        "url": "https://ich.unesco.org/img/photo/thumb/08415-BIG.jpg",
+        "alt_uk": "Розписний посуд",
+        "alt_en": "Painted tableware",
+        "alt_de": "Bemaltes Geschirr",
+        "caption_uk": "Традиційний розписний посуд петриківських майстрів"
+      },
+      {
+        "url": "https://ich.unesco.org/img/photo/thumb/08416-BIG.jpg",
+        "alt_uk": "Квіткові композиції",
+        "alt_en": "Floral compositions",
+        "alt_de": "Blumenkompositionen",
+        "caption_uk": "Характерні квіткові композиції петриківського розпису"
+      },
+      {
+        "url": "https://ich.unesco.org/img/photo/thumb/08417-BIG.jpg",
+        "alt_uk": "Декоративні елементи",
+        "alt_en": "Decorative elements",
+        "alt_de": "Dekorative Elemente",
+        "caption_uk": "Різноманітні декоративні елементи традиційного петриківського мистецтва"
+      }
+    ]
+  },
+
+  "historicalData": {
+    "yearBuilt": "18 століття",
+    "yearBuiltNote_uk": "Традиція зародилася в 18 столітті після заснування села запорізькими козаками",
+    "yearBuiltNote_en": "The tradition originated in the 18th century after the village was founded by Zaporozhian Cossacks",
+    "yearBuiltNote_de": "Die Tradition entstand im 18. Jahrhundert nach der Gründung des Dorfes durch Saporoger Kosaken",
+    "architecturalStyle_uk": "Народне декоративно-прикладне мистецтво",
+    "architecturalStyle_en": "Folk decorative and applied art",
+    "architecturalStyle_de": "Volksdekorative und angewandte Kunst",
+    "architects": [
+      {
+        "name": "Традиція передається через покоління майстрів",
+        "period": "18-21 ст. / 18th-21st c. / 18.-21. Jh.",
+        "contribution_uk": "Збереження та розвиток петриківського розпису",
+        "contribution_en": "Preservation and development of Petrykivka painting",
+        "contribution_de": "Erhaltung und Entwicklung der Petrykivka-Malerei"
+      }
+    ],
+    "unescoStatus": "inscribed",
+    "unescoYear": 2013,
+    "nationalHeritageStatus": "National Intangible Cultural Heritage of Ukraine",
+    "referenceNumber": "00893",
+    "managedBy_uk": "Центр народного мистецтва 'Петриківка'",
+    "managedBy_en": "Center for Folk Art 'Petrykivka'",
+    "managedBy_de": "Zentrum für Volkskunst 'Petrykivka'"
+  },
+
+  "culturalEvents": [
+    {
+      "name_uk": "Фестиваль петриківського розпису",
+      "name_en": "Petrykivka Painting Festival",
+      "name_de": "Petrykivka-Malerei-Festival",
+      "period_uk": "Вересень (щорічно)",
+      "period_en": "September (annually)",
+      "period_de": "September (jährlich)",
+      "description_uk": "Щорічний фестиваль, присвячений петриківському розпису, з виставками, майстер-класами, конкурсами майстрів та святковою програмою",
+      "description_en": "Annual festival dedicated to Petrykivka painting, featuring exhibitions, master classes, master competitions and festive program",
+      "description_de": "Jährliches Festival der Petrykivka-Malerei mit Ausstellungen, Meisterkursen, Meisterwettbewerben und Festprogramm"
+    },
+    {
+      "name_uk": "День села Петриківка",
+      "name_en": "Petrykivka Village Day",
+      "name_de": "Tag des Dorfes Petrykivka",
+      "period_uk": "Травень",
+      "period_en": "May",
+      "period_de": "Mai",
+      "description_uk": "Святкування Дня села з виставками народного мистецтва, ярмарком виробів майстрів та концертною програмою",
+      "description_en": "Village Day celebration with folk art exhibitions, craftsmen's fair and concert program",
+      "description_de": "Dorftagsfeier mit Volkskunstausstellungen, Handwerkermesse und Konzertprogramm"
+    }
+  ],
+
+  "tags": [
+    "intangible-heritage",
+    "unesco",
+    "folk-art",
+    "painting",
+    "decorative-arts",
+    "petrykivka",
+    "dnipropetrovsk",
+    "ukrainian-culture",
+    "traditional-crafts",
+    "floral-ornament",
+    "natural-dyes",
+    "master-classes",
+    "cossack-heritage",
+    "cultural-identity"
+  ],
+
+  "suitableFor_uk": [
+    "Любителі народного мистецтва",
+    "Художники та ілюстратори",
+    "Сімейні подорожі",
+    "Шкільні екскурсії",
+    "Етнографи та дослідники",
+    "Туристи, які цікавляться культурою",
+    "Учасники майстер-класів"
+  ],
+  "suitableFor_en": [
+    "Folk art enthusiasts",
+    "Artists and illustrators",
+    "Family travel",
+    "School excursions",
+    "Ethnographers and researchers",
+    "Culture-interested tourists",
+    "Master class participants"
+  ],
+  "suitableFor_de": [
+    "Volkskunstliebhaber",
+    "Künstler und Illustratoren",
+    "Familienreisen",
+    "Schulausflüge",
+    "Ethnographen und Forscher",
+    "Kulturinteressierte Touristen",
+    "Meisterklassen-Teilnehmer"
+  ],
+
+  "weatherDependent": false,
+  "indoorActivities": true,
+  "outdoorActivities": false,
+
+  "priceRange": "$",
+  "rating": 4.9,
+  "reviewsCount": 847,
+  "featured": true,
+  "status": "published",
+
+  "metaDescription_uk": "Петриківський розпис - традиційне українське декоративне мистецтво, внесене до списку ЮНЕСКО. Унікальні квіткові візерунки, майстер-класи, автентичні техніки. Відвідайте Центр у Петриківці.",
+  "metaDescription_en": "Petrykivka painting - traditional Ukrainian decorative art, UNESCO heritage. Unique floral patterns, master classes, authentic techniques. Visit the Center in Petrykivka.",
+  "metaDescription_de": "Petrykivka-Malerei - traditionelle ukrainische dekorative Kunst, UNESCO-Erbe. Einzigartige Blumenmuster, Meisterkurse, authentische Techniken. Besuchen Sie das Zentrum in Petrykivka.",
+
+  "keywords": [
+    "Петриківський розпис",
+    "Petrykivka painting",
+    "UNESCO heritage",
+    "Ukrainian folk art",
+    "decorative painting",
+    "floral ornament",
+    "traditional crafts",
+    "Dnipropetrovsk",
+    "cultural heritage",
+    "master classes",
+    "народне мистецтво",
+    "квіткові візерунки",
+    "нематеріальна спадщина"
+  ],
+
+  "lastUpdated": "2025-11-30",
+  "source": "UNESCO ICH, Petrykivka Center, Wikipedia, Discover Ukraine",
+  "verified": true
+}

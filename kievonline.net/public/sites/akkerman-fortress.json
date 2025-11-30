@@ -1,0 +1,438 @@
+{
+  "id": "akkerman-fortress",
+  "slug": "akkerman-fortress",
+  "name_uk": "Аккерманська фортеця (Білгород-Дністровський)",
+  "name_en": "Akkerman Fortress (Bilhorod-Dnistrovskyi)",
+  "name_de": "Festung Akkerman (Bilhorod-Dnistrowskyj)",
+
+  "tagline_uk": "Найбільша середньовічна фортеця України на берегах Дністровського лиману",
+  "tagline_en": "The largest medieval fortress in Ukraine on the shores of the Dniester Estuary",
+  "tagline_de": "Die größte mittelalterliche Festung der Ukraine an den Ufern der Dnjestr-Mündung",
+
+  "category": "castle",
+  "subcategories": ["fortress", "medieval-architecture", "genoese-architecture", "historical-monument"],
+  "region": "Bilhorod-Dnistrovskyi",
+  "oblast": "Odesa Oblast",
+
+  "description_uk": {
+    "short": "Аккерманська фортеця - найбільша середньовічна фортеця України, розташована в місті Білгород-Дністровський на березі Дністровського лиману. Побудована у XIII-XV століттях генуезцями та молдавськими господарями, фортеця вражає своїми масштабами та добре збереженою архітектурою.",
+    "full": "Аккерманська фортеця - грандіозний оборонний комплекс, що займає площу понад 9 гектарів з периметром стін близько 2,5 кілометрів. Це найбільша середньовічна фортеця на території України та одна з найкраще збережених на півдні Східної Європи.\n\nФортеця була побудована на руїнах давньогрецького міста Тірас, що існувало тут з VI століття до н.е. до IV століття н.е. Після руйнування античного міста готами та гунами, на цьому місці поселилися анти, слов'яни та болгари. У X столітті Білгород входив до складу Київської Русі.\n\nСучасна кам'яна фортеця почала будуватися у XIII столітті, коли місто перейшло під контроль генуезьких купців, які створили тут важливий торговий анклав. Генуезці побудували внутрішню цитадель з товстими стінами та круглими вежами. У XIV столітті фортеця перейшла під владу Молдавського князівства.\n\nНайбільший розквіт фортеці припадає на XV століття, коли молдавський господар Стефан III Великий провів масштабну реконструкцію. До 1440 року було завершено основні елементи фортеці - 34 вежі, деякі з яких сягали 20 метрів у висоту. Зовні фортецю оточував глибокий рів. Для будівництва використовувався білий вапняк, а в якості розчину - суміш з яєць, подрібненого мармуру, вуглецю та кремнію.",
+    "history": "Історія фортеці розпочинається з давньогрецької колонії Тірас (VI ст. до н.е. - IV ст. н.е.), яка була одним із найважливіших торгових центрів на північному узбережжі Чорного моря. Після руйнування античного міста, на його руїнах виникло слов'янське поселення.\n\nУ XIII столітті територія перейшла під контроль Генуезької республіки, яка заснувала тут торговий анклав. Генуезці почали будівництво кам'яної фортеці для захисту торговельних шляхів. У XIV столітті фортеця увійшла до складу Молдавського князівства.\n\nНайзначнішим періодом в історії фортеці стало правління молдавського господаря Стефана III Великого (1457-1504). Він провів масштабну модернізацію укріплень, збудував нові стіни та вежі, зміцнив цитадель. До 1440 року фортеця набула сучасного вигляду з 34 вежами та потужними стінами.\n\nУ 1484 році, після дев'ятиденної облоги, 300-тисячна армія турецького султана Баєзіда II та 50 тисяч військ кримського хана Менглі I Гірея, підтримувані понад 100 великими кораблями, захопили фортецю. Турки володіли нею 328 років.\n\nПід османським пануванням фортеця неодноразово зазнавала нападів запорозьких козаків. Серед ватажків, що намагалися захопити місто, були Григорій Лобода, Северин Наливайко, Іван Сулима, Іван Сірко та Семен Палій.\n\nУ XVIII столітті відбулися три російсько-турецькі війни. У 1770 році фортецю вперше захопила російська армія. У 1789 році місто було захоплено без бою великим загоном донських козаків та єгерським корпусом на чолі з Михайлом Кутузовим. Османське панування в Білгороді остаточно закінчилося в 1812 році після Російсько-турецької війни 1806-1812 років, коли за Бухарестським договором Бессарабія перейшла під контроль Російської імперії.",
+    "significance": "Аккерманська фортеця є найбільшою середньовічною фортецею на території України та однією з найкраще збережених в Східній Європі. Вона демонструє унікальне поєднання генуезьких, молдавських та османських архітектурних традицій. У 2009 році фортецю було внесено до Державного реєстру нерухомих пам'яток України. У 2019 році разом із рештками міста Тірас фортецю було внесено до попереднього списку об'єктів Всесвітньої спадщини ЮНЕСКО. Фортеця є важливим туристичним об'єктом та символом міста Білгород-Дністровський."
+  },
+
+  "description_en": {
+    "short": "Akkerman Fortress is the largest medieval fortress in Ukraine, located in Bilhorod-Dnistrovskyi on the shore of the Dniester Estuary. Built in the 13th-15th centuries by the Genoese and Moldavian rulers, the fortress impresses with its scale and well-preserved architecture.",
+    "full": "Akkerman Fortress is a grand defensive complex covering over 9 hectares with a wall perimeter of about 2.5 kilometers. It is the largest medieval fortress in Ukraine and one of the best preserved in southern Eastern Europe.\n\nThe fortress was built on the ruins of the ancient Greek city of Tyras, which existed here from the 6th century BC to the 4th century AD. After the destruction of the ancient city by the Goths and Huns, Antes, Slavs and Bulgarians settled on this site. In the 10th century, Bilhorod was part of Kievan Rus'.\n\nThe modern stone fortress began to be built in the 13th century when the city came under the control of Genoese merchants who created an important trading enclave here. The Genoese built an inner citadel with thick walls and round towers. In the 14th century, the fortress came under the rule of the Principality of Moldavia.\n\nThe greatest flowering of the fortress occurred in the 15th century when Moldavian ruler Stephen III the Great carried out large-scale reconstruction. By 1440, the main elements of the fortress were completed - 34 towers, some reaching 20 meters in height. Outside, the fortress was surrounded by a deep moat. White limestone was used for construction, and a mixture of eggs, crushed marble, carbon and silicon was used as mortar.",
+    "history": "The history of the fortress begins with the ancient Greek colony of Tyras (6th century BC - 4th century AD), which was one of the most important trading centers on the northern coast of the Black Sea. After the destruction of the ancient city, a Slavic settlement arose on its ruins.\n\nIn the 13th century, the territory came under the control of the Republic of Genoa, which founded a trading enclave here. The Genoese began building a stone fortress to protect trade routes. In the 14th century, the fortress became part of the Principality of Moldavia.\n\nThe most significant period in the fortress's history was the reign of Moldavian ruler Stephen III the Great (1457-1504). He carried out large-scale modernization of fortifications, built new walls and towers, strengthened the citadel. By 1440, the fortress acquired its modern appearance with 34 towers and powerful walls.\n\nIn 1484, after a nine-day siege, a 300,000-strong army of Turkish Sultan Bayezid II and 50,000 troops of Crimean Khan Menli I Giray, supported by over 100 large ships, captured the fortress. The Turks ruled it for 328 years.\n\nUnder Ottoman rule, the fortress repeatedly suffered attacks by Zaporozhian Cossacks. Among the chieftains who tried to capture the city were Hryhoriy Loboda, Severyn Nalyvaiko, Ivan Sulima, Ivan Sirko and Semen Paliy.\n\nIn the 18th century, three Russian-Turkish wars took place. In 1770, the fortress was first captured by the Russian army. In 1789, the city was captured without a fight by a large detachment of Don Cossacks and a Jäger corps led by Mikhail Kutuzov. Ottoman rule in Bilhorod finally ended in 1812 after the Russo-Turkish War of 1806-1812, when under the Treaty of Bucharest, Bessarabia came under the control of the Russian Empire.",
+    "significance": "Akkerman Fortress is the largest medieval fortress in Ukraine and one of the best preserved in Eastern Europe. It demonstrates a unique combination of Genoese, Moldavian and Ottoman architectural traditions. In 2009, the fortress was added to the State Register of Immovable Monuments of Ukraine. In 2019, together with the remains of the city of Tyras, the fortress was listed on the Tentative List of World Heritage Sites in Ukraine. The fortress is an important tourist attraction and symbol of the city of Bilhorod-Dnistrovskyi."
+  },
+
+  "description_de": {
+    "short": "Die Festung Akkerman ist die größte mittelalterliche Festung der Ukraine in Bilhorod-Dnistrowskyj am Ufer der Dnjestr-Mündung. Im 13.-15. Jahrhundert von den Genuesern und moldauischen Herrschern erbaut, beeindruckt die Festung durch ihren Umfang und ihre gut erhaltene Architektur.",
+    "full": "Die Festung Akkerman ist ein großartiger Verteidigungskomplex, der über 9 Hektar mit einem Mauerumfang von etwa 2,5 Kilometern umfasst. Sie ist die größte mittelalterliche Festung der Ukraine und eine der am besten erhaltenen im südöstlichen Europa.\n\nDie Festung wurde auf den Ruinen der antiken griechischen Stadt Tyras erbaut, die hier vom 6. Jahrhundert v. Chr. bis zum 4. Jahrhundert n. Chr. existierte. Nach der Zerstörung der antiken Stadt durch die Goten und Hunnen ließen sich Anten, Slawen und Bulgaren an dieser Stelle nieder.\n\nDie größte Blüte der Festung fand im 15. Jahrhundert statt, als der moldauische Herrscher Stephan III. der Große eine großangelegte Rekonstruktion durchführte. Bis 1440 wurden die Hauptelemente der Festung fertiggestellt - 34 Türme, von denen einige eine Höhe von 20 Metern erreichten.",
+    "history": "Die Geschichte der Festung beginnt mit der antiken griechischen Kolonie Tyras (6. Jahrhundert v. Chr. - 4. Jahrhundert n. Chr.), die eines der wichtigsten Handelszentren an der Nordküste des Schwarzen Meeres war. Nach der Zerstörung der antiken Stadt entstand auf ihren Ruinen eine slawische Siedlung. Im 13. Jahrhundert geriet das Gebiet unter die Kontrolle der Republik Genua, die hier eine Handelsenklave gründete.",
+    "significance": "Die Festung Akkerman ist die größte mittelalterliche Festung der Ukraine und eine der am besten erhaltenen in Osteuropa. Sie demonstriert eine einzigartige Kombination aus genuesischen, moldauischen und osmanischen architektonischen Traditionen. 2019 wurde die Festung zusammen mit den Überresten der Stadt Tyras in die vorläufige Liste des UNESCO-Weltkulturerbes der Ukraine aufgenommen."
+  },
+
+  "location": {
+    "city": "Bilhorod-Dnistrovskyi",
+    "region": "Odesa Oblast",
+    "address_uk": "вул. 25 Жовтня, 1, Білгород-Дністровський, Одеська область, 67700",
+    "address_en": "1 25 Zhovtnya Street, Bilhorod-Dnistrovskyi, Odesa Oblast, 67700",
+    "address_de": "25 Zhovtnya-Straße 1, Bilhorod-Dnistrowskyj, Oblast Odessa, 67700",
+    "coordinates": {
+      "latitude": 46.20110,
+      "longitude": 30.35060
+    },
+    "directions_uk": {
+      "general": "Розташована в центрі міста Білгород-Дністровський на березі Дністровського лиману",
+      "publicTransport": "З Одеси автобусом або маршруткою до Білгорода-Дністровського (1,5-2 години), далі пішки 15 хвилин до фортеці",
+      "car": "З Одеси - 84 км по трасі Р67 через курорт Затока (близько 1,5-2 години)",
+      "parking": "Безкоштовна парковка біля фортеці"
+    },
+    "directions_en": {
+      "general": "Located in the center of Bilhorod-Dnistrovskyi on the shore of the Dniester Estuary",
+      "publicTransport": "From Odesa by bus or minibus to Bilhorod-Dnistrovskyi (1.5-2 hours), then 15 minutes walk to the fortress",
+      "car": "From Odesa - 84 km via P67 highway through Zatoka resort (about 1.5-2 hours)",
+      "parking": "Free parking near the fortress"
+    },
+    "directions_de": {
+      "general": "Im Zentrum von Bilhorod-Dnistrowskyj am Ufer der Dnjestr-Mündung gelegen",
+      "publicTransport": "Von Odessa mit Bus oder Minibus nach Bilhorod-Dnistrowskyj (1,5-2 Stunden), dann 15 Minuten zu Fuß zur Festung",
+      "car": "Von Odessa - 84 km über die P67 durch das Erholungsgebiet Zatoka (ca. 1,5-2 Stunden)",
+      "parking": "Kostenloser Parkplatz bei der Festung"
+    },
+    "nearbyAttractions": [
+      {
+        "name_uk": "Курорт Затока",
+        "name_en": "Zatoka Resort",
+        "distance": "20 km",
+        "type": "beach-resort"
+      },
+      {
+        "name_uk": "Руїни античного міста Тірас",
+        "name_en": "Ruins of Ancient Tyras",
+        "distance": "0.5 km",
+        "type": "archaeological-site"
+      },
+      {
+        "name_uk": "Дністровський лиман",
+        "name_en": "Dniester Estuary",
+        "distance": "0.2 km",
+        "type": "natural-landmark"
+      }
+    ]
+  },
+
+  "contact": {
+    "phone": "+380 67 446 13 82",
+    "email": "info@akkerman-fortress.od.ua",
+    "website": "http://akkerman-fortress.od.ua/",
+    "bookingUrl": null,
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/AkkermanFortress/",
+      "instagram": "https://www.instagram.com/akkerman_fortress/",
+      "youtube": null
+    }
+  },
+
+  "visitingInformation": {
+    "openingTimes": {
+      "status_uk": "Відкрито цілий рік",
+      "status_en": "Open year-round",
+      "status_de": "Ganzjährig geöffnet",
+      "seasonal": [
+        {
+          "season_uk": "Квітень - Жовтень",
+          "season_en": "April - October",
+          "season_de": "April - Oktober",
+          "days_uk": "Щодня",
+          "days_en": "Daily",
+          "days_de": "Täglich",
+          "hours": "09:00 - 19:00",
+          "lastAdmission": "18:30"
+        },
+        {
+          "season_uk": "Листопад - Березень",
+          "season_en": "November - March",
+          "season_de": "November - März",
+          "days_uk": "Щодня",
+          "days_en": "Daily",
+          "days_de": "Täglich",
+          "hours": "09:00 - 17:00",
+          "lastAdmission": "16:30"
+        }
+      ]
+    },
+    "admissionPrices": {
+      "currency": "UAH",
+      "adult": 70,
+      "student": 50,
+      "child": 50,
+      "senior": 50,
+      "family": null,
+      "notes_uk": "Діти до 7 років - безкоштовно. Фото/відеозйомка включена у вартість квитка. Парковка - 20 грн",
+      "notes_en": "Children under 7 - free. Photo/video included in ticket price. Parking - 20 UAH",
+      "notes_de": "Kinder unter 7 Jahren - kostenlos. Foto/Video im Ticketpreis enthalten. Parkplatz - 20 UAH"
+    },
+    "tourOptions": [
+      {
+        "type_uk": "Самостійний огляд",
+        "type_en": "Self-guided tour",
+        "type_de": "Selbstgeführte Tour",
+        "duration_uk": "2-3 години",
+        "duration_en": "2-3 hours",
+        "duration_de": "2-3 Stunden",
+        "price": 0
+      },
+      {
+        "type_uk": "Екскурсія з гідом українською",
+        "type_en": "Guided tour in Ukrainian",
+        "type_de": "Führung auf Ukrainisch",
+        "duration_uk": "1,5 години",
+        "duration_en": "1.5 hours",
+        "duration_de": "1,5 Stunden",
+        "price": 400,
+        "groupSize": "до 25 осіб / up to 25 people / bis 25 Personen"
+      },
+      {
+        "type_uk": "Екскурсія з гідом іноземною мовою",
+        "type_en": "Guided tour in foreign language",
+        "type_de": "Führung in Fremdsprache",
+        "duration_uk": "1,5 години",
+        "duration_en": "1.5 hours",
+        "duration_de": "1,5 Stunden",
+        "price": 600,
+        "groupSize": "до 25 осіб / up to 25 people / bis 25 Personen"
+      }
+    ],
+    "averageVisitDuration_uk": "2,5-3 години",
+    "averageVisitDuration_en": "2.5-3 hours",
+    "averageVisitDuration_de": "2,5-3 Stunden",
+    "busyPeriods_uk": ["Літні місяці (червень-серпень)", "Вихідні дні", "Свята", "Історичні фестивалі"],
+    "busyPeriods_en": ["Summer months (June-August)", "Weekends", "Holidays", "Historical festivals"],
+    "busyPeriods_de": ["Sommermonate (Juni-August)", "Wochenenden", "Feiertage", "Historische Festivals"],
+    "adviceForVisitors_uk": "Взуйте зручне взуття для ходіння по великій території. Візьміть воду та головний убір влітку. Рекомендуємо відвідати фортецю вранці або ввечері для кращих фото. Виділіть достатньо часу для огляду - це найбільша фортеця України.",
+    "adviceForVisitors_en": "Wear comfortable shoes for walking on large territory. Bring water and a hat in summer. We recommend visiting the fortress in the morning or evening for better photos. Allow enough time for viewing - this is the largest fortress in Ukraine.",
+    "adviceForVisitors_de": "Tragen Sie bequeme Schuhe zum Gehen auf großem Gelände. Bringen Sie im Sommer Wasser und eine Kopfbedeckung mit. Wir empfehlen, die Festung morgens oder abends für bessere Fotos zu besuchen. Planen Sie genügend Zeit für die Besichtigung ein - dies ist die größte Festung der Ukraine."
+  },
+
+  "features": {
+    "highlights_uk": [
+      "Найбільша середньовічна фортеця України (9 гектарів)",
+      "34 оборонні вежі, що збереглися",
+      "Генуезька цитадель XIII століття",
+      "Панорамні види на Дністровський лиман та Чорне море",
+      "Руїни античного міста Тірас",
+      "Унікальне поєднання генуезької, молдавської та османської архітектури",
+      "Кандидат до списку ЮНЕСКО",
+      "Музейні експозиції та археологічні знахідки"
+    ],
+    "highlights_en": [
+      "Largest medieval fortress in Ukraine (9 hectares)",
+      "34 preserved defensive towers",
+      "Genoese citadel from 13th century",
+      "Panoramic views of the Dniester Estuary and Black Sea",
+      "Ruins of ancient city Tyras",
+      "Unique combination of Genoese, Moldavian and Ottoman architecture",
+      "UNESCO Tentative List candidate",
+      "Museum exhibitions and archaeological finds"
+    ],
+    "highlights_de": [
+      "Größte mittelalterliche Festung der Ukraine (9 Hektar)",
+      "34 erhaltene Verteidigungstürme",
+      "Genuesische Zitadelle aus dem 13. Jahrhundert",
+      "Panoramablick auf die Dnjestr-Mündung und das Schwarze Meer",
+      "Ruinen der antiken Stadt Tyras",
+      "Einzigartige Kombination aus genuesischer, moldauischer und osmanischer Architektur",
+      "UNESCO-Tentativlisten-Kandidat",
+      "Museumsausstellungen und archäologische Funde"
+    ],
+    "facilities_uk": ["Музей", "Сувенірні магазини", "Кафе (влітку)", "Туалети", "Парковка (платна)", "Оглядові майданчики"],
+    "facilities_en": ["Museum", "Gift shops", "Cafe (summer)", "Toilets", "Parking (paid)", "Observation platforms"],
+    "facilities_de": ["Museum", "Souvenirläden", "Café (Sommer)", "Toiletten", "Parkplatz (kostenpflichtig)", "Aussichtsplattformen"],
+    "accessibility": {
+      "wheelchairAccessible": false,
+      "notes_uk": "Фортеця має нерівну поверхню та численні сходи, що ускладнює доступ для людей з обмеженими можливостями. Частина території доступна.",
+      "notes_en": "The fortress has uneven surfaces and numerous stairs, making access difficult for people with disabilities. Part of the territory is accessible.",
+      "notes_de": "Die Festung hat unebene Oberflächen und zahlreiche Treppen, was den Zugang für Menschen mit Behinderungen erschwert. Ein Teil des Geländes ist zugänglich."
+    },
+    "uniqueSellingPoints_uk": [
+      "Найбільша середньовічна фортеця України",
+      "Побудована на руїнах античного міста Тірас (VI ст. до н.е.)",
+      "Найкраще збережена фортеця півдня України",
+      "Унікальна генуезька архітектура XIII століття",
+      "Кандидат до списку Всесвітньої спадщини ЮНЕСКО",
+      "Чудові види на Чорне море та Дністровський лиман"
+    ],
+    "uniqueSellingPoints_en": [
+      "Largest medieval fortress in Ukraine",
+      "Built on the ruins of ancient city Tyras (6th century BC)",
+      "Best preserved fortress of southern Ukraine",
+      "Unique Genoese architecture from 13th century",
+      "UNESCO World Heritage Tentative List candidate",
+      "Magnificent views of the Black Sea and Dniester Estuary"
+    ],
+    "uniqueSellingPoints_de": [
+      "Größte mittelalterliche Festung der Ukraine",
+      "Auf den Ruinen der antiken Stadt Tyras (6. Jahrhundert v. Chr.) erbaut",
+      "Am besten erhaltene Festung der Südukraine",
+      "Einzigartige genuesische Architektur aus dem 13. Jahrhundert",
+      "UNESCO-Welterbe-Tentativlisten-Kandidat",
+      "Herrliche Aussicht auf das Schwarze Meer und die Dnjestr-Mündung"
+    ]
+  },
+
+  "images": {
+    "heroImage": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Bilhorod_Dnistrovskyi.jpg",
+      "alt_uk": "Аккерманська фортеця - вид з висоти",
+      "alt_en": "Akkerman Fortress - aerial view",
+      "alt_de": "Festung Akkerman - Luftaufnahme",
+      "caption_uk": "Найбільша середньовічна фортеця України на березі Дністровського лиману",
+      "caption_en": "The largest medieval fortress in Ukraine on the shore of the Dniester Estuary",
+      "caption_de": "Die größte mittelalterliche Festung der Ukraine am Ufer der Dnjestr-Mündung"
+    },
+    "gallery": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Akkerman_fortress_citadel.jpg",
+        "alt_uk": "Генуезька цитадель",
+        "alt_en": "Genoese citadel",
+        "alt_de": "Genuesische Zitadelle",
+        "caption_uk": "Внутрішня генуезька цитадель XIII століття з круглими вежами"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Akkerman_Fortress_walls.jpg",
+        "alt_uk": "Оборонні стіни та вежі",
+        "alt_en": "Defensive walls and towers",
+        "alt_de": "Verteidigungsmauern und Türme",
+        "caption_uk": "Потужні оборонні стіни з 34 вежами різних епох"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Bilhorod-Dnistrovskyi_fortress_panorama.jpg",
+        "alt_uk": "Панорама фортеці",
+        "alt_en": "Panorama of the fortress",
+        "alt_de": "Panorama der Festung",
+        "caption_uk": "Загальний вигляд фортеці з Дністровського лиману"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Akkerman_Fortress_gate.jpg",
+        "alt_uk": "Головна брама",
+        "alt_en": "Main gate",
+        "alt_de": "Haupttor",
+        "caption_uk": "Головна в'їзна брама з оборонними вежами"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Akkerman_Fortress_courtyard.jpg",
+        "alt_uk": "Внутрішній двір",
+        "alt_en": "Inner courtyard",
+        "alt_de": "Innenhof",
+        "caption_uk": "Внутрішній двір фортеці з музейними приміщеннями"
+      }
+    ]
+  },
+
+  "historicalData": {
+    "yearBuilt": "XIII-XV ст.",
+    "yearBuiltNote_uk": "Генуезька цитадель XIII ст., основні укріплення XV ст. На руїнах античного міста Тірас (VI ст. до н.е.)",
+    "yearBuiltNote_en": "Genoese citadel 13th century, main fortifications 15th century. On ruins of ancient city Tyras (6th century BC)",
+    "yearBuiltNote_de": "Genuesische Zitadelle 13. Jahrhundert, Hauptbefestigungen 15. Jahrhundert. Auf Ruinen der antiken Stadt Tyras (6. Jahrhundert v. Chr.)",
+    "architecturalStyle_uk": "Генуезька фортифікаційна архітектура, молдавський оборонний стиль, османські елементи",
+    "architecturalStyle_en": "Genoese fortification architecture, Moldavian defensive style, Ottoman elements",
+    "architecturalStyle_de": "Genuesische Festungsarchitektur, moldauischer Verteidigungsstil, osmanische Elemente",
+    "architects": [
+      {
+        "name": "Генуезькі майстри (Genoese masters)",
+        "period": "XIII ст. / 13th c. / 13. Jh.",
+        "contribution_uk": "Будівництво внутрішньої цитаделі",
+        "contribution_en": "Construction of the inner citadel",
+        "contribution_de": "Bau der inneren Zitadelle"
+      },
+      {
+        "name": "Стефан III Великий (Stephen III the Great)",
+        "period": "XV ст. / 15th c. / 15. Jh.",
+        "contribution_uk": "Масштабна реконструкція та розширення фортеці",
+        "contribution_en": "Large-scale reconstruction and expansion of the fortress",
+        "contribution_de": "Großangelegte Rekonstruktion und Erweiterung der Festung"
+      }
+    ],
+    "unescoStatus": "tentative",
+    "unescoYear": 2019,
+    "nationalHeritageStatus": "Пам'ятка архітектури національного значення / National Monument",
+    "referenceNumber": "1401-М",
+    "managedBy_uk": "Державний історико-архітектурний заповідник",
+    "managedBy_en": "State Historical-Architectural Reserve",
+    "managedBy_de": "Staatliches historisch-architektonisches Reservat"
+  },
+
+  "culturalEvents": [
+    {
+      "name_uk": "Фестиваль 'Аккерман Fest'",
+      "name_en": "Akkerman Fest Festival",
+      "name_de": "Akkerman Fest Festival",
+      "period_uk": "Серпень (щорічно)",
+      "period_en": "August (annually)",
+      "period_de": "August (jährlich)",
+      "description_uk": "Середньовічний фестиваль з лицарськими турнірами, історичними реконструкціями, ремісничими майстернями",
+      "description_en": "Medieval festival with knight tournaments, historical reconstructions, craft workshops",
+      "description_de": "Mittelalterliches Festival mit Ritterturnieren, historischen Rekonstruktionen, Handwerkswerkstätten"
+    },
+    {
+      "name_uk": "День фортеці",
+      "name_en": "Fortress Day",
+      "name_de": "Tag der Festung",
+      "period_uk": "Травень",
+      "period_en": "May",
+      "period_de": "Mai",
+      "description_uk": "Святкування дня заповідника з екскурсіями та концертами",
+      "description_en": "Celebration of the reserve's day with tours and concerts",
+      "description_de": "Feier des Tages des Reservats mit Führungen und Konzerten"
+    }
+  ],
+
+  "tags": [
+    "castle",
+    "fortress",
+    "medieval",
+    "genoese",
+    "museum",
+    "architecture",
+    "history",
+    "odesa",
+    "black-sea",
+    "unesco-tentative",
+    "ancient-tyras",
+    "largest-fortress",
+    "bilhorod-dnistrovskyi",
+    "tourism"
+  ],
+
+  "suitableFor_uk": [
+    "Любителі історії",
+    "Сімейні подорожі",
+    "Фотографи",
+    "Поціновувачі архітектури",
+    "Археологи-аматори",
+    "Шкільні екскурсії",
+    "Любителі середньовічних фестивалів"
+  ],
+  "suitableFor_en": [
+    "History enthusiasts",
+    "Family travel",
+    "Photographers",
+    "Architecture lovers",
+    "Amateur archaeologists",
+    "School excursions",
+    "Medieval festival lovers"
+  ],
+  "suitableFor_de": [
+    "Geschichtsinteressierte",
+    "Familienreisen",
+    "Fotografen",
+    "Architekturliebhaber",
+    "Amateur-Archäologen",
+    "Schulausflüge",
+    "Liebhaber mittelalterlicher Festivals"
+  ],
+
+  "weatherDependent": true,
+  "indoorActivities": true,
+  "outdoorActivities": true,
+
+  "priceRange": "$$",
+  "rating": 4.6,
+  "reviewsCount": 3421,
+  "featured": true,
+  "status": "published",
+
+  "metaDescription_uk": "Аккерманська фортеця - найбільша середньовічна фортеця України у Білгороді-Дністровському. Генуезька архітектура XIII-XV ст. Кандидат ЮНЕСКО. Музей, екскурсії, фестивалі.",
+  "metaDescription_en": "Akkerman Fortress - the largest medieval fortress in Ukraine in Bilhorod-Dnistrovskyi. Genoese architecture 13th-15th centuries. UNESCO candidate. Museum, tours, festivals.",
+  "metaDescription_de": "Festung Akkerman - die größte mittelalterliche Festung der Ukraine in Bilhorod-Dnistrowskyj. Genuesische Architektur 13.-15. Jahrhundert. UNESCO-Kandidat. Museum, Führungen, Festivals.",
+
+  "keywords": [
+    "Аккерманська фортеця",
+    "Akkerman Fortress",
+    "Festung Akkerman",
+    "Білгород-Дністровський",
+    "Bilhorod-Dnistrovskyi",
+    "замок",
+    "castle",
+    "фортеця",
+    "fortress",
+    "Одеська область",
+    "Odesa",
+    "генуезці",
+    "Genoese",
+    "Тірас",
+    "Tyras",
+    "ЮНЕСКО",
+    "UNESCO",
+    "туризм",
+    "tourism"
+  ],
+
+  "lastUpdated": "2025-11-30",
+  "source": "Wikipedia, UNESCO, Official Tourism Sites, Historical Archives",
+  "verified": true
+}

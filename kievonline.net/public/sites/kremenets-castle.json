@@ -1,0 +1,401 @@
+{
+  "id": "kremenets-castle",
+  "slug": "kremenets-castle",
+
+  "name_uk": "Кременецький замок",
+  "name_en": "Kremenets Castle",
+  "name_de": "Festung Kremenez",
+
+  "tagline_uk": "Легендарна фортеця на Божій горі — непереможна цитадель Волині",
+  "tagline_en": "The legendary fortress on God's Mountain — an impregnable citadel of Volhynia",
+  "tagline_de": "Die legendäre Festung auf dem Gottesberg — eine uneinnehmbare Zitadelle Wolhyniens",
+
+  "category": "castle",
+  "subcategories": ["fortress", "medieval-architecture", "ruins", "historical-monument"],
+  "region": "Kremenets",
+  "oblast": "Ternopil Oblast",
+
+  "description_uk": {
+    "short": "Кременецький замок — середньовічна фортеця XIII століття на вершині 400-метрової Замкової гори (Гори Бони), що залишається символом непереможного духу українського народу та одним із найдавніших оборонних споруд Волині.",
+    "full": "Кременецький замок розташований на вершині 400-метрової Замкової гори в місті Кременець Тернопільської області. Ця велична руїна середньовічної фортеці є одним із найдавніших оборонних укріплень України, що збереглися донині. Замок вражає своїм стратегічним розташуванням на крутій скелястій горі, що забезпечувало йому репутацію неприступної твердині протягом століть.\n\nПобудований із місцевого вапняку в XIII столітті, замок мав внутрішній двір площею близько 8,000 квадратних метрів, оточений високими кам'яними стінами товщиною до 2 метрів і висотою до 8 метрів. Комплекс включав три вежі: в'їзну браму на півночі, Нову вежу на заході та Чорну вежу. Всередині замкових стін знаходилися 34 дерев'яні будівлі заможних містян, житлові приміщення, каплиця Святого Михайла, склади провізії, пекарня та підземні казарми.\n\nЗамок отримав свою найбільшу славу завдяки успішній обороні від численних нападів: угорських військ, монголо-татарських орд Батия (1240-1241 рр.), татарських набігів XV-XVII століть. Фортеця здобула репутацію неприступної і лише раз у своїй історії була взята штурмом — у вересні 1648 року козацькими військами під проводом полковника Максима Кривоноса після півтора місяця облоги.\n\nГору часто називають Бона на честь італійської принцеси Бони Сфорца, дружини польського короля Сигізмунда I, яка володіла замком у 1536-1556 роках. За її правління було зміцнено укріплення, викопано глибокий колодязь і побудовано нові башти. Принцеса оповита численними легендами про пошуки вічної молодості та прихованих скарбів.\n\nСьогодні Кременецький замок є частиною Кременецького державного історико-архітектурного заповідника та популярною туристичною локацією, що пропонує неповторні панорамні види на місто та околиці.",
+    "history": "Перші письмові згадки про Кременець як укріплене місто датуються 1064 роком, коли польський князь Болеслав II Щедрий під час свого київського походу зіткнувся з фортецею як з перешкодою на своєму шляху. Археологічні дослідження 1970-х років підтвердили, що укріплення на цьому місці існували вже в VIII-IX століттях.\n\nЗамок, руїни якого збереглися донині, був закладений у 1290-х роках за ініціативи волинського князя Мстислава Даниловича. У цей період площа фортеці збільшилася вчетверо порівняно з попередніми укріпленнями, а периметр охопила потужна кам'яна стіна.\n\nУ XIV столітті, після розпаду Галицько-Волинського князівства, за замок вели боротьбу Польща, Угорщина та Литва. У 1396 році фортеця перейшла під контроль великого литовського князя Вітовта, який відновив і зміцнив укріплення. Замок став королівською в'язницею для опального князя Свидригайла (1370-1452), який пізніше сам став великим князем литовським.\n\nУ XV-XVII століттях замок, перебуваючи у складі Речі Посполитої, став форпостом на кордоні з татарськими землями. Численні татарські набіги не змогли здолати потужні укріплення. У 1536 році король Сигізмунд I подарував замок своїй дружині, італійській принцесі Боні Сфорца, яка за 20 років правління вклала значні кошти в модернізацію фортеці, збудувавши три нові вежі, склади, казарми та викопавши глибокий колодязь.\n\nОстаннє випробування замок витримав у вересні 1648 року під час визвольної війни під проводом Богдана Хмельницького. Козацькі війська полковника Максима Кривоноса штурмували фортецю півтора місяця. Після падіння замку його більше не відбудовували, і він залишився в руїнах.\n\nУ 1970-х роках на території замку проводилися археологічні розкопки, а в 1990-х він увійшов до складу Кременецького державного історико-архітектурного заповідника.",
+    "significance": "Кременецький замок є пам'яткою національного значення та унікальним зразком середньовічної оборонної архітектури України. Він демонструє еволюцію фортифікаційного мистецтва від ранніх дерев'яно-земляних укріплень VIII-IX століть до потужної кам'яної фортеці XIII-XVII століть. Замок зберіг автентичні елементи готичної оборонної архітектури, включаючи браму зі стрільчастою аркою, залишки трьох веж та фрагменти високих кам'яних стін. Стратегічне розташування на 400-метровій горі робить його одним із найвищих замків України та забезпечує вражаючі панорамні види. Замок внесений до Державного реєстру нерухомих пам'яток України під номером 190023 та є важливою частиною туристичного маршруту Тернопільщини."
+  },
+
+  "description_en": {
+    "short": "Kremenets Castle is a 13th-century medieval fortress atop the 400-meter Castle Hill (Bona Hill), remaining as a symbol of the indomitable spirit of the Ukrainian people and one of the oldest defensive structures in Volhynia.",
+    "full": "Kremenets Castle stands majestically atop the 400-meter Castle Hill in the city of Kremenets, Ternopil Oblast. This magnificent medieval fortress ruin is one of Ukraine's oldest surviving defensive fortifications. The castle impresses with its strategic location on a steep rocky hill, which ensured its reputation as an impregnable citadel for centuries.\n\nBuilt from local limestone in the 13th century, the castle had an inner courtyard of approximately 8,000 square meters, surrounded by high stone walls up to 2 meters thick and 8 meters high. The complex included three towers: the entrance gate to the north, the New Tower to the west, and the Black Tower. Inside the castle walls were 34 wooden buildings of wealthy townspeople, living quarters, the Chapel of St. Michael, provision warehouses, a bakery, and underground barracks.\n\nThe castle gained its greatest fame through successful defense against numerous attacks: Hungarian forces, the Mongol-Tatar hordes of Batu Khan (1240-1241), and Tatar raids of the 15th-17th centuries. The fortress earned a reputation as impregnable and was taken by storm only once in its history — in September 1648 by Cossack forces under Colonel Maksym Kryvonis after a month and a half of siege.\n\nThe hill is often called Bona after Italian Princess Bona Sforza, wife of Polish King Sigismund I, who owned the castle from 1536-1556. During her reign, fortifications were strengthened, a deep well was dug, and new towers were built. The princess is shrouded in numerous legends about the search for eternal youth and hidden treasures.\n\nToday, Kremenets Castle is part of the Kremenets State Historical-Architectural Reserve and a popular tourist destination offering incomparable panoramic views of the city and surroundings.",
+    "history": "The first written mentions of Kremenets as a fortified town date back to 1064, when Polish Prince Bolesław II the Generous encountered the fortress as an obstacle during his Kievan campaign. Archaeological research in the 1970s confirmed that fortifications at this site existed as early as the 8th-9th centuries.\n\nThe castle whose ruins survive today was founded in the 1290s at the initiative of Volhynian Prince Mstislav Danilovych. During this period, the fortress area increased fourfold compared to previous fortifications, and the perimeter was encircled by a powerful stone wall.\n\nIn the 14th century, after the collapse of the Galicia-Volhynia Principality, Poland, Hungary, and Lithuania fought over the castle. In 1396, the fortress came under the control of Lithuanian Grand Duke Vytautas, who restored and strengthened the fortifications. The castle became a royal prison for the disgraced Prince Švitrigaila (1370-1452), who later himself became Grand Duke of Lithuania.\n\nIn the 15th-17th centuries, the castle, as part of the Polish-Lithuanian Commonwealth, became a frontier fortress against Tatar lands. Numerous Tatar raids could not overcome the powerful fortifications. In 1536, King Sigismund I gifted the castle to his wife, Italian Princess Bona Sforza, who during 20 years of rule invested significant funds in modernizing the fortress, building three new towers, warehouses, barracks, and digging a deep well.\n\nThe castle's final trial came in September 1648 during the liberation war under Bohdan Khmelnytsky. Cossack forces under Colonel Maksym Kryvonis stormed the fortress for a month and a half. After the castle's fall, it was never rebuilt and remained in ruins.\n\nIn the 1970s, archaeological excavations were conducted at the castle site, and in the 1990s it became part of the Kremenets State Historical-Architectural Reserve.",
+    "significance": "Kremenets Castle is a monument of national significance and a unique example of medieval defensive architecture in Ukraine. It demonstrates the evolution of fortification art from early wooden-earthen fortifications of the 8th-9th centuries to a powerful stone fortress of the 13th-17th centuries. The castle has preserved authentic elements of Gothic defensive architecture, including a gate with a pointed arch, remains of three towers, and fragments of high stone walls. Its strategic location on a 400-meter hill makes it one of Ukraine's highest castles and provides stunning panoramic views. The castle is listed in the State Register of Immovable Monuments of Ukraine under number 190023 and is an important part of the Ternopil region tourist route."
+  },
+
+  "description_de": {
+    "short": "Die Festung Kremenez ist eine mittelalterliche Festung aus dem 13. Jahrhundert auf dem 400 Meter hohen Schlossberg (Bona-Berg), ein Symbol des unbezwingbaren Geistes des ukrainischen Volkes und eine der ältesten Verteidigungsanlagen Wolhyniens.",
+    "full": "Die Festung Kremenez thront majestätisch auf dem 400 Meter hohen Schlossberg in der Stadt Kremenez, Oblast Ternopil. Diese prächtige mittelalterliche Festungsruine ist eine der ältesten erhaltenen Verteidigungsanlagen der Ukraine. Die Burg beeindruckt durch ihre strategische Lage auf einem steilen Felsenhügel, die ihr über Jahrhunderte den Ruf einer uneinnehmbaren Zitadelle sicherte.\n\nDie im 13. Jahrhundert aus lokalem Kalkstein erbaute Burg hatte einen Innenhof von etwa 8.000 Quadratmetern, umgeben von hohen Steinmauern mit bis zu 2 Metern Dicke und 8 Metern Höhe. Der Komplex umfasste drei Türme: das Eingangstor im Norden, den Neuen Turm im Westen und den Schwarzen Turm. Innerhalb der Burgmauern befanden sich 34 Holzgebäude wohlhabender Stadtbewohner, Wohnräume, die Michaelskapelle, Vorratslager, eine Bäckerei und unterirdische Kasernen.\n\nDie Burg erlangte ihren größten Ruhm durch erfolgreiche Verteidigung gegen zahlreiche Angriffe: ungarische Streitkräfte, die mongolisch-tatarischen Horden von Batu Khan (1240-1241) und Tatarenangriffe des 15.-17. Jahrhunderts. Die Festung erwarb den Ruf der Uneinnehmbarkeit und wurde nur einmal in ihrer Geschichte im Sturm genommen — im September 1648 von Kosakentruppen unter Oberst Maksym Kryvonis nach eineinhalb Monaten Belagerung.\n\nDer Hügel wird oft Bona genannt nach der italienischen Prinzessin Bona Sforza, Gattin des polnischen Königs Sigismund I., die die Burg von 1536-1556 besaß. Während ihrer Herrschaft wurden die Befestigungen verstärkt, ein tiefer Brunnen gegraben und neue Türme gebaut.",
+    "history": "Die ersten schriftlichen Erwähnungen von Kremenez als befestigte Stadt stammen aus dem Jahr 1064, als der polnische Fürst Bolesław II. der Großzügige während seines Kiewer Feldzugs auf die Festung als Hindernis stieß. Archäologische Forschungen in den 1970er Jahren bestätigten, dass Befestigungen an diesem Ort bereits im 8.-9. Jahrhundert existierten.\n\nDie Burg, deren Ruinen heute erhalten sind, wurde in den 1290er Jahren auf Initiative des wolhynischen Fürsten Mstislav Danilovych gegründet. In dieser Zeit vergrößerte sich die Festungsfläche im Vergleich zu früheren Befestigungen um das Vierfache, und der Umfang wurde von einer mächtigen Steinmauer umgeben.",
+    "significance": "Die Festung Kremenez ist ein Denkmal von nationaler Bedeutung und ein einzigartiges Beispiel mittelalterlicher Verteidigungsarchitektur in der Ukraine. Sie demonstriert die Evolution der Festungskunst von frühen Holz-Erd-Befestigungen des 8.-9. Jahrhunderts zu einer mächtigen Steinfestung des 13.-17. Jahrhunderts. Die Festung ist im Staatsregister der unbeweglichen Denkmäler der Ukraine unter der Nummer 190023 eingetragen."
+  },
+
+  "location": {
+    "city": "Kremenets",
+    "region": "Ternopil Oblast",
+    "address_uk": "вул. Замкова, Кременець, Тернопільська область, 47003",
+    "address_en": "Zamkova Street, Kremenets, Ternopil Oblast, 47003",
+    "address_de": "Zamkowa-Straße, Kremenez, Oblast Ternopil, 47003",
+    "coordinates": {
+      "latitude": 50.09500,
+      "longitude": 25.73083
+    },
+    "directions_uk": {
+      "general": "Розташований на вершині Замкової гори (Гори Бони) у центрі міста Кременець",
+      "publicTransport": "Автобусом або маршруткою до центру Кременця, далі підйом пішки на Замкову гору (близько 30 хвилин)",
+      "car": "З Києва — 400 км трасою М06 через Житомир і Хмельницький (близько 5 годин). З Львова — 150 км трасою Е40 через Тернопіль (близько 2 години). З Тернополя — 60 км трасою Т0611 (близько 1 години)",
+      "parking": "Парковка біля підніжжя Замкової гори, далі підйом пішки"
+    },
+    "directions_en": {
+      "general": "Located on top of Castle Hill (Bona Hill) in the center of Kremenets",
+      "publicTransport": "By bus or minibus to Kremenets center, then walking ascent to Castle Hill (about 30 minutes)",
+      "car": "From Kyiv - 400 km via M06 highway through Zhytomyr and Khmelnytskyi (about 5 hours). From Lviv - 150 km via E40 through Ternopil (about 2 hours). From Ternopil - 60 km via T0611 (about 1 hour)",
+      "parking": "Parking at the foot of Castle Hill, then walking ascent"
+    },
+    "directions_de": {
+      "general": "Auf dem Gipfel des Schlossbergs (Bona-Berg) im Zentrum von Kremenez gelegen",
+      "publicTransport": "Mit dem Bus oder Kleinbus zum Zentrum von Kremenez, dann zu Fuß auf den Schlossberg (ca. 30 Minuten)",
+      "car": "Von Kiew - 400 km über M06 durch Schytomyr und Chmelnyzkyj (ca. 5 Stunden). Von Lwiw - 150 km über E40 durch Ternopil (ca. 2 Stunden). Von Ternopil - 60 km über T0611 (ca. 1 Stunde)",
+      "parking": "Parkplatz am Fuß des Schlossbergs, dann Aufstieg zu Fuß"
+    },
+    "nearbyAttractions": [
+      {
+        "name_uk": "Богоявленський монастир",
+        "name_en": "Epiphany Monastery",
+        "distance": "1 km",
+        "type": "monastery"
+      },
+      {
+        "name_uk": "Кременецький ботанічний сад",
+        "name_en": "Kremenets Botanical Garden",
+        "distance": "1.5 km",
+        "type": "park"
+      },
+      {
+        "name_uk": "Гора Черча",
+        "name_en": "Chercha Mountain",
+        "distance": "2 km",
+        "type": "natural-landmark"
+      }
+    ]
+  },
+
+  "contact": {
+    "phone": "+380 3546 2-16-71",
+    "email": "museum.kremenets@gmail.com",
+    "website": "http://kremenets-museum.te.ua/",
+    "bookingUrl": null,
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/kremenetskiymuseum/",
+      "instagram": null,
+      "youtube": null
+    }
+  },
+
+  "visitingInformation": {
+    "openingTimes": {
+      "status_uk": "Відкрито цілий рік",
+      "status_en": "Open year-round",
+      "status_de": "Ganzjährig geöffnet",
+      "seasonal": [
+        {
+          "season_uk": "Травень - Вересень",
+          "season_en": "May - September",
+          "season_de": "Mai - September",
+          "days_uk": "Щодня",
+          "days_en": "Daily",
+          "days_de": "Täglich",
+          "hours": "09:00 - 20:00",
+          "lastAdmission": "19:30"
+        },
+        {
+          "season_uk": "Жовтень - Квітень",
+          "season_en": "October - April",
+          "season_de": "Oktober - April",
+          "days_uk": "Щодня",
+          "days_en": "Daily",
+          "days_de": "Täglich",
+          "hours": "09:00 - 18:00",
+          "lastAdmission": "17:30"
+        }
+      ]
+    },
+    "admissionPrices": {
+      "currency": "UAH",
+      "adult": 50,
+      "student": 30,
+      "child": 20,
+      "senior": 30,
+      "family": null,
+      "notes_uk": "Діти до 7 років - безкоштовно. Вхід на територію замку вільний, плата за екскурсію",
+      "notes_en": "Children under 7 - free. Entry to castle grounds is free, fee for guided tours",
+      "notes_de": "Kinder unter 7 Jahren - kostenlos. Eintritt zum Burggelände frei, Gebühr für Führungen"
+    },
+    "tourOptions": [
+      {
+        "type_uk": "Самостійний огляд",
+        "type_en": "Self-guided tour",
+        "type_de": "Selbstgeführte Tour",
+        "duration_uk": "1-1.5 години",
+        "duration_en": "1-1.5 hours",
+        "duration_de": "1-1,5 Stunden",
+        "price": 0
+      },
+      {
+        "type_uk": "Екскурсія з гідом українською",
+        "type_en": "Guided tour in Ukrainian",
+        "type_de": "Führung auf Ukrainisch",
+        "duration_uk": "1 година",
+        "duration_en": "1 hour",
+        "duration_de": "1 Stunde",
+        "price": 300,
+        "groupSize": "до 15 осіб / up to 15 people / bis 15 Personen"
+      }
+    ],
+    "averageVisitDuration_uk": "1.5-2 години",
+    "averageVisitDuration_en": "1.5-2 hours",
+    "averageVisitDuration_de": "1,5-2 Stunden",
+    "busyPeriods_uk": ["Літні місяці (червень-серпень)", "Вихідні дні", "Свята"],
+    "busyPeriods_en": ["Summer months (June-August)", "Weekends", "Holidays"],
+    "busyPeriods_de": ["Sommermonate (Juni-August)", "Wochenenden", "Feiertage"],
+    "adviceForVisitors_uk": "Взуйте зручне взуття для підйому на гору та ходіння по руїнах. Візьміть воду та головний убір влітку. Рекомендується відвідати вранці або ввечері для кращих фото. Підйом на гору займає близько 30 хвилин і досить крутий.",
+    "adviceForVisitors_en": "Wear comfortable shoes for climbing the mountain and walking on ruins. Bring water and a hat in summer. Recommended to visit in the morning or evening for best photos. The climb up the mountain takes about 30 minutes and is quite steep.",
+    "adviceForVisitors_de": "Tragen Sie bequeme Schuhe zum Bergsteigen und Gehen auf Ruinen. Bringen Sie im Sommer Wasser und einen Hut mit. Empfohlen, morgens oder abends für die besten Fotos zu besuchen. Der Aufstieg dauert etwa 30 Minuten und ist ziemlich steil."
+  },
+
+  "features": {
+    "highlights_uk": [
+      "Розташування на 400-метровій горі з панорамними видами",
+      "Автентичні руїни середньовічної фортеці XIII століття",
+      "Залишки трьох веж: в'їзної брами, Нової вежі та Чорної вежі",
+      "Фрагменти кам'яних стін висотою до 8 метрів",
+      "Готична брама зі стрільчастою аркою",
+      "Легенди про принцесу Бону Сфорца та прихований скарб",
+      "Один із найвищих замків України"
+    ],
+    "highlights_en": [
+      "Location on a 400-meter hill with panoramic views",
+      "Authentic ruins of a 13th-century medieval fortress",
+      "Remains of three towers: entrance gate, New Tower, and Black Tower",
+      "Fragments of stone walls up to 8 meters high",
+      "Gothic gate with pointed arch",
+      "Legends about Princess Bona Sforza and hidden treasure",
+      "One of the highest castles in Ukraine"
+    ],
+    "highlights_de": [
+      "Lage auf einem 400-Meter-Hügel mit Panoramablick",
+      "Authentische Ruinen einer mittelalterlichen Festung aus dem 13. Jahrhundert",
+      "Reste von drei Türmen: Eingangstor, Neuer Turm und Schwarzer Turm",
+      "Fragmente von Steinmauern bis zu 8 Meter hoch",
+      "Gotisches Tor mit Spitzbogen",
+      "Legenden über Prinzessin Bona Sforza und versteckte Schätze",
+      "Eine der höchsten Burgen der Ukraine"
+    ],
+    "facilities_uk": ["Оглядовий майданчик", "Інформаційні стенди", "Фотозони"],
+    "facilities_en": ["Observation platform", "Information boards", "Photo zones"],
+    "facilities_de": ["Aussichtsplattform", "Informationstafeln", "Fotozonen"],
+    "accessibility": {
+      "wheelchairAccessible": false,
+      "notes_uk": "Замок розташований на крутій горі з численними сходами та нерівною поверхнею, що робить його недоступним для інвалідних візків. Підйом потребує хорошої фізичної форми.",
+      "notes_en": "The castle is located on a steep hill with numerous stairs and uneven surfaces, making it inaccessible for wheelchairs. The ascent requires good physical condition.",
+      "notes_de": "Die Burg befindet sich auf einem steilen Hügel mit zahlreichen Treppen und unebenen Flächen, was sie für Rollstühle unzugänglich macht. Der Aufstieg erfordert gute körperliche Verfassung."
+    },
+    "uniqueSellingPoints_uk": [
+      "Найвищий замок Тернопільської області",
+      "Єдина фортеця, яка витримала облогу монголо-татар",
+      "Унікальні панорамні види на Кременецькі гори",
+      "Таємниче минуле принцеси Бони Сфорца",
+      "Частина Кременецького державного заповідника"
+    ],
+    "uniqueSellingPoints_en": [
+      "The highest castle in Ternopil Oblast",
+      "The only fortress that withstood the Mongol-Tatar siege",
+      "Unique panoramic views of the Kremenets Mountains",
+      "Mysterious past of Princess Bona Sforza",
+      "Part of Kremenets State Reserve"
+    ],
+    "uniqueSellingPoints_de": [
+      "Die höchste Burg im Oblast Ternopil",
+      "Die einzige Festung, die der mongolisch-tatarischen Belagerung standhielt",
+      "Einzigartiger Panoramablick auf die Kremenez-Berge",
+      "Geheimnisvolle Vergangenheit von Prinzessin Bona Sforza",
+      "Teil des Kremenez-Staatsreservats"
+    ]
+  },
+
+  "images": {
+    "heroImage": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/%D0%A0%D1%83%D1%97%D0%BD%D0%B8_%D0%9A%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B5%D1%86%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B7%D0%B0%D0%BC%D0%BA%D1%83_1.jpg",
+      "alt_uk": "Руїни Кременецького замку на вершині гори",
+      "alt_en": "Ruins of Kremenets Castle on mountain top",
+      "alt_de": "Ruinen der Festung Kremenez auf dem Berggipfel",
+      "caption_uk": "Залишки кам'яних стін Кременецького замку на 400-метровій Замковій горі",
+      "caption_en": "Remains of stone walls of Kremenets Castle on 400-meter Castle Hill",
+      "caption_de": "Reste der Steinmauern der Festung Kremenez auf dem 400-Meter-Schlossberg"
+    },
+    "gallery": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Kremenets._Castle_2..jpg",
+        "alt_uk": "Панорамний вид з Кременецького замку",
+        "alt_en": "Panoramic view from Kremenets Castle",
+        "alt_de": "Panoramablick von der Festung Kremenez",
+        "caption_uk": "Захоплюючі панорамні види на Кременець та околиці з вершини замку"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/%D0%9A%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B5%D1%86%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA_%D1%80%D1%83%D1%97%D0%BD%D0%B8_%D0%B1%D1%80%D0%B0%D0%BC%D0%B0.jpg",
+        "alt_uk": "Руїни в'їзної брами замку",
+        "alt_en": "Ruins of castle entrance gate",
+        "alt_de": "Ruinen des Burgtors",
+        "caption_uk": "Готична в'їзна брама зі стрільчастою аркою — єдиний вхід до фортеці"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Krzemieniec.jpg",
+        "alt_uk": "Історична гравюра Кременецького замку",
+        "alt_en": "Historical engraving of Kremenets Castle",
+        "alt_de": "Historischer Stich der Festung Kremenez",
+        "caption_uk": "Кременецький замок між 1862 та 1876 роками — історична гравюра"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Kremenets_Castle_Ruins.jpg/800px-Kremenets_Castle_Ruins.jpg",
+        "alt_uk": "Стіни Кременецького замку",
+        "alt_en": "Walls of Kremenets Castle",
+        "alt_de": "Mauern der Festung Kremenez",
+        "caption_uk": "Залишки потужних кам'яних стін товщиною до 2 метрів"
+      }
+    ]
+  },
+
+  "historicalData": {
+    "yearBuilt": "1290",
+    "yearBuiltNote_uk": "Побудований у 1290-х роках князем Мстиславом Даниловичем. Археологічні дослідження виявили укріплення VIII-IX століть",
+    "yearBuiltNote_en": "Built in the 1290s by Prince Mstislav Danilovych. Archaeological research discovered fortifications from 8th-9th centuries",
+    "yearBuiltNote_de": "Erbaut in den 1290er Jahren von Fürst Mstislav Danilovych. Archäologische Forschungen entdeckten Befestigungen aus dem 8.-9. Jahrhundert",
+    "architecturalStyle_uk": "Середньовічна оборонна архітектура, рання готика",
+    "architecturalStyle_en": "Medieval defensive architecture, Early Gothic",
+    "architecturalStyle_de": "Mittelalterliche Verteidigungsarchitektur, Frühgotik",
+    "architects": [
+      {
+        "name": "Князь Мстислав Данилович (Prince Mstislav Danilovych)",
+        "period": "1290-ті / 1290s / 1290er",
+        "contribution_uk": "Заснування кам'яного замку, будівництво основних стін і веж",
+        "contribution_en": "Foundation of stone castle, construction of main walls and towers",
+        "contribution_de": "Gründung der Steinburg, Bau der Hauptmauern und Türme"
+      },
+      {
+        "name": "Бона Сфорца (Bona Sforza)",
+        "period": "1536-1556",
+        "contribution_uk": "Модернізація укріплень, будівництво трьох нових веж, викопування колодязя",
+        "contribution_en": "Modernization of fortifications, construction of three new towers, digging of well",
+        "contribution_de": "Modernisierung der Befestigungen, Bau von drei neuen Türmen, Graben eines Brunnens"
+      }
+    ],
+    "unescoStatus": "none",
+    "unescoYear": null,
+    "nationalHeritageStatus": "Immovable Monument of National Significance of Ukraine",
+    "referenceNumber": "190023",
+    "managedBy_uk": "Кременецький державний історико-архітектурний заповідник",
+    "managedBy_en": "Kremenets State Historical-Architectural Reserve",
+    "managedBy_de": "Kremenez Staatliches Historisch-Architektonisches Reservat"
+  },
+
+  "culturalEvents": [
+    {
+      "name_uk": "День міста Кременець",
+      "name_en": "Kremenets City Day",
+      "name_de": "Kremenez Stadttag",
+      "period_uk": "Вересень (щорічно)",
+      "period_en": "September (annually)",
+      "period_de": "September (jährlich)",
+      "description_uk": "Святкування з історичними реконструкціями, концертами та екскурсіями на Замковій горі",
+      "description_en": "Celebration with historical reenactments, concerts and tours on Castle Hill",
+      "description_de": "Feier mit historischen Nachstellungen, Konzerten und Führungen auf dem Schlossberg"
+    }
+  ],
+
+  "tags": [
+    "castle",
+    "fortress",
+    "ruins",
+    "medieval",
+    "gothic",
+    "ternopil",
+    "kremenets",
+    "bona-sforza",
+    "defensive-architecture",
+    "volhynia",
+    "castle-hill",
+    "panoramic-views",
+    "historical-monument",
+    "13th-century",
+    "limestone",
+    "tourism"
+  ],
+
+  "suitableFor_uk": [
+    "Любителі історії",
+    "Мандрівники",
+    "Фотографи",
+    "Поціновувачі архітектури",
+    "Шкільні екскурсії",
+    "Активні туристи"
+  ],
+  "suitableFor_en": [
+    "History enthusiasts",
+    "Travelers",
+    "Photographers",
+    "Architecture lovers",
+    "School excursions",
+    "Active tourists"
+  ],
+  "suitableFor_de": [
+    "Geschichtsinteressierte",
+    "Reisende",
+    "Fotografen",
+    "Architekturliebhaber",
+    "Schulausflüge",
+    "Aktive Touristen"
+  ],
+
+  "weatherDependent": true,
+  "indoorActivities": false,
+  "outdoorActivities": true,
+
+  "priceRange": "$",
+  "rating": 4.5,
+  "reviewsCount": 847,
+  "featured": true,
+  "status": "published",
+
+  "metaDescription_uk": "Кременецький замок - середньовічна фортеця XIII століття на 400-метровій горі. Руїни неприступної цитаделі Волині з панорамними видами. Легенди Бони Сфорца.",
+  "metaDescription_en": "Kremenets Castle - 13th-century medieval fortress on 400-meter hill. Ruins of impregnable Volhynian citadel with panoramic views. Legends of Bona Sforza.",
+  "metaDescription_de": "Festung Kremenez - mittelalterliche Festung aus dem 13. Jahrhundert auf 400-Meter-Hügel. Ruinen uneinnehmb arer wolhynischer Zitadelle mit Panoramablick.",
+
+  "keywords": [
+    "Кременецький замок",
+    "Kremenets Castle",
+    "замок",
+    "castle",
+    "фортеця",
+    "fortress",
+    "Тернопільська область",
+    "Ternopil",
+    "Бона Сфорца",
+    "Bona Sforza",
+    "руїни",
+    "ruins",
+    "Волинь",
+    "Volhynia",
+    "туризм",
+    "tourism"
+  ],
+
+  "lastUpdated": "2025-11-30",
+  "source": "Wikipedia, Kremenets State Historical-Architectural Reserve, Historical Archives",
+  "verified": true
+}

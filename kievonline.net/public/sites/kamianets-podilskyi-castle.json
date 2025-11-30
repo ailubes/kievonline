@@ -1,0 +1,196 @@
+{
+  "id": "kamianets-podilskyi-castle",
+  "slug": "kamianets-podilskyi-castle",
+  "name_uk": "Кам'янець-Подільська фортеця",
+  "name_en": "Kamianets-Podilskyi Castle",
+  "name_de": "Festung Kamjanez-Podilskyj",
+  "tagline_uk": "Неприступна цитадель на межі століть",
+  "tagline_en": "An impregnable citadel standing through the centuries",
+  "tagline_de": "Eine uneinnehmbare Zitadelle durch die Jahrhunderte",
+  "category": "castle",
+  "subcategories": ["fortress", "medieval-architecture", "historical-monument"],
+  "region": "Khmelnytskyi",
+  "oblast": "Khmelnytskyi Oblast",
+  "description_uk": {
+    "short": "Кам'янець-Подільська фортеця — один із найдавніших і найвизначніших замків України, розташований на скелястому півострові, оточеному каньйоном річки Смотрич.",
+    "full": "Кам'янець-Подільська фортеця — унікальна пам'ятка оборонної архітектури, що поєднує елементи різних епох та культур. Заснована у 14 столітті, фортеця розташована на стратегічно важливому місці — на скелястому півострові, з трьох боків оточеному каньйоном річки Смотрич. Протягом століть замок неодноразово перебудовувався та розширювався. Фортечний комплекс складається зі Старого та Нового замків, з'єднаних оборонними мурами та вежами. Всього збереглося 7 із 12 оригінальних веж. Замок був центром численних історичних подій: тут відбувалися битви з татарськими ордами, турецькими військами, козацькими повстанцями.",
+    "history": "Перші письмові згадки про замок датуються 1374 роком. Археологічні дослідження довели, що укріплення на цьому місці існували вже у 12-13 століттях. У 1672 році після тривалої облоги замок захопили турки на чолі з султаном Мехмедом IV. З 18 століття замок використовувався як в'язниця. У 1928 році замок було оголошено історико-культурним заповідником.",
+    "significance": "Кам'янець-Подільська фортеця є унікальною пам'яткою оборонної архітектури. У 2007 році за народним голосуванням замок визнано одним із Семи чудес України."
+  },
+  "description_en": {
+    "short": "Kamianets-Podilskyi Castle is one of Ukraine's oldest and most prominent fortresses, located on a rocky peninsula surrounded by the Smotrych River canyon.",
+    "full": "Kamianets-Podilskyi Castle is a unique monument of defensive architecture combining elements from different epochs and cultures. Founded in the 14th century, the fortress occupies a strategically important location on a rocky peninsula surrounded on three sides by the Smotrych River canyon. Over the centuries, the castle was repeatedly rebuilt and expanded. The fortress complex consists of the Old and New Castles connected by defensive walls and towers. Seven of the original 12 towers have been preserved. The castle was the center of numerous historical events: battles with Tatar hordes, Turkish armies, and Cossack rebels took place here.",
+    "history": "The first written mentions of the castle date to 1374. Archaeological excavations proved that fortifications existed on this site as early as the 12th-13th centuries. In 1672, after a prolonged siege, the castle was captured by the Turks led by Sultan Mehmed IV. From the 18th century, the castle was used as a prison. In 1928, the castle was declared a historical-cultural preserve.",
+    "significance": "Kamianets-Podilskyi Castle is a unique monument of defensive architecture. In 2007, by popular vote, the castle was recognized as one of the Seven Wonders of Ukraine."
+  },
+  "description_de": {
+    "short": "Die Festung Kamjanez-Podilskyj ist eine der ältesten und bedeutendsten Burgen der Ukraine.",
+    "full": "Die Festung Kamjanez-Podilskyj ist ein einzigartiges Denkmal der Verteidigungsarchitektur. Die im 14. Jahrhundert gegründete Festung befindet sich an einem strategisch wichtigen Ort. Der Festungskomplex besteht aus der Alten und Neuen Burg.",
+    "history": "Die ersten schriftlichen Erwähnungen der Burg stammen aus dem Jahr 1374. 1672 wurde die Burg von den Türken erobert.",
+    "significance": "2007 wurde die Burg als eines der Sieben Wunder der Ukraine anerkannt."
+  },
+  "location": {
+    "city": "Kamianets-Podilskyi",
+    "region": "Khmelnytskyi Oblast",
+    "address_uk": "Замкова вулиця, 1, Кам'янець-Подільський, 32301",
+    "address_en": "1 Zamkova Street, Kamianets-Podilskyi, 32301",
+    "address_de": "Zamkowa-Straße 1, Kamjanez-Podilskyj, 32301",
+    "coordinates": {
+      "latitude": 48.67333,
+      "longitude": 26.56250
+    },
+    "directions_uk": {
+      "general": "У центрі Кам'янця-Подільського на Замковій вулиці",
+      "publicTransport": "Автобусом до центру міста, пішки 10 хвилин",
+      "car": "З Києва — 386 км по трасі М21 (5 годин)",
+      "parking": "Безкоштовна парковка біля входу"
+    },
+    "directions_en": {
+      "general": "In the center of Kamianets-Podilskyi on Zamkova Street",
+      "publicTransport": "Bus to city center, 10 minutes walk",
+      "car": "From Kyiv - 386 km via M21 (5 hours)",
+      "parking": "Free parking at entrance"
+    },
+    "directions_de": {
+      "general": "Im Zentrum von Kamjanez-Podilskyj",
+      "publicTransport": "Bus zum Stadtzentrum, 10 Minuten zu Fuß",
+      "car": "Von Kiew - 386 km über M21 (5 Stunden)",
+      "parking": "Kostenloser Parkplatz"
+    },
+    "nearbyAttractions": [
+      {
+        "name_uk": "Старе місто",
+        "name_en": "Old Town",
+        "distance": "0.5 km",
+        "type": "historic-district"
+      }
+    ]
+  },
+  "contact": {
+    "phone": "+380 3849 2-32-49",
+    "email": "info@kam-pod.gov.ua",
+    "website": "http://www.niazkam-pod.gov.ua/",
+    "bookingUrl": null,
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/kamianetspodilskyi.castle/",
+      "instagram": null,
+      "youtube": null
+    }
+  },
+  "visitingInformation": {
+    "openingTimes": {
+      "status_uk": "Відкрито цілий рік",
+      "status_en": "Open year-round",
+      "status_de": "Ganzjährig geöffnet",
+      "seasonal": [
+        {
+          "season_uk": "Травень-Вересень",
+          "season_en": "May-September",
+          "season_de": "Mai-September",
+          "days_uk": "Щодня",
+          "days_en": "Daily",
+          "days_de": "Täglich",
+          "hours": "09:00-19:00",
+          "lastAdmission": "18:30"
+        }
+      ]
+    },
+    "admissionPrices": {
+      "currency": "UAH",
+      "adult": 100,
+      "student": 50,
+      "child": 30,
+      "senior": 50,
+      "family": 250,
+      "notes_uk": "Діти до 6 років - безкоштовно",
+      "notes_en": "Children under 6 - free",
+      "notes_de": "Kinder unter 6 - kostenlos"
+    },
+    "tourOptions": [
+      {
+        "type_uk": "Самостійний огляд",
+        "type_en": "Self-guided",
+        "type_de": "Selbstgeführt",
+        "duration_uk": "1-2 години",
+        "duration_en": "1-2 hours",
+        "duration_de": "1-2 Stunden",
+        "price": 0
+      }
+    ],
+    "averageVisitDuration_uk": "1.5-2 години",
+    "averageVisitDuration_en": "1.5-2 hours",
+    "averageVisitDuration_de": "1,5-2 Stunden",
+    "busyPeriods_uk": ["Літні місяці", "Вихідні"],
+    "busyPeriods_en": ["Summer months", "Weekends"],
+    "busyPeriods_de": ["Sommermonate", "Wochenenden"],
+    "adviceForVisitors_uk": "Взуйте зручне взуття",
+    "adviceForVisitors_en": "Wear comfortable shoes",
+    "adviceForVisitors_de": "Tragen Sie bequeme Schuhe"
+  },
+  "features": {
+    "highlights_uk": ["7 середньовічних веж", "Панорамні види на каньйон", "Турецький міст"],
+    "highlights_en": ["7 medieval towers", "Panoramic canyon views", "Turkish Bridge"],
+    "highlights_de": ["7 mittelalterliche Türme", "Panoramablick", "Türkische Brücke"],
+    "facilities_uk": ["Музей", "Кафе", "Туалети", "Парковка"],
+    "facilities_en": ["Museum", "Cafe", "Toilets", "Parking"],
+    "facilities_de": ["Museum", "Café", "Toiletten", "Parkplatz"],
+    "accessibility": {
+      "wheelchairAccessible": false,
+      "notes_uk": "Обмежений доступ через сходи",
+      "notes_en": "Limited access due to stairs",
+      "notes_de": "Eingeschränkter Zugang wegen Treppen"
+    },
+    "uniqueSellingPoints_uk": ["Один із Семи чудес України", "Кандидат ЮНЕСКО"],
+    "uniqueSellingPoints_en": ["One of Seven Wonders of Ukraine", "UNESCO candidate"],
+    "uniqueSellingPoints_de": ["Eines der Sieben Wunder", "UNESCO-Kandidat"]
+  },
+  "images": {
+    "heroImage": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/%D0%97%D0%B8%D0%BC%D0%BE%D0%B2%D0%B0_%D1%84%D0%BE%D1%80%D1%82%D0%B5%D1%86%D1%8F.jpg",
+      "alt_uk": "Кам'янець-Подільська фортеця",
+      "alt_en": "Kamianets-Podilskyi Castle",
+      "alt_de": "Festung Kamjanez-Podilskyj",
+      "caption_uk": "Сім веж замку над каньйоном",
+      "caption_en": "Seven castle towers over canyon",
+      "caption_de": "Sieben Burgtürme über der Schlucht"
+    },
+    "gallery": []
+  },
+  "historicalData": {
+    "yearBuilt": "1374",
+    "yearBuiltNote_uk": "Перша письмова згадка",
+    "yearBuiltNote_en": "First written mention",
+    "yearBuiltNote_de": "Erste Erwähnung",
+    "architecturalStyle_uk": "Середньовічна готика",
+    "architecturalStyle_en": "Medieval Gothic",
+    "architecturalStyle_de": "Mittelalterliche Gotik",
+    "architects": [],
+    "unescoStatus": "candidate",
+    "unescoYear": 1989,
+    "nationalHeritageStatus": "National Monument",
+    "referenceNumber": "220073",
+    "managedBy_uk": "Заповідник Кам'янець",
+    "managedBy_en": "Kamianets Reserve",
+    "managedBy_de": "Kamjanez-Reservat"
+  },
+  "culturalEvents": [],
+  "tags": ["castle", "fortress", "medieval", "unesco-candidate", "seven-wonders-ukraine", "khmelnytskyi"],
+  "suitableFor_uk": ["Любителі історії", "Сімейні подорожі", "Фотографи"],
+  "suitableFor_en": ["History enthusiasts", "Family travel", "Photographers"],
+  "suitableFor_de": ["Geschichtsinteressierte", "Familienreisen", "Fotografen"],
+  "weatherDependent": true,
+  "indoorActivities": true,
+  "outdoorActivities": true,
+  "priceRange": "$$",
+  "rating": 4.8,
+  "reviewsCount": 3247,
+  "featured": true,
+  "status": "published",
+  "metaDescription_uk": "Кам'янець-Подільська фортеця - один із Семи чудес України. Середньовічний замок 14 століття. Кандидат ЮНЕСКО.",
+  "metaDescription_en": "Kamianets-Podilskyi Castle - one of Seven Wonders of Ukraine. 14th-century medieval fortress. UNESCO candidate.",
+  "metaDescription_de": "Festung Kamjanez-Podilskyj - eines der Sieben Wunder der Ukraine. Mittelalterliche Burg. UNESCO-Kandidat.",
+  "keywords": ["Кам'янець-Подільський", "Kamianets-Podilskyi", "castle", "fortress", "UNESCO"],
+  "lastUpdated": "2025-11-30",
+  "source": "Wikipedia, UNESCO",
+  "verified": true
+}

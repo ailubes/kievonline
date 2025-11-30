@@ -1,0 +1,413 @@
+{
+  "id": "st-michaels-golden-domed-monastery",
+  "slug": "st-michaels-golden-domed-monastery",
+
+  "name_uk": "Свято-Михайлівський Золотоверхий монастир",
+  "name_en": "St. Michael's Golden-Domed Monastery",
+  "name_de": "Michaelskloster mit den goldenen Kuppeln",
+
+  "tagline_uk": "Золоті куполи над Києвом — символ духовності та національної ідентичності",
+  "tagline_en": "Golden domes over Kyiv — a symbol of spirituality and national identity",
+  "tagline_de": "Goldene Kuppeln über Kiew — ein Symbol der Spiritualität und nationalen Identität",
+
+  "category": "monastery",
+  "subcategories": ["orthodox-church", "baroque-architecture", "historical-monument", "unesco-candidate"],
+  "region": "Kyiv",
+  "oblast": "Kyiv City",
+
+  "description_uk": {
+    "short": "Свято-Михайлівський Золотоверхий монастир — один із найдавніших і найвизначніших монастирів України, розташований у центрі Києва на Михайлівській площі. Заснований у 1108–1113 роках, монастир відомий своїми блискучими золотими куполами та унікальними мозаїками XII століття.",
+    "full": "Свято-Михайлівський Золотоверхий чоловічий монастир є одним із найважливіших духовних центрів України. Заснований великим київським князем Святополком II Ізяславичем у 1108–1113 роках, монастир було присвячено святому архангелу Михаїлу — покровителю воїнів і захиснику України.\n\nМонастирський комплекс включає Михайлівський Золотоверхий собор, трапезну церкву Іоанна Богослова (1713 рік), дзвіницю (1716–1719 роки) та економічну браму (1760 рік). Зовнішній вигляд споруд був перебудований у стилі українського бароко у XVIII столітті, тоді як інтер'єр зберіг оригінальні візантійські мозаїки та фрески.\n\nУ 1930-х роках більшовики зруйнували значну частину монастиря, включаючи головний собор. Однак після здобуття Україною незалежності у 1991 році комплекс було повністю відбудовано, і у 1999 році собор знову відкрив свої двері для вірян. З грудня 2018 року монастир є резиденцією Православної Церкви України.\n\nМонастир відомий своїми унікальними мозаїками XII століття, які було врятовано після радянського знищення та зараз зберігаються у соборі. Золоті куполи монастиря стали символом Києва і можуть бути помічені з багатьох точок міста.",
+    "history": "Історія монастиря сягає 1108 року, коли великий князь Святополк II Ізяславич заснував кам'яну церкву в Києві. За традицією, мощі святої Варвари були перенесені сюди під час його правління. Собор став першим у Київській Русі, купол якого було позолочено, звідси і назва «Золотоверхий».\n\nПротягом Середньовіччя собор став місцем поховання членів правлячої династії Ізяславичів. Монастир зазнав пошкоджень під час монгольської навали 1240 року, але пережив навалу та подальне політичне насильство. У 1620 році ігумен монастиря Йов Борецький зробив собор кафедрою відновленої Київської митрополії.\n\nУ радянський період, у 1930-х роках, більшовики зруйнували собор та пограбували монастир. Багато цінних мозаїк та фресок XII століття були врятовані та передані до музеїв. У 1998 році було розпочато відбудову монастиря, яка завершилась у 1999 році відкриттям собору.",
+    "significance": "Свято-Михайлівський Золотоверхий монастир є визначною пам'яткою української духовної та архітектурної спадщини. Він демонструє унікальне поєднання візантійської та української барокової архітектури. Мозаїки XII століття є одними з найдавніших і найцінніших прикладів давньоруського мистецтва. З 2018 року монастир є штаб-квартирою Православної Церкви України, що робить його центром сучасного українського православ'я."
+  },
+
+  "description_en": {
+    "short": "St. Michael's Golden-Domed Monastery is one of the oldest and most prominent monasteries in Ukraine, located in the center of Kyiv on St. Michael's Square. Founded in 1108–1113, the monastery is renowned for its gleaming golden domes and unique 12th-century mosaics.",
+    "full": "St. Michael's Golden-Domed Monastery is one of Ukraine's most important spiritual centers. Founded by Grand Prince Sviatopolk II Iziaslavych of Kyiv in 1108–1113, the monastery was dedicated to Saint Michael the Archangel — the patron of warriors and protector of Ukraine.\n\nThe monastic complex includes St. Michael's Golden-Domed Cathedral, the Refectory Church of St. John the Theologian (1713), the bell tower (1716–1719), and the Economic Gate (1760). The exterior of the buildings was remodeled in Ukrainian Baroque style in the 18th century, while the interior retained its original Byzantine mosaics and frescoes.\n\nIn the 1930s, the Bolsheviks demolished much of the monastery, including the main cathedral. However, after Ukraine gained independence in 1991, the complex was completely rebuilt, and in 1999 the cathedral reopened its doors to worshippers. Since December 2018, the monastery has been the headquarters of the Orthodox Church of Ukraine.\n\nThe monastery is famous for its unique 12th-century mosaics, which were saved after Soviet destruction and are now preserved in the cathedral. The golden domes of the monastery have become a symbol of Kyiv and can be seen from many points in the city.",
+    "history": "The history of the monastery dates back to 1108, when Grand Prince Sviatopolk II Iziaslavych founded a stone church in Kyiv. By tradition, the relics of Saint Barbara were transferred here during his reign. The cathedral became the first in Kievan Rus' to have its dome gilded, hence the name 'Golden-Domed'.\n\nDuring the Middle Ages, the cathedral became the burial place of members of the ruling Iziaslavych dynasty. The monastery was damaged during the Mongol invasion of 1240 but survived the invasion and subsequent political violence. In 1620, the monastery's hegumen Job Boretsky made the cathedral the seat of the re-established Metropolis of Kyiv.\n\nDuring the Soviet period, in the 1930s, the Bolsheviks demolished the cathedral and plundered the monastery. Many valuable 12th-century mosaics and frescoes were saved and transferred to museums. In 1998, reconstruction of the monastery began, which was completed in 1999 with the opening of the cathedral.",
+    "significance": "St. Michael's Golden-Domed Monastery is an outstanding monument of Ukrainian spiritual and architectural heritage. It demonstrates a unique combination of Byzantine and Ukrainian Baroque architecture. The 12th-century mosaics are among the oldest and most valuable examples of ancient Rus' art. Since 2018, the monastery has been the headquarters of the Orthodox Church of Ukraine, making it the center of modern Ukrainian Orthodoxy."
+  },
+
+  "description_de": {
+    "short": "Das Michaelskloster mit den goldenen Kuppeln ist eines der ältesten und bedeutendsten Klöster der Ukraine, gelegen im Zentrum von Kiew auf dem Michaelsplatz. Gegründet in den Jahren 1108–1113, ist das Kloster bekannt für seine glänzenden goldenen Kuppeln und einzigartigen Mosaiken aus dem 12. Jahrhundert.",
+    "full": "Das Michaelskloster mit den goldenen Kuppeln ist eines der wichtigsten spirituellen Zentren der Ukraine. Gegründet vom Großfürsten Swjatopolk II. Isjaslawitsch von Kiew in den Jahren 1108–1113, wurde das Kloster dem Heiligen Erzengel Michael gewidmet — dem Schutzpatron der Krieger und Beschützer der Ukraine.\n\nDer Klosterkomplex umfasst die Michaelskathedrale mit den goldenen Kuppeln, die Refektoriumskirche des Heiligen Johannes des Theologen (1713), den Glockenturm (1716–1719) und das Wirtschaftstor (1760). Das Äußere der Gebäude wurde im 18. Jahrhundert im ukrainischen Barockstil umgestaltet, während das Innere seine ursprünglichen byzantinischen Mosaiken und Fresken bewahrte.\n\nIn den 1930er Jahren zerstörten die Bolschewiken einen Großteil des Klosters, einschließlich der Hauptkathedrale. Nach der Unabhängigkeit der Ukraine im Jahr 1991 wurde der Komplex jedoch vollständig wieder aufgebaut, und 1999 öffnete die Kathedrale ihre Türen für Gläubige. Seit Dezember 2018 ist das Kloster Hauptsitz der Orthodoxen Kirche der Ukraine.",
+    "history": "Die Geschichte des Klosters reicht bis ins Jahr 1108 zurück, als Großfürst Swjatopolk II. Isjaslawitsch eine steinerne Kirche in Kiew gründete. Der Tradition nach wurden die Reliquien der Heiligen Barbara während seiner Herrschaft hierher überführt. Die Kathedrale war die erste in der Kiewer Rus, deren Kuppel vergoldet wurde, daher der Name 'mit den goldenen Kuppeln'.",
+    "significance": "Das Michaelskloster mit den goldenen Kuppeln ist ein herausragendes Denkmal des ukrainischen spirituellen und architektonischen Erbes. Es zeigt eine einzigartige Kombination aus byzantinischer und ukrainischer Barockarchitektur. Die Mosaiken aus dem 12. Jahrhundert gehören zu den ältesten und wertvollsten Beispielen der altrussischen Kunst."
+  },
+
+  "location": {
+    "city": "Kyiv",
+    "region": "Kyiv City",
+    "address_uk": "вулиця Трьохсвятительська, 6, Київ, 01001",
+    "address_en": "6 Triokhsviatytelska Street, Kyiv, 01001",
+    "address_de": "Triokhsviatytelska-Straße 6, Kiew, 01001",
+    "coordinates": {
+      "latitude": 50.455849,
+      "longitude": 30.523013
+    },
+    "directions_uk": {
+      "general": "Розташований у центрі Києва, на Михайлівській площі, неподалік від Софійського собору",
+      "publicTransport": "Станція метро 'Майдан Незалежності' або 'Поштова площа', далі пішки 10 хвилин",
+      "car": "Платна парковка поблизу Михайлівської площі",
+      "parking": "Платні парковки на вулиці Десятинній та поблизу площі"
+    },
+    "directions_en": {
+      "general": "Located in the center of Kyiv, on St. Michael's Square, near St. Sophia Cathedral",
+      "publicTransport": "Metro station 'Maidan Nezalezhnosti' or 'Poshtova Ploshcha', then 10 minutes walk",
+      "car": "Paid parking near St. Michael's Square",
+      "parking": "Paid parking on Desiatynna Street and near the square"
+    },
+    "directions_de": {
+      "general": "Im Zentrum von Kiew gelegen, am Michaelsplatz, in der Nähe der Sophienkathedrale",
+      "publicTransport": "U-Bahn-Station 'Maidan Nezalezhnosti' oder 'Poshtova Ploshcha', dann 10 Minuten zu Fuß",
+      "car": "Gebührenpflichtige Parkplätze in der Nähe des Michaelsplatzes",
+      "parking": "Gebührenpflichtige Parkplätze in der Desiatynna-Straße und in der Nähe des Platzes"
+    },
+    "nearbyAttractions": [
+      {
+        "name_uk": "Софійський собор",
+        "name_en": "St. Sophia Cathedral",
+        "distance": "0.5 km",
+        "type": "unesco-site"
+      },
+      {
+        "name_uk": "Золоті Ворота",
+        "name_en": "Golden Gate",
+        "distance": "0.8 km",
+        "type": "historical-monument"
+      },
+      {
+        "name_uk": "Андріївський узвіз",
+        "name_en": "Andriyivskyy Descent",
+        "distance": "0.6 km",
+        "type": "historic-street"
+      },
+      {
+        "name_uk": "Майдан Незалежності",
+        "name_en": "Independence Square",
+        "distance": "0.7 km",
+        "type": "city-square"
+      }
+    ]
+  },
+
+  "contact": {
+    "phone": "+380 44 278 6071",
+    "email": "info@archangel.kiev.ua",
+    "website": "http://archangel.kiev.ua/",
+    "bookingUrl": null,
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/archangel.kiev.ua",
+      "instagram": null,
+      "twitter": null,
+      "youtube": "https://www.youtube.com/channel/UCtxXTBAafvSOOjL40PXX6_g"
+    }
+  },
+
+  "visitingInformation": {
+    "openingTimes": {
+      "status_uk": "Відкрито цілий рік",
+      "status_en": "Open year-round",
+      "status_de": "Ganzjährig geöffnet",
+      "seasonal": [
+        {
+          "season_uk": "Цілий рік",
+          "season_en": "Year-round",
+          "season_de": "Ganzjährig",
+          "days_uk": "Понеділок-Неділя",
+          "days_en": "Monday-Sunday",
+          "days_de": "Montag-Sonntag",
+          "hours": "08:00 - 19:30",
+          "lastAdmission": "19:00"
+        }
+      ]
+    },
+    "admissionPrices": {
+      "currency": "UAH",
+      "adult": 0,
+      "student": 0,
+      "child": 0,
+      "senior": 0,
+      "family": 0,
+      "notes_uk": "Вхід безкоштовний. Пожертви вітаються",
+      "notes_en": "Free admission. Donations welcome",
+      "notes_de": "Freier Eintritt. Spenden willkommen"
+    },
+    "tourOptions": [
+      {
+        "type_uk": "Самостійний огляд",
+        "type_en": "Self-guided tour",
+        "type_de": "Selbstgeführte Tour",
+        "duration_uk": "1-2 години",
+        "duration_en": "1-2 hours",
+        "duration_de": "1-2 Stunden",
+        "price": 0
+      },
+      {
+        "type_uk": "Екскурсія з гідом",
+        "type_en": "Guided tour",
+        "type_de": "Führung",
+        "duration_uk": "1.5 години",
+        "duration_en": "1.5 hours",
+        "duration_de": "1,5 Stunden",
+        "price": 300,
+        "groupSize": "за попереднім замовленням / by appointment / nach Vereinbarung"
+      }
+    ],
+    "averageVisitDuration_uk": "1-2 години",
+    "averageVisitDuration_en": "1-2 hours",
+    "averageVisitDuration_de": "1-2 Stunden",
+    "busyPeriods_uk": ["Великодні свята", "Різдвяні свята", "Неділя вранці", "Релігійні свята"],
+    "busyPeriods_en": ["Easter holidays", "Christmas holidays", "Sunday mornings", "Religious holidays"],
+    "busyPeriods_de": ["Osterfeiertage", "Weihnachtsfeiertage", "Sonntagmorgen", "Religiöse Feiertage"],
+    "adviceForVisitors_uk": "Дотримуйтесь правил поведінки у храмі. Жінкам рекомендується покривати голову. Фотографування дозволяється, але без спалаху. Під час богослужінь заборонено проводити екскурсії.",
+    "adviceForVisitors_en": "Follow church etiquette. Women are advised to cover their heads. Photography is allowed but without flash. Tours are not allowed during services.",
+    "adviceForVisitors_de": "Befolgen Sie die Kirchenetikette. Frauen wird empfohlen, den Kopf zu bedecken. Fotografieren ist erlaubt, aber ohne Blitz. Führungen sind während der Gottesdienste nicht erlaubt."
+  },
+
+  "features": {
+    "highlights_uk": [
+      "Золоті куполи — символ Києва",
+      "Унікальні візантійські мозаїки XII століття",
+      "Резиденція Православної Церкви України",
+      "Український барокковий архітектурний стиль",
+      "Трапезна церква Іоанна Богослова (1713)",
+      "Дзвіниця XVIII століття",
+      "Мощі святих та релікви"
+    ],
+    "highlights_en": [
+      "Golden domes — symbol of Kyiv",
+      "Unique 12th-century Byzantine mosaics",
+      "Headquarters of the Orthodox Church of Ukraine",
+      "Ukrainian Baroque architectural style",
+      "Refectory Church of St. John the Theologian (1713)",
+      "18th-century bell tower",
+      "Holy relics and artifacts"
+    ],
+    "highlights_de": [
+      "Goldene Kuppeln — Symbol von Kiew",
+      "Einzigartige byzantinische Mosaiken aus dem 12. Jahrhundert",
+      "Hauptsitz der Orthodoxen Kirche der Ukraine",
+      "Ukrainischer Barockarchitekturstil",
+      "Refektoriumskirche des Heiligen Johannes des Theologen (1713)",
+      "Glockenturm aus dem 18. Jahrhundert",
+      "Heilige Reliquien und Artefakte"
+    ],
+    "facilities_uk": ["Музей", "Сувенірний магазин", "Недільна школа", "Бібліотека", "Туалети"],
+    "facilities_en": ["Museum", "Gift shop", "Sunday school", "Library", "Toilets"],
+    "facilities_de": ["Museum", "Souvenirladen", "Sonntagsschule", "Bibliothek", "Toiletten"],
+    "accessibility": {
+      "wheelchairAccessible": false,
+      "notes_uk": "Обмежений доступ для людей з інвалідністю через історичну архітектуру. Основна частина монастиря доступна, але деякі зони мають сходи.",
+      "notes_en": "Limited access for people with disabilities due to historic architecture. Main areas are accessible, but some zones have stairs.",
+      "notes_de": "Eingeschränkter Zugang für Menschen mit Behinderungen aufgrund der historischen Architektur. Hauptbereiche sind zugänglich, aber einige Bereiche haben Treppen."
+    },
+    "uniqueSellingPoints_uk": [
+      "Штаб-квартира Православної Церкви України",
+      "Найдавніші мозаїки Київської Русі",
+      "Символ духовного відродження незалежної України",
+      "Панорамний вид на історичний центр Києва",
+      "Унікальне поєднання візантійської та барокової архітектури"
+    ],
+    "uniqueSellingPoints_en": [
+      "Headquarters of the Orthodox Church of Ukraine",
+      "Oldest mosaics of Kievan Rus'",
+      "Symbol of spiritual revival of independent Ukraine",
+      "Panoramic view of historic Kyiv center",
+      "Unique combination of Byzantine and Baroque architecture"
+    ],
+    "uniqueSellingPoints_de": [
+      "Hauptsitz der Orthodoxen Kirche der Ukraine",
+      "Älteste Mosaiken der Kiewer Rus",
+      "Symbol der spirituellen Wiedergeburt der unabhängigen Ukraine",
+      "Panoramablick auf das historische Zentrum von Kiew",
+      "Einzigartige Kombination aus byzantinischer und barocker Architektur"
+    ]
+  },
+
+  "images": {
+    "heroImage": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/80-391-9007_Kyiv_St.Michael%27s_Golden-Domed_Monastery_RB_18_%28cropped%29.jpg",
+      "alt_uk": "Свято-Михайлівський Золотоверхий монастир — вид на західний фасад",
+      "alt_en": "St. Michael's Golden-Domed Monastery — view of western facade",
+      "alt_de": "Michaelskloster mit den goldenen Kuppeln — Blick auf die Westfassade",
+      "caption_uk": "Золоті куполи монастиря сяють над центром Києва",
+      "caption_en": "Golden domes of the monastery shine over central Kyiv",
+      "caption_de": "Goldene Kuppeln des Klosters leuchten über dem Zentrum von Kiew"
+    },
+    "gallery": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/St_Michaels_Golden-Domed_Monastery_in_Kiev.jpg/1280px-St_Michaels_Golden-Domed_Monastery_in_Kiev.jpg",
+        "alt_uk": "Панорама Михайлівського монастиря",
+        "alt_en": "Panorama of St. Michael's Monastery",
+        "alt_de": "Panorama des Michaelsklosters",
+        "caption_uk": "Архітектурний ансамбль монастиря"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/St._Michael%27s_Golden-Domed_Cathedral%2C_Kyiv.jpg/1280px-St._Michael%27s_Golden-Domed_Cathedral%2C_Kyiv.jpg",
+        "alt_uk": "Михайлівський собор з близької відстані",
+        "alt_en": "St. Michael's Cathedral up close",
+        "alt_de": "Michaelskathedrale aus der Nähe",
+        "caption_uk": "Головний собор з золотими куполами"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/St._Michael%27s_Golden-Domed_Monastery_Kyiv_2014_G1.jpg/1280px-St._Michael%27s_Golden-Domed_Monastery_Kyiv_2014_G1.jpg",
+        "alt_uk": "Вид на монастир зверху",
+        "alt_en": "Aerial view of the monastery",
+        "alt_de": "Luftaufnahme des Klosters",
+        "caption_uk": "Монастир у центрі історичного Києва"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Kyiv_St_Michaels_Golden_Domed_Monastery.jpg/1280px-Kyiv_St_Michaels_Golden_Domed_Monastery.jpg",
+        "alt_uk": "Дзвіниця монастиря",
+        "alt_en": "Monastery bell tower",
+        "alt_de": "Glockenturm des Klosters",
+        "caption_uk": "Дзвіниця XVIII століття"
+      }
+    ]
+  },
+
+  "historicalData": {
+    "yearBuilt": "1108-1113",
+    "yearBuiltNote_uk": "Заснований великим князем Святополком II Ізяславичем. Зруйнований у 1930-х, відбудований у 1998-1999",
+    "yearBuiltNote_en": "Founded by Grand Prince Sviatopolk II Iziaslavych. Demolished in the 1930s, rebuilt in 1998-1999",
+    "yearBuiltNote_de": "Gegründet vom Großfürsten Swjatopolk II. Isjaslawitsch. In den 1930er Jahren zerstört, 1998-1999 wieder aufgebaut",
+    "architecturalStyle_uk": "Візантійська архітектура (інтер'єр), Українське бароко (екстер'єр)",
+    "architecturalStyle_en": "Byzantine architecture (interior), Ukrainian Baroque (exterior)",
+    "architecturalStyle_de": "Byzantinische Architektur (Innenraum), Ukrainisches Barock (Außenbereich)",
+    "architects": [
+      {
+        "name": "Іван Григорович-Барський",
+        "period": "XVIII ст. / 18th c. / 18. Jh.",
+        "contribution_uk": "Реконструкція монастиря у стилі українського бароко",
+        "contribution_en": "Reconstruction of the monastery in Ukrainian Baroque style",
+        "contribution_de": "Rekonstruktion des Klosters im ukrainischen Barockstil"
+      }
+    ],
+    "unescoStatus": "candidate",
+    "unescoYear": null,
+    "nationalHeritageStatus": "Architectural Monument of National Significance",
+    "referenceNumber": "260000-N",
+    "managedBy_uk": "Православна Церква України",
+    "managedBy_en": "Orthodox Church of Ukraine",
+    "managedBy_de": "Orthodoxe Kirche der Ukraine"
+  },
+
+  "culturalEvents": [
+    {
+      "name_uk": "Різдвяні богослужіння",
+      "name_en": "Christmas services",
+      "name_de": "Weihnachtsgottesdienste",
+      "period_uk": "7 січня",
+      "period_en": "January 7",
+      "period_de": "7. Januar",
+      "description_uk": "Урочисті різдвяні богослужіння за православним календарем",
+      "description_en": "Solemn Christmas services according to the Orthodox calendar",
+      "description_de": "Feierliche Weihnachtsgottesdienste nach dem orthodoxen Kalender"
+    },
+    {
+      "name_uk": "Великодні богослужіння",
+      "name_en": "Easter services",
+      "name_de": "Ostergottesdienste",
+      "period_uk": "Квітень/Травень (за православним календарем)",
+      "period_en": "April/May (according to Orthodox calendar)",
+      "period_de": "April/Mai (nach orthodoxem Kalender)",
+      "description_uk": "Найважливіші богослужіння року з нічним богослужінням",
+      "description_en": "Most important services of the year with overnight liturgy",
+      "description_de": "Wichtigste Gottesdienste des Jahres mit nächtlicher Liturgie"
+    },
+    {
+      "name_uk": "День пам'яті святого архангела Михаїла",
+      "name_en": "Feast of St. Michael the Archangel",
+      "name_de": "Fest des Heiligen Erzengels Michael",
+      "period_uk": "21 листопада",
+      "period_en": "November 21",
+      "period_de": "21. November",
+      "description_uk": "Престольне свято монастиря з урочистими богослужіннями",
+      "description_en": "Patronal feast of the monastery with solemn services",
+      "description_de": "Patronatsfest des Klosters mit feierlichen Gottesdiensten"
+    }
+  ],
+
+  "tags": [
+    "monastery",
+    "orthodox-church",
+    "kyiv",
+    "golden-domes",
+    "byzantine-mosaics",
+    "ukrainian-baroque",
+    "spiritual-center",
+    "religious-heritage",
+    "architectural-monument",
+    "national-symbol",
+    "orthodox-church-of-ukraine",
+    "medieval-art",
+    "reconstruction",
+    "unesco-candidate"
+  ],
+
+  "suitableFor_uk": [
+    "Паломники",
+    "Любителі архітектури",
+    "Історики та дослідники",
+    "Фотографи",
+    "Туристи",
+    "Віруючі",
+    "Студенти та школярі"
+  ],
+  "suitableFor_en": [
+    "Pilgrims",
+    "Architecture lovers",
+    "Historians and researchers",
+    "Photographers",
+    "Tourists",
+    "Believers",
+    "Students and schoolchildren"
+  ],
+  "suitableFor_de": [
+    "Pilger",
+    "Architekturliebhaber",
+    "Historiker und Forscher",
+    "Fotografen",
+    "Touristen",
+    "Gläubige",
+    "Studenten und Schüler"
+  ],
+
+  "weatherDependent": false,
+  "indoorActivities": true,
+  "outdoorActivities": true,
+
+  "priceRange": "$",
+  "rating": 4.8,
+  "reviewsCount": 5234,
+  "featured": true,
+  "status": "published",
+
+  "metaDescription_uk": "Свято-Михайлівський Золотоверхий монастир у Києві — один із найдавніших монастирів України з унікальними мозаїками XII століття. Резиденція Православної Церкви України. Безкоштовний вхід.",
+  "metaDescription_en": "St. Michael's Golden-Domed Monastery in Kyiv — one of Ukraine's oldest monasteries with unique 12th-century mosaics. Headquarters of the Orthodox Church of Ukraine. Free admission.",
+  "metaDescription_de": "Michaelskloster mit den goldenen Kuppeln in Kiew — eines der ältesten Klöster der Ukraine mit einzigartigen Mosaiken aus dem 12. Jahrhundert. Hauptsitz der Orthodoxen Kirche der Ukraine. Freier Eintritt.",
+
+  "keywords": [
+    "Михайлівський монастир",
+    "St. Michael's Monastery",
+    "золоті куполи",
+    "golden domes",
+    "Київ",
+    "Kyiv",
+    "візантійські мозаїки",
+    "Byzantine mosaics",
+    "українське бароко",
+    "Ukrainian Baroque",
+    "Православна Церква України",
+    "Orthodox Church of Ukraine",
+    "monastery",
+    "духовний центр",
+    "spiritual center"
+  ],
+
+  "lastUpdated": "2025-11-30",
+  "source": "Wikipedia, Official Website, UNESCO, Tourism Sites",
+  "verified": true
+}

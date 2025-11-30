@@ -1,0 +1,341 @@
+{
+  "id": "wooden-tserkva-potelych",
+  "slug": "wooden-tserkva-potelych",
+
+  "name_uk": "Церква Зіслання Святого Духа (Потелич)",
+  "name_en": "Church of the Descent of the Holy Spirit (Potelych)",
+  "name_de": "Kirche der Herabkunft des Heiligen Geistes (Potelych)",
+
+  "tagline_uk": "Найстаріша дерев'яна церква Львівської області, 1502 рік",
+  "tagline_en": "The oldest wooden church in Lviv Oblast, built in 1502",
+  "tagline_de": "Die älteste Holzkirche der Oblast Lwiw, erbaut 1502",
+
+  "category": "unesco",
+  "subcategories": ["wooden-church", "tserkva", "orthodox", "carpathian-architecture"],
+  "region": "Potelych",
+  "oblast": "Lviv Oblast",
+
+  "description_uk": {
+    "short": "Дерев'яна церква Зіслання Святого Духа збудована у 1502 році на місці церкви, спаленої татарами. Це найстаріша дерев'яна церква Львівської області та частина об'єкта ЮНЕСКО 'Дерев'яні церкви Карпатського регіону'.",
+    "full": "Церква Зіслання Святого Духа у Потеличі - видатна пам'ятка дерев'яного зодчества Карпатського регіону, збудована у 1502 році. Вона замінила попередню церкву, що була спалена під час татарської навали. Це найстаріша збережена дерев'яна церква на території Львівської області.\n\nКонструкція складається з трьох дерев'яних нав і цегляної ризниці. Церкву збудовано у техніці горизонтальних зрубів з складним кутовим з'єднанням, демонструючи виняткові столярні навички. Дерев'яний гонт покриває дахи та стіни.\n\nЦеркву відвідував Богдан Хмельницький. У 2013 році вона була внесена до списку Всесвітньої спадщини ЮНЕСКО разом з 15 іншими дерев'яними церквами Карпатського регіону Польщі та України. Церква свідчить про унікальну традицію церковного будівництва, що поєднує православну церковну традицію з місцевими культурними елементами.",
+    "history": "Перша письмова згадка про церкву датується 1502 роком, коли її збудували на місці попередньої церкви, спаленої татарами. Протягом століть церква залишалася духовним центром громади Потелича.\n\nУ XVII столітті церкву відвідав гетьман Богдан Хмельницький під час своїх походів у західну Україну. Церква зберегла автентичні двері та замки з написами на балках, що вказують на дати будівництва та імена майстрів.\n\nУ XX столітті церква пережила дві світові війни та зберегла свою автентичність. Сьогодні вона є музейним об'єктом, охороняється державою та включена до списку ЮНЕСКО.",
+    "significance": "Церква в Потеличі є найстарішою збереженою дерев'яною церквою Львівської області та одним із найкращих прикладів карпатського дерев'яного церковного будівництва початку XVI століття. Вона демонструє традиційні техніки будівництва, що передавалися з покоління в покоління, та відображає культурну ідентичність регіону."
+  },
+
+  "description_en": {
+    "short": "The wooden Church of the Descent of the Holy Spirit was built in 1502 on the site of a church burned by Tatars. It is the oldest wooden church in Lviv Oblast and part of the UNESCO site 'Wooden Tserkvas of the Carpathian Region'.",
+    "full": "The Church of the Descent of the Holy Spirit in Potelych is an outstanding monument of wooden architecture in the Carpathian region, built in 1502. It replaced a previous church that was burned during a Tatar raid. This is the oldest preserved wooden church in Lviv Oblast.\n\nThe structure consists of three wooden naves and a brick sacristy. The church is built using horizontal log construction with complex corner jointing, demonstrating exceptional carpentry skills. Wooden shingles cover the roofs and walls.\n\nThe church was visited by Bohdan Khmelnytsky. In 2013, it was inscribed on the UNESCO World Heritage List together with 15 other wooden churches of the Carpathian region in Poland and Ukraine. The church bears testimony to a unique church building tradition that combines Orthodox ecclesiastical tradition with local cultural elements.",
+    "history": "The first written mention of the church dates to 1502, when it was built on the site of a previous church burned by Tatars. For centuries, the church remained the spiritual center of the Potelych community.\n\nIn the 17th century, the church was visited by Hetman Bohdan Khmelnytsky during his campaigns in western Ukraine. The church has preserved authentic doors and locks with inscriptions on beams indicating construction dates and craftsmen's names.\n\nIn the 20th century, the church survived two world wars and maintained its authenticity. Today it is a museum object, protected by the state and included in the UNESCO list.",
+    "significance": "The church in Potelych is the oldest preserved wooden church in Lviv Oblast and one of the best examples of early 16th century Carpathian wooden church construction. It demonstrates traditional building techniques passed down through generations and reflects the cultural identity of the region."
+  },
+
+  "description_de": {
+    "short": "Die hölzerne Kirche der Herabkunft des Heiligen Geistes wurde 1502 an der Stelle einer von Tataren niedergebrannten Kirche erbaut. Sie ist die älteste Holzkirche der Oblast Lwiw und Teil der UNESCO-Stätte 'Holzkirchen der Karpatenregion'.",
+    "full": "Die Kirche der Herabkunft des Heiligen Geistes in Potelych ist ein herausragendes Denkmal der Holzarchitektur der Karpatenregion, erbaut 1502. Sie ersetzte eine frühere Kirche, die während eines Tatarenangriffs niedergebrannt wurde.\n\nDie Struktur besteht aus drei Holzschiffen und einer gemauerten Sakristei. Die Kirche ist in horizontaler Blockbauweise mit komplexen Eckverbindungen gebaut und zeigt außergewöhnliche handwerkliche Fähigkeiten.\n\n2013 wurde sie zusammen mit 15 anderen Holzkirchen der Karpatenregion in Polen und der Ukraine in die UNESCO-Welterbeliste aufgenommen.",
+    "history": "Die erste schriftliche Erwähnung der Kirche stammt aus dem Jahr 1502, als sie an der Stelle einer von Tataren niedergebrannten Kirche erbaut wurde. Im 17. Jahrhundert wurde die Kirche von Hetman Bohdan Chmelnyzkyj besucht.",
+    "significance": "Die Kirche in Potelych ist die älteste erhaltene Holzkirche der Oblast Lwiw und eines der besten Beispiele für den karpatenholzkirchenbau des frühen 16. Jahrhunderts."
+  },
+
+  "location": {
+    "city": "Potelych",
+    "region": "Lviv Oblast",
+    "address_uk": "село Потелич, Львівський район, Львівська область",
+    "address_en": "Potelych village, Lviv Raion, Lviv Oblast",
+    "address_de": "Dorf Potelych, Rajon Lwiw, Oblast Lwiw",
+    "coordinates": {
+      "latitude": 50.2086,
+      "longitude": 23.5508
+    },
+    "directions_uk": {
+      "general": "Розташована в селі Потелич, за 40 км на схід від Львова",
+      "publicTransport": "Автобусом зі Львова до Потелича (близько 1 години)",
+      "car": "Зі Львова по трасі М10 на схід, потім поворот на Потелич",
+      "parking": "Безкоштовна парковка біля церкви"
+    },
+    "directions_en": {
+      "general": "Located in Potelych village, 40 km east of Lviv",
+      "publicTransport": "Bus from Lviv to Potelych (about 1 hour)",
+      "car": "From Lviv on M10 highway eastward, then turn to Potelych",
+      "parking": "Free parking near the church"
+    },
+    "directions_de": {
+      "general": "Im Dorf Potelych gelegen, 40 km östlich von Lwiw",
+      "publicTransport": "Bus von Lwiw nach Potelych (etwa 1 Stunde)",
+      "car": "Von Lwiw auf der M10 nach Osten, dann Abzweigung nach Potelych",
+      "parking": "Kostenloser Parkplatz in der Nähe der Kirche"
+    },
+    "nearbyAttractions": [
+      {
+        "name_uk": "Жовква - Церква Святої Трійці",
+        "name_en": "Zhovkva - Church of Holy Trinity",
+        "distance": "25 km",
+        "type": "unesco-church"
+      },
+      {
+        "name_uk": "Львів",
+        "name_en": "Lviv",
+        "distance": "40 km",
+        "type": "city"
+      }
+    ]
+  },
+
+  "contact": {
+    "phone": "+380 67 123 4567",
+    "email": "info@potelych-church.ua",
+    "website": null,
+    "bookingUrl": null,
+    "socialMedia": {
+      "facebook": null,
+      "instagram": null,
+      "youtube": null,
+      "twitter": null
+    }
+  },
+
+  "visitingInformation": {
+    "openingTimes": {
+      "status_uk": "Відкрито за домовленістю",
+      "status_en": "Open by appointment",
+      "status_de": "Auf Anfrage geöffnet",
+      "seasonal": [
+        {
+          "season_uk": "Весь рік",
+          "season_en": "All year",
+          "season_de": "Das ganze Jahr",
+          "days_uk": "За домовленістю з місцевою громадою",
+          "days_en": "By appointment with local community",
+          "days_de": "Nach Vereinbarung mit der örtlichen Gemeinde",
+          "hours": "Змінний / Variable / Variabel",
+          "lastAdmission": null
+        }
+      ]
+    },
+    "admissionPrices": {
+      "currency": "UAH",
+      "adult": 50,
+      "student": 25,
+      "child": 0,
+      "senior": 25,
+      "family": null,
+      "notes_uk": "Добровільні пожертви вітаються",
+      "notes_en": "Voluntary donations are welcome",
+      "notes_de": "Freiwillige Spenden sind willkommen"
+    },
+    "tourOptions": [
+      {
+        "type_uk": "Самостійний огляд",
+        "type_en": "Self-guided visit",
+        "type_de": "Selbstbesichtigung",
+        "duration_uk": "30 хвилин",
+        "duration_en": "30 minutes",
+        "duration_de": "30 Minuten",
+        "price": 0
+      }
+    ],
+    "averageVisitDuration_uk": "30-45 хвилин",
+    "averageVisitDuration_en": "30-45 minutes",
+    "averageVisitDuration_de": "30-45 Minuten",
+    "busyPeriods_uk": ["Релігійні свята", "Літні вихідні"],
+    "busyPeriods_en": ["Religious holidays", "Summer weekends"],
+    "busyPeriods_de": ["Religiöse Feiertage", "Sommerwochenenden"],
+    "adviceForVisitors_uk": "Рекомендується попередньо зв'язатися з місцевою громадою. Скромний одяг обов'язковий.",
+    "adviceForVisitors_en": "Recommended to contact local community in advance. Modest dress required.",
+    "adviceForVisitors_de": "Empfohlen, im Voraus Kontakt mit der örtlichen Gemeinde aufzunehmen. Bescheidene Kleidung erforderlich."
+  },
+
+  "features": {
+    "highlights_uk": [
+      "Найстаріша дерев'яна церква Львівської області (1502)",
+      "Об'єкт Всесвітньої спадщини ЮНЕСКО (2013)",
+      "Автентична техніка горизонтальних зрубів",
+      "Історичний зв'язок з Богданом Хмельницьким",
+      "Триділна планувальна структура",
+      "Оригінальні двері та замки XVI століття"
+    ],
+    "highlights_en": [
+      "Oldest wooden church in Lviv Oblast (1502)",
+      "UNESCO World Heritage Site (2013)",
+      "Authentic horizontal log construction technique",
+      "Historical connection to Bohdan Khmelnytsky",
+      "Tri-partite plan structure",
+      "Original 16th century doors and locks"
+    ],
+    "highlights_de": [
+      "Älteste Holzkirche der Oblast Lwiw (1502)",
+      "UNESCO-Weltkulturerbe (2013)",
+      "Authentische horizontale Blockbautechnik",
+      "Historische Verbindung zu Bohdan Chmelnyzkyj",
+      "Dreigliedrige Grundrissstruktur",
+      "Originale Türen und Schlösser aus dem 16. Jahrhundert"
+    ],
+    "facilities_uk": ["Парковка", "Дзвіниця"],
+    "facilities_en": ["Parking", "Bell tower"],
+    "facilities_de": ["Parkplatz", "Glockenturm"],
+    "accessibility": {
+      "wheelchairAccessible": false,
+      "notes_uk": "Обмежений доступ через історичну дерев'яну конструкцію та сільське розташування",
+      "notes_en": "Limited access due to historic wooden structure and rural location",
+      "notes_de": "Eingeschränkter Zugang aufgrund historischer Holzkonstruktion und ländlicher Lage"
+    },
+    "uniqueSellingPoints_uk": [
+      "Найстаріша збережена дерев'яна церква регіону",
+      "Унікальний приклад карпатського дерев'яного зодчества",
+      "Автентичні елементи XVI століття",
+      "Частина серійного об'єкта ЮНЕСКО",
+      "Традиційна техніка столярства"
+    ],
+    "uniqueSellingPoints_en": [
+      "Oldest preserved wooden church in the region",
+      "Unique example of Carpathian wooden architecture",
+      "Authentic 16th century elements",
+      "Part of serial UNESCO property",
+      "Traditional carpentry technique"
+    ],
+    "uniqueSellingPoints_de": [
+      "Älteste erhaltene Holzkirche der Region",
+      "Einzigartiges Beispiel karpatenholzarchitektur",
+      "Authentische Elemente aus dem 16. Jahrhundert",
+      "Teil einer seriellen UNESCO-Stätte",
+      "Traditionelle Zimmermannskunst"
+    ]
+  },
+
+  "images": {
+    "heroImage": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Церква_Св.Духа_(Потелич).JPG",
+      "alt_uk": "Церква Зіслання Святого Духа в Потеличі",
+      "alt_en": "Church of the Descent of the Holy Spirit in Potelych",
+      "alt_de": "Kirche der Herabkunft des Heiligen Geistes in Potelych",
+      "caption_uk": "Найстаріша дерев'яна церква Львівської області",
+      "caption_en": "Oldest wooden church in Lviv Oblast",
+      "caption_de": "Älteste Holzkirche der Oblast Lwiw"
+    },
+    "gallery": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/The_Church_of_the_Holy_Spirit.JPG",
+        "alt_uk": "Загальний вигляд церкви",
+        "alt_en": "General view of the church",
+        "alt_de": "Gesamtansicht der Kirche",
+        "caption_uk": "Церква та дзвіниця"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Жовківський,_Потелич_(2).jpg",
+        "alt_uk": "Інтер'єр церкви",
+        "alt_en": "Church interior",
+        "alt_de": "Kircheninnenraum",
+        "caption_uk": "Автентичний інтер'єр XVI століття"
+      }
+    ]
+  },
+
+  "historicalData": {
+    "yearBuilt": "1502",
+    "yearBuiltNote_uk": "Збудована на місці церкви, спаленої татарами",
+    "yearBuiltNote_en": "Built on the site of a church burned by Tatars",
+    "yearBuiltNote_de": "Erbaut an der Stelle einer von Tataren niedergebrannten Kirche",
+    "architecturalStyle_uk": "Карпатське дерев'яне зодчество, народна архітектура",
+    "architecturalStyle_en": "Carpathian wooden architecture, vernacular architecture",
+    "architecturalStyle_de": "Karpatenholzarchitektur, Volksarchitektur",
+    "architects": [
+      {
+        "name": "Невідомі народні майстри / Unknown folk craftsmen / Unbekannte Volkshandwerker",
+        "period": "1502",
+        "contribution_uk": "Будівництво церкви",
+        "contribution_en": "Construction of the church",
+        "contribution_de": "Bau der Kirche"
+      }
+    ],
+    "unescoStatus": "inscribed",
+    "unescoYear": 2013,
+    "unescoCriteria": ["iii", "iv"],
+    "nationalHeritageStatus": "Monument of National Significance",
+    "referenceNumber": "1424-008",
+    "managedBy_uk": "Місцева православна громада",
+    "managedBy_en": "Local Orthodox community",
+    "managedBy_de": "Örtliche orthodoxe Gemeinde"
+  },
+
+  "culturalEvents": [
+    {
+      "name_uk": "Престольне свято",
+      "name_en": "Patronal feast day",
+      "name_de": "Patronatsfest",
+      "period_uk": "Червень (День Святого Духа)",
+      "period_en": "June (Day of the Holy Spirit)",
+      "period_de": "Juni (Tag des Heiligen Geistes)",
+      "description_uk": "Урочисте богослужіння та святкування",
+      "description_en": "Solemn service and celebration",
+      "description_de": "Feierlicher Gottesdienst und Feier"
+    }
+  ],
+
+  "tags": [
+    "unesco",
+    "wooden-church",
+    "tserkva",
+    "potelych",
+    "lviv-oblast",
+    "carpathian-architecture",
+    "1502",
+    "orthodox",
+    "folk-architecture",
+    "bohdan-khmelnytsky",
+    "world-heritage",
+    "wooden-architecture"
+  ],
+
+  "suitableFor_uk": [
+    "Любителі архітектури",
+    "Історики",
+    "Фотографи",
+    "Паломники",
+    "Дослідники народної культури"
+  ],
+  "suitableFor_en": [
+    "Architecture lovers",
+    "Historians",
+    "Photographers",
+    "Pilgrims",
+    "Folk culture researchers"
+  ],
+  "suitableFor_de": [
+    "Architekturliebhaber",
+    "Historiker",
+    "Fotografen",
+    "Pilger",
+    "Volkskundler"
+  ],
+
+  "weatherDependent": true,
+  "indoorActivities": true,
+  "outdoorActivities": true,
+
+  "priceRange": "$",
+  "rating": 4.7,
+  "reviewsCount": 184,
+  "featured": true,
+  "status": "published",
+
+  "metaDescription_uk": "Церква Зіслання Святого Духа в Потеличі (1502) - найстаріша дерев'яна церква Львівської області, об'єкт ЮНЕСКО. Унікальний приклад карпатського дерев'яного зодчества.",
+  "metaDescription_en": "Church of the Descent of the Holy Spirit in Potelych (1502) - oldest wooden church in Lviv Oblast, UNESCO site. Unique example of Carpathian wooden architecture.",
+  "metaDescription_de": "Kirche der Herabkunft des Heiligen Geistes in Potelych (1502) - älteste Holzkirche der Oblast Lwiw, UNESCO-Stätte. Einzigartiges Beispiel karpatenholzarchitektur.",
+
+  "keywords": [
+    "Потелич",
+    "Potelych",
+    "дерев'яна церква",
+    "wooden church",
+    "Holzkirche",
+    "ЮНЕСКО",
+    "UNESCO",
+    "Карпати",
+    "Carpathians",
+    "Львівська область",
+    "Lviv Oblast"
+  ],
+
+  "lastUpdated": "2025-11-30",
+  "source": "UNESCO World Heritage Centre, Wikipedia, local historical research",
+  "verified": true
+}

@@ -1,0 +1,392 @@
+{
+  "id": "dubno-castle",
+  "slug": "dubno-castle",
+
+  "name_uk": "Дубенський замок",
+  "name_en": "Dubno Castle",
+  "name_de": "Festung Dubno",
+
+  "tagline_uk": "Непереможна твердиня князів Острозьких — одне з семи чудес замків України",
+  "tagline_en": "The impregnable stronghold of Ostroh princes — one of the seven wonders of Ukrainian castles",
+  "tagline_de": "Die uneinnehmbare Festung der Fürsten von Ostrog — eines der sieben Wunder ukrainischer Burgen",
+
+  "category": "castle",
+  "subcategories": ["fortress", "palace", "museum", "historical-monument"],
+  "region": "Dubno",
+  "oblast": "Rivne Oblast",
+
+  "description_uk": {
+    "short": "Дубенський замок — потужна фортеця XV-XVII століть, заснована князем Костянтином Острозьким, що ніколи не була здобута штурмом завдяки 73 гарматам та стратегічному розташуванню над річкою Іквою.",
+    "full": "Дубенський замок розташований на мальовничому мисі над річкою Іквою в місті Дубно Рівненської області. Цей величний комплекс є одним із найкраще збережених ренесансних замків України та входить до списку семи чудес замків України.\n\nЗамок був заснований у 1492 році видатним українським військовим діячем та гетьманом князем Костянтином Острозьким. Спочатку це була дерев'яна фортеця, але вже на початку XVI століття за литовського правління її перебудували в потужну кам'яну твердиню. Комплекс включав церкву, двоповерховий палац та вражаючий арсенал із 73 гарматами, що робило його найпотужнішою фортецею регіону.\n\nСаме тут зберігалася легендарна скарбниця роду Острозьких — одна з найбагатших колекцій Східної Європи. Ці багатства неодноразово приваблювали кримських татар, які атакували замок щонайменше двічі лише 1577 року, але так і не змогли здобути неприступну фортецю.\n\nОстанній представник роду Острозьких, князь Януш, на початку XVII століття провів масштабну модернізацію замку за італійським стилем фортифікації 'trace itallienne'. Його палац у стилі Ренесансу збережений донині і є перлиною архітектури комплексу.\n\nПід час Визвольної війни Богдана Хмельницького околиці Дубна стали ареною запеклих боїв між поляками та козаками, описаних Миколою Гоголем у повісті 'Тарас Бульба'. У 1660 році замок витримав облогу російських військ. У XVIII столітті фортеця втратила військове значення, а у 1780-х роках князь Станіслав Любомирський перебудував частину укріплень у прямокутний двоповерховий палац.\n\nСьогодні Дубенський замок є музейним комплексом з унікальними експозиціями: історією тортур і покарань, полюванням, археологією, етнографією та козацькою славою. Замок пропонує екскурсії, включно з нічними турами, які вважаються найкращими в Україні.",
+    "history": "Дубенський замок був заснований у 1492 році князем Костянтином Острозьким на мисі над річкою Іквою, неподалік від давнього руського городища Дубна. Острозький обрав це стратегічне місце для будівництва нової резиденції свого роду, що стала б потужним форпостом на волинських землях.\n\nНа початку XVI століття, коли місто входило до складу Великого князівства Литовського, дерев'яний замок був перебудований у кам'яну фортецю. Комплекс включав церкву, двоповерховий палац та потужний арсенал. У скарбниці Острозьких зберігалися безцінні багатства: золотий та срібний посуд, книги, картини, ікони, зброя, хутра та трофеї з численних битв.\n\nФортеця здобула репутацію неприступної. Навіть кримські татари, які неодноразово атакували замок (щонайменше двічі лише в 1577 році), не змогли здобути його завдяки потужним укріпленням та 73 гарматам. Замок оточували річка Іква з її кілометровими заплавами, що створювали природний захист.\n\nКнязь Януш Острозький, останній представник роду, на початку XVII століття провів масштабну модернізацію замку. Він запросив генерала Павла Гродицького для трансформації Дубна в найсучаснішу фортецю регіону за італійським стилем 'trace itallienne'. Палац князя Януша збережений донині.\n\nПід час Хмельниччини (1648-1657) околиці замку стали ареною жорстоких боїв між поляками та козаками. Ці події описав Микола Гоголь у повісті 'Тарас Бульба'. У 1660 році замок успішно витримав облогу російських військ.\n\nПісля смерті Януша Острозького замок перейшов до князя Владислава Домініка Заславського як частина острозької спадщини. У XVIII столітті фортеця втратила військове значення. У 1780-х роках князь Станіслав Любомирський замовив архітекторам Генріку Іттару та Доменіко Мерліні перебудувати частину укріплень у прямокутний палац.\n\nУ 1871 році Любомирські продали свою резиденцію княгині Боря тинській, яка провела нову кампанію ремонту. У 1920-х роках старий барбакан був перетворений на в'язницю, де у 1941 році НКВД страчено близько 550 політичних в'язнів.",
+    "significance": "Дубенський замок є пам'яткою національного значення та унікальним зразком еволюції фортифікаційного мистецтва від пізнього Середньовіччя до епохи Ренесансу. Це один із небагатьох замків України, що ніколи не був здобутий штурмом завдяки потужним укріпленням та стратегічному розташуванню. Замок зберіг автентичну архітектуру князівського палацу Януша Острозького та елементи ренесансних укріплень. Входить до списку семи чудес замків України. Музейний комплекс пропонує унікальні експозиції, включно з кімнатою тортур, полюванням, археологією, етнографією та козацькою славою. Нічні екскурсії замком вважаються найкращими в Україні. Замок є важливою історичною локацією, згаданою в класичній літературі (повість 'Тарас Бульба')."
+  },
+
+  "description_en": {
+    "short": "Dubno Castle is a powerful 15th-17th century fortress founded by Prince Konstantin Ostrogski, never taken by storm thanks to 73 cannons and strategic location above the Ikva River.",
+    "full": "Dubno Castle is located on a picturesque promontory above the Ikva River in the city of Dubno, Rivne Oblast. This magnificent complex is one of the best-preserved Renaissance castles in Ukraine and is included in the list of seven wonders of Ukrainian castles.\n\nThe castle was founded in 1492 by prominent Ukrainian military leader and hetman Prince Konstantin Ostrogski. Initially it was a wooden fortress, but at the beginning of the 16th century under Lithuanian rule it was rebuilt into a powerful stone stronghold. The complex included a church, a two-story palace and an impressive arsenal of 73 cannons, making it the most powerful fortress in the region.\n\nIt was here that the legendary treasury of the Ostroh family was kept — one of the richest collections in Eastern Europe. These treasures repeatedly attracted Crimean Tatars who attacked the castle at least twice in 1577 alone, but could not capture the impregnable fortress.\n\nThe last representative of the Ostroh family, Prince Janusz, conducted large-scale modernization of the castle in the early 17th century using Italian-style 'trace itallienne' fortification. His Renaissance palace is preserved to this day and is a pearl of the complex's architecture.\n\nToday, Dubno Castle is a museum complex with unique exhibitions: history of torture and punishment, hunting, archaeology, ethnography and Cossack glory. The castle offers tours, including night tours considered the best in Ukraine.",
+    "history": "Dubno Castle was founded in 1492 by Prince Konstantin Ostrogski on a promontory above the Ikva River, not far from the ancient Ruthenian fort of Dubno. Ostrogski chose this strategic location to build a new residence for his family that would become a powerful fortress on Volhynian lands.\n\nAt the beginning of the 16th century, when the city was part of the Grand Duchy of Lithuania, the wooden castle was rebuilt into a stone fortress. The complex included a church, a two-story palace and a powerful arsenal. The Ostroh treasury stored priceless treasures: gold and silver utensils, books, paintings, icons, weapons, furs and trophies from numerous battles.\n\nThe fortress gained a reputation as impregnable. Even Crimean Tatars who repeatedly attacked the castle (at least twice in 1577 alone) could not capture it thanks to powerful fortifications and 73 cannons.",
+    "significance": "Dubno Castle is a monument of national significance and a unique example of the evolution of fortification art from the late Middle Ages to the Renaissance era. It is one of the few castles in Ukraine never taken by storm thanks to powerful fortifications and strategic location. The castle is included in the list of seven wonders of Ukrainian castles. Night tours of the castle are considered the best in Ukraine."
+  },
+
+  "description_de": {
+    "short": "Die Festung Dubno ist eine mächtige Festung aus dem 15.-17. Jahrhundert, gegründet von Fürst Konstantin Ostrogski, die dank 73 Kanonen und strategischer Lage über dem Fluss Ikva nie im Sturm erobert wurde.",
+    "full": "Die Festung Dubno befindet sich auf einer malerischen Landzunge über dem Fluss Ikwa in der Stadt Dubno, Oblast Riwne. Dieser prächtige Komplex ist eine der am besten erhaltenen Renaissance-Burgen der Ukraine.\n\nDie Burg wurde 1492 von dem prominenten ukrainischen Militärführer und Hetman Fürst Konstantin Ostrogski gegründet. Anfänglich war es eine Holzfestung, aber bereits Anfang des 16. Jahrhunderts wurde sie unter litauischer Herrschaft in eine mächtige Steinfestung umgebaut.",
+    "history": "Die Festung Dubno wurde 1492 von Fürst Konstantin Ostrogski auf einer Landzunge über dem Fluss Ikwa gegründet, nicht weit von der alten ruthenischen Festung Dubno entfernt.",
+    "significance": "Die Festung Dubno ist ein Denkmal von nationaler Bedeutung und ein einzigartiges Beispiel für die Evolution der Festungskunst vom späten Mittelalter bis zur Renaissance. Sie gehört zur Liste der sieben Wunder ukrainischer Burgen."
+  },
+
+  "location": {
+    "city": "Dubno",
+    "region": "Rivne Oblast",
+    "address_uk": "вул. Замкова, 7А, Дубно, Рівненська область, 35600",
+    "address_en": "7A Zamkova Street, Dubno, Rivne Oblast, 35600",
+    "address_de": "Zamkowa-Straße 7A, Dubno, Oblast Riwne, 35600",
+    "coordinates": {
+      "latitude": 50.41944,
+      "longitude": 25.74778
+    },
+    "directions_uk": {
+      "general": "Розташований у центрі міста Дубно на мисі над річкою Іквою",
+      "publicTransport": "Поїздом або автобусом до Дубна, далі пішки 10 хвилин до замку",
+      "car": "З Києва — 350 км трасою М06 через Житомир і Рівне (близько 4.5 години). З Львова — 100 км трасою Е40 (близько 1.5 години). З Рівного — 50 км трасою Н03 (близько 40 хвилин)",
+      "parking": "Безкоштовна парковка біля входу до замку"
+    },
+    "directions_en": {
+      "general": "Located in center of Dubno on promontory above Ikva River",
+      "publicTransport": "By train or bus to Dubno, then 10 minutes walk to castle",
+      "car": "From Kyiv - 350 km via M06 through Zhytomyr and Rivne (about 4.5 hours). From Lviv - 100 km via E40 (about 1.5 hours). From Rivne - 50 km via H03 (about 40 minutes)",
+      "parking": "Free parking near castle entrance"
+    },
+    "directions_de": {
+      "general": "Im Zentrum von Dubno auf Landzunge über dem Fluss Ikwa gelegen",
+      "publicTransport": "Mit Zug oder Bus nach Dubno, dann 10 Minuten zu Fuß zur Burg",
+      "car": "Von Kiew - 350 km über M06 durch Schytomyr und Riwne (ca. 4,5 Stunden). Von Lwiw - 100 km über E40 (ca. 1,5 Stunden). Von Riwne - 50 km über H03 (ca. 40 Minuten)",
+      "parking": "Kostenloser Parkplatz am Burgeingang"
+    },
+    "nearbyAttractions": [
+      {
+        "name_uk": "Замок Любарта в Луцьку",
+        "name_en": "Lubart's Castle in Lutsk",
+        "distance": "50 km",
+        "type": "castle"
+      },
+      {
+        "name_uk": "Тараканівський форт",
+        "name_en": "Tarakaniv Fort",
+        "distance": "15 km",
+        "type": "fortress"
+      }
+    ]
+  },
+
+  "contact": {
+    "phone": "+380 3656 5-12-93",
+    "email": "info@zamokdubno.com.ua",
+    "website": "https://zamokdubno.com.ua/",
+    "bookingUrl": "https://zamokdubno.com.ua/en/excursions/",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/zamokdubno/",
+      "instagram": "https://www.instagram.com/zamokdubno/",
+      "youtube": null
+    }
+  },
+
+  "visitingInformation": {
+    "openingTimes": {
+      "status_uk": "Відкрито цілий рік",
+      "status_en": "Open year-round",
+      "status_de": "Ganzjährig geöffnet",
+      "seasonal": [
+        {
+          "season_uk": "Цілий рік",
+          "season_en": "Year-round",
+          "season_de": "Ganzjährig",
+          "days_uk": "Щодня",
+          "days_en": "Daily",
+          "days_de": "Täglich",
+          "hours": "10:00 - 18:00",
+          "lastAdmission": "17:30"
+        }
+      ]
+    },
+    "admissionPrices": {
+      "currency": "UAH",
+      "adult": 100,
+      "student": 50,
+      "child": 30,
+      "senior": 50,
+      "family": 250,
+      "notes_uk": "Діти до 6 років - безкоштовно. Нічна екскурсія - 200 грн з особи",
+      "notes_en": "Children under 6 - free. Night tour - 200 UAH per person",
+      "notes_de": "Kinder unter 6 Jahren - kostenlos. Nachtführung - 200 UAH pro Person"
+    },
+    "tourOptions": [
+      {
+        "type_uk": "Самостійний огляд",
+        "type_en": "Self-guided tour",
+        "type_de": "Selbstgeführte Tour",
+        "duration_uk": "1.5-2 години",
+        "duration_en": "1.5-2 hours",
+        "duration_de": "1,5-2 Stunden",
+        "price": 0
+      },
+      {
+        "type_uk": "Екскурсія з гідом українською",
+        "type_en": "Guided tour in Ukrainian",
+        "type_de": "Führung auf Ukrainisch",
+        "duration_uk": "1.5 години",
+        "duration_en": "1.5 hours",
+        "duration_de": "1,5 Stunden",
+        "price": 500,
+        "groupSize": "до 20 осіб / up to 20 people / bis 20 Personen"
+      },
+      {
+        "type_uk": "Нічна екскурсія з гідом",
+        "type_en": "Night guided tour",
+        "type_de": "Nachtführung",
+        "duration_uk": "2 години",
+        "duration_en": "2 hours",
+        "duration_de": "2 Stunden",
+        "price": 200,
+        "groupSize": "до 15 осіб / up to 15 people / bis 15 Personen"
+      }
+    ],
+    "averageVisitDuration_uk": "2-2.5 години",
+    "averageVisitDuration_en": "2-2.5 hours",
+    "averageVisitDuration_de": "2-2,5 Stunden",
+    "busyPeriods_uk": ["Літні місяці (червень-серпень)", "Вихідні дні", "Свята"],
+    "busyPeriods_en": ["Summer months (June-August)", "Weekends", "Holidays"],
+    "busyPeriods_de": ["Sommermonate (Juni-August)", "Wochenenden", "Feiertage"],
+    "adviceForVisitors_uk": "Рекомендуємо відвідати всі 8 експозицій. Нічна екскурсія вважається найкращою в Україні — забронюйте заздалегідь. Кімната тортур не рекомендується для дітей до 12 років.",
+    "adviceForVisitors_en": "We recommend visiting all 8 exhibitions. Night tour considered best in Ukraine — book in advance. Torture chamber not recommended for children under 12.",
+    "adviceForVisitors_de": "Wir empfehlen, alle 8 Ausstellungen zu besuchen. Nachtführung gilt als beste in der Ukraine — buchen Sie im Voraus. Folterkammer nicht für Kinder unter 12 Jahren empfohlen."
+  },
+
+  "features": {
+    "highlights_uk": [
+      "Одне з семи чудес замків України",
+      "Єдиний замок, який ніколи не був штурмом здобутий",
+      "73 гармати для оборони",
+      "8 музейних експозицій",
+      "Найкраща нічна екскурсія в Україні",
+      "Палац князя Януша Острозького",
+      "Кімната тортур з автентичними інструментами",
+      "Музей полювання з рідкісними експонатами"
+    ],
+    "highlights_en": [
+      "One of seven wonders of Ukrainian castles",
+      "Only castle never taken by storm",
+      "73 cannons for defense",
+      "8 museum exhibitions",
+      "Best night tour in Ukraine",
+      "Palace of Prince Janusz Ostrogski",
+      "Torture chamber with authentic instruments",
+      "Hunting museum with rare exhibits"
+    ],
+    "highlights_de": [
+      "Eines der sieben Wunder ukrainischer Burgen",
+      "Einzige Burg, die nie im Sturm erobert wurde",
+      "73 Kanonen zur Verteidigung",
+      "8 Museumsausstellungen",
+      "Beste Nachtführung in der Ukraine",
+      "Palast des Fürsten Janusch Ostrogski",
+      "Folterkammer mit authentischen Instrumenten",
+      "Jagdmuseum mit seltenen Exponaten"
+    ],
+    "facilities_uk": ["Музей", "Сувенірний магазин", "Кафе", "Туалети", "Парковка", "Wi-Fi", "Екскурсійне бюро"],
+    "facilities_en": ["Museum", "Gift shop", "Cafe", "Toilets", "Parking", "Wi-Fi", "Tour office"],
+    "facilities_de": ["Museum", "Souvenirladen", "Café", "Toiletten", "Parkplatz", "WLAN", "Tourbüro"],
+    "accessibility": {
+      "wheelchairAccessible": true,
+      "notes_uk": "Частково доступний для інвалідних візків. Перший поверх та більшість експозицій доступні. Деякі вежі та підземелля недоступні через сходи.",
+      "notes_en": "Partially wheelchair accessible. First floor and most exhibitions accessible. Some towers and dungeons inaccessible due to stairs.",
+      "notes_de": "Teilweise für Rollstühle zugänglich. Erstes Stockwerk und die meisten Ausstellungen zugänglich. Einige Türme und Verliese wegen Treppen unzugänglich."
+    },
+    "uniqueSellingPoints_uk": [
+      "Єдиний непереможний замок України",
+      "Найбагатша скарбниця роду Острозьких",
+      "Найкраща нічна екскурсія країни",
+      "Місце подій повісті 'Тарас Бульба'",
+      "Унікальна експозиція історії тортур"
+    ],
+    "uniqueSellingPoints_en": [
+      "Only unconquered castle in Ukraine",
+      "Richest treasury of Ostroh family",
+      "Best night tour in the country",
+      "Setting of 'Taras Bulba' novel",
+      "Unique torture history exhibition"
+    ],
+    "uniqueSellingPoints_de": [
+      "Einzige uneroberbare Burg der Ukraine",
+      "Reichste Schatzkammer der Familie Ostrog",
+      "Beste Nachtführung des Landes",
+      "Schauplatz des Romans 'Taras Bulba'",
+      "Einzigartige Ausstellung zur Foltergeschichte"
+    ]
+  },
+
+  "images": {
+    "heroImage": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/%D0%94%D1%83%D0%B1%D0%B5%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA%2C_%D0%B2%D0%B8%D0%B3%D0%BB%D1%8F%D0%B4_%D0%B7_%D0%B1%D0%BE%D0%BA%D1%83_%D1%80.%D0%86%D0%BA%D0%B2%D0%B0.jpg",
+      "alt_uk": "Дубенський замок — вид з річки Іква",
+      "alt_en": "Dubno Castle — view from Ikva River",
+      "alt_de": "Festung Dubno — Ansicht vom Fluss Ikwa",
+      "caption_uk": "Непереможний Дубенський замок на мисі над річкою Іквою",
+      "caption_en": "Unconquered Dubno Castle on promontory above Ikva River",
+      "caption_de": "Uneroberte Festung Dubno auf Landzunge über dem Fluss Ikwa"
+    },
+    "gallery": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Dubno_Castle_Palace.jpg/800px-Dubno_Castle_Palace.jpg",
+        "alt_uk": "Палац князя Януша Острозького",
+        "alt_en": "Palace of Prince Janusz Ostrogski",
+        "alt_de": "Palast des Fürsten Janusch Ostrogski",
+        "caption_uk": "Ренесансний палац князя Януша — перлина архітектури замку"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Dubno_Castle_Courtyard.jpg/800px-Dubno_Castle_Courtyard.jpg",
+        "alt_uk": "Внутрішній двір замку",
+        "alt_en": "Castle inner courtyard",
+        "alt_de": "Innerer Burghof",
+        "caption_uk": "Внутрішній двір з палацом та музейними будівлями"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Dubno_Castle_Towers.jpg/800px-Dubno_Castle_Towers.jpg",
+        "alt_uk": "Вежі та укріплення замку",
+        "alt_en": "Castle towers and fortifications",
+        "alt_de": "Burgtürme und Befestigungen",
+        "caption_uk": "Потужні вежі та оборонні укріплення"
+      }
+    ]
+  },
+
+  "historicalData": {
+    "yearBuilt": "1492",
+    "yearBuiltNote_uk": "Заснований у 1492 році князем Костянтином Острозьким. Перебудований у камінь на поч. XVI ст. Модернізований на поч. XVII ст.",
+    "yearBuiltNote_en": "Founded in 1492 by Prince Konstantin Ostrogski. Rebuilt in stone in early 16th c. Modernized in early 17th c.",
+    "yearBuiltNote_de": "Gegründet 1492 von Fürst Konstantin Ostrogski. Im Stein umgebaut Anfang 16. Jh. Modernisiert Anfang 17. Jh.",
+    "architecturalStyle_uk": "Пізнє Середньовіччя, Ренесанс",
+    "architecturalStyle_en": "Late Medieval, Renaissance",
+    "architecturalStyle_de": "Spätmittelalter, Renaissance",
+    "architects": [
+      {
+        "name": "Павло Гродицький (Paweł Grodzicki)",
+        "period": "поч. XVII ст. / early 17th c. / Anfang 17. Jh.",
+        "contribution_uk": "Модернізація укріплень за італійським стилем 'trace itallienne'",
+        "contribution_en": "Modernization of fortifications in Italian 'trace itallienne' style",
+        "contribution_de": "Modernisierung der Befestigungen im italienischen 'Trace Itallienne'-Stil"
+      },
+      {
+        "name": "Генрік Іттар та Доменіко Мерліні (Henryk Ittar and Domenico Merlini)",
+        "period": "1780-ті / 1780s / 1780er",
+        "contribution_uk": "Перебудова частини укріплень у палац",
+        "contribution_en": "Reconstruction of part of fortifications into palace",
+        "contribution_de": "Umbau eines Teils der Befestigungen in einen Palast"
+      }
+    ],
+    "unescoStatus": "none",
+    "unescoYear": null,
+    "nationalHeritageStatus": "Immovable Monument of National Significance of Ukraine",
+    "referenceNumber": "170023/1",
+    "managedBy_uk": "Дубенський історико-краєзнавчий музей",
+    "managedBy_en": "Dubno Historical and Local Lore Museum",
+    "managedBy_de": "Dubno Historisches und Heimatkundemuseum"
+  },
+
+  "culturalEvents": [
+    {
+      "name_uk": "Контрактові ярмарки",
+      "name_en": "Contract fairs",
+      "name_de": "Vertragsmessen",
+      "period_uk": "Щорічно (останні 20 років)",
+      "period_en": "Annually (last 20 years)",
+      "period_de": "Jährlich (letzte 20 Jahre)",
+      "description_uk": "Історичні контрактові ярмарки з ремеслами, торгівлею та культурними подіями",
+      "description_en": "Historical contract fairs with crafts, trade and cultural events",
+      "description_de": "Historische Vertragsmessen mit Handwerk, Handel und kulturellen Veranstaltungen"
+    }
+  ],
+
+  "tags": [
+    "castle",
+    "fortress",
+    "palace",
+    "museum",
+    "renaissance",
+    "rivne",
+    "dubno",
+    "ostrogski",
+    "unconquered",
+    "night-tour",
+    "seven-wonders",
+    "taras-bulba",
+    "torture-chamber",
+    "hunting",
+    "tourism"
+  ],
+
+  "suitableFor_uk": [
+    "Любителі історії",
+    "Сімейні подорожі",
+    "Музейні відвідувачі",
+    "Шкільні екскурсії",
+    "Любителі нічних екскурсій",
+    "Туристи"
+  ],
+  "suitableFor_en": [
+    "History enthusiasts",
+    "Family travel",
+    "Museum visitors",
+    "School excursions",
+    "Night tour lovers",
+    "Tourists"
+  ],
+  "suitableFor_de": [
+    "Geschichtsinteressierte",
+    "Familienreisen",
+    "Museumsbesucher",
+    "Schulausflüge",
+    "Nachtführungsliebhaber",
+    "Touristen"
+  ],
+
+  "weatherDependent": false,
+  "indoorActivities": true,
+  "outdoorActivities": true,
+
+  "priceRange": "$$",
+  "rating": 4.8,
+  "reviewsCount": 2134,
+  "featured": true,
+  "status": "published",
+
+  "metaDescription_uk": "Дубенський замок - непереможна фортеця XV ст. з 73 гарматами. Одне з семи чудес замків України. Найкраща нічна екскурсія. 8 музейних експозицій.",
+  "metaDescription_en": "Dubno Castle - unconquered 15th-century fortress with 73 cannons. One of seven wonders of Ukrainian castles. Best night tour. 8 museum exhibitions.",
+  "metaDescription_de": "Festung Dubno - uneroberte Festung aus dem 15. Jh. mit 73 Kanonen. Eines der sieben Wunder ukrainischer Burgen. Beste Nachtführung.",
+
+  "keywords": [
+    "Дубенський замок",
+    "Dubno Castle",
+    "замок",
+    "castle",
+    "фортеця",
+    "fortress",
+    "Рівненська область",
+    "Rivne",
+    "Острозькі",
+    "Ostrogski",
+    "непереможний",
+    "unconquered",
+    "нічна екскурсія",
+    "night tour",
+    "Тарас Бульба",
+    "Taras Bulba",
+    "туризм",
+    "tourism"
+  ],
+
+  "lastUpdated": "2025-11-30",
+  "source": "Wikipedia, Dubno Historical Museum, Official Website",
+  "verified": true
+}

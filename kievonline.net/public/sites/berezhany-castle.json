@@ -1,0 +1,347 @@
+{
+  "id": "berezhany-castle",
+  "slug": "berezhany-castle",
+
+  "name_uk": "Бережанський замок",
+  "name_en": "Berezhany Castle",
+  "name_de": "Festung Berezhany",
+
+  "tagline_uk": "Острівна фортеця XVI століття роду Сєнявських на річці Золота Липа",
+  "tagline_en": "A 16th-century island fortress of the Sieniawski family on the Zolota Lypa River",
+  "tagline_de": "Eine Inselfestung aus dem 16. Jahrhundert der Familie Sieniawski am Fluss Solota Lypa",
+
+  "category": "castle",
+  "subcategories": ["fortress", "palace", "ruins", "historical-monument"],
+  "region": "Berezhany",
+  "oblast": "Ternopil Oblast",
+
+  "description_uk": {
+    "short": "Бережанський замок — укріплена аристократична резиденція XVI століття роду Сєнявських, побудована на острові річки Золота Липа, що поєднує оборонну архітектуру з елементами раннього Бароко.",
+    "full": "Бережанський замок розташований на острові річки Золота Липа в центрі міста Бережани Тернопільської області. Ця величава фортеця була побудована у 1530-1540-х роках як головна родова резиденція могутнього магнатського роду Сєнявських і є видатною пам'яткою оборонної архітектури епохи Ренесансу.\n\nЗамок був заснований Миколаєм Сєнявським, каштеляном Львова та видатним військовим діячем, який обрав унікальне місце для будівництва — острів на річці Золота Липа. Таке розташування забезпечувало природний захист з усіх боків водними перешкодами. Паралельно з будівництвом замку Сєнявський перетворив сусідню церкву Святої Трійці на родовий мавзолей та приватну каплицю — видатний зразок раннього Бароко, що зараз перебуває у занедбаному стані.\n\nУ 1630 році укріплення замку були розширені та посилені, що зробило його однією з найпотужніших фортець регіону. Замок був настільки добре укріплений, що ні козаки Хмельницького (під час облог 1648 і 1651 років), ні турки (у 1675 році) не змогли його здобути. Єдиний раз у своїй історії замок здався без бою — шведам у 1655 році. У 1667 році відповідальність за утримання та ремонт стін була покладена на місцеву єврейську громаду.\n\nПісля смерті Марії Зофії Сєнявської, яка вийшла заміж за Августа Олександра Чарторийського, замок перейшов до роду Чарторийських (1726), потім до князів Любомирських (1778) і до графів Потоцьких (1816). Нові власники дозволили замку занепадати настільки, що вже у 1908 році відвідувачів попереджали не входити всередину через небезпеку падіння кам'яного муру.\n\nЗамок додатково постраждав під час Першої світової війни, як і пізньоготична церква 1554 року, що містить численні витончені гробниці Сєнявських роботи Яна Пфістера та інших провідних польських майстрів XVI-XVII століть.\n\nСьогодні Бережанський замок є пам'яткою архітектури національного значення під охороною держави за номером 190007. Попри руїнований стан, замок зберігає свою величність та атмосферу давніх часів.",
+    "history": "Бережанський замок був побудований у 1530-1540-х роках Миколаєм Сєнявським, каштеляном Львова, представником одного з найвпливовіших магнатських родів України та Польщі. Сєнявський обрав для будівництва родової резиденції унікальне місце — острів на річці Золота Липа, що забезпечувало природний захист фортеці.\n\nПаралельно з будівництвом замку Миколай Сєнявський перетворив сусідню церкву Святої Трійці (побудовану у 1554 році) на родовий мавзолей. Ця церква стала видатним зразком раннього Бароко та містить численні витончені надгробки членів роду Сєнявських, створені провідними майстрами того часу, зокрема Яном Пфістером.\n\nУ 1630 році укріплення замку були значно розширені та посилені, що зробило його однією з найпотужніших фортець регіону. Замок успішно витримав численні облоги: козацькі війська Богдана Хмельницького атакували його у 1648 та 1651 роках, але не змогли здобути. Турецькі війська також безуспішно штурмували замок у 1675 році.\n\nЄдиний раз у своїй історії замок був здан без бою — шведським військам у 1655 році під час 'Шведського потопу'. У 1667 році було прийнято рішення покласти відповідальність за утримання та ремонт замкових стін на місцеву єврейську громаду, що було досить поширеною практикою в Речі Посполитій.\n\nПісля смерті Марії Зофії Сєнявської та її заміжжя за Августом Олександром Чарторийським замок перейшов у власність роду Чарторийських у 1726 році. Згодом власниками стали князі Любомирські (1778), а потім графи Потоцькі (1816).\n\nНові власники не приділяли належної уваги утриманню замку, і він поступово занепадав. До 1908 року стан замку настільки погіршився, що відвідувачів попереджали про небезпеку обвалення кам'яного муру.\n\nПід час Першої світової війни замок зазнав додаткових руйнувань від бойових дій. Постраждала також пізньоготична церква-мавзолей, що містила цінні гробниці Сєнявських.",
+    "significance": "Бережанський замок є унікальним зразком укріпленої аристократичної резиденції епохи Ренесансу, побудованої на острові. Це одна з небагатьох острівних фортець України, що зберегла свою структуру попри руйнування. Замок демонструє еволюцію оборонної архітектури XVI-XVII століть та відображає історію могутнього магнатського роду Сєнявських. Церква Святої Трійці з гробницями Сєнявських є видатною пам'яткою раннього Бароко та містить шедеври погребальної скульптури роботи Яна Пфістера та інших майстрів. Замковий комплекс внесений до Державного реєстру нерухомих пам'яток України під номером 190007 як пам'ятка архітектури національного значення. Попри руїнований стан, замок залишається важливою туристичною атракцією Тернопільщини та свідченням славної історії українського Ренесансу."
+  },
+
+  "description_en": {
+    "short": "Berezhany Castle is a fortified aristocratic residence from the 16th century built by the Sieniawski family on an island in the Zolota Lypa River, combining defensive architecture with elements of early Baroque.",
+    "full": "Berezhany Castle is located on an island in the Zolota Lypa River in the center of Berezhany, Ternopil Oblast. This majestic fortress was built in the 1530s-1540s as the main ancestral residence of the powerful magnate Sieniawski family and is an outstanding monument of Renaissance defensive architecture.\n\nThe castle was founded by Mikołaj Sieniawski, castellan of Lviv and prominent military figure, who chose a unique location for construction — an island on the Zolota Lypa River. This location provided natural protection from all sides by water obstacles. Parallel to castle construction, Sieniawski transformed the adjacent Church of the Holy Trinity into a family mausoleum and private chapel — an outstanding example of early Baroque, now in a decayed state.\n\nIn 1630, the castle's fortifications were expanded and strengthened, making it one of the most powerful fortresses in the region. The castle was so well fortified that neither Khmelnitsky's Cossacks (during sieges in 1648 and 1651) nor the Turks (in 1675) could capture it. The only time in its history the castle surrendered without a fight was to the Swedes in 1655.\n\nToday, Berezhany Castle is an architectural monument of national significance protected by the state under number 190007. Despite its ruined state, the castle retains its grandeur and atmosphere of ancient times.",
+    "history": "Berezhany Castle was built in the 1530s-1540s by Mikołaj Sieniawski, castellan of Lviv, representative of one of the most influential magnate families of Ukraine and Poland. Sieniawski chose a unique location for building the ancestral residence — an island on the Zolota Lypa River, which provided natural protection for the fortress.\n\nParallel to castle construction, Mikołaj Sieniawski transformed the adjacent Church of the Holy Trinity (built in 1554) into a family mausoleum. This church became an outstanding example of early Baroque and contains numerous elaborate tombs of Sieniawski family members, created by leading masters of the time, particularly Jan Pfister.\n\nIn 1630, the castle's fortifications were significantly expanded and strengthened, making it one of the most powerful fortresses in the region. The castle successfully withstood numerous sieges: Cossack forces of Bohdan Khmelnytsky attacked it in 1648 and 1651 but could not capture it. Turkish forces also unsuccessfully stormed the castle in 1675.",
+    "significance": "Berezhany Castle is a unique example of a fortified aristocratic residence of the Renaissance era built on an island. It is one of the few island fortresses in Ukraine that has preserved its structure despite destruction. The castle demonstrates the evolution of defensive architecture of the 16th-17th centuries and reflects the history of the powerful Sieniawski magnate family. The Church of the Holy Trinity with Sieniawski tombs is an outstanding monument of early Baroque and contains masterpieces of funerary sculpture by Jan Pfister and other masters."
+  },
+
+  "description_de": {
+    "short": "Die Festung Berezhany ist eine befestigte aristokratische Residenz aus dem 16. Jahrhundert, erbaut von der Familie Sieniawski auf einer Insel im Fluss Solota Lypa.",
+    "full": "Die Festung Berezhany befindet sich auf einer Insel im Fluss Solota Lypa im Zentrum von Berezhany, Oblast Ternopil. Diese majestätische Festung wurde in den 1530er-1540er Jahren als Hauptstammsitz der mächtigen Magnatenfamilie Sieniawski erbaut.\n\nDie Burg wurde von Mikołaj Sieniawski, Kastellan von Lwiw, gegründet, der einen einzigartigen Standort wählte — eine Insel auf dem Fluss Solota Lypa. Diese Lage bot natürlichen Schutz von allen Seiten durch Wasserhindernisse.",
+    "history": "Die Festung Berezhany wurde in den 1530er-1540er Jahren von Mikołaj Sieniawski, Kastellan von Lwiw, erbaut. Parallel zum Burgbau verwandelte Sieniawski die benachbarte Kirche der Heiligen Dreifaltigkeit in ein Familienmausoleum.",
+    "significance": "Die Festung Berezhany ist ein einzigartiges Beispiel einer befestigten aristokratischen Residenz der Renaissance-Ära, die auf einer Insel erbaut wurde. Die Kirche der Heiligen Dreifaltigkeit mit den Gräbern der Sieniawski ist ein herausragendes Denkmal des Frühbarock."
+  },
+
+  "location": {
+    "city": "Berezhany",
+    "region": "Ternopil Oblast",
+    "address_uk": "вул. Замкова, Бережани, Тернопільська область, 47501",
+    "address_en": "Zamkova Street, Berezhany, Ternopil Oblast, 47501",
+    "address_de": "Zamkowa-Straße, Berezhany, Oblast Ternopil, 47501",
+    "coordinates": {
+      "latitude": 49.4462472,
+      "longitude": 24.9449611
+    },
+    "directions_uk": {
+      "general": "Розташований у центрі міста Бережани на острові річки Золота Липа",
+      "publicTransport": "Автобусом з Тернополя до Бережан (70 км, 1 година), далі пішки 5 хвилин до замку",
+      "car": "З Києва — 450 км трасою М06 через Хмельницький і Тернопіль (близько 6 годин). З Львова — 90 км трасою Е40 через Тернопіль (близько 1.5 години). З Тернополя — 70 км трасою Н18 (близько 1 години)",
+      "parking": "Парковка біля центру міста, далі пішки до замку"
+    },
+    "directions_en": {
+      "general": "Located in center of Berezhany on island in Zolota Lypa River",
+      "publicTransport": "By bus from Ternopil to Berezhany (70 km, 1 hour), then 5 minutes walk to castle",
+      "car": "From Kyiv - 450 km via M06 through Khmelnytskyi and Ternopil (about 6 hours). From Lviv - 90 km via E40 through Ternopil (about 1.5 hours). From Ternopil - 70 km via H18 (about 1 hour)",
+      "parking": "Parking near city center, then walk to castle"
+    },
+    "directions_de": {
+      "general": "Im Zentrum von Berezhany auf Insel im Fluss Solota Lypa gelegen",
+      "publicTransport": "Mit dem Bus von Ternopil nach Berezhany (70 km, 1 Stunde), dann 5 Minuten zu Fuß zur Burg",
+      "car": "Von Kiew - 450 km über M06 durch Chmelnyzkyj und Ternopil (ca. 6 Stunden). Von Lwiw - 90 km über E40 durch Ternopil (ca. 1,5 Stunden). Von Ternopil - 70 km über H18 (ca. 1 Stunde)",
+      "parking": "Parkplatz in der Nähe des Stadtzentrums, dann zu Fuß zur Burg"
+    },
+    "nearbyAttractions": [
+      {
+        "name_uk": "Церква Святої Трійці (мавзолей Сєнявських)",
+        "name_en": "Church of the Holy Trinity (Sieniawski Mausoleum)",
+        "distance": "0.1 km",
+        "type": "church"
+      },
+      {
+        "name_uk": "Ратуша Бережан",
+        "name_en": "Berezhany Town Hall",
+        "distance": "0.3 km",
+        "type": "historical-building"
+      }
+    ]
+  },
+
+  "contact": {
+    "phone": "+380 3548 2-11-65",
+    "email": "berezhany.museum@gmail.com",
+    "website": null,
+    "bookingUrl": null,
+    "socialMedia": {
+      "facebook": null,
+      "instagram": null,
+      "youtube": null
+    }
+  },
+
+  "visitingInformation": {
+    "openingTimes": {
+      "status_uk": "Відкрито для огляду ззовні цілий рік",
+      "status_en": "Open for exterior viewing year-round",
+      "status_de": "Ganzjährig für Außenbesichtigung geöffnet",
+      "seasonal": [
+        {
+          "season_uk": "Цілий рік",
+          "season_en": "Year-round",
+          "season_de": "Ganzjährig",
+          "days_uk": "Щодня",
+          "days_en": "Daily",
+          "days_de": "Täglich",
+          "hours": "Огляд ззовні / Exterior viewing / Außenbesichtigung",
+          "lastAdmission": null
+        }
+      ]
+    },
+    "admissionPrices": {
+      "currency": "UAH",
+      "adult": 0,
+      "student": 0,
+      "child": 0,
+      "senior": 0,
+      "family": null,
+      "notes_uk": "Безкоштовний огляд ззовні. Вхід всередину замку обмежений через руїнований стан",
+      "notes_en": "Free exterior viewing. Entry inside castle limited due to ruined state",
+      "notes_de": "Kostenlose Außenbesichtigung. Eintritt ins Schloss wegen Ruinenzustand beschränkt"
+    },
+    "tourOptions": [
+      {
+        "type_uk": "Самостійний огляд ззовні",
+        "type_en": "Self-guided exterior viewing",
+        "type_de": "Selbstgeführte Außenbesichtigung",
+        "duration_uk": "30 хвилин",
+        "duration_en": "30 minutes",
+        "duration_de": "30 Minuten",
+        "price": 0
+      }
+    ],
+    "averageVisitDuration_uk": "30-45 хвилин",
+    "averageVisitDuration_en": "30-45 minutes",
+    "averageVisitDuration_de": "30-45 Minuten",
+    "busyPeriods_uk": ["Літні місяці (червень-серпень)", "Вихідні дні"],
+    "busyPeriods_en": ["Summer months (June-August)", "Weekends"],
+    "busyPeriods_de": ["Sommermonate (Juni-August)", "Wochenenden"],
+    "adviceForVisitors_uk": "Замок перебуває у руїнованому стані — вхід всередину може бути небезпечним. Рекомендуємо огляд ззовні та відвідування церкви Святої Трійці з гробницями Сєнявських. Взуйте зручне взуття.",
+    "adviceForVisitors_en": "Castle is in ruined state — entry inside may be dangerous. We recommend exterior viewing and visiting Church of Holy Trinity with Sieniawski tombs. Wear comfortable shoes.",
+    "adviceForVisitors_de": "Schloss ist im Ruinenzustand — Eintritt ins Innere kann gefährlich sein. Wir empfehlen Außenbesichtigung und Besuch der Kirche der Heiligen Dreifaltigkeit mit Sieniawski-Gräbern. Tragen Sie bequeme Schuhe."
+  },
+
+  "features": {
+    "highlights_uk": [
+      "Унікальне розташування на острові річки Золота Липа",
+      "Родова резиденція могутнього роду Сєнявських",
+      "Церква Святої Трійці з гробницями Сєнявських",
+      "Пізньоготична архітектура XVI століття",
+      "Витончені надгробки роботи Яна Пфістера",
+      "Елементи раннього Бароко",
+      "Атмосферні руїни з багатою історією"
+    ],
+    "highlights_en": [
+      "Unique island location on Zolota Lypa River",
+      "Ancestral residence of powerful Sieniawski family",
+      "Church of Holy Trinity with Sieniawski tombs",
+      "Late Gothic architecture from 16th century",
+      "Elaborate tombs by Jan Pfister",
+      "Elements of early Baroque",
+      "Atmospheric ruins with rich history"
+    ],
+    "highlights_de": [
+      "Einzigartige Insellage am Fluss Solota Lypa",
+      "Stammsitz der mächtigen Familie Sieniawski",
+      "Kirche der Heiligen Dreifaltigkeit mit Sieniawski-Gräbern",
+      "Spätgotische Architektur aus dem 16. Jahrhundert",
+      "Kunstvolle Gräber von Jan Pfister",
+      "Elemente des Frühbarock",
+      "Atmosphärische Ruinen mit reicher Geschichte"
+    ],
+    "facilities_uk": ["Інформаційні стенди", "Фотозони"],
+    "facilities_en": ["Information boards", "Photo zones"],
+    "facilities_de": ["Informationstafeln", "Fotozonen"],
+    "accessibility": {
+      "wheelchairAccessible": false,
+      "notes_uk": "Замок недоступний для інвалідних візків через руїнований стан, нерівну поверхню та відсутність спеціального обладнання. Огляд можливий лише ззовні.",
+      "notes_en": "Castle inaccessible for wheelchairs due to ruined state, uneven surfaces and lack of special equipment. Viewing possible only from outside.",
+      "notes_de": "Schloss für Rollstühle unzugänglich wegen Ruinenzustand, unebenen Flächen und fehlender Spezialausrüstung. Besichtigung nur von außen möglich."
+    },
+    "uniqueSellingPoints_uk": [
+      "Єдина острівна фортеця Тернопільщини",
+      "Спадщина могутнього роду Сєнявських",
+      "Найбільша колекція барокових надгробків в Україні",
+      "Автентична атмосфера занедбаних руїн",
+      "Частина історичного центру Бережан"
+    ],
+    "uniqueSellingPoints_en": [
+      "Only island fortress in Ternopil region",
+      "Heritage of powerful Sieniawski family",
+      "Largest collection of Baroque tombs in Ukraine",
+      "Authentic atmosphere of neglected ruins",
+      "Part of Berezhany historic center"
+    ],
+    "uniqueSellingPoints_de": [
+      "Einzige Inselfestung in der Region Ternopil",
+      "Erbe der mächtigen Familie Sieniawski",
+      "Größte Sammlung barocker Gräber in der Ukraine",
+      "Authentische Atmosphäre vernachlässigter Ruinen",
+      "Teil des historischen Zentrums von Berezhany"
+    ]
+  },
+
+  "images": {
+    "heroImage": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/%D0%97%D0%B0%D0%BC%D0%BE%D0%BA_%D0%A1%D0%B8%D0%BD%D1%8F%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D1%85_%D0%BC.%D0%91%D0%B5%D1%80%D0%B5%D0%B6%D0%B0%D0%BD%D0%B8.jpg",
+      "alt_uk": "Бережанський замок — загальний вид",
+      "alt_en": "Berezhany Castle — general view",
+      "alt_de": "Festung Berezhany — Gesamtansicht",
+      "caption_uk": "Руїни Бережанського замку роду Сєнявських на острові річки Золота Липа",
+      "caption_en": "Ruins of Berezhany Castle of Sieniawski family on island in Zolota Lypa River",
+      "caption_de": "Ruinen der Festung Berezhany der Familie Sieniawski auf Insel im Fluss Solota Lypa"
+    },
+    "gallery": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Brzezany_Hof_der_Schlo%C3%9F_Kaserne.jpg",
+        "alt_uk": "Історичне фото — бараки австрійської армії у замку",
+        "alt_en": "Historical photo — Austrian army barracks in castle",
+        "alt_de": "Historisches Foto — Österreichische Armeebaracken in der Burg",
+        "caption_uk": "Піхотні бараки австрійської імператорської армії у 1900 році"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Berezhany_Castle_Walls.jpg/800px-Berezhany_Castle_Walls.jpg",
+        "alt_uk": "Стіни Бережанського замку",
+        "alt_en": "Walls of Berezhany Castle",
+        "alt_de": "Mauern der Festung Berezhany",
+        "caption_uk": "Руїни замкових стін та укріплень XVI століття"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Berezhany_Castle_Island.jpg/800px-Berezhany_Castle_Island.jpg",
+        "alt_uk": "Острівне розташування замку",
+        "alt_en": "Island location of castle",
+        "alt_de": "Insellage der Burg",
+        "caption_uk": "Замок на острові річки Золота Липа — унікальна оборонна позиція"
+      }
+    ]
+  },
+
+  "historicalData": {
+    "yearBuilt": "1530-1540",
+    "yearBuiltNote_uk": "Побудований у 1530-1540-х роках Миколаєм Сєнявським. Церква Святої Трійці — 1554 рік. Укріплення розширені у 1630 році",
+    "yearBuiltNote_en": "Built in 1530-1540s by Mikołaj Sieniawski. Church of Holy Trinity — 1554. Fortifications expanded in 1630",
+    "yearBuiltNote_de": "Erbaut 1530-1540er von Mikołaj Sieniawski. Kirche der Heiligen Dreifaltigkeit — 1554. Befestigungen erweitert 1630",
+    "architecturalStyle_uk": "Пізня готика, ранній Бароко",
+    "architecturalStyle_en": "Late Gothic, early Baroque",
+    "architecturalStyle_de": "Spätgotik, Frühbarock",
+    "architects": [
+      {
+        "name": "Ян Пфістер (Jan Pfister)",
+        "period": "XVI-XVII ст. / 16th-17th c. / 16.-17. Jh.",
+        "contribution_uk": "Створення витончених надгробків роду Сєнявських у церкві Святої Трійці",
+        "contribution_en": "Creation of elaborate Sieniawski family tombs in Church of Holy Trinity",
+        "contribution_de": "Schaffung kunstvoller Sieniawski-Familiengräber in der Kirche der Heiligen Dreifaltigkeit"
+      }
+    ],
+    "unescoStatus": "none",
+    "unescoYear": null,
+    "nationalHeritageStatus": "Immovable Monument of National Significance of Ukraine",
+    "referenceNumber": "190007",
+    "managedBy_uk": "Бережанський краєзнавчий музей",
+    "managedBy_en": "Berezhany Local Lore Museum",
+    "managedBy_de": "Berezhany Heimatkundemuseum"
+  },
+
+  "culturalEvents": [],
+
+  "tags": [
+    "castle",
+    "fortress",
+    "ruins",
+    "palace",
+    "gothic",
+    "baroque",
+    "ternopil",
+    "berezhany",
+    "sieniawski",
+    "island",
+    "zolota-lypa",
+    "mausoleum",
+    "tombs",
+    "historical-monument",
+    "tourism"
+  ],
+
+  "suitableFor_uk": [
+    "Любителі історії",
+    "Фотографи руїн",
+    "Дослідники архітектури",
+    "Туристи",
+    "Шанувальники барокових надгробків"
+  ],
+  "suitableFor_en": [
+    "History enthusiasts",
+    "Ruin photographers",
+    "Architecture researchers",
+    "Tourists",
+    "Baroque tomb admirers"
+  ],
+  "suitableFor_de": [
+    "Geschichtsinteressierte",
+    "Ruinenfotografen",
+    "Architekturforscher",
+    "Touristen",
+    "Bewunderer barocker Gräber"
+  ],
+
+  "weatherDependent": true,
+  "indoorActivities": false,
+  "outdoorActivities": true,
+
+  "priceRange": "$",
+  "rating": 4.2,
+  "reviewsCount": 534,
+  "featured": false,
+  "status": "published",
+
+  "metaDescription_uk": "Бережанський замок - острівна фортеця XVI ст. роду Сєнявських на річці Золота Липа. Церква з барок овими надгробками Яна Пфістера. Руїни з історією.",
+  "metaDescription_en": "Berezhany Castle - 16th-century island fortress of Sieniawski family on Zolota Lypa River. Church with Baroque tombs by Jan Pfister. Ruins with history.",
+  "metaDescription_de": "Festung Berezhany - Inselfestung aus dem 16. Jh. der Familie Sieniawski am Fluss Solota Lypa. Kirche mit barocken Gräbern von Jan Pfister.",
+
+  "keywords": [
+    "Бережанський замок",
+    "Berezhany Castle",
+    "замок",
+    "castle",
+    "руїни",
+    "ruins",
+    "Тернопільська область",
+    "Ternopil",
+    "Сєнявські",
+    "Sieniawski",
+    "острів",
+    "island",
+    "Золота Липа",
+    "Zolota Lypa",
+    "Бароко",
+    "Baroque",
+    "туризм",
+    "tourism"
+  ],
+
+  "lastUpdated": "2025-11-30",
+  "source": "Wikipedia, Historical Archives, Tourism Sources",
+  "verified": true
+}

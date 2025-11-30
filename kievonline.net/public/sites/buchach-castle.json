@@ -1,0 +1,404 @@
+{
+  "id": "buchach-castle",
+  "slug": "buchach-castle",
+
+  "name_uk": "Бучацький замок",
+  "name_en": "Buchach Castle",
+  "name_de": "Burg Butschatsch",
+
+  "tagline_uk": "Середньовічні руїни на березі Стрипи з багатовіковою історією",
+  "tagline_en": "Medieval ruins on the Strypa River with centuries of history",
+  "tagline_de": "Mittelalterliche Ruinen am Strypa-Fluss mit jahrhundertelanger Geschichte",
+
+  "category": "castle",
+  "subcategories": ["fortress", "medieval-architecture", "ruins", "historical-monument"],
+  "region": "Buchach",
+  "oblast": "Ternopil Oblast",
+
+  "description_uk": {
+    "short": "Бучацький замок — середньовічна фортеця XIV-XV століть, збудована родиною Бучацьких на стратегічному пагорбі над річкою Стрипа. Нині руїни замку є популярним туристичним об'єктом.",
+    "full": "Бучацький замок — це руїни середньовічної фортеці, розташованої в місті Бучач Тернопільської області. Замок був збудований родиною Бучацьких приблизно в XIV-XV столітті, в той час, коли було засноване місто. Розташований на високому пагорбі над річкою Стрипа, замок мав стратегічне значення для захисту регіону.\n\nУ XVI-XVII століттях замок був перебудований родиною Потоцьких-Мовіле у стилі Ренесансу. Це була оборонна споруда, яка неодноразово брала участь у військових конфліктах. Замок витримав облоги татар, але в кінці XVII століття був зруйнований османами під час османсько-польських воєн.\n\nПісля руйнування османами у 1676 році замок так і не був відновлений. У XIX столітті, за часів австрійського поділу, частина будівлі була демонтована для використання будівельних матеріалів. Незважаючи на це, залишки замку все ще вражають своїми масштабами.\n\nСьогодні Бучацький замок є важливою туристичною пам'яткою регіону. З його стін відкриваються чудові краєвиди на долину річки Стрипа та навколишні землі. Замок є свідченням багатої історії Галичини та її стратегічного значення протягом століть.",
+    "history": "Історія замку розпочинається у XIV столітті, коли він був збудований родиною Бучацьких як дерев'яна фортеця. Після переходу до володіння магнатів Потоцьких у XVII столітті, замок був перебудований з каменю та цегли у стилі Ренесансу, що надало йому більш представницького вигляду поряд з оборонними функціями.\n\nБучач розташований у долині річки Стрипа, оточений трьома пагорбами: Замковою, Торговицею та Федором. Назва міста, ймовірно, походить від старослов'янського слова 'буча', що означає швидкоплинна річка або глибина. У 1393 році Бучач отримав Магдебурзьке право від короля Владислава Ягайла.\n\nМісто було інтенсивно розвинуте за правління графа Стефана Потоцького, воєводи Брацлавського (1624-1648). Розташоване на прикордонні, що постійно загрожувало набігами кочівників, татар та османів, Бучач потребував потужних укріплень. У XVII столітті Бучач став потужним містом-фортецею зі стінами, укріпленими валами, ровами та замком на пагорбі.\n\nУ 1676 році, під час турецької облоги під командуванням Ібрагіма-паші, місто було майже повністю знищене. У 1672 році Річ Посполита була змушена підписати договір з Османською імперією, відомий як Бучацький договір, за яким місто було розділене між Польщею та Османською Портою вздовж річки Стрипа.",
+    "significance": "Бучацький замок є важливою пам'яткою середньовічної оборонної архітектури Західної України. Він ілюструє еволюцію фортифікаційного мистецтва від дерев'яних укріплень до кам'яних ренесансних палаців-фортець. Замок відіграв ключову роль у захисті регіону від численних вторгнень протягом століть і є свідченням бурхливої історії українсько-польсько-османського прикордоння."
+  },
+
+  "description_en": {
+    "short": "Buchach Castle is a medieval fortress from the 14th-15th centuries, built by the Buchacki family on a strategic hill above the Strypa River. Today the castle ruins are a popular tourist attraction.",
+    "full": "Buchach Castle is a ruined medieval fortress located in the town of Buchach, Ternopil Oblast. The castle was built by the Buchacki family approximately in the 14th-15th century, around the time the town was founded. Situated on a high hill above the Strypa River, the castle had strategic importance for defending the region.\n\nIn the 16th-17th centuries, the castle was rebuilt by the Potocki-Movile family in Renaissance style. It was a defensive structure that saw combat several times. The castle withstood Tatar sieges but in the late 17th century was destroyed by the Ottomans during the Ottoman-Polish wars.\n\nAfter destruction by the Ottomans in 1676, the castle was never restored. During the 19th century, while under Austrian partition, part of the structure was dismantled for building materials. Despite this, the castle remains are still impressive in their scale.\n\nToday, Buchach Castle is an important tourist landmark of the region. From its walls, magnificent views open over the Strypa River valley and surrounding lands. The castle stands as witness to the rich history of Galicia and its strategic significance throughout the centuries.",
+    "history": "The castle's history begins in the 14th century when it was built by the Buchacki family as a wooden fortress. After passing to the Potocki magnates in the 17th century, the castle was rebuilt in stone and brick in Renaissance style, giving it a more representational appearance alongside defensive functions.\n\nBuchach is situated in the valley of the Strypa River, surrounded by three hills: Zamkova, Targovitsa, and Fedor. The town's name probably derives from the Old Ruthenian word 'bucha,' meaning swift-flowing river or depth. In 1393, Buchach was granted Magdeburg rights by King Władysław Jagiełło.\n\nThe town was intensively developed during the rule of Count Stefan Potocki, Voivode of Bratslav (1624–1648). Situated on a borderland constantly threatened by nomadic gangs, Tatars and Ottomans, Buchach needed substantial fortifications. In the 17th century, Buchach became a powerful city-fortress with walls, fortified ramparts, ditches, and a castle on a hill.\n\nIn 1676, during the Turkish siege commanded by Ibrahim Pasha, the town was almost completely destroyed. In 1672, the Polish-Lithuanian Commonwealth was forced to sign a treaty with the Ottoman Empire known as the Treaty of Buchach, under which the city was divided between Poland and the Ottoman Porta along the Strypa River.",
+    "significance": "Buchach Castle is an important monument of medieval defensive architecture in Western Ukraine. It illustrates the evolution of fortification art from wooden fortifications to stone Renaissance palace-fortresses. The castle played a key role in defending the region from numerous invasions over centuries and stands as testimony to the turbulent history of the Ukrainian-Polish-Ottoman borderlands."
+  },
+
+  "description_de": {
+    "short": "Die Burg Butschatsch ist eine mittelalterliche Festung aus dem 14.-15. Jahrhundert, erbaut von der Familie Buczacki auf einem strategischen Hügel über dem Fluss Strypa. Heute sind die Burgruinen eine beliebte Touristenattraktion.",
+    "full": "Die Burg Butschatsch ist eine zerstörte mittelalterliche Festung in der Stadt Buchach, Oblast Ternopil. Die Burg wurde von der Familie Buczacki ungefähr im 14.-15. Jahrhundert erbaut, etwa zur Zeit der Stadtgründung. Auf einem hohen Hügel über dem Fluss Strypa gelegen, hatte die Burg strategische Bedeutung für die Verteidigung der Region.\n\nIm 16.-17. Jahrhundert wurde die Burg von der Familie Potocki-Movile im Renaissancestil umgebaut. Es war eine Verteidigungsstruktur, die mehrmals Kämpfe erlebte. Die Burg widerstand tatarischen Belagerungen, wurde aber Ende des 17. Jahrhunderts während der osmanisch-polnischen Kriege von den Osmanen zerstört.\n\nNach der Zerstörung durch die Osmanen im Jahr 1676 wurde die Burg nie wiederhergestellt. Im 19. Jahrhundert, unter österreichischer Teilung, wurde ein Teil der Struktur abgebaut, um Baumaterialien zu gewinnen. Trotzdem sind die Burgreste immer noch beeindruckend in ihrem Ausmaß.\n\nHeute ist die Burg Butschatsch ein wichtiges touristisches Wahrzeichen der Region. Von ihren Mauern eröffnen sich herrliche Ausblicke über das Strypa-Tal und die umliegenden Länder.",
+    "history": "Die Geschichte der Burg beginnt im 14. Jahrhundert, als sie von der Familie Buczacki als hölzerne Festung erbaut wurde. Nach dem Übergang an die Potocki-Magnaten im 17. Jahrhundert wurde die Burg aus Stein und Ziegeln im Renaissancestil umgebaut.\n\nIm Jahr 1676 wurde die Stadt während der türkischen Belagerung unter dem Kommando von Ibrahim Pascha fast vollständig zerstört. 1672 wurde die polnisch-litauische Commonwealth gezwungen, einen Vertrag mit dem Osmanischen Reich zu unterzeichnen, der als Vertrag von Butschatsch bekannt ist.",
+    "significance": "Die Burg Butschatsch ist ein wichtiges Denkmal mittelalterlicher Verteidigungsarchitektur in der Westukraine. Sie illustriert die Evolution der Festungskunst von hölzernen Befestigungen zu steinernen Renaissance-Palastfestungen."
+  },
+
+  "location": {
+    "city": "Buchach",
+    "region": "Ternopil Oblast",
+    "address_uk": "вул. Просвіти, Бучач, Тернопільська область, 48400",
+    "address_en": "Prosvity Street, Buchach, Ternopil Oblast, 48400",
+    "address_de": "Prosvity-Straße, Buchach, Oblast Ternopil, 48400",
+    "coordinates": {
+      "latitude": 49.05972,
+      "longitude": 25.39139
+    },
+    "directions_uk": {
+      "general": "Розташований у центрі міста Бучач на пагорбі над річкою Стрипа",
+      "publicTransport": "Автобусом до Бучача з Тернополя (50 км), далі пішки до замку 15 хвилин",
+      "car": "З Тернополя по трасі Т-20-06 на південь (50 км, близько 1 години). З Львова через Тернопіль (170 км, близько 2.5 години)",
+      "parking": "Безкоштовна парковка біля підніжжя замкового пагорба"
+    },
+    "directions_en": {
+      "general": "Located in the center of Buchach town on a hill above the Strypa River",
+      "publicTransport": "Bus to Buchach from Ternopil (50 km), then 15 minutes walk to the castle",
+      "car": "From Ternopil via T-20-06 road south (50 km, about 1 hour). From Lviv through Ternopil (170 km, about 2.5 hours)",
+      "parking": "Free parking at the foot of the castle hill"
+    },
+    "directions_de": {
+      "general": "Im Zentrum der Stadt Buchach auf einem Hügel über dem Fluss Strypa gelegen",
+      "publicTransport": "Bus nach Buchach von Ternopil (50 km), dann 15 Minuten Fußweg zur Burg",
+      "car": "Von Ternopil über die Straße T-20-06 nach Süden (50 km, etwa 1 Stunde). Von Lwiw über Ternopil (170 km, etwa 2,5 Stunden)",
+      "parking": "Kostenloser Parkplatz am Fuße des Burghügels"
+    },
+    "nearbyAttractions": [
+      {
+        "name_uk": "Ратуша Бучача (1751)",
+        "name_en": "Buchach Town Hall (1751)",
+        "distance": "0.5 km",
+        "type": "architecture"
+      },
+      {
+        "name_uk": "Василіанський монастир",
+        "name_en": "Basilian Monastery",
+        "distance": "0.6 km",
+        "type": "monastery"
+      },
+      {
+        "name_uk": "Парафіяльна церква (1761)",
+        "name_en": "Parish Church (1761)",
+        "distance": "0.7 km",
+        "type": "church"
+      },
+      {
+        "name_uk": "Будинок Агнона",
+        "name_en": "Agnon House Museum",
+        "distance": "0.8 km",
+        "type": "museum"
+      }
+    ]
+  },
+
+  "contact": {
+    "phone": "+380 3554 2-11-60",
+    "email": "buchach_museum@ukr.net",
+    "website": null,
+    "bookingUrl": null,
+    "socialMedia": {
+      "facebook": null,
+      "instagram": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+
+  "visitingInformation": {
+    "openingTimes": {
+      "status_uk": "Відкрито цілий рік",
+      "status_en": "Open year-round",
+      "status_de": "Ganzjährig geöffnet",
+      "seasonal": [
+        {
+          "season_uk": "Травень - Вересень",
+          "season_en": "May - September",
+          "season_de": "Mai - September",
+          "days_uk": "Щодня",
+          "days_en": "Daily",
+          "days_de": "Täglich",
+          "hours": "09:00 - 19:00",
+          "lastAdmission": "18:30"
+        },
+        {
+          "season_uk": "Жовтень - Квітень",
+          "season_en": "October - April",
+          "season_de": "Oktober - April",
+          "days_uk": "Щодня",
+          "days_en": "Daily",
+          "days_de": "Täglich",
+          "hours": "10:00 - 17:00",
+          "lastAdmission": "16:30"
+        }
+      ]
+    },
+    "admissionPrices": {
+      "currency": "UAH",
+      "adult": 50,
+      "student": 25,
+      "child": 20,
+      "senior": 25,
+      "family": null,
+      "notes_uk": "Діти до 6 років - безкоштовно. Вільний вхід на територію руїн",
+      "notes_en": "Children under 6 - free. Free access to ruins territory",
+      "notes_de": "Kinder unter 6 Jahren - kostenlos. Freier Zugang zum Ruinengelände"
+    },
+    "tourOptions": [
+      {
+        "type_uk": "Самостійний огляд",
+        "type_en": "Self-guided tour",
+        "type_de": "Selbstgeführte Tour",
+        "duration_uk": "45 хвилин - 1 година",
+        "duration_en": "45 minutes - 1 hour",
+        "duration_de": "45 Minuten - 1 Stunde",
+        "price": 0
+      },
+      {
+        "type_uk": "Екскурсія з гідом",
+        "type_en": "Guided tour",
+        "type_de": "Führung",
+        "duration_uk": "1 година",
+        "duration_en": "1 hour",
+        "duration_de": "1 Stunde",
+        "price": 300,
+        "groupSize": "до 15 осіб / up to 15 people / bis 15 Personen"
+      }
+    ],
+    "averageVisitDuration_uk": "1 година",
+    "averageVisitDuration_en": "1 hour",
+    "averageVisitDuration_de": "1 Stunde",
+    "busyPeriods_uk": ["Літні місяці (червень-серпень)", "Вихідні дні", "Свята"],
+    "busyPeriods_en": ["Summer months (June-August)", "Weekends", "Holidays"],
+    "busyPeriods_de": ["Sommermonate (Juni-August)", "Wochenenden", "Feiertage"],
+    "adviceForVisitors_uk": "Взуйте зручне взуття для ходіння по нерівній поверхні. Будьте обережні біля обривів. Рекомендується відвідати на заході сонця для найкращих фото. Після огляду замку відвідайте інші барокові пам'ятки Бучача роботи архітектора Бернарда Меретина.",
+    "adviceForVisitors_en": "Wear comfortable shoes for walking on uneven surfaces. Be careful near cliff edges. Recommended to visit at sunset for best photos. After the castle, visit other Baroque monuments of Buchach by architect Bernard Meretyn.",
+    "adviceForVisitors_de": "Tragen Sie bequeme Schuhe zum Gehen auf unebenen Oberflächen. Seien Sie vorsichtig in der Nähe von Klippen. Empfohlen bei Sonnenuntergang für die besten Fotos zu besuchen."
+  },
+
+  "features": {
+    "highlights_uk": [
+      "Руїни середньовічної фортеці XIV-XV століть",
+      "Залишки оборонних башт та стін",
+      "Панорамні види на долину річки Стрипа",
+      "Автентична середньовічна атмосфера",
+      "Розташування на стратегічному пагорбі",
+      "Свідчення османсько-польських воєн"
+    ],
+    "highlights_en": [
+      "Ruins of 14th-15th century medieval fortress",
+      "Remains of defensive towers and walls",
+      "Panoramic views of Strypa River valley",
+      "Authentic medieval atmosphere",
+      "Strategic hilltop location",
+      "Testament to Ottoman-Polish wars"
+    ],
+    "highlights_de": [
+      "Ruinen einer mittelalterlichen Festung aus dem 14.-15. Jahrhundert",
+      "Überreste von Verteidigungstürmen und Mauern",
+      "Panoramablick auf das Strypa-Tal",
+      "Authentische mittelalterliche Atmosphäre",
+      "Strategische Lage auf einem Hügel",
+      "Zeugnis osmanisch-polnischer Kriege"
+    ],
+    "facilities_uk": ["Пішохідні стежки", "Інформаційні таблички", "Оглядові майданчики"],
+    "facilities_en": ["Walking paths", "Information boards", "Viewing platforms"],
+    "facilities_de": ["Wanderwege", "Informationstafeln", "Aussichtsplattformen"],
+    "accessibility": {
+      "wheelchairAccessible": false,
+      "notes_uk": "Замок розташований на крутому пагорбі з нерівною поверхнею, що робить його недоступним для інвалідних візків. Підйом до руїн вимагає фізичної підготовки.",
+      "notes_en": "The castle is located on a steep hill with uneven surfaces, making it inaccessible for wheelchairs. Climbing to the ruins requires physical fitness.",
+      "notes_de": "Die Burg befindet sich auf einem steilen Hügel mit unebenen Oberflächen, was sie für Rollstühle unzugänglich macht. Der Aufstieg zu den Ruinen erfordert körperliche Fitness."
+    },
+    "uniqueSellingPoints_uk": [
+      "Один із найстаріших замків Тернопільщини",
+      "Свідок підписання історичного Бучацького договору 1672 року",
+      "Романтичні руїни з автентичною атмосферою",
+      "Чудові панорамні краєвиди",
+      "Частина барокового ансамблю Бучача"
+    ],
+    "uniqueSellingPoints_en": [
+      "One of the oldest castles in Ternopil region",
+      "Witness to the signing of the historic Treaty of Buchach in 1672",
+      "Romantic ruins with authentic atmosphere",
+      "Magnificent panoramic views",
+      "Part of Buchach's Baroque ensemble"
+    ],
+    "uniqueSellingPoints_de": [
+      "Eine der ältesten Burgen der Region Ternopil",
+      "Zeuge der Unterzeichnung des historischen Vertrags von Butschatsch 1672",
+      "Romantische Ruinen mit authentischer Atmosphäre",
+      "Herrliche Panoramaaussichten",
+      "Teil des Barockensembles von Buchach"
+    ]
+  },
+
+  "images": {
+    "heroImage": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/%D0%91%D1%83%D1%87%D0%B0%D1%86%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA_%28%D1%80%D0%B0%D0%BA%D1%83%D1%80%D1%81_7%29.JPG",
+      "alt_uk": "Руїни Бучацького замку на пагорбі",
+      "alt_en": "Ruins of Buchach Castle on the hill",
+      "alt_de": "Ruinen der Burg Butschatsch auf dem Hügel",
+      "caption_uk": "Бучацький замок домінує над долиною річки Стрипа",
+      "caption_en": "Buchach Castle dominates the Strypa River valley",
+      "caption_de": "Die Burg Butschatsch dominiert das Strypa-Tal"
+    },
+    "gallery": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Buchach_Castle_Tower_outside.jpg",
+        "alt_uk": "Зовнішній вигляд вежі замку",
+        "alt_en": "Castle tower exterior view",
+        "alt_de": "Außenansicht des Burgturms",
+        "caption_uk": "Збережена вежа Бучацького замку"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Buczacz_Zamek_IMG_5582_61-212-0002.jpg",
+        "alt_uk": "Руїни палацу",
+        "alt_en": "Palace ruins",
+        "alt_de": "Palastbruinen",
+        "caption_uk": "Залишки палацової частини замку"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/%D0%97%D0%B0%D0%BC%D0%BE%D0%BA_%D1%83_%D0%91%D1%83%D1%87%D0%B0%D1%87%D1%96_%28%D1%80%D1%83%D1%97%D0%BD%D0%B8%29.jpg",
+        "alt_uk": "Загальний вигляд руїн",
+        "alt_en": "Overall view of ruins",
+        "alt_de": "Gesamtansicht der Ruinen",
+        "caption_uk": "Панорама руїн Бучацького замку"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/%D0%91%D1%83%D1%87%D0%B0%D1%86%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA_%28%D1%80%D0%B0%D0%BA%D1%83%D1%80%D1%81_1%29.JPG",
+        "alt_uk": "Детальний вигляд мурів",
+        "alt_en": "Detailed view of walls",
+        "alt_de": "Detailansicht der Mauern",
+        "caption_uk": "Залишки оборонних мурів замку"
+      }
+    ]
+  },
+
+  "historicalData": {
+    "yearBuilt": "14th-15th century",
+    "yearBuiltNote_uk": "Збудований родиною Бучацьких у XIV-XV столітті",
+    "yearBuiltNote_en": "Built by the Buchacki family in the 14th-15th century",
+    "yearBuiltNote_de": "Erbaut von der Familie Buczacki im 14.-15. Jahrhundert",
+    "architecturalStyle_uk": "Середньовічна оборонна архітектура, Ренесанс",
+    "architecturalStyle_en": "Medieval defensive architecture, Renaissance",
+    "architecturalStyle_de": "Mittelalterliche Verteidigungsarchitektur, Renaissance",
+    "architects": [
+      {
+        "name": "Родина Бучацьких / Buczacki family / Familie Buczacki",
+        "period": "XIV-XV ст. / 14th-15th c. / 14.-15. Jh.",
+        "contribution_uk": "Будівництво першого дерев'яного замку",
+        "contribution_en": "Construction of the first wooden castle",
+        "contribution_de": "Bau der ersten hölzernen Burg"
+      },
+      {
+        "name": "Родина Потоцьких / Potocki family / Familie Potocki",
+        "period": "XVI-XVII ст. / 16th-17th c. / 16.-17. Jh.",
+        "contribution_uk": "Перебудова замку у стилі Ренесансу з каменю та цегли",
+        "contribution_en": "Reconstruction of the castle in Renaissance style from stone and brick",
+        "contribution_de": "Umbau der Burg im Renaissancestil aus Stein und Ziegeln"
+      }
+    ],
+    "unescoStatus": "none",
+    "unescoYear": null,
+    "nationalHeritageStatus": "Cultural Monument of Local Significance",
+    "referenceNumber": "61-212-0002",
+    "managedBy_uk": "Бучацький краєзнавчий музей",
+    "managedBy_en": "Buchach Local History Museum",
+    "managedBy_de": "Heimatmuseum Butschatsch"
+  },
+
+  "culturalEvents": [
+    {
+      "name_uk": "День міста Бучач",
+      "name_en": "Buchach City Day",
+      "name_de": "Stadtfest Buchach",
+      "period_uk": "Серпень (щорічно)",
+      "period_en": "August (annually)",
+      "period_de": "August (jährlich)",
+      "description_uk": "Святкування з культурними заходами, виставами та екскурсіями по історичних місцях міста, включаючи замок",
+      "description_en": "Celebration with cultural events, performances and tours of the city's historic sites, including the castle",
+      "description_de": "Feier mit kulturellen Veranstaltungen, Aufführungen und Führungen durch die historischen Stätten der Stadt, einschließlich der Burg"
+    }
+  ],
+
+  "tags": [
+    "castle",
+    "fortress",
+    "medieval",
+    "ruins",
+    "renaissance",
+    "ternopil",
+    "buchach",
+    "potocki",
+    "ottoman-wars",
+    "defensive-architecture",
+    "strypa-river",
+    "galicia",
+    "history",
+    "tourism"
+  ],
+
+  "suitableFor_uk": [
+    "Любителі історії",
+    "Фотографи",
+    "Мандрівники",
+    "Поціновувачі архітектури",
+    "Шкільні екскурсії",
+    "Романтичні подорожі"
+  ],
+  "suitableFor_en": [
+    "History enthusiasts",
+    "Photographers",
+    "Travelers",
+    "Architecture lovers",
+    "School excursions",
+    "Romantic trips"
+  ],
+  "suitableFor_de": [
+    "Geschichtsinteressierte",
+    "Fotografen",
+    "Reisende",
+    "Architekturliebhaber",
+    "Schulausflüge",
+    "Romantische Reisen"
+  ],
+
+  "weatherDependent": true,
+  "indoorActivities": false,
+  "outdoorActivities": true,
+
+  "priceRange": "$",
+  "rating": 4.3,
+  "reviewsCount": 287,
+  "featured": false,
+  "status": "published",
+
+  "metaDescription_uk": "Бучацький замок - середньовічна фортеця XIV-XV століть у Тернопільській області. Руїни замку родини Бучацьких та Потоцьких. Панорамні види на долину Стрипи.",
+  "metaDescription_en": "Buchach Castle - 14th-15th century medieval fortress in Ternopil Oblast. Ruins of the Buchacki and Potocki family castle. Panoramic views of Strypa valley.",
+  "metaDescription_de": "Burg Butschatsch - mittelalterliche Festung aus dem 14.-15. Jahrhundert im Oblast Ternopil. Ruinen der Burg der Familien Buczacki und Potocki.",
+
+  "keywords": [
+    "Бучацький замок",
+    "Buchach Castle",
+    "Burg Butschatsch",
+    "замок",
+    "castle",
+    "Бучач",
+    "Buchach",
+    "Тернопільська область",
+    "Ternopil",
+    "руїни",
+    "ruins",
+    "середньовіччя",
+    "medieval",
+    "Потоцькі",
+    "Potocki",
+    "туризм",
+    "tourism"
+  ],
+
+  "lastUpdated": "2025-11-30",
+  "source": "Wikipedia, Shtetl Routes, Regional Tourism Sites",
+  "verified": true
+}

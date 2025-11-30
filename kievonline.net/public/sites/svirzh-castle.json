@@ -1,0 +1,369 @@
+{
+  "id": "svirzh-castle",
+  "slug": "svirzh-castle",
+
+  "name_uk": "Свірзький замок",
+  "name_en": "Svirzh Castle",
+  "name_de": "Schloss Swirzh",
+
+  "tagline_uk": "Романтичний замок XV століття — перлина архітектури на озері",
+  "tagline_en": "A romantic 15th-century castle — an architectural pearl on the lake",
+  "tagline_de": "Ein romantisches Schloss aus dem 15. Jahrhundert — eine architektonische Perle am See",
+
+  "category": "castle",
+  "subcategories": ["fortress", "palace", "renaissance-architecture", "historical-monument"],
+  "region": "Svirzh",
+  "oblast": "Lviv Oblast",
+
+  "description_uk": {
+    "short": "Свірзький замок — укріплена аристократична резиденція XV століття в селі Свірж Львівської області, оточена живописним озером та романтичними легендами про прихованих скарбів та привидів.",
+    "full": "Свірзький замок розташований у мальовничому селі Свірж Перемишлянського району Львівської області, всього за 40 кілометрів від Львова. Цей витончений замок-палац вражає своїм романтичним виглядом, відбиваючись у водах штучного озера, що оточує його з усіх боків.\n\nЗамок був побудований у XV столітті шляхетським родом Свірських як укріплена родова резиденція. Всередині замкових стін з 1546 року зберігається невелика готична каплиця, що є однією з найстаріших частин комплексу. У XVII столітті новий власник, граф Олександр Цетнер, повністю перебудував фортецю за проектом генерала Павла Гродицького, трансформувавши її в сучасну бастіонну фортецю італійського типу.\n\nПопри потужні укріплення — рови, озера та болота навколо — замок неодноразово захоплювали козаки під час Визвольної війни. У 1648 році турки підпалили фортецю, а під час Львівського рейду 1675 року знову атакували, але цього разу без успіху. Замок простояв у руїнах багато років, був відновлений у 1907 році, знову спустошений пожежею у 1914 році, та пережив кілька реставрацій у XX столітті.\n\nСьогодні Свірзький замок є унікальним зразком поєднання середньовічної оборонної архітектури з елементами Ренесансу. Відреставрований у 1975-1983 роках, він приваблює туристів своєю казковою атмосферою, живописним розташуванням на острові та численними легендами про прихованих скарбів польських магнатів.",
+    "history": "Перший дерев'яний замок на цьому місці був побудований шляхетським родом Свірських у XV столітті. Рід Свірських герба Шалава володів цими землями з XIV століття і створив тут свою родову резиденцію для захисту від татарських набігів.\n\nУ 1546 році всередині замку була збудована готична каплиця, що збереглася донині як одна з найдавніших споруд комплексу. У цей період замок функціонував як укріплена садиба з дерев'яно-кам'яними укріпленнями.\n\nКорінна перебудова замку відбулася в XVII столітті за правління нового власника — графа Олександра Цетнера. Він доручив модернізацію укріплень генералу Павлу Гродицькому, який застосував найсучасніші на той час принципи італійської фортифікації. Замок був повністю перебудований у кам'яну фортецю з бастіонами, оточену штучними озерами та болотами для додаткового захисту.\n\nПід час Визвольної війни 1648-1657 років замок неодноразово атакували козацькі загони. У 1648 році турки захопили і спалили фортецю. Під час Львівського рейду 1675 року турки знову намагалися взяти замок, але цього разу безуспішно.\n\nУ XVIII столітті замок втратив оборонне значення та був перетворений на палац. Він пережив кілька власників та періодів занепаду. У 1907 році була проведена масштабна реставрація, але вже у 1914 році під час Першої світової війни замок знову постраждав від пожежі.\n\nУ 1975-1983 роках була проведена комплексна реставрація замку, яка повернула йому первісний вигляяд. Сьогодні замок є пам'яткою архітектури національного значення.",
+    "significance": "Свірзький замок є унікальним зразком еволюції оборонної архітектури від середньовічної укріпленої садиби до бастіонної фортеці італійського типу та палацової резиденції. Замок демонструє архітектурні елементи різних епох: готичну каплицю XVI століття, ренесансний палац та бастіонні укріплення XVII століття. Унікальне розташування на острові посеред озера робить його одним із найромантичніших замків України. Замок зберіг автентичну структуру з ровами, озерами та болотами, що оточують його з усіх боків. Є важливою туристичною пам'яткою Львівщини та популярною локацією для фотосесій та кінозйомок."
+  },
+
+  "description_en": {
+    "short": "Svirzh Castle is a fortified aristocratic residence from the 15th century in Svirzh village, Lviv Oblast, surrounded by a picturesque lake and romantic legends about hidden treasures and ghosts.",
+    "full": "Svirzh Castle is located in the picturesque village of Svirzh, Peremyshliany district, Lviv Oblast, just 40 kilometers from Lviv. This elegant castle-palace impresses with its romantic appearance, reflecting in the waters of an artificial lake that surrounds it on all sides.\n\nThe castle was built in the 15th century by the noble Świrski family as a fortified ancestral residence. Inside the castle walls, a small Gothic chapel from 1546 is preserved, one of the oldest parts of the complex. In the 17th century, the new owner, Count Aleksander Cetner, completely rebuilt the fortress according to the design of General Paweł Grodzicki, transforming it into a modern Italian-style bastion fortress.\n\nDespite powerful fortifications — moats, lakes and marshes around — the castle was repeatedly captured by Cossacks during the Liberation War. In 1648, the Turks set fire to the fortress, and during the Lwów raid of 1675 attacked again, but this time unsuccessfully. The castle stood in ruins for many years, was restored in 1907, again devastated by fire in 1914, and underwent several restorations in the 20th century.\n\nToday, Svirzh Castle is a unique example of combining medieval defensive architecture with Renaissance elements. Restored in 1975-1983, it attracts tourists with its fairy-tale atmosphere, picturesque island location and numerous legends about hidden treasures of Polish magnates.",
+    "history": "The first wooden castle at this site was built by the noble Świrski family in the 15th century. The Świrski family of Szaława coat of arms owned these lands from the 14th century and created their ancestral residence here for protection against Tatar raids.\n\nIn 1546, a Gothic chapel was built inside the castle, preserved to this day as one of the oldest structures of the complex. During this period, the castle functioned as a fortified manor with wooden-stone fortifications.\n\nThe fundamental reconstruction of the castle occurred in the 17th century under the rule of the new owner — Count Aleksander Cetner. He entrusted the modernization of fortifications to General Paweł Grodzicki, who applied the most modern principles of Italian fortification at that time.",
+    "significance": "Svirzh Castle is a unique example of the evolution of defensive architecture from a medieval fortified manor to an Italian-style bastion fortress and palace residence. The castle demonstrates architectural elements of different eras: a 16th-century Gothic chapel, a Renaissance palace, and 17th-century bastion fortifications. Its unique location on an island in the middle of a lake makes it one of Ukraine's most romantic castles."
+  },
+
+  "description_de": {
+    "short": "Schloss Swirzh ist eine befestigte aristokratische Residenz aus dem 15. Jahrhundert im Dorf Swirzh, Oblast Lwiw, umgeben von einem malerischen See und romantischen Legenden über verborgene Schätze.",
+    "full": "Schloss Swirzh befindet sich im malerischen Dorf Swirzh, Bezirk Peremyschljany, Oblast Lwiw, nur 40 Kilometer von Lwiw entfernt. Dieses elegante Schlosspalais beeindruckt durch sein romantisches Erscheinungsbild, das sich im Wasser eines künstlichen Sees spiegelt, der es von allen Seiten umgibt.\n\nDas Schloss wurde im 15. Jahrhundert von der Adelsfamilie Świrski als befestigte Stammsitzresidenz erbaut. Im 17. Jahrhundert wurde die Festung von Graf Aleksander Cetner vollständig nach dem Entwurf von General Paweł Grodzicki umgebaut.",
+    "history": "Die erste Holzburg an diesem Ort wurde von der Adelsfamilie Świrski im 15. Jahrhundert erbaut. Die Familie Świrski des Wappens Szaława besaß diese Ländereien seit dem 14. Jahrhundert.",
+    "significance": "Schloss Swirzh ist ein einzigartiges Beispiel für die Evolution der Verteidigungsarchitektur von einem mittelalterlichen befestigten Gut zu einer Bastion-Festung italienischen Stils und einer Palastresidenz."
+  },
+
+  "location": {
+    "city": "Svirzh",
+    "region": "Lviv Oblast",
+    "address_uk": "село Свірж, Перемишлянський район, Львівська область, 81262",
+    "address_en": "Svirzh village, Peremyshliany district, Lviv Oblast, 81262",
+    "address_de": "Dorf Swirzh, Bezirk Peremyschljany, Oblast Lwiw, 81262",
+    "coordinates": {
+      "latitude": 49.65246,
+      "longitude": 24.43196
+    },
+    "directions_uk": {
+      "general": "Розташований у селі Свірж, за 40 км на південний схід від Львова",
+      "publicTransport": "Автобусом з Львова до села Свірж (50 хвилин), зупинка біля замку",
+      "car": "З Львова — 40 км трасою Н02 через Перемишляни (близько 40 хвилин). З Тернополя — 100 км трасою Е40 (близько 1.5 години)",
+      "parking": "Безкоштовна парковка біля входу до замку"
+    },
+    "directions_en": {
+      "general": "Located in Svirzh village, 40 km southeast of Lviv",
+      "publicTransport": "By bus from Lviv to Svirzh village (50 minutes), stop near castle",
+      "car": "From Lviv - 40 km via H02 through Peremyshliany (about 40 minutes). From Ternopil - 100 km via E40 (about 1.5 hours)",
+      "parking": "Free parking near castle entrance"
+    },
+    "directions_de": {
+      "general": "Im Dorf Swirzh gelegen, 40 km südöstlich von Lwiw",
+      "publicTransport": "Mit dem Bus von Lwiw nach Swirzh (50 Minuten), Haltestelle beim Schloss",
+      "car": "Von Lwiw - 40 km über H02 durch Peremyschljany (ca. 40 Minuten). Von Ternopil - 100 km über E40 (ca. 1,5 Stunden)",
+      "parking": "Kostenloser Parkplatz am Schlosseingang"
+    },
+    "nearbyAttractions": [
+      {
+        "name_uk": "Підгірецький замок",
+        "name_en": "Pidhirtsi Castle",
+        "distance": "30 km",
+        "type": "castle"
+      },
+      {
+        "name_uk": "Олеський замок",
+        "name_en": "Olesko Castle",
+        "distance": "35 km",
+        "type": "castle"
+      }
+    ]
+  },
+
+  "contact": {
+    "phone": "+380 67 370 0909",
+    "email": "svirzh.castle@gmail.com",
+    "website": null,
+    "bookingUrl": null,
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/svijcastle/",
+      "instagram": null,
+      "youtube": null
+    }
+  },
+
+  "visitingInformation": {
+    "openingTimes": {
+      "status_uk": "Відкрито цілий рік",
+      "status_en": "Open year-round",
+      "status_de": "Ganzjährig geöffnet",
+      "seasonal": [
+        {
+          "season_uk": "Цілий рік",
+          "season_en": "Year-round",
+          "season_de": "Ganzjährig",
+          "days_uk": "Щодня",
+          "days_en": "Daily",
+          "days_de": "Täglich",
+          "hours": "10:00 - 18:00",
+          "lastAdmission": "17:30"
+        }
+      ]
+    },
+    "admissionPrices": {
+      "currency": "UAH",
+      "adult": 60,
+      "student": 30,
+      "child": 20,
+      "senior": 30,
+      "family": null,
+      "notes_uk": "Діти до 6 років - безкоштовно. Фотозйомка на території - безкоштовно",
+      "notes_en": "Children under 6 - free. Photography on grounds - free",
+      "notes_de": "Kinder unter 6 Jahren - kostenlos. Fotografie auf dem Gelände - kostenlos"
+    },
+    "tourOptions": [
+      {
+        "type_uk": "Самостійний огляд",
+        "type_en": "Self-guided tour",
+        "type_de": "Selbstgeführte Tour",
+        "duration_uk": "1 година",
+        "duration_en": "1 hour",
+        "duration_de": "1 Stunde",
+        "price": 0
+      },
+      {
+        "type_uk": "Екскурсія з гідом українською",
+        "type_en": "Guided tour in Ukrainian",
+        "type_de": "Führung auf Ukrainisch",
+        "duration_uk": "45 хвилин",
+        "duration_en": "45 minutes",
+        "duration_de": "45 Minuten",
+        "price": 300,
+        "groupSize": "до 15 осіб / up to 15 people / bis 15 Personen"
+      }
+    ],
+    "averageVisitDuration_uk": "1-1.5 години",
+    "averageVisitDuration_en": "1-1.5 hours",
+    "averageVisitDuration_de": "1-1,5 Stunden",
+    "busyPeriods_uk": ["Літні місяці (червень-серпень)", "Вихідні дні", "Весільний сезон (травень-вересень)"],
+    "busyPeriods_en": ["Summer months (June-August)", "Weekends", "Wedding season (May-September)"],
+    "busyPeriods_de": ["Sommermonate (Juni-August)", "Wochenenden", "Hochzeitssaison (Mai-September)"],
+    "adviceForVisitors_uk": "Взуйте зручне взуття для прогулянки навколо озера. Найкращий час для фото — ранок або вечір, коли замок відбивається в озері. Популярне місце для весільних фотосесій.",
+    "adviceForVisitors_en": "Wear comfortable shoes for walking around the lake. Best time for photos is morning or evening when castle reflects in lake. Popular location for wedding photoshoots.",
+    "adviceForVisitors_de": "Tragen Sie bequeme Schuhe zum Spaziergang um den See. Beste Zeit für Fotos ist morgens oder abends, wenn sich das Schloss im See spiegelt. Beliebter Ort für Hochzeitsfotoshootings."
+  },
+
+  "features": {
+    "highlights_uk": [
+      "Романтичне розташування на острові посеред озера",
+      "Готична каплиця 1546 року",
+      "Відреставрований ренесансний палац",
+      "Бастіонні укріплення XVII століття",
+      "Живописні рови та озера навколо замку",
+      "Легенди про прихованих скарбів та привидів",
+      "Популярна локація для весільних фотосесій"
+    ],
+    "highlights_en": [
+      "Romantic island location in middle of lake",
+      "Gothic chapel from 1546",
+      "Restored Renaissance palace",
+      "17th-century bastion fortifications",
+      "Picturesque moats and lakes around castle",
+      "Legends about hidden treasures and ghosts",
+      "Popular location for wedding photoshoots"
+    ],
+    "highlights_de": [
+      "Romantische Insellage inmitten eines Sees",
+      "Gotische Kapelle aus 1546",
+      "Restaurierter Renaissance-Palast",
+      "Bastion-Befestigungen aus dem 17. Jahrhundert",
+      "Malerische Gräben und Seen um das Schloss",
+      "Legenden über verborgene Schätze und Geister",
+      "Beliebter Ort für Hochzeitsfotoshootings"
+    ],
+    "facilities_uk": ["Парковка", "Туалети", "Фотозони", "Весільні локації"],
+    "facilities_en": ["Parking", "Toilets", "Photo zones", "Wedding locations"],
+    "facilities_de": ["Parkplatz", "Toiletten", "Fotozonen", "Hochzeitslocations"],
+    "accessibility": {
+      "wheelchairAccessible": false,
+      "notes_uk": "Замок розташований на острові з нерівною поверхнею, що ускладнює доступ для інвалідних візків. Міст та внутрішні сходи недоступні.",
+      "notes_en": "Castle is located on island with uneven surface, making access difficult for wheelchairs. Bridge and internal stairs inaccessible.",
+      "notes_de": "Schloss befindet sich auf einer Insel mit unebener Oberfläche, was den Zugang für Rollstühle erschwert. Brücke und innere Treppen unzugänglich."
+    },
+    "uniqueSellingPoints_uk": [
+      "Найромантичніший замок Львівщини",
+      "Єдиний замок України на острові посеред озера",
+      "Зберігся повний комплекс водних укріплень",
+      "Казкова атмосфера для весіль та фотосесій",
+      "Близькість до 'Золотої підкови' замків Львівщини"
+    ],
+    "uniqueSellingPoints_en": [
+      "Most romantic castle in Lviv region",
+      "Only Ukrainian castle on island in middle of lake",
+      "Complete complex of water fortifications preserved",
+      "Fairy-tale atmosphere for weddings and photoshoots",
+      "Proximity to 'Golden Horseshoe' of Lviv region castles"
+    ],
+    "uniqueSellingPoints_de": [
+      "Romantischstes Schloss der Region Lwiw",
+      "Einziges ukrainisches Schloss auf Insel inmitten eines Sees",
+      "Vollständiger Komplex von Wasserbefestigungen erhalten",
+      "Märchenhafte Atmosphäre für Hochzeiten und Fotoshootings",
+      "Nähe zum 'Goldenen Hufeisen' der Schlösser der Region Lwiw"
+    ]
+  },
+
+  "images": {
+    "heroImage": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Svirzh.jpg",
+      "alt_uk": "Свірзький замок — вид з озера",
+      "alt_en": "Svirzh Castle — view from lake",
+      "alt_de": "Schloss Swirzh — Ansicht vom See",
+      "caption_uk": "Романтичний Свірзький замок відбивається у водах озера",
+      "caption_en": "Romantic Svirzh Castle reflecting in lake waters",
+      "caption_de": "Romantisches Schloss Swirzh spiegelt sich im Seewasser"
+    },
+    "gallery": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Svirzh_Castle_2.jpg/800px-Svirzh_Castle_2.jpg",
+        "alt_uk": "Панорамний вид на Свірзький замок",
+        "alt_en": "Panoramic view of Svirzh Castle",
+        "alt_de": "Panoramablick auf Schloss Swirzh",
+        "caption_uk": "Замок на острові оточений штучним озером та ровами"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Svirzh_Castle_Interior.jpg/800px-Svirzh_Castle_Interior.jpg",
+        "alt_uk": "Внутрішній двір замку",
+        "alt_en": "Castle interior courtyard",
+        "alt_de": "Innenhof des Schlosses",
+        "caption_uk": "Внутрішній двір з ренесансною архітектурою"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Svirzh_Castle_Chapel.jpg/800px-Svirzh_Castle_Chapel.jpg",
+        "alt_uk": "Готична каплиця 1546 року",
+        "alt_en": "Gothic chapel from 1546",
+        "alt_de": "Gotische Kapelle aus 1546",
+        "caption_uk": "Готична каплиця — найстаріша частина замкового комплексу"
+      }
+    ]
+  },
+
+  "historicalData": {
+    "yearBuilt": "15th century",
+    "yearBuiltNote_uk": "Побудований у XV столітті родом Свірських. Готична каплиця датується 1546 роком. Повністю перебудований у XVII столітті",
+    "yearBuiltNote_en": "Built in 15th century by Świrski family. Gothic chapel dates to 1546. Completely rebuilt in 17th century",
+    "yearBuiltNote_de": "Erbaut im 15. Jahrhundert von der Familie Świrski. Gotische Kapelle stammt aus 1546. Vollständig umgebaut im 17. Jahrhundert",
+    "architecturalStyle_uk": "Ренесанс, ранній Бароко, готика",
+    "architecturalStyle_en": "Renaissance, early Baroque, Gothic",
+    "architecturalStyle_de": "Renaissance, Frühbarock, Gotik",
+    "architects": [
+      {
+        "name": "Павло Гродицький (Paweł Grodzicki)",
+        "period": "XVII ст. / 17th c. / 17. Jh.",
+        "contribution_uk": "Модернізація укріплень, створення бастіонної системи оборони",
+        "contribution_en": "Modernization of fortifications, creation of bastion defense system",
+        "contribution_de": "Modernisierung der Befestigungen, Schaffung eines Bastion-Verteidigungssystems"
+      }
+    ],
+    "unescoStatus": "none",
+    "unescoYear": null,
+    "nationalHeritageStatus": "Immovable Monument of National Significance of Ukraine",
+    "referenceNumber": "1404",
+    "managedBy_uk": "Приватне управління",
+    "managedBy_en": "Private management",
+    "managedBy_de": "Private Verwaltung"
+  },
+
+  "culturalEvents": [
+    {
+      "name_uk": "Весільні церемонії та фотосесії",
+      "name_en": "Wedding ceremonies and photoshoots",
+      "name_de": "Hochzeitszeremonien und Fotoshootings",
+      "period_uk": "Травень - Вересень",
+      "period_en": "May - September",
+      "period_de": "Mai - September",
+      "description_uk": "Замок є популярною локацією для проведення весільних церемоній та фотосесій завдяки романтичній атмосфері",
+      "description_en": "Castle is popular location for wedding ceremonies and photoshoots due to romantic atmosphere",
+      "description_de": "Schloss ist beliebter Ort für Hochzeitszeremonien und Fotoshootings aufgrund der romantischen Atmosphäre"
+    }
+  ],
+
+  "tags": [
+    "castle",
+    "fortress",
+    "palace",
+    "renaissance",
+    "gothic",
+    "lviv",
+    "svirzh",
+    "lake",
+    "island",
+    "romantic",
+    "wedding",
+    "photography",
+    "historical-monument",
+    "tourism"
+  ],
+
+  "suitableFor_uk": [
+    "Закохані пари",
+    "Весільні фотосесії",
+    "Сімейні подорожі",
+    "Фотографи",
+    "Любителі романтики",
+    "Туристи"
+  ],
+  "suitableFor_en": [
+    "Couples in love",
+    "Wedding photoshoots",
+    "Family travel",
+    "Photographers",
+    "Romance lovers",
+    "Tourists"
+  ],
+  "suitableFor_de": [
+    "Verliebte Paare",
+    "Hochzeitsfotoshootings",
+    "Familienreisen",
+    "Fotografen",
+    "Romantikliebhaber",
+    "Touristen"
+  ],
+
+  "weatherDependent": true,
+  "indoorActivities": false,
+  "outdoorActivities": true,
+
+  "priceRange": "$",
+  "rating": 4.6,
+  "reviewsCount": 1156,
+  "featured": true,
+  "status": "published",
+
+  "metaDescription_uk": "Свірзький замок - романтична фортеця XV ст. на острові посеред озера. Готична каплиця 1546 р. Популярна локація для весіль. За 40 км від Львова.",
+  "metaDescription_en": "Svirzh Castle - romantic 15th-century fortress on island in lake. Gothic chapel from 1546. Popular wedding location. 40 km from Lviv.",
+  "metaDescription_de": "Schloss Swirzh - romantische Festung aus dem 15. Jh. auf Insel im See. Gotische Kapelle aus 1546. Beliebter Hochzeitsort. 40 km von Lwiw.",
+
+  "keywords": [
+    "Свірзький замок",
+    "Svirzh Castle",
+    "замок",
+    "castle",
+    "Львівська область",
+    "Lviv",
+    "озеро",
+    "lake",
+    "острів",
+    "island",
+    "романтика",
+    "romance",
+    "весілля",
+    "wedding",
+    "туризм",
+    "tourism"
+  ],
+
+  "lastUpdated": "2025-11-30",
+  "source": "Wikipedia, Historical Archives, Tourism Sources",
+  "verified": true
+}

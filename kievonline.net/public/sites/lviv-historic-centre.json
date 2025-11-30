@@ -1,0 +1,214 @@
+{
+  "id": "lviv-historic-centre",
+  "slug": "lviv-historic-centre",
+  "name_uk": "Історичний центр Львова",
+  "name_en": "L'viv Historic Centre",
+  "name_de": "Historisches Zentrum von Lwiw",
+  "tagline_uk": "Середньовічна перлина з європейським шармом",
+  "tagline_en": "Medieval pearl with European charm",
+  "tagline_de": "Mittelalterliche Perle mit europäischem Charme",
+  "category": "unesco",
+  "subcategories": ["city", "historic-district", "architecture", "cultural-heritage"],
+  "region": "Lviv",
+  "oblast": "Lviv Oblast",
+  "description_uk": {
+    "short": "Історичний центр Львова - об'єкт Всесвітньої спадщини ЮНЕСКО з 1998 року. Місто, засноване в пізньому Середньовіччі, зберегло середньовічну топографію та чудові барокові будівлі.",
+    "full": "Місто Львів, засноване в пізньому Середньовіччі, на протязі кількох століть процвітало як адміністративний, релігійний та комерційний центр. Середньовічна міська топографія збереглася практично недоторканою, зокрема залишилися сліди різних етнічних общин, які тут мешкали. Політична та комерційна роль Львова приваблювала українські, вірменські, єврейські, німецькі, польські, італійські та угорські групи. Завдяки їхнім різним культурним та релігійним традиціям вони поселялися окремо один від одного, але були взаємозалежними. Результат - сучасний міський пейзаж з архітектурними та художніми шедеврами, в яких східноєвропейські традиції зливаються з німецькими та італійськими.",
+    "history": "Львів був заснований наприкінці Середньовіччя і став важливим адміністративним, релігійним і комерційним центром, чий вплив мав тривати в наступні століття. Місто зберегло практично незмінною свою середньовічну міську топографію і, зокрема, слід різних общин, які його населяли. Воно також зберегло великолепні будівлі барокового періоду і більш пізніх епох.",
+    "significance": "Історичний центр Львова є винятковим прикладом злиття архітектурних та художніх традицій Східної Європи з традиціями Італії та Німеччини в міській тканині та архітектурі. З 1998 року входить до списку Всесвітньої спадщини ЮНЕСКО."
+  },
+  "description_en": {
+    "short": "L'viv Historic Centre - UNESCO World Heritage Site since 1998. Founded in late Middle Ages, the city preserved its medieval topography and magnificent Baroque buildings.",
+    "full": "The city of L'viv, founded in the late Middle Ages, flourished for several centuries as an administrative, religious and commercial centre. The medieval urban topography has been preserved virtually intact, along with evidence of the different ethnic communities who lived there. The political and commercial role of L'viv attracted Ukrainian, Armenian, Jewish, German, Polish, Italian and Hungarian groups. Because of their different cultural and religious traditions, they settled separately from each other but were interdependent. The result is a modern cityscape with architectural and artistic masterpieces in which Eastern European traditions merge with German and Italian.",
+    "history": "L'viv was founded in the late Middle Ages and became an important administrative, religious and commercial center whose influence was to last in subsequent centuries. The city has preserved its medieval urban topography virtually unchanged and, in particular, the trace of different communities that inhabited it. It has also preserved magnificent buildings from the Baroque period and later epochs.",
+    "significance": "The historic center of L'viv is an outstanding example of the fusion of architectural and artistic traditions of Eastern Europe with those of Italy and Germany in urban fabric and architecture. UNESCO World Heritage Site since 1998."
+  },
+  "description_de": {
+    "short": "Historisches Zentrum von Lwiw - UNESCO-Welterbe seit 1998. Im späten Mittelalter gegründet, bewahrte die Stadt ihre mittelalterliche Topographie.",
+    "full": "Die Stadt Lwiw wurde im späten Mittelalter gegründet und florierte mehrere Jahrhunderte lang als administratives, religiöses und kommerzielles Zentrum. Die mittelalterliche städtische Topographie ist praktisch unverändert erhalten geblieben. Die politische und kommerzielle Rolle von Lwiw zog ukrainische, armenische, jüdische, deutsche, polnische, italienische und ungarische Gruppen an.",
+    "history": "Lwiw wurde im späten Mittelalter gegründet und wurde ein wichtiges administratives, religiöses und kommerzielles Zentrum. Die Stadt hat ihre mittelalterliche Topographie praktisch unverändert bewahrt.",
+    "significance": "Das historische Zentrum von Lwiw ist ein herausragendes Beispiel für die Verschmelzung architektonischer Traditionen. UNESCO-Welterbe seit 1998."
+  },
+  "location": {
+    "city": "Lviv",
+    "region": "Lviv Oblast",
+    "address_uk": "площа Ринок, Львів, 79000",
+    "address_en": "Rynok Square, Lviv, 79000",
+    "address_de": "Marktplatz, Lwiw, 79000",
+    "coordinates": {
+      "latitude": 49.8419,
+      "longitude": 24.0315
+    },
+    "directions_uk": {
+      "general": "Центр міста Львова, пішохідна зона навколо площі Ринок",
+      "publicTransport": "Всі міські маршрути ведуть до центру",
+      "car": "В'їзд до історичного центру обмежений",
+      "parking": "Підземні та відкриті паркінги на околицях центру"
+    },
+    "directions_en": {
+      "general": "Lviv city center, pedestrian zone around Rynok Square",
+      "publicTransport": "All city routes lead to the center",
+      "car": "Entry to historic center is restricted",
+      "parking": "Underground and open parking on the outskirts of center"
+    },
+    "directions_de": {
+      "general": "Stadtzentrum von Lwiw, Fußgängerzone um den Marktplatz",
+      "publicTransport": "Alle Stadtrouten führen zum Zentrum",
+      "car": "Zufahrt zum historischen Zentrum eingeschränkt",
+      "parking": "Unterirdische und offene Parkplätze am Rand des Zentrums"
+    },
+    "nearbyAttractions": [
+      {
+        "name_uk": "Ратуша",
+        "name_en": "City Hall",
+        "distance": "0 km",
+        "type": "monument"
+      },
+      {
+        "name_uk": "Оперний театр",
+        "name_en": "Opera House",
+        "distance": "0.5 km",
+        "type": "theatre"
+      }
+    ]
+  },
+  "contact": {
+    "phone": "+380 32 297 5757",
+    "email": "info@lviv.travel",
+    "website": "https://lviv.travel/en",
+    "bookingUrl": null,
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/lvivtravel",
+      "instagram": "https://www.instagram.com/lviv.travel/",
+      "youtube": null
+    }
+  },
+  "visitingInformation": {
+    "openingTimes": {
+      "status_uk": "Вільний доступ",
+      "status_en": "Open access",
+      "status_de": "Freier Zugang",
+      "seasonal": [
+        {
+          "season_uk": "Цілий рік",
+          "season_en": "Year-round",
+          "season_de": "Ganzjährig",
+          "days_uk": "Щодня",
+          "days_en": "Daily",
+          "days_de": "Täglich",
+          "hours": "24/7",
+          "lastAdmission": null
+        }
+      ]
+    },
+    "admissionPrices": {
+      "currency": "UAH",
+      "adult": 0,
+      "student": 0,
+      "child": 0,
+      "senior": 0,
+      "family": 0,
+      "notes_uk": "Вхід до історичного центру безкоштовний. Окремі музеї та атракції - платні.",
+      "notes_en": "Entry to historic center is free. Individual museums and attractions - paid.",
+      "notes_de": "Eintritt zum historischen Zentrum ist frei. Einzelne Museen und Attraktionen - kostenpflichtig."
+    },
+    "tourOptions": [
+      {
+        "type_uk": "Пішохідна екскурсія",
+        "type_en": "Walking tour",
+        "type_de": "Stadtführung",
+        "duration_uk": "2-3 години",
+        "duration_en": "2-3 hours",
+        "duration_de": "2-3 Stunden",
+        "price": 300
+      }
+    ],
+    "averageVisitDuration_uk": "1-2 дні",
+    "averageVisitDuration_en": "1-2 days",
+    "averageVisitDuration_de": "1-2 Tage",
+    "busyPeriods_uk": ["Літні місяці", "Різдвяні свята", "Вихідні"],
+    "busyPeriods_en": ["Summer months", "Christmas holidays", "Weekends"],
+    "busyPeriods_de": ["Sommermonate", "Weihnachtsferien", "Wochenenden"],
+    "adviceForVisitors_uk": "Взуйте зручне взуття для бруківки. Спробуйте львівську каву та круасани. Піднімміться на вежу ратуші для панорамного виду.",
+    "adviceForVisitors_en": "Wear comfortable shoes for cobblestones. Try Lviv coffee and croissants. Climb the Town Hall tower for panoramic views.",
+    "adviceForVisitors_de": "Tragen Sie bequeme Schuhe für Kopfsteinpflaster. Probieren Sie Lemberger Kaffee und Croissants. Besteigen Sie den Rathausturm für Panoramablick."
+  },
+  "features": {
+    "highlights_uk": ["Площа Ринок з вірменськими, італійськими кам'яницями", "Латинська катедра", "Вірменський собор", "Оперний театр", "Понад 2000 пам'яток архітектури"],
+    "highlights_en": ["Rynok Square with Armenian, Italian townhouses", "Latin Cathedral", "Armenian Cathedral", "Opera House", "Over 2000 architectural monuments"],
+    "highlights_de": ["Marktplatz mit armenischen, italienischen Bürgerhäusern", "Lateinische Kathedrale", "Armenische Kathedrale", "Opernhaus", "Über 2000 architektonische Denkmäler"],
+    "facilities_uk": ["Кафе", "Ресторани", "Музеї", "Готелі", "Сувенірні крамниці"],
+    "facilities_en": ["Cafes", "Restaurants", "Museums", "Hotels", "Gift shops"],
+    "facilities_de": ["Cafés", "Restaurants", "Museen", "Hotels", "Souvenirläden"],
+    "accessibility": {
+      "wheelchairAccessible": false,
+      "notes_uk": "Бруківка та сходи ускладнюють доступ для інвалідних візків",
+      "notes_en": "Cobblestones and stairs complicate wheelchair access",
+      "notes_de": "Kopfsteinpflaster und Treppen erschweren Rollstuhlzugang"
+    },
+    "uniqueSellingPoints_uk": ["Об'єкт ЮНЕСКО", "Найкраща збережена середньовічна топографія в Україні", "Кавова столиця України", "Культурна столиця"],
+    "uniqueSellingPoints_en": ["UNESCO Site", "Best preserved medieval topography in Ukraine", "Coffee capital of Ukraine", "Cultural capital"],
+    "uniqueSellingPoints_de": ["UNESCO-Stätte", "Am besten erhaltene mittelalterliche Topographie", "Kaffeehauptstadt der Ukraine", "Kulturhauptstadt"]
+  },
+  "images": {
+    "heroImage": {
+      "url": "https://whc.unesco.org/uploads/thumbs/site_0865_0002-750-750-20151104125432.jpg",
+      "alt_uk": "Історичний центр Львова",
+      "alt_en": "Lviv Historic Centre",
+      "alt_de": "Historisches Zentrum von Lwiw",
+      "caption_uk": "Площа Ринок - серце середньовічного Львова",
+      "caption_en": "Rynok Square - heart of medieval Lviv",
+      "caption_de": "Marktplatz - Herz des mittelalterlichen Lwiw"
+    },
+    "gallery": []
+  },
+  "historicalData": {
+    "yearBuilt": "13th century",
+    "yearBuiltNote_uk": "Місто засноване в пізньому Середньовіччі",
+    "yearBuiltNote_en": "City founded in late Middle Ages",
+    "yearBuiltNote_de": "Stadt im späten Mittelalter gegründet",
+    "architecturalStyle_uk": "Середньовічна, ренесанс, бароко, класицизм",
+    "architecturalStyle_en": "Medieval, Renaissance, Baroque, Classicism",
+    "architecturalStyle_de": "Mittelalterlich, Renaissance, Barock, Klassizismus",
+    "architects": [],
+    "unescoStatus": "inscribed",
+    "unescoYear": 1998,
+    "nationalHeritageStatus": "Historical-Architectural Preserve",
+    "referenceNumber": "865",
+    "managedBy_uk": "Управління охорони історичного середовища Львівської міської ради",
+    "managedBy_en": "Lviv City Council Heritage Protection Department",
+    "managedBy_de": "Denkmalschutzabteilung des Stadtrats von Lwiw"
+  },
+  "culturalEvents": [
+    {
+      "name_uk": "Lviv Coffee Festival",
+      "name_en": "Lviv Coffee Festival",
+      "name_de": "Lemberger Kaffeefestival",
+      "period_uk": "Вересень",
+      "period_en": "September",
+      "period_de": "September",
+      "description_uk": "Міжнародний фестиваль кави",
+      "description_en": "International coffee festival",
+      "description_de": "Internationales Kaffeefestival"
+    }
+  ],
+  "tags": ["unesco", "city", "medieval", "baroque", "architecture", "lviv", "coffee", "culture", "heritage"],
+  "suitableFor_uk": ["Любителі історії", "Поціновувачі архітектури", "Кавомани", "Романтичні пари", "Культурні туристи"],
+  "suitableFor_en": ["History enthusiasts", "Architecture lovers", "Coffee lovers", "Romantic couples", "Cultural tourists"],
+  "suitableFor_de": ["Geschichtsinteressierte", "Architekturliebhaber", "Kaffeeliebhaber", "Romantische Paare", "Kulturtouristen"],
+  "weatherDependent": false,
+  "indoorActivities": true,
+  "outdoorActivities": true,
+  "priceRange": "$$",
+  "rating": 4.9,
+  "reviewsCount": 15243,
+  "featured": true,
+  "status": "published",
+  "metaDescription_uk": "Історичний центр Львова - об'єкт ЮНЕСКО з 1998 року. Середньовічна архітектура, кавова культура, понад 2000 пам'яток.",
+  "metaDescription_en": "Lviv Historic Centre - UNESCO site since 1998. Medieval architecture, coffee culture, over 2000 monuments.",
+  "metaDescription_de": "Historisches Zentrum von Lwiw - UNESCO-Stätte seit 1998. Mittelalterliche Architektur, Kaffeekultur, über 2000 Denkmäler.",
+  "keywords": ["Львів", "Lviv", "L'viv", "UNESCO", "historic-centre", "medieval", "coffee", "architecture"],
+  "lastUpdated": "2025-11-30",
+  "source": "UNESCO, Lviv Tourism",
+  "verified": true
+}

@@ -1,0 +1,247 @@
+{
+  "id": "pirogovo-museum",
+  "slug": "pirogovo-museum",
+  "name_uk": "Національний музей народної архітектури та побуту України",
+  "name_en": "National Museum of Folk Architecture and Folkways of Ukraine",
+  "name_de": "Nationales Museum für Volksarchitektur und Volksleben der Ukraine",
+  "tagline_uk": "Живий музей під відкритим небом - подорож українськими селами",
+  "tagline_en": "Living open-air museum - a journey through Ukrainian villages",
+  "tagline_de": "Lebendiges Freilichtmuseum - Reise durch ukrainische Dörfer",
+  "category": "museum",
+  "subcategories": ["open-air-museum", "folk-architecture", "ethnography", "cultural-heritage"],
+  "region": "Kyiv",
+  "oblast": "Kyiv City",
+  "description_uk": {
+    "short": "Національний музей народної архітектури та побуту України (Пирогів) — найбільший музей просто неба Східної Європи площею 133.5 гектарів, де представлено понад 300 автентичних будівель з усіх регіонів України.",
+    "full": "Музей у Пирогові був заснований у 1969 році і є унікальним архітектурно-ландшафтним комплексом, що представляє основні історико-етнографічні регіони України. Територія музею займає 133.5 гектарів (1.5 км²), де зібрано понад 300 пам'яток народної архітектури, привезених з різних куточків України та відновлених на цій території.\n\nМузей зберігає понад 70,000 експонатів побутової та традиційної культури: костюми, старовинні тканини, вишивки, килими, кераміку, металеві вироби, дереворіз, скло, музичні інструменти, картини та домашнє начиння. Експозиція включає хати, господарські будівлі, дерев'яні церкви, вітряки.\n\nНайстаріша будівля музею — Наддніпрянська церква 1742 року. Мальовничий пагорб з кількома вітряками є центральним елементом музею. Територія розділена на сектори, кожен з яких представляє народну архітектуру та побут окремого регіону України: Середня Наддніпрянщина, Слобожанщина, Полісся, Поділля, Карпати, Південна Україна.",
+    "history": "6 лютого 1969 року було прийнято постанову Ради Міністрів УРСР № 105 'Про створення Державного музею народної архітектури та побуту УРСР'. Це сталося після низки громадських ініціатив, зокрема публікації відкритого листа архітектора С. Верховського разом з відомими діячами української науки та культури. Засновником музею вважається Петро Тимофійович Тронько (1915-2011), який особисто обирав місце розташування музею.\n\nМузей було відкрито для відвідувачів у 1976 році. У 2004 році музей отримав статус Національного. З 2008 року музей підпорядковується Національній академії наук України.",
+    "significance": "Музей є найбільшим музеєм просто неба у Східній Європі та має виняткове значення для збереження та вивчення регіональних українських традицій. Це унікальне місце, де відвідувачі можуть побачити автентичні будівлі з різних епох (16-20 століття) та регіонів, дізнатися про побут українських селян та містян. Музей є важливим центром культурно-етнографічних досліджень."
+  },
+  "description_en": {
+    "short": "National Museum of Folk Architecture and Folkways of Ukraine (Pyrohiv) is Eastern Europe's largest open-air museum covering 133.5 hectares, featuring over 300 authentic buildings from all regions of Ukraine.",
+    "full": "Pyrohiv Museum was founded in 1969 and is a unique architectural and landscape complex representing the major historical and ethnographic regions of Ukraine. The museum territory occupies 133.5 hectares (1.5 km²), where over 300 monuments of folk architecture have been collected from different parts of Ukraine and restored on this territory.\n\nThe museum preserves over 70,000 exhibits of household and traditional culture: costumes, old textiles, embroidery, carpets, ceramics, metalwork, woodcarving, glassware, musical instruments, paintings, and household items. The exposition includes houses (khaty), farm buildings, wooden churches, and windmills.\n\nThe oldest building in the museum is the Naddnipranska Church built in 1742. A picturesque hill with several windmills is the museum's centerpiece. The territory is divided into sectors, each representing the folk architecture and life of a specific Ukrainian region: Middle Dnieper, Slobozhanshchyna, Polissia, Podillia, Carpathians, Southern Ukraine.",
+    "history": "On February 6, 1969, Resolution No. 105 of the USSR Council of Ministers 'On the establishment of the State Museum of Folk Architecture and Life of the Ukrainian SSR' was adopted. This followed a number of public initiatives, including an open letter from architect S. Verkhovsky along with well-known Ukrainian figures of science and culture. Petro Tymofiyovych Tronko (1915-2011) is considered the founder of the museum, who personally chose the museum's location.\n\nThe museum was opened to visitors in 1976. In 2004, the museum received National status. Since 2008, the museum has been under the National Academy of Sciences of Ukraine.",
+    "significance": "The museum is the largest open-air museum in Eastern Europe and is of exceptional importance for the preservation and study of regional Ukrainian traditions. It is a unique place where visitors can see authentic buildings from different epochs (16th-20th centuries) and regions, learn about the life of Ukrainian villagers and townsfolk. The museum is an important center of cultural-ethnographic research."
+  },
+  "description_de": {
+    "short": "Nationales Museum für Volksarchitektur der Ukraine (Pyrohiw) ist das größte Freilichtmuseum Osteuropas mit 133,5 Hektar und über 300 authentischen Gebäuden aus allen Regionen der Ukraine.",
+    "full": "Das Pyrohiw-Museum wurde 1969 gegründet und ist ein einzigartiger architektonischer und landschaftlicher Komplex, der die wichtigsten historisch-ethnographischen Regionen der Ukraine repräsentiert. Das Museumsgelände umfasst 133,5 Hektar, wo über 300 Denkmäler der Volksarchitektur aus verschiedenen Teilen der Ukraine gesammelt und restauriert wurden.\n\nDas Museum bewahrt über 70.000 Exponate der Haushalts- und traditionellen Kultur: Kostüme, alte Textilien, Stickereien, Teppiche, Keramik, Metallarbeiten, Holzschnitzereien, Glaswaren, Musikinstrumente. Die Exposition umfasst Häuser (Khaty), Wirtschaftsgebäude, Holzkirchen und Windmühlen.",
+    "history": "Am 6. Februar 1969 wurde die Resolution Nr. 105 des Ministerrats der UdSSR zur Gründung des Museums angenommen. Petro Tymofijowytsch Tronko gilt als Gründer des Museums. Das Museum wurde 1976 für Besucher geöffnet und erhielt 2004 den Nationalstatus.",
+    "significance": "Das Museum ist das größte Freilichtmuseum Osteuropas und von außergewöhnlicher Bedeutung für die Bewahrung regionaler ukrainischer Traditionen."
+  },
+  "location": {
+    "city": "Kyiv",
+    "region": "Holosiivskyi District",
+    "address_uk": "вулиця Академіка Тронька, 1, Київ, Пирогів, 03026",
+    "address_en": "1 Akademika Tronka Street, Kyiv, Pyrohiv, 03026",
+    "address_de": "Akademika-Tronka-Straße 1, Kiew, Pyrohiw, 03026",
+    "coordinates": {
+      "latitude": 50.3545389,
+      "longitude": 30.5122306
+    },
+    "directions_uk": {
+      "general": "Розташований в районі Пирогів, південна околиця Києва",
+      "publicTransport": "Від метро 'Либідська' - тролейбус №11 або маршрутка №156, №172. Від метро 'Голосіївська' - маршрутка №156, №172",
+      "car": "З центру Києва по проспекту Голосіївському на південь (20 хв)",
+      "parking": "Безкоштовна парковка біля входу"
+    },
+    "directions_en": {
+      "general": "Located in Pyrohiv neighborhood, southern outskirts of Kyiv",
+      "publicTransport": "From metro 'Lybidska' - trolleybus #11 or minibus #156, #172. From metro 'Holosiivska' - minibus #156, #172",
+      "car": "From Kyiv center via Holosiivskyi Avenue south (20 min)",
+      "parking": "Free parking at entrance"
+    },
+    "directions_de": {
+      "general": "Im Stadtteil Pyrohiw, südliche Stadtrand von Kiew gelegen",
+      "publicTransport": "Von Metro 'Lybidska' - Trolleybus #11 oder Minibus #156, #172. Von Metro 'Holosiivska' - Minibus #156, #172",
+      "car": "Vom Kiewer Zentrum über Holosiivskyi-Avenue nach Süden (20 Min.)",
+      "parking": "Kostenloser Parkplatz am Eingang"
+    },
+    "nearbyAttractions": [
+      {
+        "name_uk": "Голосіївський ліс",
+        "name_en": "Holosiivskyi Forest",
+        "distance": "2 km",
+        "type": "park"
+      }
+    ]
+  },
+  "contact": {
+    "phone": "+380 44 526 5765",
+    "email": "info@pyrohiv.com",
+    "website": "http://www.pyrohiv.com/",
+    "bookingUrl": null,
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/pyrogivmuseum",
+      "instagram": null,
+      "youtube": null
+    }
+  },
+  "visitingInformation": {
+    "openingTimes": {
+      "status_uk": "Відкрито цілий рік",
+      "status_en": "Open year-round",
+      "status_de": "Ganzjährig geöffnet",
+      "seasonal": [
+        {
+          "season_uk": "Цілий рік",
+          "season_en": "Year-round",
+          "season_de": "Ganzjährig",
+          "days_uk": "Щодня",
+          "days_en": "Daily",
+          "days_de": "Täglich",
+          "hours": "10:00-17:00",
+          "lastAdmission": "16:30"
+        }
+      ]
+    },
+    "admissionPrices": {
+      "currency": "UAH",
+      "adult": 80,
+      "student": 40,
+      "child": 20,
+      "senior": 40,
+      "family": 200,
+      "notes_uk": "Діти до 7 років - безкоштовно. Фото/відео - безкоштовно",
+      "notes_en": "Children under 7 - free. Photo/video - free",
+      "notes_de": "Kinder unter 7 - kostenlos. Foto/Video - kostenlos"
+    },
+    "tourOptions": [
+      {
+        "type_uk": "Самостійний огляд",
+        "type_en": "Self-guided tour",
+        "type_de": "Selbstgeführte Tour",
+        "duration_uk": "3-4 години",
+        "duration_en": "3-4 hours",
+        "duration_de": "3-4 Stunden",
+        "price": 0
+      },
+      {
+        "type_uk": "Екскурсія з гідом",
+        "type_en": "Guided tour",
+        "type_de": "Führung",
+        "duration_uk": "2-3 години",
+        "duration_en": "2-3 hours",
+        "duration_de": "2-3 Stunden",
+        "price": 400
+      }
+    ],
+    "averageVisitDuration_uk": "3-5 годин",
+    "averageVisitDuration_en": "3-5 hours",
+    "averageVisitDuration_de": "3-5 Stunden",
+    "busyPeriods_uk": ["Весняно-осінні місяці", "Вихідні", "Свята (Великдень, Івана Купала, Різдво)"],
+    "busyPeriods_en": ["Spring-autumn months", "Weekends", "Holidays (Easter, Ivana Kupala, Christmas)"],
+    "busyPeriods_de": ["Frühlings-Herbstmonate", "Wochenenden", "Feiertage (Ostern, Iwana Kupala, Weihnachten)"],
+    "adviceForVisitors_uk": "Взуйте зручне взуття для ходьби по траві та ґрунтових доріжках. Візьміть сонцезахисний крем влітку. Рекомендуємо відвідувати навесні або восени для кращої погоди. На території є кафе з традиційною українською кухнею.",
+    "adviceForVisitors_en": "Wear comfortable shoes for walking on grass and dirt paths. Bring sunscreen in summer. We recommend visiting in spring or autumn for better weather. Traditional Ukrainian cuisine cafe on site.",
+    "adviceForVisitors_de": "Tragen Sie bequeme Schuhe zum Gehen auf Gras und Feldwegen. Sonnencreme im Sommer mitbringen. Wir empfehlen Besuche im Frühling oder Herbst. Café mit traditioneller ukrainischer Küche vor Ort."
+  },
+  "features": {
+    "highlights_uk": ["Понад 300 автентичних будівель 16-20 століть", "Наддніпрянська церква 1742 року", "Ансамбль вітряків", "70,000 експонатів народного мистецтва", "Майстер-класи з ремесел", "Театралізовані дійства та фестивалі"],
+    "highlights_en": ["Over 300 authentic buildings from 16th-20th centuries", "Naddnipranska Church from 1742", "Windmill ensemble", "70,000 folk art exhibits", "Craft workshops", "Theatrical performances and festivals"],
+    "highlights_de": ["Über 300 authentische Gebäude aus dem 16.-20. Jahrhundert", "Naddnipranska-Kirche von 1742", "Windmühlen-Ensemble", "70.000 Volkskunst-Exponate", "Handwerks-Workshops", "Theateraufführungen und Festivals"],
+    "facilities_uk": ["Кафе з традиційною кухнею", "Сувенірна крамниця", "Туалети", "Парковка", "Майстер-класи з ремесел", "Пікнікові зони"],
+    "facilities_en": ["Traditional cuisine cafe", "Gift shop", "Toilets", "Parking", "Craft workshops", "Picnic areas"],
+    "facilities_de": ["Café mit traditioneller Küche", "Souvenirladen", "Toiletten", "Parkplatz", "Handwerks-Workshops", "Picknickplätze"],
+    "accessibility": {
+      "wheelchairAccessible": false,
+      "notes_uk": "Ґрунтові доріжки та нерівна місцевість ускладнюють доступ для інвалідних візків. Деякі основні будівлі мають часткову доступність.",
+      "notes_en": "Dirt paths and uneven terrain complicate wheelchair access. Some main buildings have partial accessibility.",
+      "notes_de": "Feldwege und unebenes Gelände erschweren Rollstuhlzugang. Einige Hauptgebäude haben teilweise Zugänglichkeit."
+    },
+    "uniqueSellingPoints_uk": ["Найбільший музей просто неба Східної Європи", "Автентичні будівлі з усіх регіонів України", "Живі майстер-класи з ремесел", "Регулярні фольклорні фестивалі", "Унікальна ландшафтна експозиція"],
+    "uniqueSellingPoints_en": ["Largest open-air museum in Eastern Europe", "Authentic buildings from all Ukrainian regions", "Live craft demonstrations", "Regular folklore festivals", "Unique landscape exposition"],
+    "uniqueSellingPoints_de": ["Größtes Freilichtmuseum Osteuropas", "Authentische Gebäude aus allen ukrainischen Regionen", "Live-Handwerksvorführungen", "Regelmäßige Folklorefeste", "Einzigartige Landschaftsausstellung"]
+  },
+  "images": {
+    "heroImage": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Kiev_Pirogiv_windmills_060927.jpg/800px-Kiev_Pirogiv_windmills_060927.jpg",
+      "alt_uk": "Ансамбль вітряків у Пирогові",
+      "alt_en": "Windmill ensemble in Pyrohiv",
+      "alt_de": "Windmühlen-Ensemble in Pyrohiw",
+      "caption_uk": "Автентичні вітряки - центральний елемент музею площею 1.5 км²",
+      "caption_en": "Authentic windmills - centerpiece of 1.5 km² museum",
+      "caption_de": "Authentische Windmühlen - Herzstück des 1,5 km² Museums"
+    },
+    "gallery": []
+  },
+  "historicalData": {
+    "yearBuilt": "1969",
+    "yearBuiltNote_uk": "Заснований постановою Ради Міністрів УРСР. Відкритий для відвідувачів у 1976",
+    "yearBuiltNote_en": "Founded by resolution of USSR Council of Ministers. Opened to visitors in 1976",
+    "yearBuiltNote_de": "Gegründet durch Beschluss des Ministerrats der UdSSR. Für Besucher 1976 geöffnet",
+    "architecturalStyle_uk": "Народна архітектура різних регіонів України 16-20 століть",
+    "architecturalStyle_en": "Folk architecture of different Ukrainian regions 16th-20th centuries",
+    "architecturalStyle_de": "Volksarchitektur verschiedener ukrainischer Regionen 16.-20. Jahrhundert",
+    "architects": [
+      {
+        "name": "Петро Тимофійович Тронько",
+        "period": "1969",
+        "contribution_uk": "Засновник музею, ініціатор та організатор створення",
+        "contribution_en": "Museum founder, initiator and organizer of creation",
+        "contribution_de": "Museumsgründer, Initiator und Organisator der Schöpfung"
+      }
+    ],
+    "unescoStatus": "none",
+    "unescoYear": null,
+    "nationalHeritageStatus": "National Museum",
+    "referenceNumber": "NM-1969",
+    "managedBy_uk": "Національна академія наук України",
+    "managedBy_en": "National Academy of Sciences of Ukraine",
+    "managedBy_de": "Nationale Akademie der Wissenschaften der Ukraine"
+  },
+  "culturalEvents": [
+    {
+      "name_uk": "Великодній фестиваль",
+      "name_en": "Easter Festival",
+      "name_de": "Osterfest",
+      "period_uk": "Квітень (Великдень)",
+      "period_en": "April (Easter)",
+      "period_de": "April (Ostern)",
+      "description_uk": "Традиційні великодні дійства, майстер-класи з писанкарства",
+      "description_en": "Traditional Easter celebrations, pysanka (Easter egg) workshops",
+      "description_de": "Traditionelle Osterfeiern, Pysanka-Workshops"
+    },
+    {
+      "name_uk": "Свято Івана Купала",
+      "name_en": "Ivana Kupala Festival",
+      "name_de": "Iwana-Kupala-Fest",
+      "period_uk": "Липень (6-7 липня)",
+      "period_en": "July (6-7 July)",
+      "period_de": "Juli (6.-7. Juli)",
+      "description_uk": "Давнє язичницьке свято з вогнем, водою та віночками",
+      "description_en": "Ancient pagan festival with fire, water and wreaths",
+      "description_de": "Altes heidnisches Fest mit Feuer, Wasser und Kränzen"
+    },
+    {
+      "name_uk": "Різдвяний ярмарок",
+      "name_en": "Christmas Fair",
+      "name_de": "Weihnachtsmarkt",
+      "period_uk": "Грудень-Січень",
+      "period_en": "December-January",
+      "period_de": "Dezember-Januar",
+      "description_uk": "Традиційний різдвяний ярмарок з ремеслами та стравами",
+      "description_en": "Traditional Christmas fair with crafts and food",
+      "description_de": "Traditioneller Weihnachtsmarkt mit Handwerk und Essen"
+    }
+  ],
+  "tags": ["museum", "open-air", "folk-architecture", "ethnography", "windmills", "crafts", "festivals", "kyiv", "pyrohiv", "traditional"],
+  "suitableFor_uk": ["Сімейні подорожі", "Любителі етнографії", "Шкільні екскурсії", "Фотографи", "Поціновувачі народного мистецтва"],
+  "suitableFor_en": ["Family travel", "Ethnography enthusiasts", "School excursions", "Photographers", "Folk art lovers"],
+  "suitableFor_de": ["Familienreisen", "Ethnografie-Interessierte", "Schulausflüge", "Fotografen", "Volkskunstliebhaber"],
+  "weatherDependent": true,
+  "indoorActivities": true,
+  "outdoorActivities": true,
+  "priceRange": "$",
+  "rating": 4.6,
+  "reviewsCount": 4521,
+  "featured": true,
+  "status": "published",
+  "metaDescription_uk": "Пирогів - найбільший музей просто неба Східної Європи. 300+ автентичних будівель, вітряки, церква 1742р. Фестивалі.",
+  "metaDescription_en": "Pyrohiv - Eastern Europe's largest open-air museum. 300+ authentic buildings, windmills, church from 1742. Festivals.",
+  "metaDescription_de": "Pyrohiw - größtes Freilichtmuseum Osteuropas. 300+ authentische Gebäude, Windmühlen, Kirche von 1742. Festivals.",
+  "keywords": ["Пирогів", "Pyrohiv", "Pirogovo", "open-air-museum", "folk-architecture", "windmills", "Kyiv"],
+  "lastUpdated": "2025-11-30",
+  "source": "Wikipedia, Museum Official Website",
+  "verified": true
+}

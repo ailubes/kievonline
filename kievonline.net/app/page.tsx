@@ -1,65 +1,177 @@
-import Image from "next/image";
+import Header from '@/components/Header';
+import Hero from '@/components/Hero';
+import Categories from '@/components/Categories';
+import Footer from '@/components/Footer';
+import AdSense from '@/components/AdSense';
+import Image from 'next/image';
+import { getFeaturedSites } from '@/lib/sites';
 
-export default function Home() {
+export default async function Home() {
+  const featuredSites = await getFeaturedSites(6);
+
   return (
-    <div className="flex min-h-screen items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex min-h-screen w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
-          <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            To get started, edit the page.tsx file.
-          </h1>
-          <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Learning
-            </a>{" "}
-            center.
+    <main className="min-h-screen bg-ukraine-cream">
+      <Header />
+      <Hero />
+      <Categories />
+
+      {/* Featured Section */}
+      <section className="py-20 sm:py-28 bg-gradient-to-b from-white to-slate-50">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="text-center mb-16">
+            <p className="text-ukraine-gold font-display font-bold text-sm uppercase tracking-widest mb-4">
+              Featured Sites
+            </p>
+            <h2 className="text-4xl sm:text-5xl lg:text-6xl font-display font-bold text-ukraine-navy mb-4">
+              Must-See Heritage
+            </h2>
+            <p className="text-xl text-slate-600 max-w-2xl mx-auto">
+              Explore some of Ukraine's most iconic and UNESCO-listed heritage sites.
+            </p>
+          </div>
+
+          {/* Featured Sites Grid */}
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+            {featuredSites.map((site) => (
+              <a
+                key={site.slug}
+                href={`/sites/${site.slug}`}
+                className="card overflow-hidden group hover:-translate-y-2 transition-transform duration-300"
+              >
+                <div className="relative aspect-[4/3] overflow-hidden">
+                  <Image
+                    src={site.images.heroImage.url}
+                    alt={site.images.heroImage.alt_en}
+                    fill
+                    className="object-cover group-hover:scale-110 transition-transform duration-500"
+                    sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw"
+                  />
+                  <div className="absolute inset-0 bg-gradient-to-t from-ukraine-navy/70 to-transparent"></div>
+
+                  {/* Category Badge */}
+                  <div className="absolute top-4 right-4">
+                    <span className="px-3 py-1 bg-ukraine-gold/90 backdrop-blur-sm text-ukraine-navy text-xs font-bold rounded-full">
+                      {site.category}
+                    </span>
+                  </div>
+
+                  {/* Rating Badge */}
+                  {site.rating > 0 && (
+                    <div className="absolute top-4 left-4">
+                      <span className="px-3 py-1 bg-white/90 backdrop-blur-sm text-ukraine-navy text-xs font-bold rounded-full flex items-center gap-1">
+                        ⭐ {site.rating}
+                      </span>
+                    </div>
+                  )}
+                </div>
+
+                <div className="p-6">
+                  <h3 className="font-display font-bold text-xl text-ukraine-navy mb-2 group-hover:text-ukraine-blue transition-colors">
+                    {site.name_en}
+                  </h3>
+                  <p className="text-slate-600 text-sm mb-3 line-clamp-2">
+                    {site.tagline_en}
+                  </p>
+                  <p className="text-slate-500 text-xs mb-4">
+                    📍 {site.location.city}, {site.region}
+                  </p>
+                  <div className="flex items-center justify-between">
+                    <span className="text-ukraine-blue font-bold text-sm group-hover:text-heritage-terracotta transition-colors">
+                      Learn More →
+                    </span>
+                    {site.historicalData.unescoStatus === 'tentative' && (
+                      <span className="text-xs text-ukraine-gold font-semibold">UNESCO</span>
+                    )}
+                  </div>
+                </div>
+              </a>
+            ))}
+          </div>
+
+          <div className="text-center mt-12">
+            <button className="px-10 py-4 bg-ukraine-navy text-white font-bold rounded-lg hover:bg-ukraine-blue transition-all duration-300 shadow-lg hover:shadow-xl hover:-translate-y-1">
+              View All Featured Sites
+            </button>
+          </div>
+        </div>
+      </section>
+
+      {/* AdSense - After Featured Sites */}
+      <section className="py-8 bg-white">
+        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+          <AdSense
+            adFormat="auto"
+            fullWidthResponsive={true}
+            className="min-h-[250px]"
+          />
+        </div>
+      </section>
+
+      {/* Map Section */}
+      <section id="map" className="py-20 sm:py-28 bg-white">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="text-center mb-16">
+            <p className="text-ukraine-gold font-display font-bold text-sm uppercase tracking-widest mb-4">
+              Explore by Location
+            </p>
+            <h2 className="text-4xl sm:text-5xl lg:text-6xl font-display font-bold text-ukraine-navy mb-4">
+              Interactive Map
+            </h2>
+            <p className="text-xl text-slate-600 max-w-2xl mx-auto">
+              Discover heritage sites across all 25 regions of Ukraine with our interactive map.
+            </p>
+          </div>
+
+          <div className="w-full h-96 bg-gradient-to-br from-slate-100 to-slate-200 rounded-xl border-2 border-slate-300 flex items-center justify-center">
+            <div className="text-center">
+              <p className="text-5xl mb-4">🗺️</p>
+              <p className="text-slate-600 font-medium">Interactive map coming soon</p>
+            </div>
+          </div>
+
+          <div className="text-center mt-12">
+            <button className="px-10 py-4 bg-ukraine-navy text-white font-bold rounded-lg hover:bg-ukraine-blue transition-all duration-300 shadow-lg hover:shadow-xl hover:-translate-y-1">
+              Launch Map →
+            </button>
+          </div>
+        </div>
+      </section>
+
+      {/* AdSense - Before Newsletter */}
+      <section className="py-8 bg-gradient-to-b from-white to-slate-50">
+        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+          <AdSense
+            adFormat="auto"
+            fullWidthResponsive={true}
+            className="min-h-[250px]"
+          />
+        </div>
+      </section>
+
+      {/* Newsletter Section */}
+      <section className="py-20 sm:py-28 bg-gradient-to-r from-ukraine-navy to-ukraine-blue">
+        <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+          <h2 className="text-4xl sm:text-5xl font-display font-bold text-white mb-4">
+            Stay Updated
+          </h2>
+          <p className="text-xl text-slate-200 mb-8">
+            Subscribe to our newsletter for updates about new sites, events, and preservation efforts.
           </p>
-        </div>
-        <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
-          <a
-            className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={16}
+
+          <div className="flex flex-col sm:flex-row gap-4">
+            <input
+              type="email"
+              placeholder="Enter your email"
+              className="flex-grow px-6 py-3 rounded-lg text-slate-900 placeholder-slate-500 focus:outline-none focus:ring-2 focus:ring-ukraine-gold"
             />
-            Deploy Now
-          </a>
-          <a
-            className="flex h-12 w-full items-center justify-center rounded-full border border-solid border-black/[.08] px-5 transition-colors hover:border-transparent hover:bg-black/[.04] dark:border-white/[.145] dark:hover:bg-[#1a1a1a] md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
+            <button className="px-8 py-3 bg-ukraine-gold text-ukraine-navy font-bold rounded-lg hover:bg-amber-400 transition-all duration-300 whitespace-nowrap">
+              Subscribe
+            </button>
+          </div>
         </div>
-      </main>
-    </div>
+      </section>
+
+      <Footer />
+    </main>
   );
 }

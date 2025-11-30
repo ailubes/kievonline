@@ -1,0 +1,379 @@
+{
+  "id": "manyava-hermitage",
+  "slug": "manyava-hermitage",
+
+  "name_uk": "Манявський скит (Хресто-Воздвиженський чоловічий монастир)",
+  "name_en": "Manyava Hermitage (Exaltation of the Cross Monastery)",
+  "name_de": "Manyava-Einsiedelei (Kreuzerhöhungskloster)",
+
+  "tagline_uk": "Український Афон серед Ґорґан з цілющим джерелом",
+  "tagline_en": "Ukrainian Athos among the Gorgany Mountains with healing spring",
+  "tagline_de": "Ukrainischer Athos in den Gorgany-Bergen mit Heilquelle",
+
+  "category": "monastery",
+  "subcategories": ["hermitage", "orthodox-monastery", "pilgrimage-site", "historical-monument", "mountain-monastery"],
+  "region": "Ivano-Frankivsk",
+  "oblast": "Ivano-Frankivsk Oblast",
+
+  "description_uk": {
+    "short": "Манявський скит — аскетичний чоловічий монастир Східного обряду, заснований у 1606 році в ізольованій лісистій місцевості Ґорґан. Відомий як 'Український Афон', він є важливим центром духовності та культури з цілющим джерелом на Благословенному камені.",
+    "full": "Манявський Хресто-Воздвиженський чоловічий монастир, відомий як Манявський скит або Український Афон, є православним монастирем поблизу села Манява в Івано-Франківській області. Він був заснований преподобним Йовом Княгиницьким, коли той оселився в ізольованій лісистій місцевості в Ґорґанських горах на березі притоки річки Бистриця Солотвинська.\n\nХоча Йов планував жити в самоті, він невдовзі почав приваблювати інших монахів та віруючих, які побудували перші келії монастиря у 1611 році, а потім дерев'яну церкву у 1612 році. Пізніше були збудовані додаткові келії, а за підтримки О. Могили, дочки молдавського магната, було зведено головну церкву Воздвиження Хреста. У 1620 році Константинопольський патріарх Тимофій II надав монастирю статус ставропігії, що дозволило йому залишатися православним, незважаючи на подальше звернення всього регіону до унії.\n\nМанявський скит незабаром налічував близько 240 мешканців. Він став зразком монастирського життя по всій Україні та підтримував тісні відносини з монастирями в Угорниках, Коломиї, Товмачі та Сучаві (Молдавія). Скит також був важливим культурним центром. Його бібліотека містила багато рідкісних рукописів та книг, і він був місцем однієї з перших професійних шкіл церковної музики у Західній Україні.\n\nХоча монастир був укріплений оборонною стіною та трьома вежами (брамна вежа, дзвіниця та оборонна вежа), турки зруйнували його у 1676 році. Він був відбудований у 1681 році. У вересні 1785 року скит був закритий за наказом австрійського уряду, а його монахи розпорошені по монастирях Києва та Буковини. Монастир занепав у руїни, і залишилися лише зовнішні стіни та фундаменти головної церкви і дзвіниці.\n\nПротягом свого 150-річного існування скит був відомий аскетизмом своїх монахів. Багато мирян просили бути похованими тут, включаючи гетьмана Івана Виговського. Більшість важливих артефактів монастиря не збереглися, але іконостас роботи Йова Кондзелевича, намальований у 1698–1705 роках, був перенесений до Богородчан після закриття монастиря, а потім у 1923 році поміщений до Національного музею у Львові. У 1785 році дерев'яну церкву скиту було перенесено до Надвірної, де вона простояла до знищення пожежею у 1914 році.\n\nУ 1972–1980 роках на місці скиту було проведено реставраційні роботи, і всі три головні вежі, оборонні стіни та дерев'яні і кам'яні келії були відбудовані, а фрески відновлені. У 1981 році скит став філією Івано-Франківського краєзнавчого музею. У 1998 році Манявський Хресто-Воздвиженський чоловічий монастир було відроджено і він залишається активним і сьогодні.\n\nМанявський скит надихнув багато літературних і художніх творів (наприклад, Антіна Могильницького, Івана Франка, Якова Головацького, Осипа Маковея, Наталії Кобринської та Івана Труша), а Іван Вагилевич написав історичне дослідження про нього у 1848 році.",
+    "history": "Згідно з традицією, історія місця сягає 1240 року, коли монахи Іонікій та Пахомій з Києво-Печерської Лаври, зруйнованої татаро-монголами, взявши з собою святу воду, вирушили шукати джерело рівної цілющої сили і знайшли його поблизу сучасного монастиря на Благословенному камені, поруч з яким і оселилися.\n\nОфіційне заснування монастиря відбулося у 1606 році преподобним Йовом Княгиницьким та Іваном Вишенським. Перші келії побудовані у 1611 році, церква — у 1612 році. У 1620 році отримав статус ставропігії. На піку свого розквіту (XVII ст.) у скиті було близько 200 монахів і десятки підпорядкованих монастирів у Галичині, Буковині та Молдавії.\n\nТурки зруйнували монастир у 1676 році, відбудований у 1681. Закритий австрійським урядом у 1785 році. У 1972–1980 проведено реставрацію, у 1981 році відкрито музей. У 1998 році монастир відроджено як діючу обитель.",
+    "significance": "Манявський скит є видатною пам'яткою українського православ'я та культури. Він був одним із найважливіших духовних і культурних центрів Західної України, зразком монастирського життя та центром освіти. Іконостас Йова Кондзелевича є шедевром українського сакрального мистецтва. Благословенний камінь з цілющим джерелом залишається місцем паломництва."
+  },
+
+  "description_en": {
+    "short": "Manyava Hermitage is an ascetic men's monastery of the Eastern rite, founded in 1606 in an isolated wooded area of the Gorgany Mountains. Known as 'Ukrainian Athos', it is an important center of spirituality and culture with a healing spring on the Blessed Stone.",
+    "full": "The Manyava Exaltation of the Cross Men's Monastery, known as Manyava Hermitage or Ukrainian Athos, is an Orthodox monastery near the village of Manyava in Ivano-Frankivsk Oblast. It was founded by St. Job Kniahynytsky when he settled in an isolated wooded area in the Gorgany Mountains on the banks of a tributary of the Bystrytsia Solotvynska River.\n\nAlthough Job planned to live in solitude, he soon began to attract other monks and believers, who built the first cells of the monastery in 1611 and then a wooden church in 1612. Later, additional cells were constructed, and with the patronage of O. Mohyla, the daughter of a Moldavian magnate, the main church of the Exaltation of the Cross was erected. In 1620, Constantinople Patriarch Timothy II granted the monastery stauropegion status, which enabled it to remain Orthodox despite the subsequent conversion of the entire region to the Uniate church.\n\nManyava Hermitage soon came to house nearly 240 residents. It became a model of monastic life throughout Ukraine and maintained close relations with monasteries in Uhornyky, Kolomyia, Tovmach, and Suceava (Moldavia). The hermitage was also an important cultural center. Its library contained many rare manuscripts and books, and it was the site of one of the first professional schools of church music in Western Ukraine.\n\nAlthough the monastery was fortified by a defensive wall and three towers (a gate tower, a bell tower, and a defensive tower), the Turks destroyed it in 1676. It was rebuilt in 1681. In September 1785, the hermitage was closed by order of the Austrian government, and its monks dispersed to monasteries in Kyiv and Bukovyna. The monastery collapsed in ruins, and only the outer walls and the foundations of the main church and bell tower remained.\n\nThroughout its 150-year existence, the hermitage was renowned for the asceticism of its monks. Many laymen asked to be buried there, including Hetman Ivan Vyhovsky. Most of the monastery's important artifacts have not survived, but the iconostasis by Yov Kondzelevych, painted in 1698–1705, was taken to Bohorodchany after the monastery was closed, and then deposited in 1923 in the National Museum in Lviv. In 1785, the wooden church of the hermitage was transferred to Nadvirna, where it stood until it was destroyed by fire in 1914.\n\nIn 1972–80, restorations were conducted on the site of the hermitage, and all three main towers, the defensive walls, and the wooden and stone cells were rebuilt, and the frescoes restored. In 1981, it was made into a branch of the Ivano-Frankivsk Regional Studies Museum. In 1998, the Manyava Exaltation of the Cross Men's Monastery was revived and remains active today.\n\nThe Manyava Hermitage has inspired many literary and artistic works (e.g., by Antin Mohylnytsky, Ivan Franko, Yakiv Holovatsky, Osyp Makovei, Nataliia Kobrynska and Ivan Trush), and Ivan Vahylevych wrote a historical study of it in 1848.",
+    "history": "According to tradition, the history of the site dates to 1240, when monks Ionikiy and Pachomius from the Kyiv-Pechersk Lavra destroyed by the Mongols, taking holy water with them, went to look for a source of equal healing power and found it near the current monastery on the Blessed Stone, next to which they settled.\n\nOfficial founding of the monastery occurred in 1606 by St. Job Kniahynytsky and Ivan Vyshensky. First cells built in 1611, church in 1612. Received stauropegion status in 1620. At its peak (17th c.), the hermitage had about 200 monks and dozens of subordinate monasteries in Galicia, Bukovyna and Moldova.\n\nDestroyed by Turks in 1676, rebuilt in 1681. Closed by Austrian government in 1785. Restoration conducted in 1972–1980, museum opened in 1981. Monastery revived as active establishment in 1998.",
+    "significance": "Manyava Hermitage is an outstanding monument of Ukrainian Orthodoxy and culture. It was one of the most important spiritual and cultural centers of Western Ukraine, a model of monastic life and a center of education. The iconostasis by Yov Kondzelevych is a masterpiece of Ukrainian sacred art. The Blessed Stone with healing spring remains a pilgrimage site."
+  },
+
+  "description_de": {
+    "short": "Die Manyava-Einsiedelei ist ein asketisches Männerkloster des östlichen Ritus, gegründet 1606 in einer abgelegenen bewaldeten Gegend der Gorgany-Berge. Bekannt als 'Ukrainischer Athos', ist es ein wichtiges Zentrum der Spiritualität und Kultur mit einer Heilquelle am Gesegneten Stein.",
+    "full": "Das Manyava-Kreuzerhöhungskloster, bekannt als Manyava-Einsiedelei oder Ukrainischer Athos, ist ein orthodoxes Kloster in der Nähe des Dorfes Manyava in der Oblast Iwano-Frankiwsk. Es wurde vom Heiligen Hiob Knjahynyzkij gegründet, als er sich in einer abgelegenen bewaldeten Gegend in den Gorgany-Bergen am Ufer eines Nebenflusses der Bystryzia Solotwynska niederließ.\n\nObwohl Hiob in Einsamkeit leben wollte, zog er bald andere Mönche und Gläubige an, die 1611 die ersten Zellen des Klosters und 1612 eine Holzkirche bauten. Später wurden zusätzliche Zellen errichtet, und mit der Schirmherrschaft von O. Mohyla, der Tochter eines moldauischen Magnaten, wurde die Hauptkirche der Kreuzerhöhung errichtet. 1620 verlieh der Konstantinopeler Patriarch Timotheus II. dem Kloster den Stauropegion-Status, der es ihm ermöglichte, orthodox zu bleiben, trotz der späteren Konversion der gesamten Region zur Unierten Kirche.",
+    "history": "Der Überlieferung nach reicht die Geschichte des Ortes bis 1240 zurück, als die Mönche Ionikij und Pachomij vom Kiewer Höhlenkloster, das von den Mongolen zerstört wurde, heiliges Wasser mitnahmen und eine Quelle mit gleicher Heilkraft suchten. Sie fanden sie in der Nähe des heutigen Klosters am Gesegneten Stein, neben dem sie sich niederließen.\n\nOffizielle Gründung 1606 durch den Heiligen Hiob Knjahynyzkij und Iwan Wyschenskyj. Erste Zellen 1611 gebaut, Kirche 1612. Erhielt 1620 Stauropegion-Status. Auf seinem Höhepunkt (17. Jh.) hatte das Kloster etwa 200 Mönche und Dutzende untergeordnete Klöster in Galizien, Bukowina und Moldawien.\n\n1676 von Türken zerstört, 1681 wieder aufgebaut. 1785 von österreichischer Regierung geschlossen. 1972–1980 Restaurierung, 1981 Museum eröffnet. 1998 als aktives Kloster wiederbelebt.",
+    "significance": "Die Manyava-Einsiedelei ist ein herausragendes Denkmal der ukrainischen Orthodoxie und Kultur. Sie war eines der wichtigsten spirituellen und kulturellen Zentren der Westukraine, ein Vorbild des klösterlichen Lebens und ein Bildungszentrum. Die Ikonostase von Jow Kondselewytsch ist ein Meisterwerk ukrainischer sakraler Kunst."
+  },
+
+  "location": {
+    "city": "Manyava",
+    "region": "Ivano-Frankivsk Oblast",
+    "address_uk": "село Манява, Богородчанський район, Івано-Франківська область",
+    "address_en": "Manyava village, Bohorodchany district, Ivano-Frankivsk Oblast",
+    "address_de": "Dorf Manyava, Rajon Bohorodtschany, Oblast Iwano-Frankiwsk",
+    "coordinates": {
+      "latitude": 48.656167,
+      "longitude": 24.393013
+    },
+    "directions_uk": {
+      "general": "Розташований біля села Манява в Ґорґанських горах",
+      "publicTransport": "З Івано-Франківська автобус до Богородчан або Надвірної, далі маршрутка або таксі до Маняви (близько 40 км від Івано-Франківська)",
+      "car": "З Івано-Франківська по трасі Н09 через Богородчани до Маняви. Від парковки біля села пішки до монастиря (близько 1 км)",
+      "parking": "Безкоштовна парковка біля села Манява"
+    },
+    "directions_en": {
+      "general": "Located near Manyava village in the Gorgany Mountains",
+      "publicTransport": "From Ivano-Frankivsk bus to Bohorodchany or Nadvirna, then minibus or taxi to Manyava (about 40 km from Ivano-Frankivsk)",
+      "car": "From Ivano-Frankivsk on H09 highway through Bohorodchany to Manyava. From parking near village walk to monastery (about 1 km)",
+      "parking": "Free parking near Manyava village"
+    },
+    "directions_de": {
+      "general": "In der Nähe des Dorfes Manyava in den Gorgany-Bergen gelegen",
+      "publicTransport": "Von Iwano-Frankiwsk Bus nach Bohorodtschany oder Nadwirna, dann Minibus oder Taxi nach Manyava (ca. 40 km von Iwano-Frankiwsk)",
+      "car": "Von Iwano-Frankiwsk auf der H09-Autobahn über Bohorodtschany nach Manyava. Vom Parkplatz beim Dorf zu Fuß zum Kloster (ca. 1 km)",
+      "parking": "Kostenlose Parkplätze in der Nähe des Dorfes Manyava"
+    },
+    "nearbyAttractions": [
+      {
+        "name_uk": "Благословенний камінь з цілющим джерелом",
+        "name_en": "Blessed Stone with healing spring",
+        "distance": "0.8 km",
+        "type": "pilgrimage-site"
+      },
+      {
+        "name_uk": "Буковель",
+        "name_en": "Bukovel",
+        "distance": "35 km",
+        "type": "ski-resort"
+      },
+      {
+        "name_uk": "Яремче",
+        "name_en": "Yaremche",
+        "distance": "25 km",
+        "type": "tourist-town"
+      },
+      {
+        "name_uk": "Водоспад Шешори",
+        "name_en": "Sheshory Waterfall",
+        "distance": "10 km",
+        "type": "waterfall"
+      }
+    ]
+  },
+
+  "contact": {
+    "phone": null,
+    "email": null,
+    "website": null,
+    "bookingUrl": null,
+    "socialMedia": {
+      "facebook": null,
+      "instagram": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+
+  "visitingInformation": {
+    "openingTimes": {
+      "status_uk": "Відкрито цілий рік",
+      "status_en": "Open year-round",
+      "status_de": "Ganzjährig geöffnet",
+      "seasonal": [
+        {
+          "season_uk": "Цілий рік",
+          "season_en": "Year-round",
+          "season_de": "Ganzjährig",
+          "days_uk": "Щодня",
+          "days_en": "Daily",
+          "days_de": "Täglich",
+          "hours": "09:00 - 18:00",
+          "lastAdmission": "17:30"
+        }
+      ]
+    },
+    "admissionPrices": {
+      "currency": "UAH",
+      "adult": 0,
+      "student": 0,
+      "child": 0,
+      "senior": 0,
+      "family": 0,
+      "notes_uk": "Вхід безкоштовний. Пожертви вітаються",
+      "notes_en": "Free admission. Donations welcome",
+      "notes_de": "Freier Eintritt. Spenden willkommen"
+    },
+    "tourOptions": [
+      {
+        "type_uk": "Самостійний огляд",
+        "type_en": "Self-guided tour",
+        "type_de": "Selbstgeführte Tour",
+        "duration_uk": "1-2 години",
+        "duration_en": "1-2 hours",
+        "duration_de": "1-2 Stunden",
+        "price": 0
+      },
+      {
+        "type_uk": "Екскурсія з монахом",
+        "type_en": "Tour with monk",
+        "type_de": "Führung mit Mönch",
+        "duration_uk": "1 година",
+        "duration_en": "1 hour",
+        "duration_de": "1 Stunde",
+        "price": 0,
+        "groupSize": "за наявності / if available / falls verfügbar"
+      }
+    ],
+    "averageVisitDuration_uk": "1.5-2 години",
+    "averageVisitDuration_en": "1.5-2 hours",
+    "averageVisitDuration_de": "1,5-2 Stunden",
+    "busyPeriods_uk": ["Літні вихідні", "Релігійні свята", "Серпень"],
+    "busyPeriods_en": ["Summer weekends", "Religious holidays", "August"],
+    "busyPeriods_de": ["Sommerwochenenden", "Religiöse Feiertage", "August"],
+    "adviceForVisitors_uk": "Взуйте зручне взуття для гірської прогулянки (1 км від парковки). Обов'язково відвідайте Благословенний камінь з цілющим джерелом (800 м від монастиря). Дотримуйтесь монастирського дрес-коду. Візьміть пляшку для води з джерела. Можливе розміщення у монастирському гостьовому будинку — запитайте заздалегідь.",
+    "adviceForVisitors_en": "Wear comfortable shoes for mountain walk (1 km from parking). Be sure to visit the Blessed Stone with healing spring (800 m from monastery). Follow monastery dress code. Bring bottle for spring water. Monastery guesthouse accommodation may be available — inquire in advance.",
+    "adviceForVisitors_de": "Tragen Sie bequeme Schuhe für den Bergspaziergang (1 km vom Parkplatz). Besuchen Sie unbedingt den Gesegneten Stein mit Heilquelle (800 m vom Kloster). Befolgen Sie die Kleiderordnung des Klosters. Bringen Sie eine Flasche für Quellwasser mit. Unterkunft im Klostergästehaus möglicherweise verfügbar — fragen Sie im Voraus."
+  },
+
+  "features": {
+    "highlights_uk": [
+      "Благословенний камінь з цілющим джерелом (830 м від монастиря)",
+      "Відновлені оборонні стіни та три вежі",
+      "Дерев'яні та кам'яні келії XVII століття (реконструкція)",
+      "Історична друкарня (музейна експозиція)",
+      "Фрески XVIII століття",
+      "Гірська мальовнича місцевість серед Ґорґан",
+      "Активний чоловічий монастир"
+    ],
+    "highlights_en": [
+      "Blessed Stone with healing spring (830 m from monastery)",
+      "Restored defensive walls and three towers",
+      "17th-century wooden and stone cells (reconstruction)",
+      "Historic printing house (museum exposition)",
+      "18th-century frescoes",
+      "Picturesque mountain location among Gorgany",
+      "Active men's monastery"
+    ],
+    "highlights_de": [
+      "Gesegneter Stein mit Heilquelle (830 m vom Kloster)",
+      "Restaurierte Verteidigungsmauern und drei Türme",
+      "Holz- und Steinzellen aus dem 17. Jahrhundert (Rekonstruktion)",
+      "Historische Druckerei (Museumsausstellung)",
+      "Fresken aus dem 18. Jahrhundert",
+      "Malerische Berglage in den Gorgany",
+      "Aktives Männerkloster"
+    ],
+    "facilities_uk": ["Музейна експозиція", "Гостьовий будинок (обмежена кількість місць)", "Туалети", "Джерело з питною водою"],
+    "facilities_en": ["Museum exposition", "Guesthouse (limited spaces)", "Toilets", "Spring with drinking water"],
+    "facilities_de": ["Museumsausstellung", "Gästehaus (begrenzte Plätze)", "Toiletten", "Quelle mit Trinkwasser"],
+    "accessibility": {
+      "wheelchairAccessible": false,
+      "notes_uk": "Розташований у горах з підйомом. Доступ для людей з інвалідністю дуже обмежений.",
+      "notes_en": "Located in mountains with uphill walk. Access for people with disabilities is very limited.",
+      "notes_de": "In den Bergen mit Aufstieg gelegen. Der Zugang für Menschen mit Behinderungen ist sehr eingeschränkt."
+    },
+    "uniqueSellingPoints_uk": [
+      "Український Афон — символ аскетизму та духовності",
+      "Благословенний камінь з легендарним цілющим джерелом",
+      "Унікальна гірська локація серед Ґорґан",
+      "Місце поховання гетьмана Івана Виговського",
+      "Колиска української церковної музики",
+      "Надихав Івана Франка та інших митців"
+    ],
+    "uniqueSellingPoints_en": [
+      "Ukrainian Athos — symbol of asceticism and spirituality",
+      "Blessed Stone with legendary healing spring",
+      "Unique mountain location among Gorgany",
+      "Burial place of Hetman Ivan Vyhovsky",
+      "Cradle of Ukrainian church music",
+      "Inspired Ivan Franko and other artists"
+    ],
+    "uniqueSellingPoints_de": [
+      "Ukrainischer Athos — Symbol für Askese und Spiritualität",
+      "Gesegneter Stein mit legendärer Heilquelle",
+      "Einzigartige Berglage in den Gorgany",
+      "Grabstätte von Hetman Iwan Wyhowskyj",
+      "Wiege der ukrainischen Kirchenmusik",
+      "Inspirierte Iwan Franko und andere Künstler"
+    ]
+  },
+
+  "images": {
+    "heroImage": {
+      "url": "https://go-to.rest/wp-content/uploads/2022/11/6-37.webp",
+      "alt_uk": "Манявський скит серед Карпатських гір",
+      "alt_en": "Manyava Hermitage among Carpathian Mountains",
+      "alt_de": "Manyava-Einsiedelei in den Karpaten",
+      "caption_uk": "Український Афон у мальовничих Ґорґанах",
+      "caption_en": "Ukrainian Athos in picturesque Gorgany",
+      "caption_de": "Ukrainischer Athos in den malerischen Gorgany"
+    },
+    "gallery": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Maniava_Skete_panorama.jpg/1280px-Maniava_Skete_panorama.jpg",
+        "alt_uk": "Панорама Манявського скиту",
+        "alt_en": "Panorama of Manyava Hermitage",
+        "alt_de": "Panorama der Manyava-Einsiedelei",
+        "caption_uk": "Загальний вид монастирського комплексу"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Maniava_Skete_defensive_walls.jpg/1024px-Maniava_Skete_defensive_walls.jpg",
+        "alt_uk": "Оборонні стіни та вежі",
+        "alt_en": "Defensive walls and towers",
+        "alt_de": "Verteidigungsmauern und Türme",
+        "caption_uk": "Відновлені укріплення XVII століття"
+      }
+    ]
+  },
+
+  "historicalData": {
+    "yearBuilt": "1606",
+    "yearBuiltNote_uk": "Заснований св. Йовом Княгиницьким. Закритий у 1785, відновлений у 1998 році",
+    "yearBuiltNote_en": "Founded by St. Job Kniahynytsky. Closed in 1785, revived in 1998",
+    "yearBuiltNote_de": "Gegründet vom Hl. Hiob Knjahynyzkij. 1785 geschlossen, 1998 wiederbelebt",
+    "architecturalStyle_uk": "Дерев'яна архітектура Карпат, Укріплений монастир",
+    "architecturalStyle_en": "Carpathian wooden architecture, Fortified monastery",
+    "architecturalStyle_de": "Karpaten-Holzarchitektur, Befestigtes Kloster",
+    "architects": [],
+    "unescoStatus": "none",
+    "unescoYear": null,
+    "nationalHeritageStatus": "Architectural Monument of National Significance",
+    "referenceNumber": "260068-N",
+    "managedBy_uk": "Православна Церква України",
+    "managedBy_en": "Orthodox Church of Ukraine",
+    "managedBy_de": "Orthodoxe Kirche der Ukraine"
+  },
+
+  "culturalEvents": [
+    {
+      "name_uk": "Свято Воздвиження Чесного Хреста",
+      "name_en": "Feast of the Exaltation of the Holy Cross",
+      "name_de": "Fest der Kreuzerhöhung",
+      "period_uk": "27 вересня",
+      "period_en": "September 27",
+      "period_de": "27. September",
+      "description_uk": "Престольне свято монастиря",
+      "description_en": "Patronal feast of the monastery",
+      "description_de": "Patronatsfest des Klosters"
+    },
+    {
+      "name_uk": "Пам'ять св. Йова Княгиницького",
+      "name_en": "Feast of St. Job Kniahynytsky",
+      "name_de": "Fest des Hl. Hiob Knjahynyzkij",
+      "period_uk": "10 листопада",
+      "period_en": "November 10",
+      "period_de": "10. November",
+      "description_uk": "Вшанування засновника монастиря",
+      "description_en": "Honoring the monastery's founder",
+      "description_de": "Ehrung des Klostergründers"
+    }
+  ],
+
+  "tags": [
+    "hermitage",
+    "monastery",
+    "ukrainian-athos",
+    "carpathians",
+    "gorgany",
+    "healing-spring",
+    "pilgrimage",
+    "ivano-frankivsk",
+    "mountain-monastery",
+    "orthodox",
+    "17th-century",
+    "fortified-monastery",
+    "cultural-center",
+    "ivan-franko"
+  ],
+
+  "suitableFor_uk": [
+    "Паломники",
+    "Любителі гірських походів",
+    "Шанувальники історії та культури",
+    "Духовні шукачі",
+    "Туристи Карпат",
+    "Фотографи"
+  ],
+  "suitableFor_en": [
+    "Pilgrims",
+    "Mountain hiking enthusiasts",
+    "History and culture lovers",
+    "Spiritual seekers",
+    "Carpathian tourists",
+    "Photographers"
+  ],
+  "suitableFor_de": [
+    "Pilger",
+    "Bergwander-Enthusiasten",
+    "Geschichts- und Kulturliebhaber",
+    "Spirituelle Suchende",
+    "Karpaten-Touristen",
+    "Fotografen"
+  ],
+
+  "weatherDependent": true,
+  "indoorActivities": true,
+  "outdoorActivities": true,
+
+  "priceRange": "$",
+  "rating": 4.7,
+  "reviewsCount": 892,
+  "featured": true,
+  "status": "published",
+
+  "metaDescription_uk": "Манявський скит — Український Афон у Карпатах. Заснований у 1606 році. Благословенний камінь з цілющим джерелом. Активний монастир серед Ґорґан. Вхід безкоштовний.",
+  "metaDescription_en": "Manyava Hermitage — Ukrainian Athos in the Carpathians. Founded in 1606. Blessed Stone with healing spring. Active monastery among Gorgany Mountains. Free admission.",
+  "metaDescription_de": "Manyava-Einsiedelei — Ukrainischer Athos in den Karpaten. Gegründet 1606. Gesegneter Stein mit Heilquelle. Aktives Kloster in den Gorgany-Bergen. Freier Eintritt.",
+
+  "keywords": [
+    "Манявський скит",
+    "Manyava Hermitage",
+    "Український Афон",
+    "Ukrainian Athos",
+    "Карпати",
+    "Carpathians",
+    "Ґоргани",
+    "Gorgany",
+    "цілюще джерело",
+    "healing spring",
+    "монастир",
+    "monastery",
+    "Івано-Франківськ",
+    "Ivano-Frankivsk"
+  ],
+
+  "lastUpdated": "2025-11-30",
+  "source": "Encyclopedia of Ukraine, Go-to.rest, Tourism Sites",
+  "verified": true
+}

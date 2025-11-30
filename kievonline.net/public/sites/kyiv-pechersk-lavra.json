@@ -1,0 +1,223 @@
+{
+  "id": "kyiv-pechersk-lavra",
+  "slug": "kyiv-pechersk-lavra",
+  "name_uk": "Києво-Печерська лавра",
+  "name_en": "Kyiv-Pechersk Lavra",
+  "name_de": "Kiewer Höhlenkloster",
+  "tagline_uk": "Духовне серце України та колиска православ'я",
+  "tagline_en": "The spiritual heart of Ukraine and cradle of Orthodox faith",
+  "tagline_de": "Das geistliche Herz der Ukraine",
+  "category": "monastery",
+  "subcategories": ["unesco", "orthodox-monastery", "caves", "national-preserve"],
+  "region": "Kyiv",
+  "oblast": "Kyiv City",
+  "description_uk": {
+    "short": "Києво-Печерська лавра — видатний пам'ятник архітектури та духовний центр України, заснований у 1051 році. Входить до списку Всесвітньої спадщини ЮНЕСКО з 1990 року.",
+    "full": "Києво-Печерська лавра є одним із найдавніших і найшанованіших православних монастирів України та Східної Європи. Заснована у 1051 році ченцями Антонієм та Феодосієм, лавра розташована на мальовничих схилах правого берега Дніпра. Архітектурний ансамбль формувався протягом багатьох століть в органічному поєднанні з ландшафтом. Комплекс включає унікальні наземні та підземні споруди 11-19 століть, систему печерних лабіринтів загальною довжиною понад 600 метрів, а також господарські будівлі. Головні пам'ятки: Успенський собор, Троїцька надбрамна церква, Велика лаврська дзвіниця, Трапезна церква, оборонні мури з баштами, печерні комплекси Ближніх та Дальніх печер.",
+    "history": "Монастир заснований у 1051 році преподобними Антонієм та Феодосієм Печерськими. Протягом століть лавра була важливим духовним та культурним центром, що зробив значний внесок у розвиток освіти, мистецтва та медицини. Духовний та інтелектуальний вплив Києво-Печерської лаври сприяв поширенню православної віри та думки у російському світі у 17-19 століттях.",
+    "significance": "Києво-Печерська лавра має виняткове значення у національній спадщині України. Старе монастирське підніжжя відіграє дуже важливу роль у духовному та інтелектуальному житті. З 1990 року входить до списку Всесвітньої спадщини ЮНЕСКО."
+  },
+  "description_en": {
+    "short": "Kyiv-Pechersk Lavra is an outstanding architectural monument and spiritual center of Ukraine, founded in 1051. UNESCO World Heritage Site since 1990.",
+    "full": "Kyiv-Pechersk Lavra is one of the oldest and most revered Orthodox monasteries in Ukraine and Eastern Europe. Founded in 1051 by monks Anthony and Theodosius, the Lavra is located on the picturesque slopes of the right bank of the Dnipro River. The architectural ensemble was formed over many centuries in organic combination with the landscape. The complex includes unique surface and underground structures from the 11th to 19th centuries, a system of cave labyrinths totaling over 600 meters, and domestic buildings. Main monuments: Dormition Cathedral, Trinity Gate Church, Great Lavra Bell Tower, Refectory Church, defensive walls with towers, cave complexes of Near and Far Caves.",
+    "history": "The monastery was founded in 1051 by Saints Anthony and Theodosius of the Caves. For centuries, the Lavra was an important spiritual and cultural center that made a significant contribution to the development of education, art, and medicine. The spiritual and intellectual influence of Kyiv-Pechersk Lavra contributed to the spread of Orthodox faith and thought in the Russian world in the 17th-19th centuries.",
+    "significance": "Kyiv-Pechersk Lavra is of exceptional significance in Ukraine's national heritage. The old monastic foundation plays a very important role in spiritual and intellectual life. UNESCO World Heritage Site since 1990."
+  },
+  "description_de": {
+    "short": "Das Kiewer Höhlenkloster ist ein herausragendes Architekturdenkmal und spirituelles Zentrum der Ukraine, gegründet 1051. UNESCO-Welterbe seit 1990.",
+    "full": "Das Kiewer Höhlenkloster ist eines der ältesten und verehrtesten orthodoxen Klöster in der Ukraine und Osteuropa. 1051 von den Mönchen Antonius und Theodosius gegründet, liegt die Lavra auf den malerischen Hängen des rechten Dnipro-Ufers. Der architektonische Komplex umfasst einzigartige Ober- und Untertagebauwerke aus dem 11.-19. Jahrhundert, ein System von Höhlenlabyrinthen mit einer Gesamtlänge von über 600 Metern.",
+    "history": "Das Kloster wurde 1051 von den heiligen Antonius und Theodosius gegründet. Das Kloster war ein wichtiges spirituelles und kulturelles Zentrum.",
+    "significance": "Das Kiewer Höhlenkloster hat außergewöhnliche Bedeutung für das ukrainische Erbe. UNESCO-Welterbe seit 1990."
+  },
+  "location": {
+    "city": "Kyiv",
+    "region": "Kyiv City",
+    "address_uk": "вулиця Лаврська, 9, Київ, 01015",
+    "address_en": "9 Lavrska Street, Kyiv, 01015",
+    "address_de": "Lawrska-Straße 9, Kiew, 01015",
+    "coordinates": {
+      "latitude": 50.4347,
+      "longitude": 30.5579
+    },
+    "directions_uk": {
+      "general": "Розташована в Печерському районі Києва",
+      "publicTransport": "Метро 'Арсенальна' (10 хвилин пішки) або 'Печерська' (15 хвилин)",
+      "car": "Паркування поблизу обмежене",
+      "parking": "Платна парковка на вулиці Лаврській"
+    },
+    "directions_en": {
+      "general": "Located in Pechersk district of Kyiv",
+      "publicTransport": "Metro 'Arsenalna' (10 min walk) or 'Pecherska' (15 min)",
+      "car": "Limited parking nearby",
+      "parking": "Paid parking on Lavrska Street"
+    },
+    "directions_de": {
+      "general": "Im Stadtteil Petschersk von Kiew gelegen",
+      "publicTransport": "Metro 'Arsenalna' (10 Min. zu Fuß) oder 'Pecherska' (15 Min.)",
+      "car": "Begrenzte Parkplätze in der Nähe",
+      "parking": "Bezahltes Parken in der Lawrska-Straße"
+    },
+    "nearbyAttractions": [
+      {
+        "name_uk": "Родина-мати",
+        "name_en": "Motherland Monument",
+        "distance": "1.5 km",
+        "type": "monument"
+      },
+      {
+        "name_uk": "Музей Другої світової війни",
+        "name_en": "WWII Museum",
+        "distance": "1.3 km",
+        "type": "museum"
+      }
+    ]
+  },
+  "contact": {
+    "phone": "+380 44 280 3071",
+    "email": "doc@kplavra.kyiv.ua",
+    "website": "https://www.kplavra.kyiv.ua/en",
+    "bookingUrl": "https://tickets.kplavra.kyiv.ua/",
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/lavra.official",
+      "instagram": "https://www.instagram.com/lavra.official/",
+      "youtube": "https://www.youtube.com/channel/UCK5-QMhKnlft2Ar_pRwYm6A"
+    }
+  },
+  "visitingInformation": {
+    "openingTimes": {
+      "status_uk": "Відкрито цілий рік",
+      "status_en": "Open year-round",
+      "status_de": "Ganzjährig geöffnet",
+      "seasonal": [
+        {
+          "season_uk": "Цілий рік",
+          "season_en": "Year-round",
+          "season_de": "Ganzjährig",
+          "days_uk": "Щодня",
+          "days_en": "Daily",
+          "days_de": "Täglich",
+          "hours": "10:00-18:00",
+          "lastAdmission": "17:30"
+        }
+      ]
+    },
+    "admissionPrices": {
+      "currency": "UAH",
+      "adult": 150,
+      "student": 75,
+      "child": 50,
+      "senior": 75,
+      "family": 350,
+      "notes_uk": "Окремі квитки на печери, дзвіницю, музейні експозиції",
+      "notes_en": "Separate tickets for caves, bell tower, museum exhibitions",
+      "notes_de": "Separate Tickets für Höhlen, Glockenturm, Museumsausstellungen"
+    },
+    "tourOptions": [
+      {
+        "type_uk": "Огляд території",
+        "type_en": "Territory tour",
+        "type_de": "Geländeführung",
+        "duration_uk": "2-3 години",
+        "duration_en": "2-3 hours",
+        "duration_de": "2-3 Stunden",
+        "price": 0
+      },
+      {
+        "type_uk": "Екскурсія печерами",
+        "type_en": "Caves tour",
+        "type_de": "Höhlenführung",
+        "duration_uk": "1 година",
+        "duration_en": "1 hour",
+        "duration_de": "1 Stunde",
+        "price": 200
+      }
+    ],
+    "averageVisitDuration_uk": "3-4 години",
+    "averageVisitDuration_en": "3-4 hours",
+    "averageVisitDuration_de": "3-4 Stunden",
+    "busyPeriods_uk": ["Великдень", "Різдво", "Літні місяці", "Вихідні"],
+    "busyPeriods_en": ["Easter", "Christmas", "Summer months", "Weekends"],
+    "busyPeriods_de": ["Ostern", "Weihnachten", "Sommermonate", "Wochenenden"],
+    "adviceForVisitors_uk": "У печерах прохолодно, візьміть теплий одяг. Скромний одяг обов'язковий. У печерах можна придбати свічки.",
+    "adviceForVisitors_en": "Caves are cool, bring warm clothes. Modest clothing required. Candles available for purchase in caves.",
+    "adviceForVisitors_de": "In den Höhlen ist es kühl, bringen Sie warme Kleidung mit. Bescheidene Kleidung erforderlich."
+  },
+  "features": {
+    "highlights_uk": ["Печерні комплекси з мощами святих", "Велика лаврська дзвіниця (96 м)", "Успенський собор", "Троїцька надбрамна церква", "Музейні експозиції ікон та скарбів"],
+    "highlights_en": ["Cave complexes with saints' relics", "Great Lavra Bell Tower (96 m)", "Dormition Cathedral", "Trinity Gate Church", "Museum exhibitions of icons and treasures"],
+    "highlights_de": ["Höhlenkomplexe mit Reliquien", "Großer Lavra-Glockenturm (96 m)", "Mariä-Entschlafens-Kathedrale", "Dreifaltigkeitskirche", "Museumsausstellungen"],
+    "facilities_uk": ["Музеї", "Кафе", "Сувенірні крамниці", "Туалети", "Аудіогіди"],
+    "facilities_en": ["Museums", "Cafes", "Gift shops", "Toilets", "Audio guides"],
+    "facilities_de": ["Museen", "Cafés", "Souvenirläden", "Toiletten", "Audioguides"],
+    "accessibility": {
+      "wheelchairAccessible": false,
+      "notes_uk": "Печери недоступні для інвалідних візків. Деякі наземні споруди мають обмежений доступ.",
+      "notes_en": "Caves not accessible for wheelchairs. Some surface buildings have limited access.",
+      "notes_de": "Höhlen nicht zugänglich für Rollstühle. Einige Obertagebauwerke haben eingeschränkten Zugang."
+    },
+    "uniqueSellingPoints_uk": ["Об'єкт Всесвітньої спадщини ЮНЕСКО", "Один із найдавніших монастирів Східної Європи", "Унікальні печерні комплекси", "Важливе місце паломництва"],
+    "uniqueSellingPoints_en": ["UNESCO World Heritage Site", "One of oldest monasteries in Eastern Europe", "Unique cave complexes", "Important pilgrimage site"],
+    "uniqueSellingPoints_de": ["UNESCO-Welterbe", "Eines der ältesten Klöster Osteuropas", "Einzigartige Höhlenkomplexe", "Wichtige Pilgerstätte"]
+  },
+  "images": {
+    "heroImage": {
+      "url": "https://whc.unesco.org/uploads/thumbs/site_0527_0047-750-750-20151104125432.jpg",
+      "alt_uk": "Києво-Печерська лавра",
+      "alt_en": "Kyiv-Pechersk Lavra",
+      "alt_de": "Kiewer Höhlenkloster",
+      "caption_uk": "Панорама Києво-Печерської лавриз золотими куполами",
+      "caption_en": "Panorama of Kyiv-Pechersk Lavra with golden domes",
+      "caption_de": "Panorama des Kiewer Höhlenklosters mit goldenen Kuppeln"
+    },
+    "gallery": []
+  },
+  "historicalData": {
+    "yearBuilt": "1051",
+    "yearBuiltNote_uk": "Заснована преподобними Антонієм та Феодосієм",
+    "yearBuiltNote_en": "Founded by Saints Anthony and Theodosius",
+    "yearBuiltNote_de": "Gegründet von den Heiligen Antonius und Theodosius",
+    "architecturalStyle_uk": "Український бароко, візантійська архітектура",
+    "architecturalStyle_en": "Ukrainian Baroque, Byzantine architecture",
+    "architecturalStyle_de": "Ukrainisches Barock, byzantinische Architektur",
+    "architects": [],
+    "unescoStatus": "inscribed",
+    "unescoYear": 1990,
+    "nationalHeritageStatus": "National Historical-Cultural Preserve",
+    "referenceNumber": "527",
+    "managedBy_uk": "Національний Києво-Печерський історико-культурний заповідник",
+    "managedBy_en": "National Kyiv-Pechersk Historical-Cultural Preserve",
+    "managedBy_de": "Nationales historisch-kulturelles Reservat Kiewer Höhlenkloster"
+  },
+  "culturalEvents": [
+    {
+      "name_uk": "Великодні богослужіння",
+      "name_en": "Easter services",
+      "name_de": "Ostergottesdienste",
+      "period_uk": "Квітень (Великдень)",
+      "period_en": "April (Easter)",
+      "period_de": "April (Ostern)",
+      "description_uk": "Урочисті великодні богослужіння",
+      "description_en": "Solemn Easter services",
+      "description_de": "Feierliche Ostergottesdienste"
+    }
+  ],
+  "tags": ["monastery", "unesco", "caves", "orthodox", "pilgrimage", "kyiv", "baroque", "byzantine", "museum"],
+  "suitableFor_uk": ["Паломники", "Любителі історії", "Поціновувачі архітектури", "Культурні туристи"],
+  "suitableFor_en": ["Pilgrims", "History enthusiasts", "Architecture lovers", "Cultural tourists"],
+  "suitableFor_de": ["Pilger", "Geschichtsinteressierte", "Architekturliebhaber", "Kulturtouristen"],
+  "weatherDependent": false,
+  "indoorActivities": true,
+  "outdoorActivities": true,
+  "priceRange": "$$",
+  "rating": 4.9,
+  "reviewsCount": 8932,
+  "featured": true,
+  "status": "published",
+  "metaDescription_uk": "Києво-Печерська лавра - об'єкт ЮНЕСКО, заснований 1051 року. Унікальні печери, золоті куполи, духовний центр України.",
+  "metaDescription_en": "Kyiv-Pechersk Lavra - UNESCO site, founded 1051. Unique caves, golden domes, spiritual heart of Ukraine.",
+  "metaDescription_de": "Kiewer Höhlenkloster - UNESCO-Stätte, gegründet 1051. Einzigartige Höhlen, goldene Kuppeln, spirituelles Zentrum.",
+  "keywords": ["Києво-Печерська лавра", "Kyiv-Pechersk Lavra", "UNESCO", "monastery", "caves", "Kyiv"],
+  "lastUpdated": "2025-11-30",
+  "source": "UNESCO, Official website",
+  "verified": true
+}

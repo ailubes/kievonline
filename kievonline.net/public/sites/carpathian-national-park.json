@@ -1,0 +1,211 @@
+{
+  "id": "carpathian-national-park",
+  "slug": "carpathian-national-park",
+  "name_uk": "Карпатський національний природний парк",
+  "name_en": "Carpathian National Nature Park",
+  "name_de": "Karpaten-Nationalpark",
+  "tagline_uk": "Найбільший національний парк України з первісними лісами та альпійськими луками",
+  "tagline_en": "Ukraine's largest national park with primeval forests and alpine meadows",
+  "tagline_de": "Größter Nationalpark der Ukraine mit Urwäldern und Almwiesen",
+  "category": "park",
+  "subcategories": ["national-park", "nature-reserve", "hiking", "mountains", "wildlife"],
+  "region": "Ivano-Frankivsk",
+  "oblast": "Ivano-Frankivsk Oblast",
+  "description_uk": {
+    "short": "Карпатський національний природний парк — перший і найбільший національний парк України площею 515.7 км². Охороняє унікальні екосистеми Карпатських гір з первісними лісами, альпійськими луками та багатою фауною.",
+    "full": "Заснований у 1980 році, Карпатський національний природний парк охоплює 51,570 гектарів та є найбільшою природоохоронною територією Карпатського регіону. Парк зберігає щонайменше 48 видів ссавців, 110 птахів, 11 риб, 10 земноводних та 6 рептилій. З них 32 занесені до Червоних книг МСОП або України, включно з бурим ведмедем, вовком, євразійською видрою та рissю.\n\nПарк містить 1,100 видів судинних рослин, 35 з яких ендемічні для регіону, 75 занесені до Червоної книги України. Особливістю парку є реліктові ділянки сосни звичайної, сосни кедрової європейської та берези повислої. Охороняється 600 га ялинових та букових пралісів.\n\nУ парку знаходиться гора Говерла (2,061 м) — найвища точка України. Біля підніжжя гори бере початок річка Прут. Карпатські гори протягуються на 1,500 км через Польщу, Румунію, Словаччину та Україну, утворюючи один з найбільших гірських масивів Європи.",
+    "history": "Парк заснований у 1980 році як перший національний природний парк України. Карпатські гори утворилися одночасно з Альпами і є домівкою для найбільших збережених ділянок первісних лісів Європи. Ці ліси займають площу майже як Великобританія і становлять найбільший неф�агментований лісовий масив Європи.\n\nДесять ділянок первісного букового лісу в Карпатах були включені до списку Всесвітньої спадщини ЮНЕСКО у 2007 році. WWF назвав Карпатські гори одним зі своїх екорегіонів Global 200, що представляють найвидатніші території світу.",
+    "significance": "Карпатський національний природний парк має виняткове значення для збереження біорізноманіття Європи. Величезні водозбори Карпат виробляють приблизно 2.2 мільярда доларів на рік чистої води. Це, можливо, останнє місце в Європі, де можна знайти всі європейські види великої дичини. Найбільші європейські гірські популяції вовків і рисей, а також найбільша у світі популяція бурих ведмедів, мешкають у цих густих лісах."
+  },
+  "description_en": {
+    "short": "Carpathian National Nature Park is Ukraine's first and largest national park, spanning 515.7 km². It protects unique Carpathian Mountain ecosystems with primeval forests, alpine meadows, and rich wildlife.",
+    "full": "Established in 1980, Carpathian National Nature Park covers 51,570 hectares and is the largest protected area in the Carpathian region. The park conserves at least 48 mammal species, 110 birds, 11 fish, 10 amphibians, and 6 reptile species. Of these, 32 are listed in IUCN or Ukrainian Red Data Books, including brown bear, wolf, Eurasian otter, and lynxes.\n\nThe park contains 1,100 vascular plant species, 35 endemic to the region, 75 listed in Ukraine's Red Book. One distinctive feature is relict patches of Scots pine, Swiss stone pine, and European white birch. 600 hectares of spruce and beech primeval forests are protected.\n\nMount Hoverla (2,061m), Ukraine's highest peak, lies within the park. At its foot, the Prut river begins. The Carpathian Mountains extend 1,500 km across Poland, Romania, Slovakia and Ukraine, forming one of Europe's largest mountain ranges.",
+    "history": "The park was established in 1980 as Ukraine's first national nature park. The Carpathian Mountains formed at the same time as the Alps and are home to Europe's largest remaining tracts of primeval forest. These forests cover an area almost the size of Great Britain and constitute the largest unfragmented forest tract in Europe.\n\nTen patches of primeval beech forest in the Carpathians were designated UNESCO World Heritage in 2007. WWF named the Carpathian Mountains one of its Global 200 ecoregions representing the world's most outstanding areas.",
+    "significance": "Carpathian National Nature Park is of exceptional importance for European biodiversity conservation. The vast Carpathian watersheds produce approximately $2.2 billion annually in clean water. This is possibly the last place in Europe where all European big game species can be found. The largest European montane populations of wolves and lynxes, and the world's largest brown bear population, roam these dense forests."
+  },
+  "description_de": {
+    "short": "Der Karpaten-Nationalpark ist der erste und größte Nationalpark der Ukraine mit 515,7 km². Er schützt einzigartige Ökosysteme mit Urwäldern, Almwiesen und reicher Tierwelt.",
+    "full": "Der 1980 gegründete Karpaten-Nationalpark umfasst 51.570 Hektar und ist das größte Schutzgebiet der Karpatenregion. Der Park beherbergt mindestens 48 Säugetier-, 110 Vogel-, 11 Fisch-, 10 Amphibien- und 6 Reptilienarten. Davon stehen 32 auf den Roten Listen der IUCN oder der Ukraine, darunter Braunbär, Wolf, Eurasischer Otter und Luchs.\n\nDer Park enthält 1.100 Gefäßpflanzenarten, 35 davon endemisch, 75 im ukrainischen Roten Buch. Eine Besonderheit sind Relikte von Waldkiefer, Zirbelkiefer und Hängebirke. 600 Hektar Fichten- und Buchenwälder sind geschützt.",
+    "history": "Der Park wurde 1980 als erster Nationalpark der Ukraine gegründet. Die Karpaten entstanden zur gleichen Zeit wie die Alpen und beherbergen Europas größte Urwälder. Zehn Buchenwaldgebiete wurden 2007 zum UNESCO-Welterbe erklärt.",
+    "significance": "Der Karpaten-Nationalpark ist von außergewöhnlicher Bedeutung für die europäische Biodiversität. Möglicherweise der letzte Ort in Europa, wo alle europäischen Großwildarten vorkommen."
+  },
+  "location": {
+    "city": "Yaremche",
+    "region": "Ivano-Frankivsk Oblast",
+    "address_uk": "вул. Стуса, 6, Яремче, Івано-Франківська область, 78500",
+    "address_en": "6 Stusa Street, Yaremche, Ivano-Frankivsk Oblast, 78500",
+    "address_de": "Stusa-Straße 6, Jaremtsche, Oblast Iwano-Frankiwsk, 78500",
+    "coordinates": {
+      "latitude": 48.4500,
+      "longitude": 24.5500
+    },
+    "directions_uk": {
+      "general": "Центральний офіс у місті Яремче, 120 км від Івано-Франківська",
+      "publicTransport": "Потяг або автобус до Яремче з Івано-Франківська (2-3 години)",
+      "car": "З Івано-Франківська по трасі Н09 (2 години). З Києва — 600 км (8-9 годин)",
+      "parking": "Парковка біля інформаційного центру та основних трейлів"
+    },
+    "directions_en": {
+      "general": "Main office in Yaremche, 120 km from Ivano-Frankivsk",
+      "publicTransport": "Train or bus to Yaremche from Ivano-Frankivsk (2-3 hours)",
+      "car": "From Ivano-Frankivsk via H09 highway (2 hours). From Kyiv - 600 km (8-9 hours)",
+      "parking": "Parking at visitor center and main trailheads"
+    },
+    "directions_de": {
+      "general": "Hauptbüro in Jaremtsche, 120 km von Iwano-Frankiwsk",
+      "publicTransport": "Zug oder Bus nach Jaremtsche von Iwano-Frankiwsk (2-3 Stunden)",
+      "car": "Von Iwano-Frankiwsk über H09 (2 Stunden). Von Kiew - 600 km (8-9 Stunden)",
+      "parking": "Parkplatz am Besucherzentrum und Hauptwanderwegen"
+    },
+    "nearbyAttractions": [
+      {
+        "name_uk": "Водоспад Пробій",
+        "name_en": "Probiy Waterfall",
+        "distance": "5 km",
+        "type": "waterfall"
+      },
+      {
+        "name_uk": "Буковель",
+        "name_en": "Bukovel Ski Resort",
+        "distance": "30 km",
+        "type": "ski-resort"
+      }
+    ]
+  },
+  "contact": {
+    "phone": "+380 3434 22351",
+    "email": "cnnp@ukr.net",
+    "website": "http://cnnp.if.ua/en/",
+    "bookingUrl": null,
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/carpathiannationalpark",
+      "instagram": null,
+      "youtube": null
+    }
+  },
+  "visitingInformation": {
+    "openingTimes": {
+      "status_uk": "Відкрито цілий рік",
+      "status_en": "Open year-round",
+      "status_de": "Ganzjährig geöffnet",
+      "seasonal": [
+        {
+          "season_uk": "Цілий рік",
+          "season_en": "Year-round",
+          "season_de": "Ganzjährig",
+          "days_uk": "Щодня",
+          "days_en": "Daily",
+          "days_de": "Täglich",
+          "hours": "Вільний доступ / Open access / Freier Zugang",
+          "lastAdmission": null
+        }
+      ]
+    },
+    "admissionPrices": {
+      "currency": "UAH",
+      "adult": 50,
+      "student": 25,
+      "child": 0,
+      "senior": 25,
+      "family": 100,
+      "notes_uk": "Вхід до парку. Окремі маршрути можуть мати додаткові збори.",
+      "notes_en": "Park entrance. Some trails may have additional fees.",
+      "notes_de": "Parkeintritt. Einige Wanderwege können zusätzliche Gebühren haben."
+    },
+    "tourOptions": [
+      {
+        "type_uk": "Піший похід на Говерлу",
+        "type_en": "Hike to Hoverla",
+        "type_de": "Wanderung zur Howerla",
+        "duration_uk": "6-8 годин",
+        "duration_en": "6-8 hours",
+        "duration_de": "6-8 Stunden",
+        "price": 0
+      },
+      {
+        "type_uk": "Екскурсія з гідом",
+        "type_en": "Guided tour",
+        "type_de": "Geführte Tour",
+        "duration_uk": "4-6 годин",
+        "duration_en": "4-6 hours",
+        "duration_de": "4-6 Stunden",
+        "price": 500
+      }
+    ],
+    "averageVisitDuration_uk": "1-3 дні",
+    "averageVisitDuration_en": "1-3 days",
+    "averageVisitDuration_de": "1-3 Tage",
+    "busyPeriods_uk": ["Літо (червень-серпень)", "Зимові свята", "Вихідні"],
+    "busyPeriods_en": ["Summer (June-August)", "Winter holidays", "Weekends"],
+    "busyPeriods_de": ["Sommer (Juni-August)", "Winterferien", "Wochenenden"],
+    "adviceForVisitors_uk": "Візьміть теплий одяг і дощовик — погода мінлива. Зручне трекінгове взуття обов'язкове. Візьміть достатньо води і їжі. Перевірте прогноз погоди перед походом. Повідомте комусь про свій маршрут.",
+    "adviceForVisitors_en": "Bring warm clothes and raincoat - weather changes quickly. Proper hiking boots essential. Bring sufficient water and food. Check weather forecast before hiking. Inform someone of your route.",
+    "adviceForVisitors_de": "Bringen Sie warme Kleidung und Regenmantel mit - Wetter ändert sich schnell. Richtige Wanderschuhe erforderlich. Ausreichend Wasser und Essen mitnehmen. Wettervorhersage vor Wanderung prüfen."
+  },
+  "features": {
+    "highlights_uk": ["Гора Говерла (2,061 м) - найвища точка України", "Первісні букові ліси", "Бурі ведмеді, вовки, рисі", "Альпійські луки", "Водоспади та гірські озера"],
+    "highlights_en": ["Mount Hoverla (2,061m) - Ukraine's highest peak", "Primeval beech forests", "Brown bears, wolves, lynxes", "Alpine meadows", "Waterfalls and mountain lakes"],
+    "highlights_de": ["Berg Howerla (2.061m) - höchster Punkt der Ukraine", "Urwälder", "Braunbären, Wölfe, Luchse", "Almwiesen", "Wasserfälle und Bergseen"],
+    "facilities_uk": ["Інформаційний центр", "Розмічені маршрути", "Гірські притулки", "Парковка"],
+    "facilities_en": ["Visitor center", "Marked trails", "Mountain shelters", "Parking"],
+    "facilities_de": ["Besucherzentrum", "Markierte Wanderwege", "Berghütten", "Parkplatz"],
+    "accessibility": {
+      "wheelchairAccessible": false,
+      "notes_uk": "Гірська місцевість не доступна для інвалідних візків. Деякі короткі маршрути біля інформаційного центру можуть бути доступні.",
+      "notes_en": "Mountain terrain not accessible for wheelchairs. Some short trails near visitor center may be accessible.",
+      "notes_de": "Berggelände nicht rollstuhlgerecht. Einige kurze Wege in der Nähe des Besucherzentrums könnten zugänglich sein."
+    },
+    "uniqueSellingPoints_uk": ["Найбільший національний парк України", "Найвища гора України", "Частина UNESCO Global 200", "Найбільші первісні ліси Європи"],
+    "uniqueSellingPoints_en": ["Largest national park in Ukraine", "Ukraine's highest mountain", "Part of UNESCO Global 200", "Europe's largest primeval forests"],
+    "uniqueSellingPoints_de": ["Größter Nationalpark der Ukraine", "Höchster Berg der Ukraine", "Teil von UNESCO Global 200", "Größte Urwälder Europas"]
+  },
+  "images": {
+    "heroImage": {
+      "url": "https://images.squarespace-cdn.com/content/v1/657b302ad0d11e71b22b40c3/ef7f3b55-dbd9-4e7a-ba7e-e192cd550600/GCMap_CarpathiansUkraine.jpg",
+      "alt_uk": "Карпатський національний парк",
+      "alt_en": "Carpathian National Park",
+      "alt_de": "Karpaten-Nationalpark",
+      "caption_uk": "Первісні ліси та гірські вершини Карпат",
+      "caption_en": "Primeval forests and mountain peaks of Carpathians",
+      "caption_de": "Urwälder und Berggipfel der Karpaten"
+    },
+    "gallery": []
+  },
+  "historicalData": {
+    "yearBuilt": "1980",
+    "yearBuiltNote_uk": "Заснований як перший національний парк України",
+    "yearBuiltNote_en": "Established as Ukraine's first national park",
+    "yearBuiltNote_de": "Als erster Nationalpark der Ukraine gegründet",
+    "architecturalStyle_uk": "Природний ландшафт",
+    "architecturalStyle_en": "Natural landscape",
+    "architecturalStyle_de": "Natürliche Landschaft",
+    "architects": [],
+    "unescoStatus": "tentative",
+    "unescoYear": 2007,
+    "nationalHeritageStatus": "National Nature Park",
+    "referenceNumber": "CNNP-1980",
+    "managedBy_uk": "Адміністрація Карпатського національного природного парку",
+    "managedBy_en": "Carpathian National Nature Park Authority",
+    "managedBy_de": "Verwaltung des Karpaten-Nationalparks"
+  },
+  "culturalEvents": [],
+  "tags": ["national-park", "nature", "hiking", "mountains", "wildlife", "hoverla", "carpathians", "forests", "bears", "wolves"],
+  "suitableFor_uk": ["Любителі природи", "Туристи", "Альпіністи", "Фотографи дикої природи", "Екотуристи"],
+  "suitableFor_en": ["Nature lovers", "Hikers", "Mountaineers", "Wildlife photographers", "Ecotourists"],
+  "suitableFor_de": ["Naturliebhaber", "Wanderer", "Bergsteiger", "Naturfotografen", "Ökotouristen"],
+  "weatherDependent": true,
+  "indoorActivities": false,
+  "outdoorActivities": true,
+  "priceRange": "$",
+  "rating": 4.7,
+  "reviewsCount": 2891,
+  "featured": true,
+  "status": "published",
+  "metaDescription_uk": "Карпатський НПП - найбільший парк України. Гора Говерла 2,061м, первісні ліси, ведмеді, вовки. Піші маршрути.",
+  "metaDescription_en": "Carpathian National Park - Ukraine's largest park. Mount Hoverla 2,061m, primeval forests, bears, wolves. Hiking trails.",
+  "metaDescription_de": "Karpaten-Nationalpark - größter Park der Ukraine. Berg Howerla 2.061m, Urwälder, Bären, Wölfe. Wanderwege.",
+  "keywords": ["Карпати", "Carpathians", "Hoverla", "national-park", "hiking", "wildlife", "Ukraine"],
+  "lastUpdated": "2025-11-30",
+  "source": "Global Conservation, Park Authority",
+  "verified": true
+}

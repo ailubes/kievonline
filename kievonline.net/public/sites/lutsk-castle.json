@@ -1,0 +1,434 @@
+{
+  "id": "lutsk-castle",
+  "slug": "lutsk-castle",
+  "name_uk": "Луцький замок (Замок Любарта)",
+  "name_en": "Lutsk Castle (Lubart's Castle)",
+  "name_de": "Schloss Luzk (Lubart-Schloss)",
+
+  "tagline_uk": "Середньовічний замок XIV століття - переможець конкурсу 'Сім чудес України'",
+  "tagline_en": "Medieval 14th-century castle - winner of 'Seven Wonders of Ukraine' competition",
+  "tagline_de": "Mittelalterliche Burg aus dem 14. Jahrhundert - Sieger des Wettbewerbs 'Sieben Wunder der Ukraine'",
+
+  "category": "castle",
+  "subcategories": ["medieval-architecture", "museum", "historical-monument", "tourist-attraction"],
+  "region": "Lutsk",
+  "oblast": "Volyn Oblast",
+
+  "description_uk": {
+    "short": "Луцький замок, відомий також як Замок Любарта - це один із найбільш збережених середньовічних замків України. Побудований у XIV столітті, замок став переможцем Всеукраїнського конкурсу 'Сім чудес України' в категорії 'замки'.",
+    "full": "Луцький замок - видатна пам'ятка оборонної архітектури XIV століття, розташована в центрі міста Луцька. Замок складається з трьох високих прямокутних веж: Вхідної (зображена на банкноті 200 гривень), Стирової та Владичої.\n\nБудівництво замку розпочалося у 1340-1384 роках за наказом великого князя литовського Любарта Гедиміновича, який замінив дерев'яні укріплення на цегляні. Після смерті Любарта відновлення замку продовжив Вітовт Кейстутович.\n\nЗамок має три високі прямокутні вежі, які сягають 28 метрів у висоту. На території замку працюють кілька музеїв: Музей дзвонів, Музей книги та Художній музей. У підземеллях збереглися фундаменти давньої церкви Іоанна Богослова (кінець XII століття) - православної святині Луцька.\n\nЗамок є живим культурним центром: тут регулярно проводяться фестивалі, концерти, виставки та лицарські турніри. Вхідна вежа висотою 28 метрів пропонує незабутній панорамний вид на місто.",
+    "history": "Історія замку починається з 1340-1384 років, коли великий князь литовський Любарт Гедимінович розпочав масштабну реконструкцію дерев'яних укріплень, замінюючи їх на цегляні. Князь Любарт правив Луцьком та Волинню з 1340 по 1383 рік.\n\nПісля смерті Любарта будівництво замку продовжив його племінник Вітовт Великий (1392-1430). Саме за часів Вітовта замок набув сучасного вигляду з трьома потужними вежами та оборонними стінами.\n\nУ XV-XVII століттях замок був резиденцією литовських намісників та місцем проведення важливих з'їздів. У 1429 році в замку відбувся знаменитий Луцький з'їзд європейських монархів, у якому взяли участь король Польщі Владислав II Ягайло, великий князь литовський Вітовт, імператор Священної Римської імперії Сигізмунд, король Данії Ерік Померанський та багато інших володарів.\n\nУ XVI столітті замок зазнав кількох облог під час війн з московськими та кримськими військами. У XVII столітті тут тримали в ув'язненні православного митрополита Йова Борецького.\n\nУ XVIII-XIX століттях замок втратив своє військове значення і почав занепадати. У 1970-х роках розпочалися масштабні реставраційні роботи, які тривали до 2000-х років. Сьогодні Луцький замок є одним із найпопулярніших туристичних об'єктів України.",
+    "significance": "Луцький замок є одним із найкраще збережених середньовічних замків України. У 2007 році він став переможцем Всеукраїнського конкурсу 'Сім чудес України' в категорії 'замки'. Вхідна вежа замку зображена на банкноті номіналом 200 гривень. Замок є символом міста Луцька та важливим туристичним об'єктом Волинської області. Щорічно замок відвідують понад 100 тисяч туристів."
+  },
+
+  "description_en": {
+    "short": "Lutsk Castle, also known as Lubart's Castle, is one of the best-preserved medieval castles in Ukraine. Built in the 14th century, the castle won the All-Ukrainian competition 'Seven Wonders of Ukraine' in the 'castles' category.",
+    "full": "Lutsk Castle is an outstanding monument of defensive architecture from the 14th century, located in the center of Lutsk city. The castle consists of three high rectangular towers: the Entrance Tower (depicted on the 200 hryvnia banknote), the Styrivska Tower, and the Vladycha Tower.\n\nConstruction of the castle began in 1340-1384 on the orders of Grand Duke Lubart Gediminas of Lithuania, who replaced wooden fortifications with brick ones. After Lubart's death, renovation of the castle was continued by Vytautas the Great.\n\nThe castle has three high rectangular towers reaching 28 meters in height. Several museums operate on the castle grounds: the Museum of Bells, the Book Museum, and the Art Museum. In the dungeons, the foundations of the ancient church of John the Theologian (late 12th century) - an Orthodox shrine of Lutsk - have been preserved.\n\nThe castle is a living cultural center: festivals, concerts, exhibitions and knight tournaments are regularly held here. The Entrance Tower, 28 meters high, offers an unforgettable panoramic view of the city.",
+    "history": "The history of the castle begins in 1340-1384, when Grand Duke Lubart Gediminas of Lithuania began large-scale reconstruction of wooden fortifications, replacing them with brick ones. Prince Lubart ruled Lutsk and Volyn from 1340 to 1383.\n\nAfter Lubart's death, construction of the castle was continued by his nephew Vytautas the Great (1392-1430). It was during Vytautas' time that the castle acquired its modern appearance with three powerful towers and defensive walls.\n\nIn the 15th-17th centuries, the castle was the residence of Lithuanian governors and the venue for important congresses. In 1429, the famous Congress of Lutsk of European monarchs was held in the castle, attended by King of Poland Władysław II Jagiełło, Grand Duke of Lithuania Vytautas, Emperor of the Holy Roman Empire Sigismund, King of Denmark Eric of Pomerania and many other rulers.\n\nIn the 16th century, the castle suffered several sieges during wars with Moscow and Crimean troops. In the 17th century, Orthodox Metropolitan Job Boretsky was imprisoned here.\n\nIn the 18th-19th centuries, the castle lost its military significance and began to decline. In the 1970s, large-scale restoration work began, continuing until the 2000s. Today, Lutsk Castle is one of the most popular tourist sites in Ukraine.",
+    "significance": "Lutsk Castle is one of the best-preserved medieval castles in Ukraine. In 2007, it won the All-Ukrainian competition 'Seven Wonders of Ukraine' in the 'castles' category. The castle's Entrance Tower is depicted on the 200 hryvnia banknote. The castle is a symbol of Lutsk city and an important tourist attraction of the Volyn region. Annually, the castle is visited by over 100,000 tourists."
+  },
+
+  "description_de": {
+    "short": "Das Schloss Luzk, auch als Lubart-Schloss bekannt, ist eine der am besten erhaltenen mittelalterlichen Burgen der Ukraine. Im 14. Jahrhundert erbaut, gewann das Schloss den gesamtukrainischen Wettbewerb 'Sieben Wunder der Ukraine' in der Kategorie 'Burgen'.",
+    "full": "Das Schloss Luzk ist ein herausragendes Denkmal der Verteidigungsarchitektur aus dem 14. Jahrhundert im Zentrum der Stadt Luzk. Das Schloss besteht aus drei hohen rechteckigen Türmen: dem Eingangsturm (abgebildet auf der 200-Griwna-Banknote), dem Styrivska-Turm und dem Vladycha-Turm.\n\nDer Bau des Schlosses begann in den Jahren 1340-1384 auf Befehl des Großfürsten Lubart Gediminas von Litauen, der hölzerne Befestigungen durch Ziegel ersetzte. Nach Lubarts Tod setzte Vytautas der Große die Renovierung des Schlosses fort.",
+    "history": "Die Geschichte des Schlosses beginnt in den Jahren 1340-1384, als Großfürst Lubart Gediminas von Litauen mit dem großangelegten Wiederaufbau hölzerner Befestigungen begann und sie durch Ziegel ersetzte. Fürst Lubart regierte Luzk und Wolynien von 1340 bis 1383.",
+    "significance": "Das Schloss Luzk ist eine der am besten erhaltenen mittelalterlichen Burgen der Ukraine. Im Jahr 2007 gewann es den gesamtukrainischen Wettbewerb 'Sieben Wunder der Ukraine' in der Kategorie 'Burgen'. Der Eingangsturm des Schlosses ist auf der 200-Griwna-Banknote abgebildet."
+  },
+
+  "location": {
+    "city": "Lutsk",
+    "region": "Volyn Oblast",
+    "address_uk": "вул. Каф едральна, 1а, Луцьк, Волинська область, 43005",
+    "address_en": "1A Kafedralna Street, Lutsk, Volyn Oblast, 43005",
+    "address_de": "Kafedralna-Straße 1A, Luzk, Oblast Wolyn, 43005",
+    "coordinates": {
+      "latitude": 50.74706,
+      "longitude": 25.32500
+    },
+    "directions_uk": {
+      "general": "Розташований в історичному центрі міста Луцька",
+      "publicTransport": "З вокзалу Луцька тролейбусами або маршрутками до центру (10-15 хвилин), далі пішки 5 хвилин",
+      "car": "З Києва - 400 км по трасі М06 (близько 5-6 годин). З Львова - 150 км (близько 2 години)",
+      "parking": "Платна парковка біля замку"
+    },
+    "directions_en": {
+      "general": "Located in the historic center of Lutsk city",
+      "publicTransport": "From Lutsk station by trolleybus or minibus to the center (10-15 minutes), then 5 minutes walk",
+      "car": "From Kyiv - 400 km via M06 highway (about 5-6 hours). From Lviv - 150 km (about 2 hours)",
+      "parking": "Paid parking near the castle"
+    },
+    "directions_de": {
+      "general": "Im historischen Zentrum der Stadt Luzk gelegen",
+      "publicTransport": "Vom Bahnhof Luzk mit Trolleybus oder Minibus ins Zentrum (10-15 Minuten), dann 5 Minuten zu Fuß",
+      "car": "Von Kiew - 400 km über die M06 (ca. 5-6 Stunden). Von Lemberg - 150 km (ca. 2 Stunden)",
+      "parking": "Kostenpflichtiger Parkplatz in der Nähe des Schlosses"
+    },
+    "nearbyAttractions": [
+      {
+        "name_uk": "Підземелля Кафедрального собору",
+        "name_en": "Cathedral Dungeons",
+        "distance": "0.3 km",
+        "type": "historical-site"
+      },
+      {
+        "name_uk": "Вежа Чорторийських",
+        "name_en": "Czartoryski Tower",
+        "distance": "0.5 km",
+        "type": "tower"
+      },
+      {
+        "name_uk": "Музей Волинської ікони",
+        "name_en": "Museum of Volyn Icon",
+        "distance": "0.2 km",
+        "type": "museum"
+      }
+    ]
+  },
+
+  "contact": {
+    "phone": "+380 332 724 588",
+    "email": "info@castlelutsk.com",
+    "website": "https://www.visitlutsk.com/en/lutsk-castle/",
+    "bookingUrl": null,
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/LutskCastle/",
+      "instagram": "https://www.instagram.com/lutsk_castle/",
+      "youtube": null
+    }
+  },
+
+  "visitingInformation": {
+    "openingTimes": {
+      "status_uk": "Відкрито цілий рік",
+      "status_en": "Open year-round",
+      "status_de": "Ganzjährig geöffnet",
+      "seasonal": [
+        {
+          "season_uk": "Літній сезон (квітень-жовтень)",
+          "season_en": "Summer season (April-October)",
+          "season_de": "Sommersaison (April-Oktober)",
+          "days_uk": "Щодня",
+          "days_en": "Daily",
+          "days_de": "Täglich",
+          "hours": "10:00 - 19:00",
+          "lastAdmission": "18:30"
+        },
+        {
+          "season_uk": "Зимовий сезон (листопад-березень)",
+          "season_en": "Winter season (November-March)",
+          "season_de": "Wintersaison (November-März)",
+          "days_uk": "Щодня",
+          "days_en": "Daily",
+          "days_de": "Täglich",
+          "hours": "10:00 - 17:00",
+          "lastAdmission": "16:30"
+        }
+      ]
+    },
+    "admissionPrices": {
+      "currency": "UAH",
+      "adult": 100,
+      "student": 50,
+      "child": 50,
+      "senior": 50,
+      "family": null,
+      "notes_uk": "Діти до 6 років - безкоштовно. Підйом на Вхідну вежу - окремий квиток 50 грн",
+      "notes_en": "Children under 6 - free. Climbing the Entrance Tower - separate ticket 50 UAH",
+      "notes_de": "Kinder unter 6 Jahren - kostenlos. Besteigung des Eingangsturms - separates Ticket 50 UAH"
+    },
+    "tourOptions": [
+      {
+        "type_uk": "Самостійний огляд",
+        "type_en": "Self-guided tour",
+        "type_de": "Selbstgeführte Tour",
+        "duration_uk": "1,5-2 години",
+        "duration_en": "1.5-2 hours",
+        "duration_de": "1,5-2 Stunden",
+        "price": 0
+      },
+      {
+        "type_uk": "Екскурсія з гідом",
+        "type_en": "Guided tour",
+        "type_de": "Führung",
+        "duration_uk": "1 година",
+        "duration_en": "1 hour",
+        "duration_de": "1 Stunde",
+        "price": 300,
+        "groupSize": "до 30 осіб / up to 30 people / bis 30 Personen"
+      },
+      {
+        "type_uk": "Підйом на Вхідну вежу",
+        "type_en": "Climbing Entrance Tower",
+        "type_de": "Besteigung des Eingangsturms",
+        "duration_uk": "30 хвилин",
+        "duration_en": "30 minutes",
+        "duration_de": "30 Minuten",
+        "price": 50
+      }
+    ],
+    "averageVisitDuration_uk": "2-3 години",
+    "averageVisitDuration_en": "2-3 hours",
+    "averageVisitDuration_de": "2-3 Stunden",
+    "busyPeriods_uk": ["Літні місяці (червень-серпень)", "Вихідні дні", "Свята", "Фестивалі (липень-серпень)"],
+    "busyPeriods_en": ["Summer months (June-August)", "Weekends", "Holidays", "Festivals (July-August)"],
+    "busyPeriods_de": ["Sommermonate (Juni-August)", "Wochenenden", "Feiertage", "Festivals (Juli-August)"],
+    "adviceForVisitors_uk": "Взуйте зручне взуття для підйому на вежу. Обов'язково відвідайте Музей дзвонів та Музей книги. Рекомендуємо підніматися на Вхідну вежу для панорамного виду на місто.",
+    "adviceForVisitors_en": "Wear comfortable shoes for climbing the tower. Be sure to visit the Museum of Bells and the Book Museum. We recommend climbing the Entrance Tower for a panoramic view of the city.",
+    "adviceForVisitors_de": "Tragen Sie bequeme Schuhe zum Besteigen des Turms. Besuchen Sie unbedingt das Glockenmuseum und das Buchmuseum. Wir empfehlen, den Eingangsturm zu besteigen, um einen Panoramablick auf die Stadt zu genießen."
+  },
+
+  "features": {
+    "highlights_uk": [
+      "Три потужні вежі XIV століття",
+      "Вхідна вежа зображена на банкноті 200 грн",
+      "Музей дзвонів з унікальною колекцією",
+      "Музей книги з стародруками",
+      "Фундаменти церкви XII століття",
+      "Панорамний вид на місто з вежі",
+      "Переможець конкурсу 'Сім чудес України'",
+      "Регулярні середньовічні фестивалі"
+    ],
+    "highlights_en": [
+      "Three powerful 14th-century towers",
+      "Entrance Tower depicted on 200 UAH banknote",
+      "Museum of Bells with unique collection",
+      "Book Museum with early printed books",
+      "Foundations of 12th-century church",
+      "Panoramic view of the city from the tower",
+      "Winner of 'Seven Wonders of Ukraine' competition",
+      "Regular medieval festivals"
+    ],
+    "highlights_de": [
+      "Drei mächtige Türme aus dem 14. Jahrhundert",
+      "Eingangsturm auf der 200-UAH-Banknote abgebildet",
+      "Glockenmuseum mit einzigartiger Sammlung",
+      "Buchmuseum mit Frühdrucken",
+      "Fundamente einer Kirche aus dem 12. Jahrhundert",
+      "Panoramablick auf die Stadt vom Turm",
+      "Sieger des Wettbewerbs 'Sieben Wunder der Ukraine'",
+      "Regelmäßige mittelalterliche Festivals"
+    ],
+    "facilities_uk": ["Музей дзвонів", "Музей книги", "Художній музей", "Сувенірні магазини", "Кафе", "Туалети", "Парковка (платна)"],
+    "facilities_en": ["Museum of Bells", "Book Museum", "Art Museum", "Gift shops", "Cafe", "Toilets", "Parking (paid)"],
+    "facilities_de": ["Glockenmuseum", "Buchmuseum", "Kunstmuseum", "Souvenirläden", "Café", "Toiletten", "Parkplatz (kostenpflichtig)"],
+    "accessibility": {
+      "wheelchairAccessible": false,
+      "notes_uk": "Замок має численні сходи та нерівну поверхню. Частина території доступна для людей з обмеженими можливостями, але підйом на вежі недоступний.",
+      "notes_en": "The castle has numerous stairs and uneven surfaces. Part of the territory is accessible for people with disabilities, but climbing the towers is not accessible.",
+      "notes_de": "Das Schloss hat zahlreiche Treppen und unebene Oberflächen. Ein Teil des Geländes ist für Menschen mit Behinderungen zugänglich, aber die Türme können nicht bestiegen werden."
+    },
+    "uniqueSellingPoints_uk": [
+      "Зображений на банкноті 200 гривень",
+      "Переможець конкурсу 'Сім чудес України'",
+      "Один із найкраще збережених замків України",
+      "Унікальний Музей дзвонів",
+      "Місце проведення знаменитого Луцького з'їзду 1429 року",
+      "Живий культурний центр з фестивалями та турнірами"
+    ],
+    "uniqueSellingPoints_en": [
+      "Depicted on 200 hryvnia banknote",
+      "Winner of 'Seven Wonders of Ukraine' competition",
+      "One of the best-preserved castles in Ukraine",
+      "Unique Museum of Bells",
+      "Venue of the famous Congress of Lutsk in 1429",
+      "Living cultural center with festivals and tournaments"
+    ],
+    "uniqueSellingPoints_de": [
+      "Auf der 200-Griwna-Banknote abgebildet",
+      "Sieger des Wettbewerbs 'Sieben Wunder der Ukraine'",
+      "Eine der am besten erhaltenen Burgen der Ukraine",
+      "Einzigartiges Glockenmuseum",
+      "Schauplatz des berühmten Kongresses von Luzk im Jahr 1429",
+      "Lebendiges Kulturzentrum mit Festivals und Turnieren"
+    ]
+  },
+
+  "images": {
+    "heroImage": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Lutsk_Castle_panorama.jpg",
+      "alt_uk": "Луцький замок - панорамний вид",
+      "alt_en": "Lutsk Castle - panoramic view",
+      "alt_de": "Schloss Luzk - Panoramablick",
+      "caption_uk": "Три потужні вежі Луцького замку XIV століття",
+      "caption_en": "Three powerful towers of Lutsk Castle from the 14th century",
+      "caption_de": "Drei mächtige Türme des Schlosses Luzk aus dem 14. Jahrhundert"
+    },
+    "gallery": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Lutsk_Castle_entrance_tower.jpg",
+        "alt_uk": "Вхідна вежа (зображена на 200 грн)",
+        "alt_en": "Entrance Tower (depicted on 200 UAH)",
+        "alt_de": "Eingangsturm (auf 200 UAH abgebildet)",
+        "caption_uk": "Вхідна вежа висотою 28 метрів - символ замку"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Lutsk_Castle_courtyard.jpg",
+        "alt_uk": "Внутрішній двір замку",
+        "alt_en": "Castle courtyard",
+        "alt_de": "Innenhof des Schlosses",
+        "caption_uk": "Двір замку з музейними експозиціями"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Lutsk_Castle_towers.jpg",
+        "alt_uk": "Три вежі замку",
+        "alt_en": "Three towers of the castle",
+        "alt_de": "Drei Türme des Schlosses",
+        "caption_uk": "Вхідна, Стирова та Владича вежі"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Museum_of_Bells_Lutsk.jpg",
+        "alt_uk": "Музей дзвонів",
+        "alt_en": "Museum of Bells",
+        "alt_de": "Glockenmuseum",
+        "caption_uk": "Унікальна колекція дзвонів з усієї України"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Lutsk_panorama_from_castle.jpg",
+        "alt_uk": "Вид на Луцьк з вежі",
+        "alt_en": "View of Lutsk from the tower",
+        "alt_de": "Blick auf Luzk vom Turm",
+        "caption_uk": "Панорамний вид на місто з Вхідної вежі"
+      }
+    ]
+  },
+
+  "historicalData": {
+    "yearBuilt": "XIV ст. (1340-1384)",
+    "yearBuiltNote_uk": "Будівництво розпочато князем Любартом у 1340-1384 роках, завершено Вітовтом",
+    "yearBuiltNote_en": "Construction started by Prince Lubart in 1340-1384, completed by Vytautas",
+    "yearBuiltNote_de": "Bau von Fürst Lubart in den Jahren 1340-1384 begonnen, von Vytautas vollendet",
+    "architecturalStyle_uk": "Готична оборонна архітектура, українське замкове будівництво XIV століття",
+    "architecturalStyle_en": "Gothic defensive architecture, Ukrainian castle construction of the 14th century",
+    "architecturalStyle_de": "Gotische Verteidigungsarchitektur, ukrainischer Burgbau des 14. Jahrhunderts",
+    "architects": [
+      {
+        "name": "Любарт Гедимінович (Lubart Gediminas)",
+        "period": "1340-1384",
+        "contribution_uk": "Будівництво цегляного замку на місці дерев'яних укріплень",
+        "contribution_en": "Construction of brick castle on the site of wooden fortifications",
+        "contribution_de": "Bau der Ziegelburg an der Stelle hölzerner Befestigungen"
+      },
+      {
+        "name": "Вітовт Великий (Vytautas the Great)",
+        "period": "1392-1430",
+        "contribution_uk": "Завершення будівництва та зміцнення замку",
+        "contribution_en": "Completion of construction and strengthening of the castle",
+        "contribution_de": "Fertigstellung des Baus und Verstärkung des Schlosses"
+      }
+    ],
+    "unescoStatus": "none",
+    "unescoYear": null,
+    "nationalHeritageStatus": "Пам'ятка архітектури національного значення / National Monument",
+    "referenceNumber": "865",
+    "managedBy_uk": "Волинський краєзнавчий музей",
+    "managedBy_en": "Volyn Regional Museum",
+    "managedBy_de": "Wolynisches Regionalmuseum"
+  },
+
+  "culturalEvents": [
+    {
+      "name_uk": "Замковий фестиваль 'Night in Lutsk Castle'",
+      "name_en": "Castle Festival 'Night in Lutsk Castle'",
+      "name_de": "Burgfestival 'Nacht im Schloss Luzk'",
+      "period_uk": "Серпень (щорічно)",
+      "period_en": "August (annually)",
+      "period_de": "August (jährlich)",
+      "description_uk": "Нічний фестиваль з лицарськими турнірами, концертами середньовічної музики, театралізованими виставами",
+      "description_en": "Night festival with knight tournaments, medieval music concerts, theatrical performances",
+      "description_de": "Nachtfestival mit Ritterturnieren, mittelalterlichen Musikkonzerten, Theateraufführungen"
+    },
+    {
+      "name_uk": "Фестиваль 'Ніч у Луцькому замку'",
+      "name_en": "Festival 'Night in Lutsk Castle'",
+      "name_de": "Festival 'Nacht im Schloss Luzk'",
+      "period_uk": "Липень-серпень",
+      "period_en": "July-August",
+      "period_de": "Juli-August",
+      "description_uk": "Масштабний середньовічний фестиваль з реконструкціями та майстер-класами",
+      "description_en": "Large-scale medieval festival with reconstructions and master classes",
+      "description_de": "Großangelegtes mittelalterliches Festival mit Rekonstruktionen und Meisterkursen"
+    }
+  ],
+
+  "tags": [
+    "castle",
+    "medieval",
+    "lutsk",
+    "volyn",
+    "museum",
+    "architecture",
+    "history",
+    "seven-wonders-ukraine",
+    "200-hryvnia-banknote",
+    "museum-of-bells",
+    "book-museum",
+    "festivals",
+    "tourism"
+  ],
+
+  "suitableFor_uk": [
+    "Любителі історії",
+    "Сімейні подорожі",
+    "Фотографи",
+    "Поціновувачі архітектури",
+    "Шкільні екскурсії",
+    "Любителі музеїв",
+    "Фестивальні туристи"
+  ],
+  "suitableFor_en": [
+    "History enthusiasts",
+    "Family travel",
+    "Photographers",
+    "Architecture lovers",
+    "School excursions",
+    "Museum lovers",
+    "Festival tourists"
+  ],
+  "suitableFor_de": [
+    "Geschichtsinteressierte",
+    "Familienreisen",
+    "Fotografen",
+    "Architekturliebhaber",
+    "Schulausflüge",
+    "Museumsliebhaber",
+    "Festival-Touristen"
+  ],
+
+  "weatherDependent": true,
+  "indoorActivities": true,
+  "outdoorActivities": true,
+
+  "priceRange": "$$",
+  "rating": 4.8,
+  "reviewsCount": 5234,
+  "featured": true,
+  "status": "published",
+
+  "metaDescription_uk": "Луцький замок (Замок Любарта) - переможець 'Сім чудес України'. Середньовічний замок XIV століття з трьома вежами. Музей дзвонів, Музей книги. Зображений на 200 грн.",
+  "metaDescription_en": "Lutsk Castle (Lubart's Castle) - winner of 'Seven Wonders of Ukraine'. Medieval 14th-century castle with three towers. Museum of Bells, Book Museum. Depicted on 200 UAH.",
+  "metaDescription_de": "Schloss Luzk (Lubart-Schloss) - Sieger der 'Sieben Wunder der Ukraine'. Mittelalterliche Burg aus dem 14. Jahrhundert mit drei Türmen. Glockenmuseum, Buchmuseum. Auf 200 UAH abgebildet.",
+
+  "keywords": [
+    "Луцький замок",
+    "Lutsk Castle",
+    "Schloss Luzk",
+    "Замок Любарта",
+    "Lubart's Castle",
+    "castle",
+    "замок",
+    "Луцьк",
+    "Lutsk",
+    "Волинь",
+    "Volyn",
+    "200 гривень",
+    "200 hryvnia",
+    "Сім чудес України",
+    "Seven Wonders of Ukraine",
+    "туризм",
+    "tourism"
+  ],
+
+  "lastUpdated": "2025-11-30",
+  "source": "Wikipedia, Official Tourism Site, Museum Information, Historical Archives",
+  "verified": true
+}

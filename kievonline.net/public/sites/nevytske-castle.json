@@ -1,0 +1,443 @@
+{
+  "id": "nevytske-castle",
+  "slug": "nevytske-castle",
+
+  "name_uk": "Невицький замок",
+  "name_en": "Nevytske Castle",
+  "name_de": "Burg Nevitske",
+
+  "tagline_uk": "Середньовічна фортеця XIII століття біля Ужгорода з романтичними руїнами",
+  "tagline_en": "13th century medieval fortress near Uzhhorod with romantic ruins",
+  "tagline_de": "Mittelalterliche Festung aus dem 13. Jahrhundert bei Uzhhorod mit romantischen Ruinen",
+
+  "category": "castle",
+  "subcategories": ["fortress", "medieval-architecture", "ruins", "historical-monument", "transcarpathia"],
+  "region": "Uzhhorod",
+  "oblast": "Zakarpattia Oblast",
+
+  "description_uk": {
+    "short": "Невицький замок — напівзруйнована фортеця XIII століття поблизу Ужгорода, розташована на вулканічному пагорбі з видом на річку Уж. Один з найстаріших замків Закарпаття.",
+    "full": "Невицький замок — це напівзруйнована середньовічна фортеця, розташована в 12 км на північ від Ужгорода біля сіл Невицьке та Кам'яниця. Замок знаходиться в лісі на пагорбі вулканічного походження з відносною висотою 122 метри, за кілька сотень метрів на схід від дороги та річки Уж.\n\nТаке розташування замку давало йому чудову можливість контролювати Закарпатський шлях через Ужоцький перевал у Бескидах. Замок вперше згадується в 1274 році як власність короля Угорщини Ласло IV, коли він був донжоном (вежею).\n\nПовністю перебудований на початку XV століття, замок, що височить над річкою Уж, був могутньою цитаделлю родини Другетів, яка наглядала за його постійною модернізацією протягом століть. Донжон, перебудований у його нинішній формі на початку XVI століття, переходив з рук в руки під час міжусобиць, що охопили Угорщину на початку XVII століття.\n\nУ 1644 році трансильванський князь Дьордь II Ракоці зруйнував замок, залишивши його приблизно в такому стані, яким він є сьогодні. Зниження оборонного значення місця, а також віддалене та важкодоступне розташування замку зберегли його від повного знищення.\n\nБіля замку розташований Ужгородський військовий навчальний центр. Частини замку (дах донжону, вежа) обвалилися в березні 2019 року, але на початку 2021 року Невицький замок був частково відреставрований. Сьогодні замок є популярною туристичною пам'яткою Закарпаття.",
+    "history": "Історія Невицького замку сягає XIII століття. Вперше він згадується в 1274 році як власність угорського короля Ласло IV. У той час це був простий донжон — оборонна вежа.\n\nНа початку XV століття замок був повністю перебудований та значно зміцнений. Він став резиденцією могутньої родини Другетів, яка володіла замком протягом кількох століть. Другети постійно модернізували фортецю, адаптуючи її до нових військових технологій.\n\nНа початку XVI століття донжон був перебудований у його нинішній формі. Замок мав два поверхи житлової будівлі, три вежі та міцні оборонні стіни з численними бійницями. На захід від замку також були оборонні вали, на кінці яких знаходився старий замок, від якого залишилися лише фрагменти.\n\nУ XVII столітті замок став ареною міжусобних воєн, що охопили Угорщину. Він кілька разів переходив з рук в руки. У 1644 році трансильванський князь Дьордь II Ракоці захопив і зруйнував замок. З того часу він перебуває в руїнах.\n\nПротягом XVIII-XIX століть замок занепадав. Його віддалене розташування та втрата стратегічного значення врятували його від повного демонтажу. У 2019 році частина конструкцій обвалилася, але вже у 2021 році розпочалася часткова реставрація.",
+    "significance": "Невицький замок є одним з найдавніших та найважливіших замків Закарпаття. Він ілюструє еволюцію оборонної архітектури від простого донжону до складної фортеці. Замок відігравав ключову роль у контролі над важливим торговим шляхом через Ужоцький перевал, що з'єднував Закарпаття з іншими регіонами. Сьогодні це цінна туристична пам'ятка та символ середньовічної історії Закарпаття."
+  },
+
+  "description_en": {
+    "short": "Nevytske Castle is a semi-ruined 13th century fortress near Uzhhorod, located on a volcanic hill overlooking the Uzh River. One of the oldest castles in Transcarpathia.",
+    "full": "Nevytske Castle is a semi-ruined medieval fortress located 12 kilometers north of Uzhhorod near the villages Nevytske and Kamianytsia. The castle is located in the woods on a hill of volcanic origin with a relative elevation of 122 meters and a few hundred meters to the east of a road and river that flows along.\n\nThis location of the castle gave it a good opportunity to control the Transcarpathian route over the Uzhok pass in the Bieszczady Mountains. The castle was first mentioned in 1274 belonging to the King of Hungary Laszlo IV as a donjon (keep).\n\nCompletely rebuilt in the early 15th century, the castle, towering over the Uzh River, was the mighty citadel of the Drugeth family which supervised its continuous modernisation over the centuries. The keep, rebuilt in its present form in the early 16th century, passed from hand to hand during the internecine strife that convulsed Hungary in the early 17th century.\n\nIn 1644, Prince of Transylvania George II Rákóczi ruined the castle, leaving it much as it stands today. A decline in defensive importance of the site as well as the remote and inaccessible situation of the castle have preserved it from complete demolition.\n\nNear the site is located an Uzhhorod Military Training Center. Parts of the castle (the roof of the donjon, the keep) collapsed in March 2019. Early 2021 Nevytske Castle was partly reconstructed. Today the castle is a popular tourist monument of Transcarpathia.",
+    "history": "The history of Nevytske Castle dates back to the 13th century. It was first mentioned in 1274 as property of Hungarian King Laszlo IV. At that time it was a simple donjon — a defensive tower.\n\nIn the early 15th century, the castle was completely rebuilt and significantly strengthened. It became the residence of the powerful Drugeth family, who owned the castle for several centuries. The Drugeths constantly modernized the fortress, adapting it to new military technologies.\n\nIn the early 16th century, the donjon was rebuilt in its present form. The castle had a two-story residential building, three towers and strong defensive walls with numerous loopholes. To the west were also defensive ramparts, at the end of which was an old castle, of which only fragments remain.\n\nIn the 17th century, the castle became the arena of internecine wars that engulfed Hungary. It changed hands several times. In 1644, Prince George II Rákóczi of Transylvania captured and ruined the castle. Since then it has remained in ruins.\n\nDuring the 18th-19th centuries the castle was left unattended and decayed. Its remote location and loss of strategic importance saved it from complete dismantlement. In 2019, part of the structures collapsed, but in 2021 partial restoration began.",
+    "significance": "Nevytske Castle is one of the oldest and most important castles in Transcarpathia. It illustrates the evolution of defensive architecture from a simple donjon to a complex fortress. The castle played a key role in controlling the important trade route through the Uzhok pass, connecting Transcarpathia with other regions. Today it is a valuable tourist monument and symbol of Transcarpathia's medieval history."
+  },
+
+  "description_de": {
+    "short": "Die Burg Nevitske ist eine halb verfallene Festung aus dem 13. Jahrhundert bei Uzhhorod, gelegen auf einem vulkanischen Hügel mit Blick auf den Fluss Uzh. Eine der ältesten Burgen in Transkarpatien.",
+    "full": "Die Burg Nevitske ist eine halb verfallene mittelalterliche Festung, die 12 Kilometer nördlich von Uzhhorod in der Nähe der Dörfer Nevytske und Kamianytsia liegt. Die Burg befindet sich im Wald auf einem Hügel vulkanischen Ursprungs mit einer relativen Höhe von 122 Metern.\n\nDiese Lage der Burg gab ihr eine gute Gelegenheit, die transkarpatische Route über den Uzhok-Pass in den Bieszczady-Bergen zu kontrollieren. Die Burg wurde erstmals 1274 erwähnt und gehörte dem König von Ungarn Laszlo IV als Donjon (Bergfried).\n\nIm frühen 15. Jahrhundert vollständig umgebaut, war die Burg, die über dem Fluss Uzh thront, die mächtige Zitadelle der Familie Drugeth, die ihre kontinuierliche Modernisierung über die Jahrhunderte überwachte. Der Bergfried, der Anfang des 16. Jahrhunderts in seiner heutigen Form umgebaut wurde, wechselte während der Bürgerkriege, die Ungarn im frühen 17. Jahrhundert erschütterten, mehrmals den Besitzer.\n\n1644 zerstörte Fürst Georg II. Rákóczi von Siebenbürgen die Burg und hinterließ sie so, wie sie heute steht. Ein Rückgang der Verteidigungsbedeutung des Ortes sowie die abgelegene und schwer zugängliche Lage der Burg haben sie vor der vollständigen Zerstörung bewahrt.\n\nTeile der Burg (das Dach des Donjons, der Bergfried) stürzten im März 2019 ein. Anfang 2021 wurde die Burg Nevitske teilweise rekonstruiert.",
+    "history": "Die Geschichte der Burg Nevitske reicht bis ins 13. Jahrhundert zurück. Sie wurde erstmals 1274 als Eigentum des ungarischen Königs Laszlo IV erwähnt. Zu dieser Zeit war es ein einfacher Donjon — ein Verteidigungsturm.\n\nIm frühen 15. Jahrhundert wurde die Burg vollständig umgebaut und erheblich verstärkt. Sie wurde zur Residenz der mächtigen Familie Drugeth, die die Burg mehrere Jahrhunderte lang besaß.",
+    "significance": "Die Burg Nevitske ist eine der ältesten und wichtigsten Burgen in Transkarpatien. Sie veranschaulicht die Evolution der Verteidigungsarchitektur von einem einfachen Donjon zu einer komplexen Festung."
+  },
+
+  "location": {
+    "city": "Nevytske",
+    "region": "Zakarpattia Oblast",
+    "address_uk": "село Невицьке, Ужгородський район, Закарпатська область, 89412",
+    "address_en": "Nevytske village, Uzhhorod Raion, Zakarpattia Oblast, 89412",
+    "address_de": "Dorf Nevytske, Bezirk Uzhhorod, Oblast Transkarpatien, 89412",
+    "coordinates": {
+      "latitude": 48.68083,
+      "longitude": 22.40917
+    },
+    "directions_uk": {
+      "general": "Розташований в 12 км на північ від Ужгорода біля села Невицьке, на лісистому пагорбі над річкою Уж",
+      "publicTransport": "Автобус з Ужгорода до села Невицьке (маршрут №117), далі пішки 20 хвилин підйомом до замку",
+      "car": "Із Ужгорода по трасі H-13 на північ 12 км, поворот на Невицьке. Парковка біля підніжжя пагорба",
+      "parking": "Безкоштовна парковка біля початку стежки до замку"
+    },
+    "directions_en": {
+      "general": "Located 12 km north of Uzhhorod near Nevytske village, on a forested hill above the Uzh River",
+      "publicTransport": "Bus from Uzhhorod to Nevytske village (route #117), then 20 minutes walk uphill to the castle",
+      "car": "From Uzhhorod via H-13 highway north 12 km, turn to Nevytske. Parking at the foot of the hill",
+      "parking": "Free parking at the start of the trail to the castle"
+    },
+    "directions_de": {
+      "general": "12 km nördlich von Uzhhorod in der Nähe des Dorfes Nevytske gelegen, auf einem bewaldeten Hügel über dem Fluss Uzh",
+      "publicTransport": "Bus von Uzhhorod zum Dorf Nevytske (Route #117), dann 20 Minuten bergauf zum Schloss",
+      "car": "Von Uzhhorod über die Autobahn H-13 nach Norden 12 km, Abzweigung nach Nevytske. Parkplatz am Fuße des Hügels",
+      "parking": "Kostenloser Parkplatz am Anfang des Weges zur Burg"
+    },
+    "nearbyAttractions": [
+      {
+        "name_uk": "Ужгородський замок",
+        "name_en": "Uzhhorod Castle",
+        "distance": "12 km",
+        "type": "castle"
+      },
+      {
+        "name_uk": "Музей народної архітектури та побуту",
+        "name_en": "Museum of Folk Architecture and Life",
+        "distance": "15 km",
+        "type": "museum"
+      },
+      {
+        "name_uk": "Липова алея в Ужгороді",
+        "name_en": "Linden Alley in Uzhhorod",
+        "distance": "12 km",
+        "type": "nature"
+      },
+      {
+        "name_uk": "Міні-Закарпаття",
+        "name_en": "Mini-Transcarpathia Park",
+        "distance": "13 km",
+        "type": "park"
+      }
+    ]
+  },
+
+  "contact": {
+    "phone": "+380 3122 3-14-81",
+    "email": "nevytske.castle@ukr.net",
+    "website": "https://zamky.te.ua",
+    "bookingUrl": null,
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/nevytskecastle",
+      "instagram": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+
+  "visitingInformation": {
+    "openingTimes": {
+      "status_uk": "Відкрито цілий рік",
+      "status_en": "Open year-round",
+      "status_de": "Ganzjährig geöffnet",
+      "seasonal": [
+        {
+          "season_uk": "Квітень - Жовтень",
+          "season_en": "April - October",
+          "season_de": "April - Oktober",
+          "days_uk": "Щодня",
+          "days_en": "Daily",
+          "days_de": "Täglich",
+          "hours": "08:00 - 20:00",
+          "lastAdmission": "19:30"
+        },
+        {
+          "season_uk": "Листопад - Березень",
+          "season_en": "November - March",
+          "season_de": "November - März",
+          "days_uk": "Щодня",
+          "days_en": "Daily",
+          "days_de": "Täglich",
+          "hours": "09:00 - 17:00",
+          "lastAdmission": "16:30"
+        }
+      ]
+    },
+    "admissionPrices": {
+      "currency": "UAH",
+      "adult": 80,
+      "student": 40,
+      "child": 30,
+      "senior": 40,
+      "family": null,
+      "notes_uk": "Діти до 7 років - безкоштовно. Знижка для груп від 10 осіб - 20%",
+      "notes_en": "Children under 7 - free. Group discount (10+ people) - 20%",
+      "notes_de": "Kinder unter 7 Jahren - kostenlos. Gruppenrabatt (10+ Personen) - 20%"
+    },
+    "tourOptions": [
+      {
+        "type_uk": "Самостійний огляд",
+        "type_en": "Self-guided tour",
+        "type_de": "Selbstgeführte Tour",
+        "duration_uk": "1 година",
+        "duration_en": "1 hour",
+        "duration_de": "1 Stunde",
+        "price": 0
+      },
+      {
+        "type_uk": "Екскурсія з гідом українською",
+        "type_en": "Guided tour in Ukrainian",
+        "type_de": "Führung auf Ukrainisch",
+        "duration_uk": "1.5 години",
+        "duration_en": "1.5 hours",
+        "duration_de": "1,5 Stunden",
+        "price": 400,
+        "groupSize": "до 20 осіб / up to 20 people / bis 20 Personen"
+      },
+      {
+        "type_uk": "Нічна екскурсія з легендами",
+        "type_en": "Night tour with legends",
+        "type_de": "Nachtführung mit Legenden",
+        "duration_uk": "2 години",
+        "duration_en": "2 hours",
+        "duration_de": "2 Stunden",
+        "price": 600,
+        "groupSize": "до 15 осіб / up to 15 people / bis 15 Personen",
+        "availability": "Травень-Вересень / May-September / Mai-September"
+      }
+    ],
+    "averageVisitDuration_uk": "1.5 години",
+    "averageVisitDuration_en": "1.5 hours",
+    "averageVisitDuration_de": "1,5 Stunden",
+    "busyPeriods_uk": ["Травень-вересень", "Вихідні дні", "Свята", "Липень-серпень (піковий сезон)"],
+    "busyPeriods_en": ["May-September", "Weekends", "Holidays", "July-August (peak season)"],
+    "busyPeriods_de": ["Mai-September", "Wochenenden", "Feiertage", "Juli-August (Hochsaison)"],
+    "adviceForVisitors_uk": "Взуйте зручне взуття для підйому по гірській стежці (150 м вгору). Візьміть воду, особливо влітку. Будьте обережні біля руїн - деякі ділянки нестабільні. Найкраще відвідувати вранці або на заході сонця. Можна поєднати з відвідуванням Ужгородського замку. Влітку беріть захист від комах.",
+    "adviceForVisitors_en": "Wear comfortable shoes for mountain trail climb (150m elevation). Bring water, especially in summer. Be careful near ruins - some areas are unstable. Best to visit in morning or at sunset. Can be combined with visit to Uzhhorod Castle. In summer bring insect repellent.",
+    "adviceForVisitors_de": "Tragen Sie bequeme Schuhe für den Bergpfad (150 m Höhenunterschied). Bringen Sie Wasser mit, besonders im Sommer. Seien Sie vorsichtig in der Nähe von Ruinen - einige Bereiche sind instabil. Am besten morgens oder bei Sonnenuntergang besuchen."
+  },
+
+  "features": {
+    "highlights_uk": [
+      "Один з найстаріших замків Закарпаття (XIII ст.)",
+      "Розташування на вулканічному пагорбі",
+      "Донжон (головна вежа) початку XVI століття",
+      "Частково відреставрований у 2021 році",
+      "Панорамні види на Карпати та долину річки Уж",
+      "Романтичні руїни в лісовому масиві",
+      "Легенди про привиди та скарби"
+    ],
+    "highlights_en": [
+      "One of the oldest castles in Transcarpathia (13th c.)",
+      "Location on a volcanic hill",
+      "Early 16th century donjon (main tower)",
+      "Partially restored in 2021",
+      "Panoramic views of Carpathians and Uzh River valley",
+      "Romantic ruins in forested area",
+      "Legends of ghosts and treasures"
+    ],
+    "highlights_de": [
+      "Eine der ältesten Burgen in Transkarpatien (13. Jh.)",
+      "Lage auf einem vulkanischen Hügel",
+      "Donjon aus dem frühen 16. Jahrhundert (Hauptturm)",
+      "2021 teilweise restauriert",
+      "Panoramablick auf die Karpaten und das Uzh-Tal",
+      "Romantische Ruinen im Waldgebiet",
+      "Legenden von Geistern und Schätzen"
+    ],
+    "facilities_uk": ["Гірська стежка", "Інформаційні таблички", "Оглядові майданчики", "Місця для відпочинку"],
+    "facilities_en": ["Mountain trail", "Information boards", "Viewing platforms", "Rest areas"],
+    "facilities_de": ["Bergweg", "Informationstafeln", "Aussichtsplattformen", "Ruhebereiche"],
+    "accessibility": {
+      "wheelchairAccessible": false,
+      "notes_uk": "Замок недоступний для інвалідних візків через крутий підйом по гірській стежці (висота 122 м). Потрібна хороша фізична форма. Нерівна поверхня, кам'яні сходи.",
+      "notes_en": "The castle is not wheelchair accessible due to steep mountain trail climb (122m elevation). Good physical fitness required. Uneven surfaces, stone steps.",
+      "notes_de": "Die Burg ist nicht rollstuhlgerecht aufgrund des steilen Bergpfadaufstiegs (122 m Höhe). Gute körperliche Fitness erforderlich. Unebene Oberflächen, Steinstufen."
+    },
+    "uniqueSellingPoints_uk": [
+      "Найстаріший замок Закарпаття з документальним підтвердженням (1274)",
+      "Унікальне розташування на вулканічному пагорбі",
+      "Контролював важливий торговий шлях через Ужоцький перевал",
+      "Родинна резиденція могутніх Другетів",
+      "Місце зйомок фільмів та фотосесій",
+      "Атмосферні руїни в оточенні Карпатських лісів"
+    ],
+    "uniqueSellingPoints_en": [
+      "Oldest documented castle in Transcarpathia (1274)",
+      "Unique location on volcanic hill",
+      "Controlled important trade route through Uzhok pass",
+      "Family residence of the powerful Drugeths",
+      "Film shooting location and photoshoot venue",
+      "Atmospheric ruins surrounded by Carpathian forests"
+    ],
+    "uniqueSellingPoints_de": [
+      "Älteste dokumentierte Burg in Transkarpatien (1274)",
+      "Einzigartige Lage auf vulkanischem Hügel",
+      "Kontrollierte wichtige Handelsroute durch Uzhok-Pass",
+      "Familienresidenz der mächtigen Drugeths",
+      "Drehort für Filme und Fotoshootings",
+      "Atmosphärische Ruinen umgeben von Karpatenwäldern"
+    ]
+  },
+
+  "images": {
+    "heroImage": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/%D0%97%D0%B0%D1%85%D1%96%D0%B4_%D0%BD%D0%B0_%D0%9D%D0%B5%D0%B2%D0%B8%D1%86%D1%8C%D0%BA%D0%BE%D0%BC%D1%83_%D0%B7%D0%B0%D0%BC%D0%BA%D1%83.jpg",
+      "alt_uk": "Вхід до Невицького замку",
+      "alt_en": "Entrance to Nevytske Castle",
+      "alt_de": "Eingang zur Burg Nevitske",
+      "caption_uk": "Невицький замок на лісистому пагорбі над річкою Уж",
+      "caption_en": "Nevytske Castle on a forested hill above the Uzh River",
+      "caption_de": "Burg Nevitske auf einem bewaldeten Hügel über dem Fluss Uzh"
+    },
+    "gallery": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Nevytsky_zamok_10012021.jpg",
+        "alt_uk": "Відреставрована вежа донжону",
+        "alt_en": "Reconstructed donjon tower",
+        "alt_de": "Rekonstruierter Donjon-Turm",
+        "caption_uk": "Недавно відреставрована вежа (2021), дах донжону обвалився у 2019 році"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/%D0%9D%D0%B5%D0%B2%D0%B8%D1%86%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA_%2810%29.jpg",
+        "alt_uk": "Інтер'єр замку",
+        "alt_en": "Castle interior",
+        "alt_de": "Schlossinneres",
+        "caption_uk": "Внутрішній двір Невицького замку"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Panorama_of_Nevytsky_Castle.jpg",
+        "alt_uk": "Панорама замку",
+        "alt_en": "Panorama of castle",
+        "alt_de": "Panorama der Burg",
+        "caption_uk": "Панорамний вид на Невицький замок"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/%D0%9D%D0%B5%D0%B2%D0%B8%D1%86%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA_2.jpg",
+        "alt_uk": "Оборонні стіни",
+        "alt_en": "Defensive walls",
+        "alt_de": "Verteidigungsmauern",
+        "caption_uk": "Залишки оборонних стін замку"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Uzh_river_small-hydro.jpg",
+        "alt_uk": "Вид з замку на річку Уж",
+        "alt_en": "View from castle to Uzh river",
+        "alt_de": "Blick von der Burg auf den Fluss Uzh",
+        "caption_uk": "Невелика дамба на річці Уж, вид із замку"
+      }
+    ]
+  },
+
+  "historicalData": {
+    "yearBuilt": "1274 (first mention), rebuilt early 15th century",
+    "yearBuiltNote_uk": "Вперше згадується у 1274 році, повністю перебудований на початку XV століття",
+    "yearBuiltNote_en": "First mentioned in 1274, completely rebuilt in early 15th century",
+    "yearBuiltNote_de": "Erstmals 1274 erwähnt, im frühen 15. Jahrhundert vollständig umgebaut",
+    "architecturalStyle_uk": "Середньовічна готична архітектура, оборонна фортеця",
+    "architecturalStyle_en": "Medieval Gothic architecture, defensive fortress",
+    "architecturalStyle_de": "Mittelalterliche gotische Architektur, Verteidigungsfestung",
+    "architects": [
+      {
+        "name": "Король Ласло IV / King Laszlo IV / König Laszlo IV",
+        "period": "XIII ст. / 13th c. / 13. Jh.",
+        "contribution_uk": "Будівництво першого донжону",
+        "contribution_en": "Construction of the first donjon",
+        "contribution_de": "Bau des ersten Donjons"
+      },
+      {
+        "name": "Родина Другетів / Drugeth family / Familie Drugeth",
+        "period": "XV-XVII ст. / 15th-17th c. / 15.-17. Jh.",
+        "contribution_uk": "Перебудова та модернізація замку протягом століть",
+        "contribution_en": "Reconstruction and modernization of the castle over centuries",
+        "contribution_de": "Umbau und Modernisierung der Burg über Jahrhunderte"
+      }
+    ],
+    "unescoStatus": "none",
+    "unescoYear": null,
+    "nationalHeritageStatus": "Cultural Monument of National Significance",
+    "referenceNumber": null,
+    "managedBy_uk": "Закарпатський обласний краєзнавчий музей",
+    "managedBy_en": "Transcarpathian Regional Museum",
+    "managedBy_de": "Transkarpatisches Regionalmuseum"
+  },
+
+  "culturalEvents": [
+    {
+      "name_uk": "Фестиваль середньовічної культури 'Невицький замок'",
+      "name_en": "Medieval Culture Festival 'Nevytske Castle'",
+      "name_de": "Mittelalterliches Kulturfestival 'Burg Nevitske'",
+      "period_uk": "Червень (щорічно)",
+      "period_en": "June (annually)",
+      "period_de": "Juni (jährlich)",
+      "description_uk": "Лицарські турніри, історичні реконструкції, майстер-класи з середньовічних ремесел, концерти старовинної музики",
+      "description_en": "Knight tournaments, historical reenactments, medieval crafts workshops, ancient music concerts",
+      "description_de": "Ritterturniere, historische Nachstellungen, mittelalterliche Handwerksworkshops, Konzerte alter Musik"
+    },
+    {
+      "name_uk": "Нічні екскурсії з легендами",
+      "name_en": "Night tours with legends",
+      "name_de": "Nachtführungen mit Legenden",
+      "period_uk": "Травень-Вересень (за попереднім записом)",
+      "period_en": "May-September (by appointment)",
+      "period_de": "Mai-September (nach Vereinbarung)",
+      "description_uk": "Театралізовані екскурсії у вечірній час з розповідями про привидів та легенди замку",
+      "description_en": "Theatrical evening tours with ghost stories and castle legends",
+      "description_de": "Theatralische Abendführungen mit Geistergeschichten und Burgenlegenden"
+    }
+  ],
+
+  "tags": [
+    "castle",
+    "fortress",
+    "medieval",
+    "ruins",
+    "gothic",
+    "transcarpathia",
+    "zakarpattia",
+    "uzhhorod",
+    "drugeth",
+    "13th-century",
+    "volcanic-hill",
+    "uzh-river",
+    "carpathians",
+    "tourism",
+    "history"
+  ],
+
+  "suitableFor_uk": [
+    "Любителі історії та середньовіччя",
+    "Фотографи",
+    "Походники та туристи",
+    "Пари (романтичне місце)",
+    "Сімейні подорожі з підлітками",
+    "Професійні фотосесії",
+    "Любителі легенд та містики"
+  ],
+  "suitableFor_en": [
+    "History and medieval enthusiasts",
+    "Photographers",
+    "Hikers and tourists",
+    "Couples (romantic location)",
+    "Family trips with teenagers",
+    "Professional photoshoots",
+    "Fans of legends and mysticism"
+  ],
+  "suitableFor_de": [
+    "Geschichts- und Mittelalterbegeisterte",
+    "Fotografen",
+    "Wanderer und Touristen",
+    "Paare (romantischer Ort)",
+    "Familienreisen mit Teenagern",
+    "Professionelle Fotoshootings",
+    "Liebhaber von Legenden und Mystik"
+  ],
+
+  "weatherDependent": true,
+  "indoorActivities": false,
+  "outdoorActivities": true,
+
+  "priceRange": "$",
+  "rating": 4.5,
+  "reviewsCount": 432,
+  "featured": true,
+  "status": "published",
+
+  "metaDescription_uk": "Невицький замок - середньовічна фортеця XIII століття біля Ужгорода на вулканічному пагорбі. Один з найстаріших замків Закарпаття. Панорамні види на Карпати.",
+  "metaDescription_en": "Nevytske Castle - 13th century medieval fortress near Uzhhorod on a volcanic hill. One of the oldest castles in Transcarpathia. Panoramic Carpathian views.",
+  "metaDescription_de": "Burg Nevitske - mittelalterliche Festung aus dem 13. Jahrhundert bei Uzhhorod auf einem vulkanischen Hügel. Eine der ältesten Burgen in Transkarpatien.",
+
+  "keywords": [
+    "Невицький замок",
+    "Nevytske Castle",
+    "Burg Nevitske",
+    "Закарпаття",
+    "Transcarpathia",
+    "Ужгород",
+    "Uzhhorod",
+    "замок",
+    "castle",
+    "Другети",
+    "Drugeth",
+    "середньовіччя",
+    "medieval",
+    "руїни",
+    "ruins",
+    "Карпати",
+    "Carpathians"
+  ],
+
+  "lastUpdated": "2025-11-30",
+  "source": "Wikipedia, RBK Ukraine, Transcarpathian Tourism Sites",
+  "verified": true
+}

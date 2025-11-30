@@ -1,0 +1,437 @@
+{
+  "id": "khotyn-fortress",
+  "slug": "khotyn-fortress",
+  "name_uk": "Хотинська фортеця",
+  "name_en": "Khotyn Fortress",
+  "name_de": "Festung Chotyn",
+
+  "tagline_uk": "Могутня фортеця над Дністром - свідок Хотинської війни та епохи козацької слави",
+  "tagline_en": "Mighty fortress on the Dniester - witness to the Khotyn War and the era of Cossack glory",
+  "tagline_de": "Mächtige Festung am Dnjestr - Zeuge des Chotiner Krieges und der Kosaken-Ära",
+
+  "category": "castle",
+  "subcategories": ["fortress", "medieval-architecture", "historical-monument", "museum"],
+  "region": "Khotyn",
+  "oblast": "Chernivtsi Oblast",
+
+  "description_uk": {
+    "short": "Хотинська фортеця - один із найбільших і найдавніших оборонних комплексів України, розташований на високому скелястому березі Дністра. Заснована у X столітті, фортеця понад тисячу років була свідком найважливіших історичних подій, включаючи легендарну Хотинську війну 1621 року.",
+    "full": "Хотинська фортеця - унікальна пам'ятка оборонної архітектури XIII-XVIII століть, що поєднує різні архітектурні стилі та епохи. Розташована на високому скелястому мисі над Дністром, фортеця займає стратегічно важливе положення, контролюючи переправу через ріку та торговельні шляхи між Європою та Азією.\n\nФортечний комплекс складається з Старого та Нового замків, оточених потужними оборонними стінами та вежами. Загальна площа становить понад 6 гектарів, а периметр стін сягає близько 2 кілометрів. Висота стін досягає 40 метрів, а товщина - до 5 метрів. Збереглося більшість із 34 веж, кожна з яких мала свою оборонну функцію.\n\nПротягом століть фортеця неодноразово перебудовувалася та розширювалася. Найдавніша частина - цитадель XIII століття, побудована за часів Галицько-Волинського князівства. У XV столітті молдавський господар Стефан Великий провів масштабну реконструкцію, зміцнивши стіни та додавши нові башти. Турецький період (1711-1812) залишив свій відбиток в архітектурі - мечеть, мінарет та османські прикраси.\n\nНайславетнішою подією в історії фортеці стала Хотинська війна 1621 року, коли об'єднані війська Речі Посполитої та Запорозької Січі під проводом гетьмана Петра Сагайдачного героїчно відбили напад 160-тисячної турецької армії султана Османа II. Ця перемога увійшла в історію як один із найбільших тріумфів козацької зброї.",
+    "history": "Перші укріплення на місці сучасної Хотинської фортеці з'явилися ще у X столітті за часів Київської Русі. Археологічні дослідження підтверджують, що тут існувало дерев'яно-земляне городище, яке захищало переправу через Дністер.\n\nУ XIII столітті, після монгольської навали, князь Данило Романович почав будівництво кам'яної фортеці для оборони західних рубежів Галицько-Волинського князівства. Саме з цього часу починається історія кам'яної Хотинської фортеці. У XIV-XV століттях фортеця входила до складу Молдавського князівства.\n\nМолдавський господар Стефан III Великий (1457-1504) провів масштабну модернізацію фортеці у 60-70-х роках XV століття. Він збудував потужні стіни товщиною 5 метрів і висотою до 40 метрів, прикрасивши їх орнаментами з червоної цегли - зображеннями \"Вавилону\" (символ мудрості) та \"Голгофи\" (християнська святиня).\n\nНайславетнішою сторінкою історії фортеці стала Хотинська війна 1621 року. У вересні 160-тисячна турецька армія султана Османа II з 300 гарматами та допоміжними військами кримського хана облягла фортецю. Їй протистояла 32-тисячна польсько-литовська армія та 39-тисячне військо запорозьких козаків на чолі з гетьманом Петром Конашевичем-Сагайдачним. Після двох місяців жорстоких боїв турки були змушені відступити, підписавши мирну угоду 9 жовтня 1621 року.\n\nУ 1672 році, після взяття Кам'янця-Подільського, фортецю зайняв турецький гарнізон на чолі з Хусейн-пашею. Однак уже в 1673 році польсько-литовсько-козацьке військо під проводом Яна Собеського звільнило фортецю. У 1711 році, після невдалого Прутського походу Петра I, фортеця знову перейшла під турецький контроль і залишалася у складі Османської імперії до 1812 року.\n\nПісля Бухарестського мирного договору 1812 року фортеця увійшла до складу Російської імперії. У 1856 році вона втратила військове значення і була переобладнана під в'язницю. У 1928 році Хотинську фортецю було оголошено історико-культурним заповідником.",
+    "significance": "Хотинська фортеця є унікальною пам'яткою оборонної архітектури, що зберігає автентичні споруди XIII-XVIII століть. Це один із найбільш добре збережених середньовічних замків України. Фортеця демонструє еволюцію фортифікаційного мистецтва від Середньовіччя до Нового часу, поєднуючи молдавські, турецькі та російські архітектурні традиції. У 2007 році Хотинська фортеця стала переможцем Всеукраїнської акції \"Сім чудес України: замки, фортеці, палаци\". Фортеця є популярним місцем зйомок історичних фільмів, включаючи \"Захар Беркут\", \"Три мушкетери\", \"Стріли Робінгуда\", \"Д'Артаньян та три мушкетери\" та багато інших."
+  },
+
+  "description_en": {
+    "short": "Khotyn Fortress is one of the largest and oldest defensive complexes in Ukraine, located on a high rocky bank of the Dniester River. Founded in the 10th century, for over a thousand years the fortress has witnessed the most important historical events, including the legendary Khotyn War of 1621.",
+    "full": "Khotyn Fortress is a unique monument of defensive architecture from the 13th-18th centuries, combining various architectural styles and epochs. Situated on a high rocky promontory above the Dniester, the fortress occupies a strategically important position, controlling the river crossing and trade routes between Europe and Asia.\n\nThe fortress complex consists of the Old and New Castles, surrounded by powerful defensive walls and towers. The total area exceeds 6 hectares, with a wall perimeter of about 2 kilometers. The walls reach up to 40 meters in height and up to 5 meters in thickness. Most of the 34 towers have been preserved, each serving its own defensive function.\n\nOver the centuries, the fortress was repeatedly rebuilt and expanded. The oldest part is the 13th-century citadel, built during the Galicia-Volhynia principality. In the 15th century, Moldavian ruler Stephen the Great conducted large-scale reconstruction, strengthening the walls and adding new towers. The Turkish period (1711-1812) left its mark on the architecture - a mosque, minaret, and Ottoman decorations.\n\nThe most glorious event in the fortress's history was the Khotyn War of 1621, when the united forces of the Polish-Lithuanian Commonwealth and the Zaporozhian Sich, led by Hetman Petro Konashevych-Sahaidachny, heroically repelled an attack by a 160,000-strong Turkish army of Sultan Osman II. This victory went down in history as one of the greatest triumphs of Cossack arms.",
+    "history": "The first fortifications on the site of modern Khotyn Fortress appeared in the 10th century during Kievan Rus'. Archaeological research confirms that a wooden-earthen hillfort existed here, protecting the crossing over the Dniester.\n\nIn the 13th century, after the Mongol invasion, Prince Danylo Romanovych began construction of a stone fortress to defend the western borders of the Galicia-Volhynia principality. This marks the beginning of the stone Khotyn Fortress. In the 14th-15th centuries, the fortress was part of the Moldavian principality.\n\nMoldavian ruler Stephen III the Great (1457-1504) carried out large-scale modernization of the fortress in the 1460s-1470s. He built powerful walls 5 meters thick and up to 40 meters high, decorating them with red brick ornaments - images of \"Babylon\" (symbol of wisdom) and \"Golgotha\" (Christian shrine).\n\nThe most glorious page in the fortress's history was the Khotyn War of 1621. In September, a 160,000-strong Turkish army of Sultan Osman II, with 300 cannons and auxiliary troops of the Crimean Khan, besieged the fortress. It was opposed by a 32,000-strong Polish-Lithuanian army and a 39,000-strong Zaporozhian Cossack army led by Hetman Petro Konashevych-Sahaidachny. After two months of fierce battles, the Turks were forced to retreat, signing a peace agreement on October 9, 1621.\n\nIn 1672, after the capture of Kamianets-Podilskyi, the fortress was occupied by a Turkish garrison led by Hussein Pasha. However, in 1673, the Polish-Lithuanian-Cossack army under Jan Sobieski liberated the fortress. In 1711, after Peter I's unsuccessful Prut campaign, the fortress again came under Turkish control and remained part of the Ottoman Empire until 1812.\n\nAfter the Treaty of Bucharest in 1812, the fortress became part of the Russian Empire. In 1856, it lost its military significance and was converted into a prison. In 1928, Khotyn Fortress was declared a historical-cultural preserve.",
+    "significance": "Khotyn Fortress is a unique monument of defensive architecture preserving authentic structures from the 13th-18th centuries. It is one of the best-preserved medieval castles in Ukraine. The fortress demonstrates the evolution of fortification art from the Middle Ages to modern times, combining Moldavian, Turkish and Russian architectural traditions. In 2007, Khotyn Fortress became the winner of the All-Ukrainian action \"Seven Wonders of Ukraine: castles, fortresses, palaces\". The fortress is a popular filming location for historical movies, including \"Zakhar Berkut\", \"The Three Musketeers\", \"Arrows of Robin Hood\", \"D'Artagnan and Three Musketeers\" and many others."
+  },
+
+  "description_de": {
+    "short": "Die Festung Chotyn ist eine der größten und ältesten Verteidigungsanlagen der Ukraine am hohen felsigen Ufer des Dnjestr. Im 10. Jahrhundert gegründet, war die Festung über tausend Jahre Zeuge der wichtigsten historischen Ereignisse, einschließlich des legendären Chotiner Krieges von 1621.",
+    "full": "Die Festung Chotyn ist ein einzigartiges Denkmal der Verteidigungsarchitektur aus dem 13.-18. Jahrhundert, das verschiedene architektonische Stile und Epochen vereint. Auf einem hohen felsigen Vorsprung über dem Dnjestr gelegen, nimmt die Festung eine strategisch wichtige Position ein und kontrolliert den Flussübergang und Handelsrouten zwischen Europa und Asien.\n\nDer Festungskomplex besteht aus der Alten und Neuen Burg, umgeben von mächtigen Verteidigungsmauern und Türmen. Die Gesamtfläche übersteigt 6 Hektar, mit einem Mauerumfang von etwa 2 Kilometern. Die Mauern erreichen bis zu 40 Meter Höhe und bis zu 5 Meter Dicke. Die meisten der 34 Türme sind erhalten geblieben, jeder mit seiner eigenen Verteidigungsfunktion.\n\nDas ruhmreichste Ereignis in der Geschichte der Festung war der Chotiner Krieg von 1621, als die vereinigten Streitkräfte des polnisch-litauischen Reiches und der Saporoger Sitsch unter Hetman Petro Konaschewytsch-Sahajdatschnyj einen Angriff der 160.000 Mann starken türkischen Armee von Sultan Osman II. heroisch abwehrten.",
+    "history": "Die ersten Befestigungen an der Stelle der modernen Festung Chotyn erschienen im 10. Jahrhundert während der Kiewer Rus. Archäologische Forschungen bestätigen, dass hier eine Holz-Erde-Festung existierte, die den Übergang über den Dnjestr schützte. Im 13. Jahrhundert, nach der Mongoleninvasion, begann Fürst Danylo Romanovych mit dem Bau einer Steinfestung zur Verteidigung der westlichen Grenzen des Fürstentums Galizien-Wolhynien.",
+    "significance": "Die Festung Chotyn ist ein einzigartiges Denkmal der Verteidigungsarchitektur, das authentische Strukturen aus dem 13.-18. Jahrhundert bewahrt. Sie ist eine der am besten erhaltenen mittelalterlichen Burgen der Ukraine. 2007 wurde die Festung Chotyn Siegerin der gesamtukrainischen Aktion \"Sieben Wunder der Ukraine: Burgen, Festungen, Paläste\"."
+  },
+
+  "location": {
+    "city": "Khotyn",
+    "region": "Chernivtsi Oblast",
+    "address_uk": "вул. Незалежності, 32, м. Хотин, Чернівецька область, 60000",
+    "address_en": "32 Nezalezhnosti Street, Khotyn, Chernivtsi Oblast, 60000",
+    "address_de": "Nesaleschnosti-Straße 32, Chotyn, Oblast Tscherniwzi, 60000",
+    "coordinates": {
+      "latitude": 48.50583,
+      "longitude": 26.49333
+    },
+    "directions_uk": {
+      "general": "Розташована в центрі міста Хотин на березі Дністра",
+      "publicTransport": "З Чернівців автобусом або маршруткою до Хотина (2,5 години), далі пішки 10 хвилин до фортеці",
+      "car": "З Чернівців - 65 км по трасі Н03 (близько 1,5 години). З Кам'янця-Подільського - 35 км по трасі Р51 (близько 45 хвилин)",
+      "parking": "Безкоштовна парковка біля входу у фортецю"
+    },
+    "directions_en": {
+      "general": "Located in the center of Khotyn town on the Dniester bank",
+      "publicTransport": "From Chernivtsi by bus or minibus to Khotyn (2.5 hours), then 10 minutes walk to the fortress",
+      "car": "From Chernivtsi - 65 km via H03 highway (about 1.5 hours). From Kamianets-Podilskyi - 35 km via P51 road (about 45 minutes)",
+      "parking": "Free parking near the fortress entrance"
+    },
+    "directions_de": {
+      "general": "Im Zentrum der Stadt Chotyn am Dnjestr-Ufer gelegen",
+      "publicTransport": "Von Czernowitz mit Bus oder Minibus nach Chotyn (2,5 Stunden), dann 10 Minuten zu Fuß zur Festung",
+      "car": "Von Czernowitz - 65 km über die H03 (ca. 1,5 Stunden). Von Kamjanez-Podilskyj - 35 km über die P51 (ca. 45 Minuten)",
+      "parking": "Kostenloser Parkplatz am Eingang der Festung"
+    },
+    "nearbyAttractions": [
+      {
+        "name_uk": "Дністровський каньйон",
+        "name_en": "Dniester Canyon",
+        "distance": "1 km",
+        "type": "natural-monument"
+      },
+      {
+        "name_uk": "Кам'янець-Подільська фортеця",
+        "name_en": "Kamianets-Podilskyi Fortress",
+        "distance": "35 km",
+        "type": "castle"
+      },
+      {
+        "name_uk": "Бакота",
+        "name_en": "Bakota",
+        "distance": "25 km",
+        "type": "monastery-ruins"
+      }
+    ]
+  },
+
+  "contact": {
+    "phone": "+380 3731 2-29-32",
+    "email": "diaz-khotyn@ukr.net",
+    "website": "https://khotynska-fortecya.cv.ua",
+    "bookingUrl": null,
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/khotynfortress/",
+      "instagram": "https://www.instagram.com/khotyn_fortress/",
+      "youtube": null
+    }
+  },
+
+  "visitingInformation": {
+    "openingTimes": {
+      "status_uk": "Відкрито цілий рік",
+      "status_en": "Open year-round",
+      "status_de": "Ganzjährig geöffnet",
+      "seasonal": [
+        {
+          "season_uk": "Квітень - Вересень",
+          "season_en": "April - September",
+          "season_de": "April - September",
+          "days_uk": "Щодня",
+          "days_en": "Daily",
+          "days_de": "Täglich",
+          "hours": "09:00 - 18:00",
+          "lastAdmission": "17:30"
+        },
+        {
+          "season_uk": "Жовтень - Березень",
+          "season_en": "October - March",
+          "season_de": "Oktober - März",
+          "days_uk": "Щодня",
+          "days_en": "Daily",
+          "days_de": "Täglich",
+          "hours": "09:00 - 17:00",
+          "lastAdmission": "16:30"
+        }
+      ]
+    },
+    "admissionPrices": {
+      "currency": "UAH",
+      "adult": 100,
+      "student": 50,
+      "child": 50,
+      "senior": 50,
+      "family": null,
+      "notes_uk": "Діти дошкільного віку - безкоштовно. Пільгові категорії - 50 грн. Екскурсія українською - 350 грн (група до 20 осіб)",
+      "notes_en": "Preschool children - free. Privileged categories - 50 UAH. Guided tour in Ukrainian - 350 UAH (group up to 20 people)",
+      "notes_de": "Vorschulkinder - kostenlos. Ermäßigte Kategorien - 50 UAH. Führung auf Ukrainisch - 350 UAH (Gruppe bis 20 Personen)"
+    },
+    "tourOptions": [
+      {
+        "type_uk": "Самостійний огляд",
+        "type_en": "Self-guided tour",
+        "type_de": "Selbstgeführte Tour",
+        "duration_uk": "1,5-2 години",
+        "duration_en": "1.5-2 hours",
+        "duration_de": "1,5-2 Stunden",
+        "price": 0
+      },
+      {
+        "type_uk": "Екскурсія з гідом (дорослі)",
+        "type_en": "Guided tour (adults)",
+        "type_de": "Führung (Erwachsene)",
+        "duration_uk": "1,5 години",
+        "duration_en": "1.5 hours",
+        "duration_de": "1,5 Stunden",
+        "price": 350,
+        "groupSize": "до 20 осіб / up to 20 people / bis 20 Personen"
+      },
+      {
+        "type_uk": "Екскурсія з гідом (діти)",
+        "type_en": "Guided tour (children)",
+        "type_de": "Führung (Kinder)",
+        "duration_uk": "1,5 години",
+        "duration_en": "1.5 hours",
+        "duration_de": "1,5 Stunden",
+        "price": 200,
+        "groupSize": "до 20 осіб / up to 20 people / bis 20 Personen"
+      }
+    ],
+    "averageVisitDuration_uk": "2-3 години",
+    "averageVisitDuration_en": "2-3 hours",
+    "averageVisitDuration_de": "2-3 Stunden",
+    "busyPeriods_uk": ["Літні місяці (червень-серпень)", "Вихідні дні", "Свята", "Середньовічний фестиваль (серпень)"],
+    "busyPeriods_en": ["Summer months (June-August)", "Weekends", "Holidays", "Medieval Festival (August)"],
+    "busyPeriods_de": ["Sommermonate (Juni-August)", "Wochenenden", "Feiertage", "Mittelalterliches Festival (August)"],
+    "adviceForVisitors_uk": "Взуйте зручне взуття для ходіння по нерівній поверхні та сходах. Візьміть воду та головний убір влітку. Рекомендуємо відвідати фортецю вранці або ввечері для кращого освітлення для фото. У серпні проходить середньовічний фестиваль.",
+    "adviceForVisitors_en": "Wear comfortable shoes for walking on uneven surfaces and stairs. Bring water and a hat in summer. We recommend visiting the fortress in the morning or evening for better lighting for photos. In August, a medieval festival takes place.",
+    "adviceForVisitors_de": "Tragen Sie bequeme Schuhe zum Gehen auf unebenem Gelände und Treppen. Bringen Sie im Sommer Wasser und eine Kopfbedeckung mit. Wir empfehlen, die Festung morgens oder abends für besseres Fotolicht zu besuchen. Im August findet ein mittelalterliches Festival statt."
+  },
+
+  "features": {
+    "highlights_uk": [
+      "34 оборонні вежі різних епох",
+      "Панорамні види на каньйон Дністра",
+      "Місце легендарної Хотинської війни 1621 року",
+      "Музейні експозиції зброї та археологічних знахідок",
+      "Автентична османська архітектура XVIII століття",
+      "Підземні галереї та казема",
+      "Один із Семи чудес України",
+      "Популярне місце зйомок історичних фільмів"
+    ],
+    "highlights_en": [
+      "34 defensive towers from different eras",
+      "Panoramic views of the Dniester Canyon",
+      "Site of the legendary Khotyn War of 1621",
+      "Museum exhibitions of weapons and archaeological finds",
+      "Authentic Ottoman architecture from the 18th century",
+      "Underground galleries and casemates",
+      "One of the Seven Wonders of Ukraine",
+      "Popular filming location for historical movies"
+    ],
+    "highlights_de": [
+      "34 Verteidigungstürme aus verschiedenen Epochen",
+      "Panoramablick auf die Dnjestr-Schlucht",
+      "Schauplatz des legendären Chotiner Krieges von 1621",
+      "Museumsausstellungen von Waffen und archäologischen Funden",
+      "Authentische osmanische Architektur aus dem 18. Jahrhundert",
+      "Unterirdische Galerien und Kasematten",
+      "Eines der Sieben Wunder der Ukraine",
+      "Beliebter Drehort für historische Filme"
+    ],
+    "facilities_uk": ["Музей", "Сувенірні магазини", "Кафе", "Туалети", "Парковка", "Оглядові майданчики"],
+    "facilities_en": ["Museum", "Gift shops", "Cafe", "Toilets", "Parking", "Observation platforms"],
+    "facilities_de": ["Museum", "Souvenirläden", "Café", "Toiletten", "Parkplatz", "Aussichtsplattformen"],
+    "accessibility": {
+      "wheelchairAccessible": false,
+      "notes_uk": "Фортеця розташована на скелях з численними сходами, що робить її недоступною для інвалідних візків. Деякі експозиції доступні для відвідувачів з обмеженими можливостями.",
+      "notes_en": "The fortress is located on rocks with numerous stairs, making it inaccessible for wheelchairs. Some exhibitions are accessible for visitors with disabilities.",
+      "notes_de": "Die Festung befindet sich auf Felsen mit zahlreichen Treppen, was sie für Rollstühle unzugänglich macht. Einige Ausstellungen sind für Besucher mit Behinderungen zugänglich."
+    },
+    "uniqueSellingPoints_uk": [
+      "Місце героїчної Хотинської війни 1621 року",
+      "Один із найбільших середньовічних замків України",
+      "Унікальне поєднання молдавської, османської та російської архітектури",
+      "Вражаючі види на Дністровський каньйон",
+      "Популярне місце зйомок кіно",
+      "Добре збережені укріплення XIII-XVIII століть"
+    ],
+    "uniqueSellingPoints_en": [
+      "Site of the heroic Khotyn War of 1621",
+      "One of the largest medieval castles in Ukraine",
+      "Unique combination of Moldavian, Ottoman and Russian architecture",
+      "Stunning views of the Dniester Canyon",
+      "Popular filming location",
+      "Well-preserved fortifications from 13th-18th centuries"
+    ],
+    "uniqueSellingPoints_de": [
+      "Schauplatz des heroischen Chotiner Krieges von 1621",
+      "Eine der größten mittelalterlichen Burgen der Ukraine",
+      "Einzigartige Kombination aus moldauischer, osmanischer und russischer Architektur",
+      "Atemberaubende Aussicht auf die Dnjestr-Schlucht",
+      "Beliebter Drehort",
+      "Gut erhaltene Befestigungen aus dem 13.-18. Jahrhundert"
+    ]
+  },
+
+  "images": {
+    "heroImage": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/73-250-0001_Khotyn_Fortress_RB_18.jpg",
+      "alt_uk": "Хотинська фортеця над Дністром",
+      "alt_en": "Khotyn Fortress over the Dniester",
+      "alt_de": "Festung Chotyn über dem Dnjestr",
+      "caption_uk": "Могутні стіни та вежі фортеці домінують над каньйоном Дністра",
+      "caption_en": "Mighty walls and towers of the fortress dominate over the Dniester Canyon",
+      "caption_de": "Mächtige Mauern und Türme der Festung dominieren über die Dnjestr-Schlucht"
+    },
+    "gallery": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Khotyn_Fortress_2010_(1).jpg/1280px-Khotyn_Fortress_2010_(1).jpg",
+        "alt_uk": "Внутрішній двір фортеці",
+        "alt_en": "Inner courtyard of the fortress",
+        "alt_de": "Innenhof der Festung",
+        "caption_uk": "Внутрішній двір з оборонними вежами та музейними приміщеннями"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Khotyn_Fortress_-_panorama.jpg",
+        "alt_uk": "Панорама фортеці",
+        "alt_en": "Panorama of the fortress",
+        "alt_de": "Panorama der Festung",
+        "caption_uk": "Загальний вигляд Хотинської фортеці з високого берега Дністра"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Khotyn_fortress_%282%29.jpg",
+        "alt_uk": "Оборонні вежі та стіни",
+        "alt_en": "Defensive towers and walls",
+        "alt_de": "Verteidigungstürme und Mauern",
+        "caption_uk": "Потужні стіни та вежі фортеці, збудовані у різні епохи"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Khotyn_fortress_5.jpg",
+        "alt_uk": "Вид на Дністер з фортеці",
+        "alt_en": "View of the Dniester from the fortress",
+        "alt_de": "Blick auf den Dnjestr von der Festung",
+        "caption_uk": "Захоплюючий вид на Дністровський каньйон з оборонних стін"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Khotyn_fortress.jpg",
+        "alt_uk": "Головна в'їзна брама",
+        "alt_en": "Main entrance gate",
+        "alt_de": "Haupteingangstor",
+        "caption_uk": "Головна в'їзна брама з оборонними вежами"
+      }
+    ]
+  },
+
+  "historicalData": {
+    "yearBuilt": "X-XIII ст.",
+    "yearBuiltNote_uk": "Перші укріплення X століття, кам'яна фортеця XIII століття",
+    "yearBuiltNote_en": "First fortifications 10th century, stone fortress 13th century",
+    "yearBuiltNote_de": "Erste Befestigungen 10. Jahrhundert, Steinfestung 13. Jahrhundert",
+    "architecturalStyle_uk": "Середньовічна оборонна архітектура, молдавський стиль, османські елементи",
+    "architecturalStyle_en": "Medieval defensive architecture, Moldavian style, Ottoman elements",
+    "architecturalStyle_de": "Mittelalterliche Verteidigungsarchitektur, moldauischer Stil, osmanische Elemente",
+    "architects": [
+      {
+        "name": "Данило Романович (Danylo Romanovych)",
+        "period": "XIII ст. / 13th c. / 13. Jh.",
+        "contribution_uk": "Будівництво першої кам'яної фортеці",
+        "contribution_en": "Construction of the first stone fortress",
+        "contribution_de": "Bau der ersten Steinfestung"
+      },
+      {
+        "name": "Стефан III Великий (Stephen III the Great)",
+        "period": "XV ст. / 15th c. / 15. Jh.",
+        "contribution_uk": "Масштабна реконструкція та зміцнення фортеці",
+        "contribution_en": "Large-scale reconstruction and strengthening of the fortress",
+        "contribution_de": "Großangelegte Rekonstruktion und Verstärkung der Festung"
+      }
+    ],
+    "unescoStatus": "none",
+    "unescoYear": null,
+    "nationalHeritageStatus": "Державний історико-архітектурний заповідник / State Historical-Architectural Reserve",
+    "referenceNumber": "803",
+    "managedBy_uk": "Державний історико-архітектурний заповідник 'Хотинська фортеця'",
+    "managedBy_en": "State Historical-Architectural Reserve 'Khotyn Fortress'",
+    "managedBy_de": "Staatliches historisch-architektonisches Reservat 'Festung Chotyn'"
+  },
+
+  "culturalEvents": [
+    {
+      "name_uk": "Середньовічний фестиваль 'Середньовічний Хотин'",
+      "name_en": "Medieval Festival 'Medieval Khotyn'",
+      "name_de": "Mittelalterliches Festival 'Mittelalterliches Chotyn'",
+      "period_uk": "Серпень (щорічно)",
+      "period_en": "August (annually)",
+      "period_de": "August (jährlich)",
+      "description_uk": "Масштабний середньовічний фестиваль з лицарськими турнірами, реконструкціями історичних битв, ремісничими майстернями",
+      "description_en": "Large-scale medieval festival with knight tournaments, historical battle reconstructions, craft workshops",
+      "description_de": "Großangelegtes mittelalterliches Festival mit Ritterturnieren, historischen Schlachtrekonstruktionen, Handwerkswerkstätten"
+    },
+    {
+      "name_uk": "День фортеці",
+      "name_en": "Fortress Day",
+      "name_de": "Tag der Festung",
+      "period_uk": "Травень",
+      "period_en": "May",
+      "period_de": "Mai",
+      "description_uk": "Святкування дня заповідника з екскурсіями, виставками та концертами",
+      "description_en": "Celebration of the reserve's day with tours, exhibitions and concerts",
+      "description_de": "Feier des Tages des Reservats mit Führungen, Ausstellungen und Konzerten"
+    }
+  ],
+
+  "tags": [
+    "castle",
+    "fortress",
+    "medieval",
+    "museum",
+    "architecture",
+    "history",
+    "chernivtsi",
+    "dniester",
+    "khotyn-war",
+    "cossacks",
+    "seven-wonders-ukraine",
+    "film-location",
+    "ottoman-architecture",
+    "panoramic-views",
+    "tourism"
+  ],
+
+  "suitableFor_uk": [
+    "Любителі історії",
+    "Сімейні подорожі",
+    "Фотографи",
+    "Поціновувачі архітектури",
+    "Шкільні екскурсії",
+    "Любителі середньовічних фестивалів",
+    "Кіноентузіасти"
+  ],
+  "suitableFor_en": [
+    "History enthusiasts",
+    "Family travel",
+    "Photographers",
+    "Architecture lovers",
+    "School excursions",
+    "Medieval festival lovers",
+    "Film enthusiasts"
+  ],
+  "suitableFor_de": [
+    "Geschichtsinteressierte",
+    "Familienreisen",
+    "Fotografen",
+    "Architekturliebhaber",
+    "Schulausflüge",
+    "Liebhaber mittelalterlicher Festivals",
+    "Filmfans"
+  ],
+
+  "weatherDependent": true,
+  "indoorActivities": true,
+  "outdoorActivities": true,
+
+  "priceRange": "$$",
+  "rating": 4.7,
+  "reviewsCount": 2847,
+  "featured": true,
+  "status": "published",
+
+  "metaDescription_uk": "Хотинська фортеця - один із Семи чудес України. Середньовічна фортеця X-XVIII століть над Дністром. Місце Хотинської війни 1621 року. Музей, екскурсії, фестивалі.",
+  "metaDescription_en": "Khotyn Fortress - one of the Seven Wonders of Ukraine. Medieval fortress 10th-18th centuries on the Dniester. Site of the Khotyn War of 1621. Museum, tours, festivals.",
+  "metaDescription_de": "Festung Chotyn - eines der Sieben Wunder der Ukraine. Mittelalterliche Festung 10.-18. Jahrhundert am Dnjestr. Schauplatz des Chotiner Krieges 1621. Museum, Führungen, Festivals.",
+
+  "keywords": [
+    "Хотинська фортеця",
+    "Khotyn Fortress",
+    "Festung Chotyn",
+    "замок",
+    "castle",
+    "фортеця",
+    "fortress",
+    "Чернівецька область",
+    "Chernivtsi",
+    "Дністер",
+    "Dniester",
+    "Хотинська війна",
+    "Khotyn War",
+    "Сім чудес України",
+    "Seven Wonders of Ukraine",
+    "туризм",
+    "tourism"
+  ],
+
+  "lastUpdated": "2025-11-30",
+  "source": "Wikipedia, Official Website, Historical Archives, Tourism Sites",
+  "verified": true
+}

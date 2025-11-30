@@ -1,0 +1,427 @@
+{
+  "id": "kachanivka-palace",
+  "slug": "kachanivka-palace",
+  "name_uk": "Палац Качанівка",
+  "name_en": "Kachanivka Palace",
+  "name_de": "Palast Katschaniwka",
+  "tagline_uk": "Один із семи чудових замків та палаців України з англійським парком",
+  "tagline_en": "One of the Seven Wondrous Castles and Palaces of Ukraine with English park",
+  "tagline_de": "Eines der Sieben Wunderbaren Schlösser und Paläste der Ukraine mit englischem Park",
+  "category": "palace",
+  "subcategories": [
+    "neoclassical-architecture",
+    "historic-estate",
+    "english-park",
+    "national-cultural-preserve"
+  ],
+  "region": "Pryluky",
+  "oblast": "Chernihiv Oblast",
+  "description_uk": {
+    "short": "Палац Качанівка — один із найвидатніших палацово-паркових ансамблів України, збудований у 1770-х роках за проектом архітектора Карла Бланка для графа Петра Румянцева. З 1982 року має статус національного історико-культурного заповідника.",
+    "full": "Палац Качанівка є одним із багатьох заміських маєтків, побудованих Петром Румянцевим, намісником Малоросії часів Катерини II. Розташований на березі річки Смош поблизу села Петрушівка у Прилуцькому районі Чернігівської області, палац вражає своєю неокласичною архітектурою та багатою історією.\n\nПалац було зведено у 1770-х роках за неокласичними проектами видатного архітектора Карла Бланка. У 19 столітті комплекс доповнився церквою, оранжереєю, пташником, водонапірною вежею та іншими будівлями, що створили унікальний архітектурний ансамбль.\n\nПісля смерті Миколи Румянцева у 1826 році маєток перейшов до родини Тарновських. Граф Василь Тарновський, відомий своєю пристрастю до української історії, зібрав тут унікальну колекцію зброї, якою володіли гетьмани України. Палац став справжнім культурним центром: його відвідували Микола Гоголь, Тарас Шевченко, Ілля Рєпін, Михайло Врубель та Михайло Глінка, який працював тут над своєю оперою 'Життя за царя'.\n\nНезважаючи на те, що радянська влада націоналізувала палац для використання як виправна колонія та туберкульозна лікарня, садибний комплекс, включаючи великий англійський парк та кілька допоміжних будівель, збережений надзвичайно добре. З 1982 року Качанівка є національним культурним заповідником та була обрана одним із Семи чудових замків та палаців України.",
+    "history": "Історія Качанівки починається у 1770-х роках, коли потужний російський військовий діяч та дипломат граф Петро Румянцев-Задунайський, який отримав ці землі від імператриці Катерини II за військові заслуги, вирішив побудувати тут заміський маєток. Проект розробив видатний архітектор Карл Іванович Бланк, один із найбільших майстрів російського класицизму.\n\nПісля смерті Петра Румянцева у 1796 році маєток успадкував його син Микола Петрович Румянцев, видатний державний діяч, дипломат, меценат і колекціонер. Саме він перетворив Качанівку на один із найвідоміших культурних центрів України. Румянцев зібрав тут унікальну бібліотеку, колекцію рукописів, мінералів та етнографічних предметів.\n\nУ 1826 році, після смерті Миколи Румянцева, маєток перейшов до графа Василя Тарновського. Родина Тарновських володіла Качанівкою до 1917 року. Граф Василь Тарновський був пристрасним колекціонером та істориком, який зібрав унікальну колекцію зброї українських гетьманів та створив у палаці справжній музей української старовини.\n\nУ 19 столітті Качанівка стала місцем паломництва української інтелігенції. Тут бували Микола Гоголь, Тарас Шевченко, художники Ілля Рєпін та Михайло Врубель, композитор Михайло Глінка. У літньому будиночку Глінка працював над своєю оперою 'Життя за царя'.\n\nПісля революції 1917 року та встановлення радянської влади палац було націоналізовано. У різні періоди тут розташовувалися виправна колонія, туберкульозна лікарня, школа. У 1982 році Качанівку було оголошено національним історико-культурним заповідником, що врятувало палацово-парковий комплекс від остаточного занепаду.",
+    "significance": "Качанівка є унікальною пам'яткою неокласичної архітектури та садово-паркового мистецтва. Це один із найкраще збережених дворянських маєтків України, що зберіг автентичну структуру 18-19 століть. Палац разом із англійським парком площею понад 500 гектарів представляє виняткову художню та історичну цінність.\n\nОсобливе значення має англійський парк Качанівки, закладений наприкінці 18 століття. Це один із найбільших та найстаріших ландшафтних парків в Україні, який зберіг автентичне планування та багато старовинних дерев. Парк вражає своєю різноманітністю: тут є каскади ставків, романтичні альтанки, мости, штучні руїни.\n\nКультурне значення Качанівки важко переоцінити. Протягом 19 століття тут формувалася українська національна свідомість, зустрічалися найвидатніші представники української культури. У 2007 році Качанівка була обрана одним із Семи чудових замків та палаців України за результатами всеукраїнського голосування."
+  },
+  "description_en": {
+    "short": "Kachanivka Palace is one of Ukraine's most outstanding palace-park ensembles, built in the 1770s to designs by architect Karl Blank for Count Pyotr Rumyantsev. It has been a National Historical and Cultural Preserve since 1982.",
+    "full": "Kachanivka Palace is one of the many country estates built by Pyotr Rumyantsev, Catherine II's viceroy of Little Russia. Located on the bank of the Smosh River near the village of Petrushivka in Pryluky Raion, Chernihiv Oblast, the palace impresses with its Neoclassical architecture and rich history.\n\nThe residence was erected in the 1770s to Neoclassical designs by the prominent architect Karl Blank. In the 19th century, the complex was supplemented with a church, orangery, aviary, water tower, and several other buildings, creating a unique architectural ensemble.\n\nAfter Nikolay Rumyantsev's death in 1826, the property passed to the Tarnowski family. Count Vasyl Tarnowski, known for his passion for Ukrainian history, amassed a unique collection of weapons owned by Ukrainian hetmans. The palace became a true cultural center: it was visited by Nikolai Gogol, Taras Shevchenko, Ilya Repin, Mikhail Vrubel, and Mikhail Glinka, who worked here on his opera 'A Life for the Tsar'.\n\nAlthough the Soviets nationalized the palace for use as a penal colony and tuberculosis hospital, the manor complex, including the extensive English park and several subsidiary outbuildings, has been exceptionally well preserved. Since 1982, Kachanivka has been a national cultural preserve and was selected as one of the Seven Wondrous Castles and Palaces of Ukraine.",
+    "history": "The history of Kachanivka begins in the 1770s when powerful Russian military figure and diplomat Count Pyotr Rumyantsev-Zadunaisky, who received these lands from Empress Catherine II for military service, decided to build a country estate here. The project was developed by prominent architect Karl Ivanovich Blank, one of the greatest masters of Russian Classicism.\n\nAfter Pyotr Rumyantsev's death in 1796, the estate was inherited by his son Nikolay Petrovich Rumyantsev, an outstanding statesman, diplomat, patron, and collector. He transformed Kachanivka into one of the most famous cultural centers of Ukraine. Rumyantsev assembled a unique library here, along with collections of manuscripts, minerals, and ethnographic items.\n\nIn 1826, after Nikolay Rumyantsev's death, the estate passed to Count Vasyl Tarnowski. The Tarnowski family owned Kachanivka until 1917. Count Vasyl Tarnowski was a passionate collector and historian who assembled a unique collection of Ukrainian hetman weapons and created a genuine museum of Ukrainian antiquities in the palace.\n\nIn the 19th century, Kachanivka became a pilgrimage site for Ukrainian intelligentsia. Nikolai Gogol, Taras Shevchenko, artists Ilya Repin and Mikhail Vrubel, and composer Mikhail Glinka all visited. Glinka worked on his opera 'A Life for the Tsar' in the summer house.\n\nAfter the 1917 revolution and establishment of Soviet power, the palace was nationalized. At various times, it housed a penal colony, tuberculosis hospital, and school. In 1982, Kachanivka was declared a National Historical and Cultural Preserve, saving the palace-park complex from complete decay.",
+    "significance": "Kachanivka is a unique monument of Neoclassical architecture and landscape gardening art. It is one of the best-preserved noble estates in Ukraine, retaining its authentic 18th-19th century structure. The palace together with its English park covering over 500 hectares represents exceptional artistic and historical value.\n\nThe English park of Kachanivka, established in the late 18th century, holds special significance. It is one of the largest and oldest landscape parks in Ukraine, preserving its authentic planning and many ancient trees. The park impresses with its diversity: there are cascades of ponds, romantic pavilions, bridges, and artificial ruins.\n\nThe cultural significance of Kachanivka cannot be overestimated. Throughout the 19th century, Ukrainian national consciousness was formed here, and the most outstanding representatives of Ukrainian culture met. In 2007, Kachanivka was selected as one of the Seven Wondrous Castles and Palaces of Ukraine by nationwide vote."
+  },
+  "description_de": {
+    "short": "Der Palast Katschaniwka ist eines der herausragendsten Schloss-Park-Ensembles der Ukraine, das in den 1770er Jahren nach Entwürfen des Architekten Karl Blank für Graf Pjotr Rumjanzew erbaut wurde. Seit 1982 hat es den Status eines nationalen historisch-kulturellen Schutzgebiets.",
+    "full": "Der Palast Katschaniwka ist eines der vielen Landgüter, die von Pjotr Rumjanzew, Katharinas II. Vizekönig von Kleinrussland, erbaut wurden. Am Ufer des Flusses Smosch in der Nähe des Dorfes Petrushiwka im Bezirk Pryluky, Oblast Tschernihiw gelegen, beeindruckt der Palast mit seiner neoklassizistischen Architektur und reichen Geschichte.\n\nDie Residenz wurde in den 1770er Jahren nach neoklassizistischen Entwürfen des prominenten Architekten Karl Blank errichtet. Im 19. Jahrhundert wurde der Komplex durch eine Kirche, ein Orangerie, ein Vogelhaus, einen Wasserturm und mehrere andere Gebäude ergänzt, die ein einzigartiges architektonisches Ensemble schufen.\n\nNach dem Tod von Nikolai Rumjanzew im Jahr 1826 ging das Anwesen an die Familie Tarnowski über. Graf Wasyl Tarnowski, bekannt für seine Leidenschaft für die ukrainische Geschichte, sammelte hier eine einzigartige Sammlung von Waffen, die ukrainischen Hetmanen gehörten. Der Palast wurde zu einem wahren kulturellen Zentrum: Er wurde von Nikolai Gogol, Taras Schewtschenko, Ilja Repin, Michail Wrubel und Michail Glinka besucht, der hier an seiner Oper 'Ein Leben für den Zaren' arbeitete.\n\nObwohl die Sowjets den Palast für die Nutzung als Strafkolonie und Tuberkulosekrankenhaus verstaatlichten, ist der Gutshofkomplex einschließlich des ausgedehnten englischen Parks und mehrerer Nebengebäude außergewöhnlich gut erhalten. Seit 1982 ist Katschaniwka ein nationales Kulturschutzgebiet und wurde als eines der Sieben Wunderbaren Schlösser und Paläste der Ukraine ausgewählt.",
+    "history": "Die Geschichte von Katschaniwka beginnt in den 1770er Jahren, als der mächtige russische Militärführer und Diplomat Graf Pjotr Rumjanzew-Sadunaiski, der diese Ländereien von Kaiserin Katharina II. für Militärdienste erhalten hatte, beschloss, hier ein Landgut zu errichten. Das Projekt wurde von dem prominenten Architekten Karl Iwanowitsch Blank entwickelt, einem der größten Meister des russischen Klassizismus.",
+    "significance": "Katschaniwka ist ein einzigartiges Denkmal der neoklassizistischen Architektur und Landschaftsgartenbaukunst. Es ist eines der am besten erhaltenen Adelsgüter der Ukraine, das seine authentische Struktur aus dem 18.-19. Jahrhundert bewahrt hat. Der Palast zusammen mit seinem über 500 Hektar großen englischen Park stellt einen außergewöhnlichen künstlerischen und historischen Wert dar. 2007 wurde Katschaniwka durch landesweite Abstimmung als eines der Sieben Wunderbaren Schlösser und Paläste der Ukraine ausgewählt."
+  },
+  "location": {
+    "city": "Petrushivka",
+    "region": "Chernihiv Oblast",
+    "address_uk": "село Петрушівка, Прилуцький район, Чернігівська область, 17523",
+    "address_en": "Petrushivka village, Pryluky Raion, Chernihiv Oblast, 17523",
+    "address_de": "Dorf Petrushiwka, Bezirk Pryluky, Oblast Tschernihiw, 17523",
+    "coordinates": {
+      "latitude": 50.83667,
+      "longitude": 32.65556
+    },
+    "directions_uk": {
+      "general": "Розташований поблизу села Петрушівка на березі річки Смош у Прилуцькому районі",
+      "publicTransport": "Автобусом із Чернігова або Прилук до села Петрушівка",
+      "car": "З Києва — близько 250 км по трасі E95 через Чернігів та Прилуки (близько 3.5 години). З Чернігова — 85 км через Ічню та Прилуки (близько 1.5 години)",
+      "parking": "Парковка біля заповідника"
+    },
+    "directions_en": {
+      "general": "Located near Petrushivka village on the bank of the Smosh River in Pryluky Raion",
+      "publicTransport": "Bus from Chernihiv or Pryluky to Petrushivka village",
+      "car": "From Kyiv - about 250 km via E95 highway through Chernihiv and Pryluky (about 3.5 hours). From Chernihiv - 85 km through Ichnia and Pryluky (about 1.5 hours)",
+      "parking": "Parking near the preserve"
+    },
+    "directions_de": {
+      "general": "In der Nähe des Dorfes Petrushiwka am Ufer des Flusses Smosch im Bezirk Pryluky gelegen",
+      "publicTransport": "Bus von Tschernihiw oder Pryluky zum Dorf Petrushiwka",
+      "car": "Von Kiew - etwa 250 km über die E95 durch Tschernihiw und Pryluky (etwa 3,5 Stunden). Von Tschernihiw - 85 km durch Itschnja und Pryluky (etwa 1,5 Stunden)",
+      "parking": "Parkplatz beim Schutzgebiet"
+    },
+    "nearbyAttractions": [
+      {
+        "name_uk": "Місто Прилуки",
+        "name_en": "Pryluky City",
+        "distance": "25 km",
+        "type": "city"
+      },
+      {
+        "name_uk": "Густинський монастир",
+        "name_en": "Gustynsky Monastery",
+        "distance": "40 km",
+        "type": "monastery"
+      },
+      {
+        "name_uk": "Чернігів",
+        "name_en": "Chernihiv",
+        "distance": "85 km",
+        "type": "historic-city"
+      }
+    ]
+  },
+  "contact": {
+    "phone": "+380 4637 45-2-11",
+    "email": "kachanovka@ukr.net",
+    "website": "http://kachanovka.com.ua",
+    "bookingUrl": null,
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/kachanovka.palace",
+      "instagram": null,
+      "twitter": null,
+      "youtube": null
+    }
+  },
+  "visitingInformation": {
+    "openingTimes": {
+      "status_uk": "Відкрито цілий рік",
+      "status_en": "Open year-round",
+      "status_de": "Ganzjährig geöffnet",
+      "seasonal": [
+        {
+          "season_uk": "Травень - Вересень",
+          "season_en": "May - September",
+          "season_de": "Mai - September",
+          "days_uk": "Щодня крім понеділка",
+          "days_en": "Daily except Monday",
+          "days_de": "Täglich außer Montag",
+          "hours": "10:00 - 18:00",
+          "lastAdmission": "17:30"
+        },
+        {
+          "season_uk": "Жовтень - Квітень",
+          "season_en": "October - April",
+          "season_de": "Oktober - April",
+          "days_uk": "Щодня крім понеділка",
+          "days_en": "Daily except Monday",
+          "days_de": "Täglich außer Montag",
+          "hours": "10:00 - 17:00",
+          "lastAdmission": "16:30"
+        }
+      ]
+    },
+    "admissionPrices": {
+      "currency": "UAH",
+      "adult": 80,
+      "student": 40,
+      "child": 20,
+      "senior": 40,
+      "family": null,
+      "notes_uk": "Діти до 7 років - безкоштовно. Екскурсійне обслуговування оплачується окремо",
+      "notes_en": "Children under 7 - free. Guided tour services are paid separately",
+      "notes_de": "Kinder unter 7 Jahren - kostenlos. Führungen werden separat bezahlt"
+    },
+    "tourOptions": [
+      {
+        "type_uk": "Самостійний огляд парку",
+        "type_en": "Self-guided park tour",
+        "type_de": "Selbstgeführte Parktour",
+        "duration_uk": "2-3 години",
+        "duration_en": "2-3 hours",
+        "duration_de": "2-3 Stunden",
+        "price": 0
+      },
+      {
+        "type_uk": "Екскурсія з гідом українською",
+        "type_en": "Guided tour in Ukrainian",
+        "type_de": "Führung auf Ukrainisch",
+        "duration_uk": "1.5 години",
+        "duration_en": "1.5 hours",
+        "duration_de": "1,5 Stunden",
+        "price": 350,
+        "groupSize": "до 25 осіб / up to 25 people / bis 25 Personen"
+      }
+    ],
+    "averageVisitDuration_uk": "2-3 години",
+    "averageVisitDuration_en": "2-3 hours",
+    "averageVisitDuration_de": "2-3 Stunden",
+    "busyPeriods_uk": [
+      "Літні вихідні",
+      "Свята",
+      "Травень та вересень"
+    ],
+    "busyPeriods_en": [
+      "Summer weekends",
+      "Holidays",
+      "May and September"
+    ],
+    "busyPeriods_de": [
+      "Sommerwochenenden",
+      "Feiertage",
+      "Mai und September"
+    ],
+    "adviceForVisitors_uk": "Візьміть зручне взуття для прогулянок парком. Рекомендуємо відвідати весною або восени, коли парк особливо красивий. У парку можна провести цілий день, візьміть з собою воду та легкий перекус. Взимку парк теж чудовий, але одягайтеся тепло.",
+    "adviceForVisitors_en": "Wear comfortable shoes for park walks. We recommend visiting in spring or autumn when the park is especially beautiful. You can spend a whole day in the park, bring water and light snacks. The park is also wonderful in winter, but dress warmly.",
+    "adviceForVisitors_de": "Tragen Sie bequeme Schuhe für Parkspaziergänge. Wir empfehlen einen Besuch im Frühling oder Herbst, wenn der Park besonders schön ist. Sie können einen ganzen Tag im Park verbringen, bringen Sie Wasser und leichte Snacks mit. Der Park ist auch im Winter wunderschön, aber kleiden Sie sich warm."
+  },
+  "features": {
+    "highlights_uk": [
+      "Один із Семи чудових замків та палаців України",
+      "Неокласична архітектура Карла Бланка 1770-х років",
+      "Англійський парк площею понад 500 гектарів",
+      "Унікальна колекція зброї українських гетьманів (історична)",
+      "Місце відвідин Гоголя, Шевченка, Рєпіна, Глінки",
+      "Національний історико-культурний заповідник з 1982 року",
+      "Каскади ставків та романтичні альтанки",
+      "Церква, оранжерея та водонапірна вежа 19 століття"
+    ],
+    "highlights_en": [
+      "One of the Seven Wondrous Castles and Palaces of Ukraine",
+      "Neoclassical architecture by Karl Blank from 1770s",
+      "English park covering over 500 hectares",
+      "Unique collection of Ukrainian hetman weapons (historical)",
+      "Site visited by Gogol, Shevchenko, Repin, Glinka",
+      "National Historical and Cultural Preserve since 1982",
+      "Cascades of ponds and romantic pavilions",
+      "19th-century church, orangery, and water tower"
+    ],
+    "highlights_de": [
+      "Eines der Sieben Wunderbaren Schlösser und Paläste der Ukraine",
+      "Neoklassizistische Architektur von Karl Blank aus den 1770er Jahren",
+      "Englischer Park mit über 500 Hektar",
+      "Einzigartige Sammlung ukrainischer Hetman-Waffen (historisch)",
+      "Ort, der von Gogol, Schewtschenko, Repin, Glinka besucht wurde",
+      "Nationales historisch-kulturelles Schutzgebiet seit 1982",
+      "Kaskaden von Teichen und romantische Pavillons",
+      "Kirche, Orangerie und Wasserturm aus dem 19. Jahrhundert"
+    ],
+    "facilities_uk": [
+      "Парк",
+      "Музейні експозиції",
+      "Туалети",
+      "Парковка",
+      "Лавки для відпочинку"
+    ],
+    "facilities_en": [
+      "Park",
+      "Museum exhibitions",
+      "Toilets",
+      "Parking",
+      "Rest benches"
+    ],
+    "facilities_de": [
+      "Park",
+      "Museumsausstellungen",
+      "Toiletten",
+      "Parkplatz",
+      "Ruhebänke"
+    ],
+    "accessibility": {
+      "wheelchairAccessible": false,
+      "notes_uk": "Парк має нерівну місцевість і багато сходів, що ускладнює доступ для інвалідних візків. Деякі частини парку доступні для відвідувачів з обмеженими можливостями",
+      "notes_en": "The park has uneven terrain and many stairs, making wheelchair access difficult. Some parts of the park are accessible for visitors with disabilities",
+      "notes_de": "Der Park hat unebenes Gelände und viele Treppen, was den Zugang mit Rollstühlen erschwert. Einige Teile des Parks sind für Besucher mit Behinderungen zugänglich"
+    },
+    "uniqueSellingPoints_uk": [
+      "Найбільший англійський парк в Україні",
+      "Автентична неокласична архітектура 18 століття",
+      "Багата культурна спадщина — відвідували Гоголь, Шевченко, Глінка",
+      "Унікальний ландшафтний дизайн із ставками та альтанками",
+      "Один із найкраще збережених дворянських маєтків України"
+    ],
+    "uniqueSellingPoints_en": [
+      "Largest English park in Ukraine",
+      "Authentic 18th-century Neoclassical architecture",
+      "Rich cultural heritage — visited by Gogol, Shevchenko, Glinka",
+      "Unique landscape design with ponds and pavilions",
+      "One of the best-preserved noble estates in Ukraine"
+    ],
+    "uniqueSellingPoints_de": [
+      "Größter englischer Park in der Ukraine",
+      "Authentische neoklassizistische Architektur aus dem 18. Jahrhundert",
+      "Reiches kulturelles Erbe — besucht von Gogol, Schewtschenko, Glinka",
+      "Einzigartiges Landschaftsdesign mit Teichen und Pavillons",
+      "Eines der am besten erhaltenen Adelsgüter der Ukraine"
+    ]
+  },
+  "images": {
+    "heroImage": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Kachanivka_panorama.jpg",
+      "alt_uk": "Панорама палацу Качанівка",
+      "alt_en": "Kachanivka Palace panorama",
+      "alt_de": "Panorama des Palastes Katschaniwka",
+      "caption_uk": "Неокласичний палац Качанівка на березі річки Смош",
+      "caption_en": "Neoclassical Kachanivka Palace on the bank of Smosh River",
+      "caption_de": "Neoklassizistischer Palast Katschaniwka am Ufer des Flusses Smosch"
+    },
+    "gallery": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Kachanivka_Palace_main_facade.jpg",
+        "alt_uk": "Головний фасад палацу Качанівка",
+        "alt_en": "Main facade of Kachanivka Palace",
+        "alt_de": "Hauptfassade des Palastes Katschaniwka",
+        "caption_uk": "Головний фасад палацу з колонами"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Kachanivka_English_park.jpg",
+        "alt_uk": "Англійський парк Качанівки",
+        "alt_en": "Kachanivka English park",
+        "alt_de": "Englischer Park von Katschaniwka",
+        "caption_uk": "Один із ставків у англійському парку"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Kachanivka_church.jpg",
+        "alt_uk": "Церква у Качанівці",
+        "alt_en": "Church at Kachanivka",
+        "alt_de": "Kirche in Katschaniwka",
+        "caption_uk": "Церква 19 століття на території заповідника"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Kachanivka_alley.jpg",
+        "alt_uk": "Алея у парку Качанівки",
+        "alt_en": "Alley in Kachanivka park",
+        "alt_de": "Allee im Park Katschaniwka",
+        "caption_uk": "Старовинна алея зі столітніми деревами"
+      }
+    ]
+  },
+  "historicalData": {
+    "yearBuilt": "1770s",
+    "yearBuiltNote_uk": "Палац побудовано у 1770-х роках, додаткові будівлі датуються 19 століттям",
+    "yearBuiltNote_en": "Palace built in the 1770s, additional buildings date from 19th century",
+    "yearBuiltNote_de": "Palast in den 1770er Jahren erbaut, zusätzliche Gebäude aus dem 19. Jahrhundert",
+    "architecturalStyle_uk": "Неокласицизм, Класицизм",
+    "architecturalStyle_en": "Neoclassicism, Classicism",
+    "architecturalStyle_de": "Neoklassizismus, Klassizismus",
+    "architects": [
+      {
+        "name": "Карл Бланк / Karl Blank",
+        "period": "1770-і / 1770s / 1770er Jahre",
+        "contribution_uk": "Головний архітектор палацу",
+        "contribution_en": "Chief architect of the palace",
+        "contribution_de": "Hauptarchitekt des Palastes"
+      }
+    ],
+    "unescoStatus": "none",
+    "unescoYear": null,
+    "nationalHeritageStatus": "National Historical and Cultural Preserve",
+    "referenceNumber": "250045-Н",
+    "managedBy_uk": "Національний історико-культурний заповідник 'Качанівка'",
+    "managedBy_en": "Kachanivka National Historical and Cultural Preserve",
+    "managedBy_de": "Nationales historisch-kulturelles Schutzgebiet Katschaniwka"
+  },
+  "culturalEvents": [
+    {
+      "name_uk": "Свято англійського парку",
+      "name_en": "English Park Festival",
+      "name_de": "Englischer Park Festival",
+      "period_uk": "Травень (щорічно)",
+      "period_en": "May (annually)",
+      "period_de": "Mai (jährlich)",
+      "description_uk": "Щорічне свято, присвячене відкриттю паркового сезону з екскурсіями та культурними заходами",
+      "description_en": "Annual festival dedicated to opening of the park season with tours and cultural events",
+      "description_de": "Jährliches Festival zur Eröffnung der Parksaison mit Führungen und Kulturveranstaltungen"
+    },
+    {
+      "name_uk": "Шевченківські дні",
+      "name_en": "Shevchenko Days",
+      "name_de": "Schewtschenko-Tage",
+      "period_uk": "Березень (щорічно)",
+      "period_en": "March (annually)",
+      "period_de": "März (jährlich)",
+      "description_uk": "Культурні заходи, присвячені пам'яті Тараса Шевченка, який відвідував Качанівку",
+      "description_en": "Cultural events dedicated to the memory of Taras Shevchenko, who visited Kachanivka",
+      "description_de": "Kulturveranstaltungen zum Gedenken an Taras Schewtschenko, der Katschaniwka besuchte"
+    }
+  ],
+  "tags": [
+    "palace",
+    "neoclassical",
+    "english-park",
+    "historic-estate",
+    "chernihiv",
+    "rumyantsev",
+    "tarnowski",
+    "national-preserve",
+    "seven-wonders-ukraine",
+    "gogol",
+    "shevchenko",
+    "glinka",
+    "architecture",
+    "park",
+    "cultural-heritage"
+  ],
+  "suitableFor_uk": [
+    "Любителі історії",
+    "Сімейні прогулянки",
+    "Фотографи",
+    "Поціновувачі природи",
+    "Любителі паркової архітектури",
+    "Romantic getaways"
+  ],
+  "suitableFor_en": [
+    "History enthusiasts",
+    "Family walks",
+    "Photographers",
+    "Nature lovers",
+    "Park architecture enthusiasts",
+    "Romantic getaways"
+  ],
+  "suitableFor_de": [
+    "Geschichtsinteressierte",
+    "Familienspaziergänge",
+    "Fotografen",
+    "Naturliebhaber",
+    "Parkarchitektur-Enthusiasten",
+    "Romantische Ausflüge"
+  ],
+  "weatherDependent": true,
+  "indoorActivities": true,
+  "outdoorActivities": true,
+  "priceRange": "$",
+  "rating": 4.6,
+  "reviewsCount": 852,
+  "featured": true,
+  "status": "published",
+  "metaDescription_uk": "Палац Качанівка - один із Семи чудових замків України. Неокласичний палац 1770-х років з англійським парком понад 500 га. Національний заповідник з багатою культурною спадщиною.",
+  "metaDescription_en": "Kachanivka Palace - one of the Seven Wondrous Castles of Ukraine. 1770s Neoclassical palace with English park over 500 hectares. National preserve with rich cultural heritage.",
+  "metaDescription_de": "Palast Katschaniwka - eines der Sieben Wunderbaren Schlösser der Ukraine. Neoklassizistischer Palast aus den 1770er Jahren mit englischem Park über 500 Hektar. Nationales Schutzgebiet mit reichem Kulturerbe.",
+  "keywords": [
+    "Качанівка",
+    "Kachanivka",
+    "Катschaniwka",
+    "палац",
+    "palace",
+    "Palast",
+    "Чернігівська область",
+    "Chernihiv",
+    "англійський парк",
+    "English park",
+    "неокласицизм",
+    "Neoclassicism",
+    "Румянцев",
+    "Rumyantsev",
+    "Тарновський",
+    "Tarnowski",
+    "Шевченко",
+    "Shevchenko",
+    "Гоголь",
+    "Gogol"
+  ],
+  "lastUpdated": "2025-11-30",
+  "source": "Wikipedia, Kachanivka National Preserve, Green Ukraine, Historical Archives",
+  "verified": true
+}

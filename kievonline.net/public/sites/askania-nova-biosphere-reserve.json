@@ -1,0 +1,382 @@
+{
+  "id": "askania-nova-biosphere-reserve",
+  "slug": "askania-nova-biosphere-reserve",
+
+  "name_uk": "Біосферний заповідник «Асканія-Нова»",
+  "name_en": "Askania-Nova Biosphere Reserve",
+  "name_de": "Biosphärenreservat Askania-Nova",
+
+  "tagline_uk": "Найстаріший та найбільший степовий заповідник Європи з унікальним зоопарком і дендропарком",
+  "tagline_en": "Europe's oldest and largest steppe reserve with unique zoo and arboretum",
+  "tagline_de": "Europas ältestes und größtes Steppenreservat mit einzigartigem Zoo und Arboretum",
+
+  "category": "park",
+  "subcategories": ["biosphere-reserve", "unesco-site", "steppe-ecosystem", "zoo", "botanical-garden"],
+  "region": "Chaplynka",
+  "oblast": "Kherson Oblast",
+
+  "description_uk": {
+    "short": "Біосферний заповідник «Асканія-Нова» — унікальний науково-дослідний заповідник у Херсонській області, заснований у 1898 році. Це найстаріша степова заповідна територія Європи з незайманими ковиловими степами, ботанічним садом та зоопарком з унікальною колекцією тварин.",
+    "full": "Біосферний заповідник «Асканія-Нова» був заснований у 1898 році німецьким землевласником Фрідріхом Едуардом Фальц-Фейном і є найстарішою степовою заповідною територією Європи. Загальна площа заповідника становить понад 33 000 гектарів, з яких близько 11 000 гектарів — це незаймана ділянка типчаково-ковилового степу, яка ніколи не оброблялася.\n\nУ 1985 році заповідник отримав статус біосферного резервату ЮНЕСКО як еталонна територія для вивчення степових екосистем. Це єдине місце в Європі, де зберігся цілинний степ у первозданному вигляді, з більш ніж 500 видами судинних рослин.\n\nЗаповідник включає три основні компоненти:\n\n1. **Цілинний степ** — понад 11 000 га незайманої степової екосистеми з унікальною рослинністю. Тут зростають рідкісні види ковили, тюльпани Шренка, гіацинти та понад 70 видів рослин, занесених до Червоної книги.\n\n2. **Дендрологічний парк** — понад 200 видів дерев і чагарників з різних континентів, створений наприкінці XIX століття. Це єдиний в Україні справжній штучний ліс у степовій зоні площею близько 200 гектарів.\n\n3. **Зоологічний парк** — найбільша в світі колекція копитних тварин у напіввільних умовах. Тут мешкають зебри Греві, африканські страуси, бізони, сайгаки, муфлони, антилопи різних видів, які вільно пасуться на степових просторах разом з дикими конями Пржевальського.\n\nАсканія-Нова відома успішною програмою акліматизації та розведення рідкісних видів тварин. Тут була створена одна з найбільших у світі колекцій коней Пржевальського, які допомогли врятувати цей вид від вимирання.\n\nЗаповідник є провідним науково-дослідним центром з вивчення степових екосистем та збереження біорізноманіття. Тут працює Інститут тваринництва НААН України.",
+    "history": "Історія Асканії-Нової розпочалася у 1828 році, коли ця територія була передана німецькому герцогу Ангальт-Кетенському для розведення овець-мериносів. Назва «Асканія» походить від родового маєтку герцогів у Німеччині.\n\nУ 1856 році землі придбав німецький промисловець Фрідріх Фальц-Фейн (батько). Його син, Фрідріх Едуард Фальц-Фейн (1863-1920), з юних років захоплювався природою та зоологією. У 1883 році, у віці 20 років, він створив перший зоопарк з місцевих степових видів.\n\nУ 1898 році Фальц-Фейн офіційно заснував приватний заповідник на площі 500 десятин цілинного степу, де була заборонена будь-яка господарська діяльність. Одночасно він створював ботанічний сад та акліматизував екзотичних тварин з Африки, Азії та Америки.\n\nДо 1917 року в Асканії-Нові налічувалося 52 види ссавців та 224 види птахів з усього світу. Це була найбільша приватна зоологічна колекція в Російській імперії.\n\nПісля революції 1917 року маєток було націоналізовано, але статус заповідника зберігся. У 1919 році радянська влада офіційно визнала Асканію-Нову державним заповідником.\n\nУ роки Другої світової війни (1941-1944) заповідник зазнав значних втрат: була знищена частина дендропарку, розграбовано зоологічні колекції. Проте завдяки зусиллям співробітників більшість тварин вдалося врятувати.\n\nУ післявоєнні роки заповідник відновлювався та розвивався. У 1956 році створено науково-дослідний інститут. У 1985 році Асканія-Нова отримала міжнародне визнання як біосферний резерват ЮНЕСКО.\n\nУ 2008 році заповідник відзначив 110-річний ювілей. За понад 125 років існування Асканія-Нова стала всесвітньо відомим центром збереження степової природи та розведення рідкісних тварин.",
+    "significance": "Біосферний заповідник «Асканія-Нова» має виняткове значення для світової науки та збереження природи. Це єдине місце в Європі, де зберігся типчаково-ковиловий степ у первозданному вигляді на такій великій площі.\n\nЗаповідник є живою лабораторією для вивчення степових екосистем, які майже повністю зникли в Європі через розорювання земель. Наукові дослідження в Асканії-Нові мають світове значення для розуміння степових процесів та відновлення деградованих земель.\n\nУспішна програма розведення коней Пржевальського допомогла врятувати цей вид від повного вимирання. Асканійські коні стали основою для реінтродукції виду в дику природу в Монголії та Китаї.\n\nЗаповідник є еталонною територією для моніторингу змін клімату та його впливу на степові екосистеми. Дослідження біорізноманіття степу в Асканії-Нові тривають понад 120 років, що робить цю територію унікальною для довгострокових екологічних спостережень."
+  },
+
+  "description_en": {
+    "short": "Askania-Nova Biosphere Reserve is a unique research reserve in Kherson Oblast, founded in 1898. It is Europe's oldest steppe protected area with virgin feather-grass steppes, botanical garden, and zoo with unique animal collection.",
+    "full": "Askania-Nova Biosphere Reserve was founded in 1898 by German landowner Friedrich Eduard Falz-Fein and is Europe's oldest steppe protected area. The total area of the reserve is over 33,000 hectares, of which about 11,000 hectares are virgin fescue-feather grass steppe that has never been cultivated.\n\nIn 1985, the reserve received UNESCO biosphere reserve status as a reference territory for studying steppe ecosystems. It is the only place in Europe where virgin steppe has been preserved in its pristine state, with more than 500 species of vascular plants.\n\nThe reserve includes three main components:\n\n1. **Virgin Steppe** — over 11,000 ha of untouched steppe ecosystem with unique vegetation. Rare species of feather grass, Schrencks tulips, hyacinths, and over 70 plant species listed in the Red Book grow here.\n\n2. **Dendrological Park** — over 200 species of trees and shrubs from different continents, created in the late 19th century. This is Ukraine's only true artificial forest in the steppe zone, covering about 200 hectares.\n\n3. **Zoological Park** — the world's largest collection of ungulates in semi-free conditions. Grevy's zebras, African ostriches, bison, saiga, mouflon, various species of antelopes roam freely on the steppe expanses along with Przewalski's wild horses.\n\nAskania-Nova is known for its successful program of acclimatization and breeding of rare animal species. One of the world's largest collections of Przewalski's horses was created here, helping to save this species from extinction.\n\nThe reserve is a leading research center for the study of steppe ecosystems and biodiversity conservation. The Institute of Animal Science of NAAS of Ukraine operates here.",
+    "history": "The history of Askania-Nova began in 1828 when this territory was transferred to the German Duke of Anhalt-Köthen for breeding merino sheep. The name 'Askania' comes from the dukes' family estate in Germany.\n\nIn 1856, the land was purchased by German industrialist Friedrich Falz-Fein (father). His son, Friedrich Eduard Falz-Fein (1863-1920), was passionate about nature and zoology from a young age. In 1883, at age 20, he created the first zoo with local steppe species.\n\nIn 1898, Falz-Fein officially established a private reserve on 500 desiatinas of virgin steppe, where any economic activity was prohibited. At the same time, he created a botanical garden and acclimatized exotic animals from Africa, Asia, and America.\n\nBy 1917, Askania-Nova had 52 mammal species and 224 bird species from around the world. It was the largest private zoological collection in the Russian Empire.\n\nAfter the 1917 revolution, the estate was nationalized, but the reserve status was preserved. In 1919, Soviet authorities officially recognized Askania-Nova as a state reserve.\n\nDuring World War II (1941-1944), the reserve suffered significant losses: part of the arboretum was destroyed, zoological collections were looted. However, thanks to staff efforts, most animals were saved.\n\nIn the post-war years, the reserve recovered and developed. In 1956, a research institute was established. In 1985, Askania-Nova received international recognition as a UNESCO biosphere reserve.\n\nIn 2008, the reserve celebrated its 110th anniversary. Over more than 125 years of existence, Askania-Nova has become a world-renowned center for steppe nature conservation and rare animal breeding.",
+    "significance": "Askania-Nova Biosphere Reserve is of exceptional importance for world science and nature conservation. It is the only place in Europe where fescue-feather grass steppe has been preserved in its pristine state on such a large area.\n\nThe reserve is a living laboratory for studying steppe ecosystems that have almost completely disappeared in Europe due to land cultivation. Scientific research in Askania-Nova is of global importance for understanding steppe processes and restoring degraded lands.\n\nThe successful Przewalski's horse breeding program helped save this species from complete extinction. Askanian horses became the basis for species reintroduction into the wild in Mongolia and China.\n\nThe reserve is a reference territory for monitoring climate change and its impact on steppe ecosystems. Steppe biodiversity research in Askania-Nova has been ongoing for over 120 years, making this territory unique for long-term ecological observations."
+  },
+
+  "description_de": {
+    "short": "Das Biosphärenreservat Askania-Nova ist ein einzigartiges Forschungsreservat im Gebiet Cherson, gegründet 1898. Es ist Europas ältestes Steppenreservat mit unberührten Federgras-Steppen, botanischem Garten und Zoo mit einzigartiger Tiersammlung.",
+    "full": "Das Biosphärenreservat Askania-Nova wurde 1898 vom deutschen Landbesitzer Friedrich Eduard Falz-Fein gegründet und ist Europas ältestes Steppenreservat. Die Gesamtfläche des Reservats beträgt über 33.000 Hektar, davon etwa 11.000 Hektar unberührte Schwingel-Federgras-Steppe, die nie kultiviert wurde.\n\n1985 erhielt das Reservat den UNESCO-Biosphärenreservat-Status als Referenzgebiet für die Erforschung von Steppenökosystemen. Es ist der einzige Ort in Europa, wo jungfräuliche Steppe in ihrem ursprünglichen Zustand erhalten geblieben ist, mit mehr als 500 Arten von Gefäßpflanzen.",
+    "history": "Die Geschichte von Askania-Nova begann 1828, als dieses Gebiet an den deutschen Herzog von Anhalt-Köthen zur Zucht von Merinoschafen übergeben wurde. Der Name 'Askania' stammt vom Familienanwesen der Herzöge in Deutschland.",
+    "significance": "Das Biosphärenreservat Askania-Nova ist von außerordentlicher Bedeutung für die Weltwissenschaft und den Naturschutz. Es ist der einzige Ort in Europa, wo Schwingel-Federgras-Steppe in ihrem ursprünglichen Zustand auf einer so großen Fläche erhalten geblieben ist."
+  },
+
+  "location": {
+    "city": "Askania-Nova",
+    "region": "Kherson Oblast",
+    "address_uk": "смт Асканія-Нова, Чаплинський район, Херсонська область, 75230",
+    "address_en": "Askania-Nova, Chaplynka Raion, Kherson Oblast, 75230",
+    "address_de": "Askania-Nova, Bezirk Chaplynka, Oblast Cherson, 75230",
+    "coordinates": {
+      "latitude": 46.4526,
+      "longitude": 33.8829
+    },
+    "directions_uk": {
+      "general": "Розташований у південній частині Херсонської області, в зоні сухих степів",
+      "publicTransport": "Автобус з Херсона або Нової Каховки до смт Асканія-Нова (щоденно)",
+      "car": "З Києва — 560 км через Дніпро та Каховку (близько 7 годин). З Херсона — 110 км (близько 1,5 години)",
+      "parking": "Безкоштовні парковки біля адміністрації та музею заповідника"
+    },
+    "directions_en": {
+      "general": "Located in the southern part of Kherson Oblast, in the dry steppe zone",
+      "publicTransport": "Bus from Kherson or Nova Kakhovka to Askania-Nova town (daily)",
+      "car": "From Kyiv — 560 km via Dnipro and Kakhovka (about 7 hours). From Kherson — 110 km (about 1.5 hours)",
+      "parking": "Free parking near administration and reserve museum"
+    },
+    "directions_de": {
+      "general": "Im südlichen Teil des Gebiets Cherson, in der Trockensteppenzone gelegen",
+      "publicTransport": "Bus von Cherson oder Nowa Kachowka nach Askania-Nova (täglich)",
+      "car": "Von Kiew — 560 km über Dnipro und Kachowka (ca. 7 Stunden). Von Cherson — 110 km (ca. 1,5 Stunden)",
+      "parking": "Kostenlose Parkplätze in der Nähe der Verwaltung und des Reservatsmuseums"
+    },
+    "nearbyAttractions": [
+      {
+        "name_uk": "Каховське водосховище",
+        "name_en": "Kakhovka Reservoir",
+        "distance": "40 km",
+        "type": "water-reservoir"
+      },
+      {
+        "name_uk": "Чорноморський біосферний заповідник",
+        "name_en": "Black Sea Biosphere Reserve",
+        "distance": "180 km",
+        "type": "biosphere-reserve"
+      }
+    ]
+  },
+
+  "contact": {
+    "phone": "+380 5538 62217",
+    "email": "askania_nova@ukr.net",
+    "website": "http://www.askania-nova-zapo  vidnyk.gov.ua/",
+    "bookingUrl": null,
+    "socialMedia": {
+      "facebook": null,
+      "instagram": null,
+      "youtube": null,
+      "twitter": null
+    }
+  },
+
+  "visitingInformation": {
+    "openingTimes": {
+      "status_uk": "Тимчасово закрито через воєнний стан та окупацію",
+      "status_en": "Temporarily closed due to martial law and occupation",
+      "status_de": "Vorübergehend geschlossen aufgrund des Kriegsrechts und der Besatzung",
+      "seasonal": [
+        {
+          "season_uk": "Квітень - Жовтень (до 2022)",
+          "season_en": "April - October (until 2022)",
+          "season_de": "April - Oktober (bis 2022)",
+          "days_uk": "Щодня",
+          "days_en": "Daily",
+          "days_de": "Täglich",
+          "hours": "09:00 - 18:00",
+          "lastAdmission": "17:00"
+        }
+      ]
+    },
+    "admissionPrices": {
+      "currency": "UAH",
+      "adult": 60,
+      "student": 30,
+      "child": 30,
+      "senior": 30,
+      "family": null,
+      "notes_uk": "Ціни до 2022 року. Заповідник тимчасово закритий.",
+      "notes_en": "Prices until 2022. Reserve temporarily closed.",
+      "notes_de": "Preise bis 2022. Reservat vorübergehend geschlossen."
+    },
+    "tourOptions": [
+      {
+        "type_uk": "Екскурсія степом",
+        "type_en": "Steppe tour",
+        "type_de": "Steppentour",
+        "duration_uk": "2 години",
+        "duration_en": "2 hours",
+        "duration_de": "2 Stunden",
+        "price": 100
+      },
+      {
+        "type_uk": "Екскурсія зоопарком",
+        "type_en": "Zoo tour",
+        "type_de": "Zootour",
+        "duration_uk": "1,5 години",
+        "duration_en": "1.5 hours",
+        "duration_de": "1,5 Stunden",
+        "price": 80
+      }
+    ],
+    "averageVisitDuration_uk": "3-4 години",
+    "averageVisitDuration_en": "3-4 hours",
+    "averageVisitDuration_de": "3-4 Stunden",
+    "busyPeriods_uk": ["Весна (квітень-травень) під час цвітіння тюльпанів", "Літо (червень-серпень)"],
+    "busyPeriods_en": ["Spring (April-May) during tulip blooming", "Summer (June-August)"],
+    "busyPeriods_de": ["Frühling (April-Mai) während der Tulpenblüte", "Sommer (Juni-August)"],
+    "adviceForVisitors_uk": "УВАГА: Заповідник тимчасово закритий через російську окупацію. До визволення території відвідування неможливе. Найкращий час для відвідування (до війни) — весна, коли цвітуть дикі тюльпани та інша степова рослинність.",
+    "adviceForVisitors_en": "ATTENTION: Reserve temporarily closed due to Russian occupation. Visits are impossible until territory liberation. The best time to visit (before the war) was spring, when wild tulips and other steppe vegetation bloom.",
+    "adviceForVisitors_de": "ACHTUNG: Reservat vorübergehend geschlossen aufgrund russischer Besatzung. Besuche sind bis zur Befreiung des Gebiets unmöglich. Die beste Besuchszeit (vor dem Krieg) war der Frühling, wenn wilde Tulpen und andere Steppenvegetation blühen."
+  },
+
+  "features": {
+    "highlights_uk": [
+      "Найстаріший степовий заповідник Європи (з 1898 року)",
+      "Єдиний цілинний степ Європи (11 000 га)",
+      "Біосферний резерват UNESCO (з 1985 року)",
+      "Понад 500 видів судинних рослин",
+      "Унікальна колекція копитних тварин",
+      "Коні Пржевальського — програма порятунку виду",
+      "Дендропарк з 200+ видами дерев",
+      "Зебри, страуси, антилопи у вільному випасі",
+      "Понад 70 видів рослин Червоної книги"
+    ],
+    "highlights_en": [
+      "Europe's oldest steppe reserve (since 1898)",
+      "Europe's only virgin steppe (11,000 ha)",
+      "UNESCO Biosphere Reserve (since 1985)",
+      "Over 500 species of vascular plants",
+      "Unique collection of ungulates",
+      "Przewalski's horses — species rescue program",
+      "Arboretum with 200+ tree species",
+      "Zebras, ostriches, antelopes in free grazing",
+      "Over 70 Red Book plant species"
+    ],
+    "highlights_de": [
+      "Europas ältestes Steppenreservat (seit 1898)",
+      "Europas einzige jungfräuliche Steppe (11.000 ha)",
+      "UNESCO-Biosphärenreservat (seit 1985)",
+      "Über 500 Arten von Gefäßpflanzen",
+      "Einzigartige Sammlung von Huftieren",
+      "Przewalski-Pferde — Artrettungsprogramm",
+      "Arboretum mit 200+ Baumarten",
+      "Zebras, Strauße, Antilopen in freier Beweidung",
+      "Über 70 Pflanzenarten des Roten Buches"
+    ],
+    "facilities_uk": ["Музей природи", "Дендрологічний парк", "Зоологічний парк", "Науковий інститут", "Оглядові майданчики"],
+    "facilities_en": ["Nature Museum", "Dendrological Park", "Zoological Park", "Research Institute", "Observation platforms"],
+    "facilities_de": ["Naturmuseum", "Dendrologischer Park", "Zoologischer Park", "Forschungsinstitut", "Aussichtsplattformen"],
+    "accessibility": {
+      "wheelchairAccessible": false,
+      "notes_uk": "Обмежений доступ для інвалідних візків. Музей та частина дендропарку доступні.",
+      "notes_en": "Limited wheelchair access. Museum and part of arboretum are accessible.",
+      "notes_de": "Eingeschränkter Rollstuhlzugang. Museum und Teil des Arboretums sind zugänglich."
+    },
+    "uniqueSellingPoints_uk": [
+      "Найстаріший степовий заповідник у світі",
+      "Єдиний збережений цілинний степ Європи",
+      "Найбільша колекція Пржевальських коней поза Азією",
+      "Біосферний резерват ЮНЕСКО",
+      "Унікальна програма акліматизації екзотичних тварин у степу"
+    ],
+    "uniqueSellingPoints_en": [
+      "World's oldest steppe reserve",
+      "Europe's only preserved virgin steppe",
+      "Largest Przewalski's horse collection outside Asia",
+      "UNESCO Biosphere Reserve",
+      "Unique program for acclimatizing exotic animals in steppe"
+    ],
+    "uniqueSellingPoints_de": [
+      "Weltältestes Steppenreservat",
+      "Europas einzige erhaltene jungfräuliche Steppe",
+      "Größte Przewalski-Pferdesammlung außerhalb Asiens",
+      "UNESCO-Biosphärenreservat",
+      "Einzigartiges Programm zur Akklimatisierung exotischer Tiere in der Steppe"
+    ]
+  },
+
+  "images": {
+    "heroImage": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Askania_Nova_Landscape.jpg/1280px-Askania_Nova_Landscape.jpg",
+      "alt_uk": "Степовий ландшафт Асканії-Нової з ковилою",
+      "alt_en": "Steppe landscape of Askania-Nova with feather grass",
+      "alt_de": "Steppenlandschaft von Askania-Nova mit Federgras",
+      "caption_uk": "Незаймана ковилова степ — єдиний збережений цілинний степ Європи",
+      "caption_en": "Virgin feather-grass steppe — Europe's only preserved virgin steppe",
+      "caption_de": "Jungfräuliche Federgras-Steppe — Europas einzige erhaltene jungfräuliche Steppe"
+    },
+    "gallery": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Askania-Nova_reserve.jpg/1280px-Askania-Nova_reserve.jpg",
+        "alt_uk": "Коні Пржевальського в Асканії-Нові",
+        "alt_en": "Przewalski's horses in Askania-Nova",
+        "alt_de": "Przewalski-Pferde in Askania-Nova",
+        "caption_uk": "Коні Пржевальського — символ заповідника"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Askania_nova_zebras.jpg/1280px-Askania_nova_zebras.jpg",
+        "alt_uk": "Зебри у вільному випасі",
+        "alt_en": "Zebras in free grazing",
+        "alt_de": "Zebras in freier Beweidung",
+        "caption_uk": "Африканські зебри успішно акліматизовані в українському степу"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Dendrological_park_Askania-Nova.jpg/1280px-Dendrological_park_Askania-Nova.jpg",
+        "alt_uk": "Дендрологічний парк",
+        "alt_en": "Dendrological park",
+        "alt_de": "Dendrologischer Park",
+        "caption_uk": "Дендропарк — оаза серед степу з понад 200 видами дерев"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Tulipa_schrenkii_askania_nova.jpg/1280px-Tulipa_schrenkii_askania_nova.jpg",
+        "alt_uk": "Тюльпани Шренка",
+        "alt_en": "Schrencks tulips",
+        "alt_de": "Schrencks Tulpen",
+        "caption_uk": "Дикі тюльпани Шренка цвітуть навесні"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Bison_bonasus_askania.jpg/1280px-Bison_bonasus_askania.jpg",
+        "alt_uk": "Бізони в заповіднику",
+        "alt_en": "Bison in the reserve",
+        "alt_de": "Bisons im Reservat",
+        "caption_uk": "Стадо бізонів у степу"
+      }
+    ]
+  },
+
+  "historicalData": {
+    "yearBuilt": "1898",
+    "yearBuiltNote_uk": "Заснований Фрідріхом Едуардом Фальц-Фейном у 1898 році",
+    "yearBuiltNote_en": "Founded by Friedrich Eduard Falz-Fein in 1898",
+    "yearBuiltNote_de": "Gegründet von Friedrich Eduard Falz-Fein im Jahr 1898",
+    "architecturalStyle_uk": "Степовий природний ландшафт",
+    "architecturalStyle_en": "Steppe natural landscape",
+    "architecturalStyle_de": "Steppen-Naturlandschaft",
+    "architects": ["Friedrich Eduard Falz-Fein"],
+    "unescoStatus": "biosphere-reserve",
+    "unescoYear": 1985,
+    "nationalHeritageStatus": "Biosphere Reserve",
+    "referenceNumber": null,
+    "managedBy_uk": "Національна академія аграрних наук України",
+    "managedBy_en": "National Academy of Agrarian Sciences of Ukraine",
+    "managedBy_de": "Nationale Akademie der Agrarwissenschaften der Ukraine"
+  },
+
+  "culturalEvents": [],
+
+  "tags": [
+    "biosphere-reserve",
+    "unesco-site",
+    "steppe-ecosystem",
+    "virgin-steppe",
+    "feather-grass",
+    "zoo",
+    "botanical-garden",
+    "arboretum",
+    "przewalski-horses",
+    "wildlife",
+    "exotic-animals",
+    "nature-conservation",
+    "research-center",
+    "kherson-oblast",
+    "eco-tourism",
+    "biodiversity"
+  ],
+
+  "suitableFor_uk": [
+    "Любителі природи",
+    "Біологи та екологи",
+    "Фотографи дикої природи",
+    "Сімейні подорожі",
+    "Шкільні екскурсії",
+    "Науковці",
+    "Орнітологи"
+  ],
+  "suitableFor_en": [
+    "Nature lovers",
+    "Biologists and ecologists",
+    "Wildlife photographers",
+    "Family travel",
+    "School excursions",
+    "Scientists",
+    "Ornithologists"
+  ],
+  "suitableFor_de": [
+    "Naturliebhaber",
+    "Biologen und Ökologen",
+    "Wildtierfotografen",
+    "Familienreisen",
+    "Schulausflüge",
+    "Wissenschaftler",
+    "Ornithologen"
+  ],
+
+  "weatherDependent": true,
+  "indoorActivities": true,
+  "outdoorActivities": true,
+
+  "priceRange": "$",
+  "rating": 4.9,
+  "reviewsCount": 3241,
+  "featured": true,
+  "status": "temporarily-closed",
+
+  "metaDescription_uk": "Біосферний заповідник Асканія-Нова — найстаріший степовий заповідник Європи (1898), єдиний цілинний степ, біосферний резерват UNESCO, унікальний зоопарк з конями Пржевальського.",
+  "metaDescription_en": "Askania-Nova Biosphere Reserve — Europe's oldest steppe reserve (1898), only virgin steppe, UNESCO biosphere reserve, unique zoo with Przewalski's horses.",
+  "metaDescription_de": "Biosphärenreservat Askania-Nova — Europas ältestes Steppenreservat (1898), einzige jungfräuliche Steppe, UNESCO-Biosphärenreservat, einzigartiger Zoo mit Przewalski-Pferden.",
+
+  "keywords": [
+    "Асканія-Нова",
+    "Askania-Nova",
+    "біосферний заповідник",
+    "biosphere reserve",
+    "Biosphärenreservat",
+    "степ",
+    "steppe",
+    "Steppe",
+    "UNESCO",
+    "коні Пржевальського",
+    "Przewalski's horses",
+    "Przewalski-Pferde",
+    "зоопарк",
+    "zoo",
+    "Zoo",
+    "ковила",
+    "feather grass",
+    "Federgras",
+    "природний заповідник",
+    "nature reserve",
+    "Naturschutzgebiet"
+  ],
+
+  "lastUpdated": "2025-11-30",
+  "source": "Wikipedia, Askania-Nova Official Website, UNESCO MAB, Jina AI Research",
+  "verified": true,
+  "warningNote_uk": "УВАГА: Заповідник тимчасово закритий через російську окупацію з 2022 року. Відвідування неможливе до визволення території.",
+  "warningNote_en": "WARNING: Reserve temporarily closed due to Russian occupation since 2022. Visits are impossible until territory liberation.",
+  "warningNote_de": "WARNUNG: Reservat vorübergehend geschlossen aufgrund russischer Besatzung seit 2022. Besuche sind bis zur Befreiung des Gebiets unmöglich."
+}

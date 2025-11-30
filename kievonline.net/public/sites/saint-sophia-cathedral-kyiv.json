@@ -1,0 +1,419 @@
+{
+  "id": "saint-sophia-cathedral-kyiv",
+  "slug": "saint-sophia-cathedral-kyiv",
+
+  "name_uk": "Софійський собор у Києві",
+  "name_en": "Saint-Sophia Cathedral in Kyiv",
+  "name_de": "Sophienkathedrale in Kiew",
+
+  "tagline_uk": "Найдавніша пам'ятка візантійської архітектури XI століття у серці Києва",
+  "tagline_en": "The oldest monument of 11th century Byzantine architecture in the heart of Kyiv",
+  "tagline_de": "Das älteste Denkmal der byzantinischen Architektur des 11. Jahrhunderts im Herzen von Kiew",
+
+  "category": "unesco",
+  "subcategories": ["cathedral", "byzantine-architecture", "mosaics", "museum"],
+  "region": "Kyiv",
+  "oblast": "Kyiv City",
+
+  "description_uk": {
+    "short": "Софійський собор - видатна пам'ятка архітектури та монументального мистецтва початку XI століття, збудована за часів князя Ярослава Мудрого. Собор зберігає найбільшу збережену колекцію мозаїк та фресок XI століття.",
+    "full": "Софійський собор у Києві є одним із найзначніших пам'яток архітектури та монументального мистецтва Київської Русі. Збудований у 1037 році за наказом великого князя Ярослава Мудрого, собор став головним християнським храмом столиці Київської Русі. Його назва 'Софія', що означає 'мудрість', відображає глибоке духовне значення.\n\nАрхітектура собору вирізняється доданими нефами до п'ятинефної основи та пірамідальною просторовою композицією хрестово-купольного храму. Монументальна декорація собору становить ансамбль, унікальний своїм концептуальним дизайном, що відображає основні богословські ідеї того часу. Величезний пантеон християнських святих, зображених у соборі, має неперевершену різноманітність серед візантійських пам'яток того періоду.\n\nСобор зберіг свої стародавні інтер'єри, а колекція мозаїк та фресок XI століття є унікальною за своєю цілісністю. Серед шедеврів - Пантократор, Богоматір Оранта, Причастя апостолів, Деісус та Благовіщення. У XVIII столітті навколо собору збудовано монастирські споруди в стилі українського бароко, включаючи дзвіницю, Митрополичий будинок, трапезну та браму Заборовського.\n\nУ 1990 році Софійський собор разом із Києво-Печерською лаврою було внесено до списку Всесвітньої спадщини ЮНЕСКО.",
+    "history": "Перші письмові згадки про собор датуються 1037 роком, коли великий князь Ярослав Мудрий заклав храм на честь перемоги над печенігами. Будівництво велося за участі місцевих майстрів та візантійських зодчих. Собор став головною церквою Київської Русі, де короновували князів та проводили важливі державні церемонії.\n\nПротягом століть собор неодноразово руйнувався та відновлювався. У 1240 році під час монгольської навали храм було пограбовано, але він не втратив свого значення. У XVII-XVIII століттях собор зазнав значних перебудов у стилі українського бароко під керівництвом митрополита Петра Могили.\n\nУ 1934 році собор було оголошено історико-культурним заповідником. Сьогодні він функціонує як музей і використовується для державних заходів. У 1987 році реставраційні роботи у Софії отримали 'Європейську золоту медаль за охорону пам'яток історії'.",
+    "significance": "Софійський собор є унікальною пам'яткою, що відображає в своїй архітектурі та монументальній декорації особливості церковного устрою. Будівництво собору заклало основу архітектурної школи, що вплинула на культову архітектуру та монументальне мистецтво Київської Русі, а згодом і Східної Європи. Собор має винятковий свідок багатовікових візантійських культурних традицій сусідніх країн та зокрема Київської Русі. Протягом століть пам'ятка мала великий духовний вплив у Східній Європі."
+  },
+
+  "description_en": {
+    "short": "Saint-Sophia Cathedral is an outstanding monument of architecture and monumental art of the early 11th century, built during the reign of Prince Yaroslav the Wise. The Cathedral preserves the largest preserved collection of mosaics and frescoes from the 11th century.",
+    "full": "Saint-Sophia Cathedral in Kyiv is one of the most significant monuments of architecture and monumental art from Kievan Rus'. Built in 1037 by order of Grand Prince Yaroslav the Wise, the Cathedral became the main Christian church of the capital of Kievan Rus'. Its name 'Sophia,' meaning 'wisdom,' reflects its profound spiritual significance.\n\nThe Cathedral's architecture is distinguished by supplementary naves added to the five-nave core and pyramidal spatial composition of the cross-dome church. The monumental decoration of the Cathedral composes an ensemble unique for its conceptual design that reflects the major theological ideas of the time. The huge pantheon of Christian saints depicted in the Cathedral has an unrivaled multiplicity among Byzantine monuments of that period.\n\nThe Cathedral has preserved its ancient interiors, and the collection of mosaics and frescoes of the 11th century is unique for its integrity. Masterpieces include the Pantocrator, the Virgin Orans, the Communion of the Apostles, the Deisis and the Annunciation. In the 18th century, monastic buildings in the Ukrainian Baroque style were built around the Cathedral, including the bell tower, Metropolitan's house, the refectory, and the Zaborovsky gate.\n\nIn 1990, Saint-Sophia Cathedral together with the Kyiv-Pechersk Lavra was inscribed on the UNESCO World Heritage List.",
+    "history": "The first written mentions of the Cathedral date to 1037, when Grand Prince Yaroslav the Wise laid the foundation in honor of victory over the Pechenegs. Construction was carried out with the participation of local builders and Byzantine masters. The Cathedral became the main church of Kievan Rus', where princes were crowned and important state ceremonies were held.\n\nOver the centuries, the Cathedral was repeatedly destroyed and restored. In 1240, during the Mongol invasion, the temple was looted, but it did not lose its significance. In the 17th-18th centuries, the Cathedral underwent significant reconstruction in the Ukrainian Baroque style under the leadership of Metropolitan Petro Mohyla.\n\nIn 1934, the Cathedral was declared a historical-cultural preserve. Today it functions as a museum and is used for state events. In 1987, restoration works at Saint-Sophia received the 'European Gold Medal for the Protection of Historic Monuments'.",
+    "significance": "Saint-Sophia Cathedral is a unique monument that reflects in its architecture and monumental decoration the peculiarities of church order. The construction of the Cathedral laid the foundation of an architectural school that influenced the cult architecture and monumental art of Kievan Rus' and then Eastern Europe. The Cathedral bears exceptional testimony to centuries-old Byzantine cultural traditions of neighboring countries and Kievan Rus' in particular. Over the centuries, the monument had a great spiritual influence in Eastern Europe."
+  },
+
+  "description_de": {
+    "short": "Die Sophienkathedrale ist ein herausragendes Denkmal der Architektur und monumentalen Kunst des frühen 11. Jahrhunderts, erbaut während der Herrschaft von Fürst Jaroslaw dem Weisen. Die Kathedrale bewahrt die größte erhaltene Sammlung von Mosaiken und Fresken aus dem 11. Jahrhundert.",
+    "full": "Die Sophienkathedrale in Kiew ist eines der bedeutendsten Denkmäler der Architektur und monumentalen Kunst der Kiewer Rus. 1037 im Auftrag des Großfürsten Jaroslaw dem Weisen erbaut, wurde die Kathedrale zur Hauptkirche der Hauptstadt der Kiewer Rus. Ihr Name 'Sophia', der 'Weisheit' bedeutet, spiegelt ihre tiefe spirituelle Bedeutung wider.\n\nDie Architektur der Kathedrale zeichnet sich durch zusätzliche Schiffe aus, die dem fünfschiffigen Kern hinzugefügt wurden, und eine pyramidenförmige räumliche Komposition der Kreuzkuppelkirche. Die monumentale Dekoration der Kathedrale bildet ein Ensemble, das durch sein konzeptionelles Design einzigartig ist und die wichtigsten theologischen Ideen der Zeit widerspiegelt.\n\nDie Kathedrale hat ihre antiken Innenräume bewahrt, und die Sammlung von Mosaiken und Fresken aus dem 11. Jahrhundert ist einzigartig in ihrer Integrität. Zu den Meisterwerken gehören der Pantokrator, die Jungfrau Orans, die Kommunion der Apostel, die Deësis und die Verkündigung. Im 18. Jahrhundert wurden um die Kathedrale herum Klostergebäude im ukrainischen Barockstil errichtet.\n\n1990 wurde die Sophienkathedrale zusammen mit dem Kiewer Höhlenkloster in die UNESCO-Welterbeliste aufgenommen.",
+    "history": "Die ersten schriftlichen Erwähnungen der Kathedrale stammen aus dem Jahr 1037, als Großfürst Jaroslaw der Weise das Fundament zu Ehren des Sieges über die Petschenegen legte. Der Bau wurde unter Beteiligung lokaler Baumeister und byzantinischer Meister durchgeführt.",
+    "significance": "Die Sophienkathedrale ist ein einzigartiges Denkmal, das in seiner Architektur und monumentalen Dekoration die Besonderheiten der kirchlichen Ordnung widerspiegelt. Der Bau der Kathedrale legte den Grundstein für eine Architekturschule, die die Kultarchitektur und monumentale Kunst der Kiewer Rus und später Osteuropas beeinflusste."
+  },
+
+  "location": {
+    "city": "Kyiv",
+    "region": "Kyiv City",
+    "address_uk": "вулиця Володимирська, 24, Київ, 01001",
+    "address_en": "24 Volodymyrska Street, Kyiv, 01001",
+    "address_de": "Wolodymyrska-Straße 24, Kiew, 01001",
+    "coordinates": {
+      "latitude": 50.4525,
+      "longitude": 30.5147
+    },
+    "directions_uk": {
+      "general": "Розташований у центрі Києва на Софійській площі поруч з Майданом Незалежності",
+      "publicTransport": "Метро: станція 'Золоті Ворота' або 'Майдан Незалежності'. Від станції 10-15 хвилин пішки",
+      "car": "З центру міста легко дістатися автомобілем. Парковка обмежена біля собору",
+      "parking": "Платна парковка на вулиці Володимирській та прилеглих вулицях"
+    },
+    "directions_en": {
+      "general": "Located in the center of Kyiv at Sofiyska Square near Independence Square",
+      "publicTransport": "Metro: Zoloti Vorota (Golden Gate) or Maidan Nezalezhnosti stations. 10-15 minutes walk from stations",
+      "car": "Easily accessible by car from the city center. Limited parking near the cathedral",
+      "parking": "Paid parking on Volodymyrska Street and adjacent streets"
+    },
+    "directions_de": {
+      "general": "Im Zentrum von Kiew am Sofiyska-Platz in der Nähe des Unabhängigkeitsplatzes gelegen",
+      "publicTransport": "Metro: Stationen Zoloti Vorota (Goldenes Tor) oder Maidan Nezalezhnosti. 10-15 Minuten zu Fuß von den Stationen",
+      "car": "Vom Stadtzentrum aus leicht mit dem Auto erreichbar. Begrenzte Parkplätze in der Nähe der Kathedrale",
+      "parking": "Kostenpflichtiger Parkplatz in der Wolodymyrska-Straße und angrenzenden Straßen"
+    },
+    "nearbyAttractions": [
+      {
+        "name_uk": "Михайлівський Золотоверхий монастир",
+        "name_en": "St. Michael's Golden-Domed Monastery",
+        "distance": "0.5 km",
+        "type": "monastery"
+      },
+      {
+        "name_uk": "Золоті ворота",
+        "name_en": "Golden Gate",
+        "distance": "0.4 km",
+        "type": "monument"
+      },
+      {
+        "name_uk": "Андріївська церква",
+        "name_en": "St. Andrew's Church",
+        "distance": "1.2 km",
+        "type": "church"
+      }
+    ]
+  },
+
+  "contact": {
+    "phone": "+380 44 278 1662",
+    "email": "info@st-sophia.org.ua",
+    "website": "https://st-sophia.org.ua",
+    "bookingUrl": null,
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/SophiaKyiv/",
+      "instagram": "https://www.instagram.com/sophia_of_kyiv/",
+      "youtube": "https://www.youtube.com/channel/UCtOUkcbnN8bMmNF5G8lDhQg",
+      "twitter": null
+    }
+  },
+
+  "visitingInformation": {
+    "openingTimes": {
+      "status_uk": "Відкрито цілий рік",
+      "status_en": "Open year-round",
+      "status_de": "Ganzjährig geöffnet",
+      "seasonal": [
+        {
+          "season_uk": "Весь рік",
+          "season_en": "All year",
+          "season_de": "Das ganze Jahr",
+          "days_uk": "Щодня",
+          "days_en": "Daily",
+          "days_de": "Täglich",
+          "hours": "10:00 - 17:00",
+          "lastAdmission": "16:30"
+        }
+      ]
+    },
+    "admissionPrices": {
+      "currency": "UAH",
+      "adult": 120,
+      "student": 30,
+      "child": 30,
+      "senior": 30,
+      "family": null,
+      "notes_uk": "Діти до 7 років - безкоштовно. Дзвіниця - додатково 50 грн",
+      "notes_en": "Children under 7 - free. Bell Tower - additional 50 UAH",
+      "notes_de": "Kinder unter 7 Jahren - kostenlos. Glockenturm - zusätzlich 50 UAH"
+    },
+    "tourOptions": [
+      {
+        "type_uk": "Самостійний огляд",
+        "type_en": "Self-guided tour",
+        "type_de": "Selbstgeführte Tour",
+        "duration_uk": "1-2 години",
+        "duration_en": "1-2 hours",
+        "duration_de": "1-2 Stunden",
+        "price": 0
+      },
+      {
+        "type_uk": "Екскурсія з гідом українською",
+        "type_en": "Guided tour in Ukrainian",
+        "type_de": "Führung auf Ukrainisch",
+        "duration_uk": "1.5 години",
+        "duration_en": "1.5 hours",
+        "duration_de": "1,5 Stunden",
+        "price": 500,
+        "groupSize": "до 20 осіб / up to 20 people / bis 20 Personen"
+      },
+      {
+        "type_uk": "Екскурсія англійською/німецькою",
+        "type_en": "Guided tour in English/German",
+        "type_de": "Führung auf Englisch/Deutsch",
+        "duration_uk": "1.5 години",
+        "duration_en": "1.5 hours",
+        "duration_de": "1,5 Stunden",
+        "price": 700,
+        "groupSize": "до 20 осіб / up to 20 people / bis 20 Personen"
+      }
+    ],
+    "averageVisitDuration_uk": "1.5-2 години",
+    "averageVisitDuration_en": "1.5-2 hours",
+    "averageVisitDuration_de": "1,5-2 Stunden",
+    "busyPeriods_uk": ["Вихідні дні", "Літні місяці (червень-серпень)", "Державні свята"],
+    "busyPeriods_en": ["Weekends", "Summer months (June-August)", "National holidays"],
+    "busyPeriods_de": ["Wochenenden", "Sommermonate (Juni-August)", "Nationale Feiertage"],
+    "adviceForVisitors_uk": "Скромний одяг обов'язковий. Фотографування всередині собору може бути обмежено. Рекомендуємо відвідати дзвіницю для панорамних видів на Київ. Краще приходити в будні ранком для менших черг.",
+    "adviceForVisitors_en": "Modest dress is required. Photography inside the cathedral may be restricted. We recommend visiting the bell tower for panoramic views of Kyiv. Best to come on weekday mornings for smaller crowds.",
+    "adviceForVisitors_de": "Bescheidene Kleidung ist erforderlich. Das Fotografieren innerhalb der Kathedrale kann eingeschränkt sein. Wir empfehlen einen Besuch des Glockenturms für einen Panoramablick auf Kiew. Am besten an Wochtagmorgen für kleinere Menschenmengen kommen."
+  },
+
+  "features": {
+    "highlights_uk": [
+      "Найбільша збережена колекція мозаїк та фресок XI століття",
+      "Богоматір Оранта - головна мозаїка в апсиді",
+      "13 золотих куполів",
+      "Дзвіниця з панорамним оглядовим майданчиком",
+      "Об'єкт Всесвітньої спадщини ЮНЕСКО (1990)",
+      "Автентична візантійська архітектура XI століття",
+      "Унікальні світські фрески у вежах"
+    ],
+    "highlights_en": [
+      "Largest preserved collection of 11th century mosaics and frescoes",
+      "Virgin Orans - main mosaic in the apse",
+      "13 golden domes",
+      "Bell tower with panoramic observation deck",
+      "UNESCO World Heritage Site (1990)",
+      "Authentic 11th century Byzantine architecture",
+      "Unique secular frescoes in the towers"
+    ],
+    "highlights_de": [
+      "Größte erhaltene Sammlung von Mosaiken und Fresken aus dem 11. Jahrhundert",
+      "Jungfrau Orans - Hauptmosaik in der Apsis",
+      "13 goldene Kuppeln",
+      "Glockenturm mit Panorama-Aussichtsplattform",
+      "UNESCO-Weltkulturerbe (1990)",
+      "Authentische byzantinische Architektur des 11. Jahrhunderts",
+      "Einzigartige weltliche Fresken in den Türmen"
+    ],
+    "facilities_uk": ["Музей", "Сувенірний магазин", "Туалети", "Аудіогіди", "Дзвіниця з оглядовим майданчиком"],
+    "facilities_en": ["Museum", "Gift shop", "Toilets", "Audio guides", "Bell tower with observation deck"],
+    "facilities_de": ["Museum", "Souvenirladen", "Toiletten", "Audioguides", "Glockenturm mit Aussichtsplattform"],
+    "accessibility": {
+      "wheelchairAccessible": false,
+      "notes_uk": "Обмежений доступ для інвалідних візків через історичну архітектуру. Основний рівень собору доступний, але дзвіниця недоступна для візків.",
+      "notes_en": "Limited wheelchair access due to historic architecture. Main level of cathedral accessible, but bell tower not accessible for wheelchairs.",
+      "notes_de": "Eingeschränkter Rollstuhlzugang aufgrund historischer Architektur. Hauptebene der Kathedrale zugänglich, aber Glockenturm für Rollstühle nicht zugänglich."
+    },
+    "uniqueSellingPoints_uk": [
+      "Найстаріша пам'ятка Київської Русі",
+      "Унікальна колекція візантійських мозаїк XI століття",
+      "Місце коронації київських князів",
+      "Символ українського національного відродження",
+      "Перший об'єкт ЮНЕСКО в Україні"
+    ],
+    "uniqueSellingPoints_en": [
+      "Oldest monument of Kievan Rus",
+      "Unique collection of 11th century Byzantine mosaics",
+      "Coronation site of Kyiv princes",
+      "Symbol of Ukrainian national revival",
+      "First UNESCO site in Ukraine"
+    ],
+    "uniqueSellingPoints_de": [
+      "Ältestes Denkmal der Kiewer Rus",
+      "Einzigartige Sammlung byzantinischer Mosaiken des 11. Jahrhunderts",
+      "Krönungsstätte der Kiewer Fürsten",
+      "Symbol der ukrainischen nationalen Wiederbelebung",
+      "Erste UNESCO-Stätte in der Ukraine"
+    ]
+  },
+
+  "images": {
+    "heroImage": {
+      "url": "https://whc.unesco.org/uploads/thumbs/site_0527_0047-400-400-20241211170532.webp",
+      "alt_uk": "Софійський собор у Києві",
+      "alt_en": "Saint-Sophia Cathedral in Kyiv",
+      "alt_de": "Sophienkathedrale in Kiew",
+      "caption_uk": "Золоті куполи Софійського собору - символ Києва",
+      "caption_en": "Golden domes of Saint-Sophia Cathedral - symbol of Kyiv",
+      "caption_de": "Goldene Kuppeln der Sophienkathedrale - Symbol von Kiew"
+    },
+    "gallery": [
+      {
+        "url": "https://whc.unesco.org/uploads/thumbs/site_0527_0042-40-40-20241211170459.webp",
+        "alt_uk": "Інтер'єр Софійського собору",
+        "alt_en": "Interior of Saint-Sophia Cathedral",
+        "alt_de": "Innenraum der Sophienkathedrale",
+        "caption_uk": "Мозаїки та фрески XI століття всередині собору"
+      },
+      {
+        "url": "https://whc.unesco.org/uploads/thumbs/site_0527_0041-40-40-20241211170458.webp",
+        "alt_uk": "Богоматір Оранта",
+        "alt_en": "Virgin Orans",
+        "alt_de": "Jungfrau Orans",
+        "caption_uk": "Головна мозаїка в апсиді собору"
+      },
+      {
+        "url": "https://whc.unesco.org/uploads/thumbs/site_0527_0043-40-40-20241211170459.webp",
+        "alt_uk": "Дзвіниця Софійського собору",
+        "alt_en": "Bell Tower of Saint-Sophia Cathedral",
+        "alt_de": "Glockenturm der Sophienkathedrale",
+        "caption_uk": "Барокова дзвіниця XVIII століття"
+      },
+      {
+        "url": "https://whc.unesco.org/uploads/thumbs/site_0527_0044-40-40-20241211170500.webp",
+        "alt_uk": "Софійська площа",
+        "alt_en": "Sofiyska Square",
+        "alt_de": "Sofiyska-Platz",
+        "caption_uk": "Монастирський комплекс навколо собору"
+      },
+      {
+        "url": "https://whc.unesco.org/uploads/thumbs/site_0527_0045-40-40-20241211170501.webp",
+        "alt_uk": "Мозаїки Софійського собору",
+        "alt_en": "Mosaics of Saint-Sophia Cathedral",
+        "alt_de": "Mosaiken der Sophienkathedrale",
+        "caption_uk": "Унікальні візантійські мозаїки XI століття"
+      }
+    ]
+  },
+
+  "historicalData": {
+    "yearBuilt": "1037",
+    "yearBuiltNote_uk": "Заснований великим князем Ярославом Мудрим у 1037 році",
+    "yearBuiltNote_en": "Founded by Grand Prince Yaroslav the Wise in 1037",
+    "yearBuiltNote_de": "Gegründet von Großfürst Jaroslaw dem Weisen im Jahr 1037",
+    "architecturalStyle_uk": "Візантійська архітектура, Українське бароко (XVIII ст.)",
+    "architecturalStyle_en": "Byzantine architecture, Ukrainian Baroque (18th century)",
+    "architecturalStyle_de": "Byzantinische Architektur, Ukrainisches Barock (18. Jahrhundert)",
+    "architects": [
+      {
+        "name": "Невідомі візантійські та місцеві майстри / Unknown Byzantine and local masters / Unbekannte byzantinische und lokale Meister",
+        "period": "1037",
+        "contribution_uk": "Будівництво головного собору",
+        "contribution_en": "Construction of the main cathedral",
+        "contribution_de": "Bau der Hauptkathedrale"
+      },
+      {
+        "name": "Петро Могила (Petro Mohyla)",
+        "period": "XVII ст. / 17th c. / 17. Jh.",
+        "contribution_uk": "Реставрація та барокова перебудова",
+        "contribution_en": "Restoration and Baroque reconstruction",
+        "contribution_de": "Restaurierung und barocker Umbau"
+      }
+    ],
+    "unescoStatus": "inscribed",
+    "unescoYear": 1990,
+    "unescoCriteria": ["i", "ii", "iii", "iv"],
+    "nationalHeritageStatus": "National Monument of Ukraine",
+    "referenceNumber": "527",
+    "managedBy_uk": "Національний заповідник 'Софія Київська'",
+    "managedBy_en": "National Conservation Area 'Saint-Sophia of Kyiv'",
+    "managedBy_de": "Nationales Schutzgebiet 'Sophienkathedrale von Kiew'"
+  },
+
+  "culturalEvents": [
+    {
+      "name_uk": "Міжнародний музичний фестиваль",
+      "name_en": "International Music Festival",
+      "name_de": "Internationales Musikfestival",
+      "period_uk": "Травень-червень",
+      "period_en": "May-June",
+      "period_de": "Mai-Juni",
+      "description_uk": "Концерти класичної музики у стінах собору",
+      "description_en": "Classical music concerts within the cathedral walls",
+      "description_de": "Klassische Musikkonzerte in den Wänden der Kathedrale"
+    },
+    {
+      "name_uk": "День міста Києва",
+      "name_en": "Kyiv City Day",
+      "name_de": "Kiewer Stadttag",
+      "period_uk": "Останні вихідні травня",
+      "period_en": "Last weekend of May",
+      "period_de": "Letztes Wochenende im Mai",
+      "description_uk": "Святкові заходи біля собору",
+      "description_en": "Festive events near the cathedral",
+      "description_de": "Festliche Veranstaltungen in der Nähe der Kathedrale"
+    }
+  ],
+
+  "tags": [
+    "unesco",
+    "cathedral",
+    "byzantine",
+    "kyiv",
+    "mosaics",
+    "frescoes",
+    "yaroslav-the-wise",
+    "kievan-rus",
+    "architecture",
+    "museum",
+    "bell-tower",
+    "world-heritage",
+    "11th-century",
+    "orthodox",
+    "baroque"
+  ],
+
+  "suitableFor_uk": [
+    "Любителі історії",
+    "Поціновувачі архітектури",
+    "Сімейні подорожі",
+    "Фотографи",
+    "Паломники",
+    "Шкільні екскурсії"
+  ],
+  "suitableFor_en": [
+    "History enthusiasts",
+    "Architecture lovers",
+    "Family travel",
+    "Photographers",
+    "Pilgrims",
+    "School excursions"
+  ],
+  "suitableFor_de": [
+    "Geschichtsinteressierte",
+    "Architekturliebhaber",
+    "Familienreisen",
+    "Fotografen",
+    "Pilger",
+    "Schulausflüge"
+  ],
+
+  "weatherDependent": false,
+  "indoorActivities": true,
+  "outdoorActivities": true,
+
+  "priceRange": "$$",
+  "rating": 4.8,
+  "reviewsCount": 8547,
+  "featured": true,
+  "status": "published",
+
+  "metaDescription_uk": "Софійський собор у Києві - об'єкт ЮНЕСКО з унікальними мозаїками XI століття. Відкрийте найстарішу пам'ятку візантійської архітектури у серці України.",
+  "metaDescription_en": "Saint-Sophia Cathedral in Kyiv - UNESCO site with unique 11th century mosaics. Discover the oldest Byzantine architecture monument in the heart of Ukraine.",
+  "metaDescription_de": "Sophienkathedrale in Kiew - UNESCO-Stätte mit einzigartigen Mosaiken aus dem 11. Jahrhundert. Entdecken Sie das älteste byzantinische Architekturdenkmal im Herzen der Ukraine.",
+
+  "keywords": [
+    "Софійський собор",
+    "Saint-Sophia Cathedral",
+    "Київ",
+    "Kyiv",
+    "Kiev",
+    "ЮНЕСКО",
+    "UNESCO",
+    "Візантійська архітектура",
+    "Byzantine architecture",
+    "мозаїки",
+    "mosaics",
+    "Ярослав Мудрий",
+    "Yaroslav the Wise",
+    "Київська Русь",
+    "Kievan Rus"
+  ],
+
+  "lastUpdated": "2025-11-30",
+  "source": "UNESCO World Heritage Centre, Official Saint-Sophia Cathedral website, Historical research",
+  "verified": true
+}

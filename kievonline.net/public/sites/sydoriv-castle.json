@@ -1,0 +1,359 @@
+{
+  "id": "sydoriv-castle",
+  "slug": "sydoriv-castle",
+  "name_uk": "Сидорівський замок",
+  "name_en": "Sydoriv Castle",
+  "name_de": "Burg Sydoriv",
+
+  "tagline_uk": "Романтичні руїни фортеці на скелях над річкою",
+  "tagline_en": "Romantic fortress ruins perched on cliffs above the river",
+  "tagline_de": "Romantische Festungsruinen auf Klippen über dem Fluss",
+
+  "category": "castle",
+  "subcategories": ["fortress", "ruins", "medieval-architecture", "historical-monument"],
+  "region": "Husiatyn",
+  "oblast": "Ternopil Oblast",
+
+  "description_uk": {
+    "short": "Сидорівський замок — руїни оборонної твердині XVII століття, побудованої Мартіном Калиновським. Фортеця розташована на скелястому пагорбі, оточеному з трьох боків річкою Сухід, за 7 км на південь від Гусятина.",
+    "full": "Сидорівський замок є однією з найцікавіших фортечних споруд Тернопільщини, побудованою у 1640-х роках польським магнатом Мартіном Калиновським. Фортеця займає унікальне стратегічне розташування на вершині пагорба, з трьох боків омиваного річкою Сухід. Природне укріплення робило замок майже неприступним.\n\nФортеця мала вузьку витягнуту форму довжиною 178 метрів при ширині лише 30 метрів у найширшому місці. Первісно замок налічував сім веж, що захищали оборонні мури завтовшки до двох метрів. Найкраще збереглася західна вежа, яка прикрашена кам'яною плитою з викарбуваною латинською написом про історію замку.\n\nУ 1672 році під час турецької навали Сидорівський замок був захоплений військами Османської імперії разом з більшою частиною Поділля. Після звільнення території замок був покинутий його власниками Калиновськими, які у 1718 році спробували його відновити, але модні тенденції XVIII століття зробили життя в сирих замкових кімнатах непривабливим.\n\nСьогодні від грізної фортеці залишилися живописні руїни, що приваблюють численних туристів. Північно-західна частина замку з бастіонними укріпленнями та житловими спорудами збереглася найкраще.",
+    "history": "Будівництво Сидорівського замку розпочалося близько 1640 року за ініціативи Мартіна Калиновського (1605–1652), польського магната та військового діяча. Місце для фортеці було обране надзвичайно вдало: високе плато омивалося з трьох боків річкою Сухід, а з четвертого боку були зведені потужні бастіонні укріплення.\n\nПротягом XVII століття замок відігравав важливу оборонну роль, захищаючи Поділля від татарських та турецьких набігів. У 1672 році під час польсько-турецької війни фортеця була захоплена османськими військами і залишалася під їхнім контролем протягом 27 років. Це захоплення завдало замку значних руйнувань.\n\nУ 1718 році нащадки Калиновських спробували відновити замок, але реконструкція не була завершена. Епоха Просвітництва XVIII століття зробила середньовічні фортеці непопулярними як місця проживання, і замок був остаточно покинутий.\n\nУ XIX столітті Сидорівський замок перетворився на мальовничі руїни. У найгіршому стані опинилася південно-східна частина фортеці — за місцевими переказами, наприкінці 1960-х років голова колгоспу розпорядився підірвати одну з веж. У XXI столітті замок залишається атмосферним історичним пам'ятником, що потребує охорони та збереження.",
+    "significance": "Сидорівський замок є унікальною пам'яткою оборонної архітектури XVII століття, що демонструє майстерність використання природного рельєфу для фортифікаційних цілей. Вузька витягнута планувальна структура замку, що повторює форму пагорба, є рідкісною для української замкової архітектури.\n\nФортеця має важливе значення як свідок польсько-турецького протистояння на Поділлі та османського панування в регіоні. Написи на західній вежі зберігають цінну історичну інформацію про будівництво та призначення замку.\n\nСидорівський замок входить до переліку пам'яток архітектури національного значення України. Його живописне розташування та романтичні руїни роблять замок популярним туристичним об'єктом Тернопільщини та важливим елементом культурної спадщини Подільського краю."
+  },
+
+  "description_en": {
+    "short": "Sydoriv Castle is the ruins of a 17th-century defensive stronghold built by Marcin Kalinowski. The fortress is located on a rocky hill surrounded on three sides by the Sukhid River, 7 km south of Husiatyn.",
+    "full": "Sydoriv Castle is one of the most interesting fortifications in Ternopil region, built in the 1640s by Polish magnate Marcin Kalinowski. The fortress occupies a unique strategic location atop a hill, washed by the Sukhid River on three sides. Natural fortification made the castle almost impregnable.\n\nThe fortress had a narrow elongated shape, 178 meters long and only 30 meters wide at its widest point. Originally, the castle had seven towers protecting defensive walls up to two meters thick. The western tower is best preserved and decorated with a stone slab inscribed with Latin text about the castle's history.\n\nIn 1672, during the Turkish invasion, Sydoriv Castle was captured by Ottoman Empire forces along with most of Podolia. After liberation, the castle was abandoned by its owners, the Kalinowski family, who attempted restoration in 1718, but 18th-century fashion trends made living in damp castle rooms unappealing.\n\nToday, picturesque ruins remain of the formidable fortress, attracting numerous tourists. The northwestern part of the castle with bastioned fortifications and residential structures is best preserved.",
+    "history": "Construction of Sydoriv Castle began around 1640 at the initiative of Marcin Kalinowski (1605–1652), a Polish magnate and military leader. The location for the fortress was chosen exceptionally well: a high plateau was washed by the Sukhid River on three sides, while powerful bastioned fortifications were erected on the fourth side.\n\nThroughout the 17th century, the castle played an important defensive role, protecting Podolia from Tatar and Turkish raids. In 1672, during the Polish-Turkish War, the fortress was captured by Ottoman forces and remained under their control for 27 years. This capture caused significant damage to the castle.\n\nIn 1718, Kalinowski descendants attempted to restore the castle, but reconstruction was not completed. The Enlightenment era of the 18th century made medieval fortresses unpopular as residences, and the castle was finally abandoned.\n\nIn the 19th century, Sydoriv Castle transformed into picturesque ruins. The southeastern part of the fortress suffered worst condition — according to local legends, in the late 1960s, the collective farm chairman ordered one of the towers to be blown up. In the 21st century, the castle remains an atmospheric historical monument requiring protection and preservation.",
+    "significance": "Sydoriv Castle is a unique monument of 17th-century defensive architecture demonstrating masterful use of natural terrain for fortification purposes. The narrow elongated planning structure of the castle, following the hill's shape, is rare for Ukrainian castle architecture.\n\nThe fortress holds important significance as a witness to Polish-Turkish confrontation in Podolia and Ottoman rule in the region. Inscriptions on the western tower preserve valuable historical information about the castle's construction and purpose.\n\nSydoriv Castle is included in the list of national architectural monuments of Ukraine. Its picturesque location and romantic ruins make the castle a popular tourist attraction in Ternopil region and an important element of Podolia's cultural heritage."
+  },
+
+  "description_de": {
+    "short": "Die Burg Sydoriv ist die Ruine einer Verteidigungsfestung aus dem 17. Jahrhundert, die von Marcin Kalinowski erbaut wurde. Die Festung liegt auf einem felsigen Hügel, der auf drei Seiten vom Fluss Sukhid umgeben ist, 7 km südlich von Husiatyn.",
+    "full": "Die Burg Sydoriv ist eine der interessantesten Befestigungen in der Region Ternopil, die in den 1640er Jahren vom polnischen Magnaten Marcin Kalinowski erbaut wurde. Die Festung nimmt eine einzigartige strategische Lage auf einem Hügel ein, der auf drei Seiten vom Fluss Sukhid umspült wird. Die natürliche Befestigung machte die Burg fast uneinnehmbar.\n\nDie Festung hatte eine schmale, langgestreckte Form, 178 Meter lang und nur 30 Meter breit an der breitesten Stelle. Ursprünglich hatte die Burg sieben Türme, die Verteidigungsmauern bis zu zwei Meter dick schützten. Der westliche Turm ist am besten erhalten und mit einer Steinplatte verziert, die lateinischen Text über die Geschichte der Burg enthält.\n\n1672, während der türkischen Invasion, wurde die Burg Sydoriv von den Streitkräften des Osmanischen Reiches zusammen mit dem größten Teil Podoliens erobert. Nach der Befreiung wurde die Burg von ihren Besitzern, der Familie Kalinowski, verlassen, die 1718 einen Restaurierungsversuch unternahmen, aber die Modetrends des 18. Jahrhunderts machten das Leben in feuchten Burgräumen unattraktiv.\n\nHeute bleiben malerische Ruinen der gewaltigen Festung übrig, die zahlreiche Touristen anziehen. Der nordwestliche Teil der Burg mit bastionären Befestigungen und Wohngebäuden ist am besten erhalten.",
+    "history": "Der Bau der Burg Sydoriv begann um 1640 auf Initiative von Marcin Kalinowski (1605–1652), einem polnischen Magnaten und Militärführer. Der Standort für die Festung wurde außergewöhnlich gut gewählt: Ein hohes Plateau wurde auf drei Seiten vom Fluss Sukhid umspült, während auf der vierten Seite mächtige bastionäre Befestigungen errichtet wurden.\n\nIm 17. Jahrhundert spielte die Burg eine wichtige Verteidigungsrolle und schützte Podolien vor tatarischen und türkischen Überfällen. 1672, während des polnisch-türkischen Krieges, wurde die Festung von osmanischen Streitkräften erobert und blieb 27 Jahre unter ihrer Kontrolle. Diese Eroberung verursachte erhebliche Schäden an der Burg.\n\n1718 versuchten die Nachkommen Kalinowskis, die Burg wiederherzustellen, aber die Rekonstruktion wurde nicht abgeschlossen. Die Aufklärungszeit des 18. Jahrhunderts machte mittelalterliche Festungen als Wohnsitze unpopulär, und die Burg wurde endgültig aufgegeben.",
+    "significance": "Die Burg Sydoriv ist ein einzigartiges Denkmal der Verteidigungsarchitektur des 17. Jahrhunderts und demonstriert die meisterhafte Nutzung des natürlichen Geländes für Befestigungszwecke. Die schmale, langgestreckte Planungsstruktur der Burg, die der Form des Hügels folgt, ist selten für die ukrainische Burgarchitektur."
+  },
+
+  "location": {
+    "city": "Sydoriv",
+    "region": "Ternopil Oblast",
+    "address_uk": "село Сидорів, Гусятинський район, Тернопільська область",
+    "address_en": "Sydoriv village, Husiatyn Raion, Ternopil Oblast",
+    "address_de": "Dorf Sydoriv, Bezirk Husiatyn, Oblast Ternopil",
+    "coordinates": {
+      "latitude": 49.00750,
+      "longitude": 26.17000
+    },
+    "directions_uk": {
+      "general": "Розташований в селі Сидорів, за 7 км на південь від Гусятина",
+      "publicTransport": "Автобусом або маршруткою з Гусятина до села Сидорів, далі пішки 10-15 хвилин до замку",
+      "car": "З Тернополя — 90 км по трасі Т-2018 через Гусятин (близько 1.5 години). З Чернівців — 95 км через Заліщики (близько 1.5 години)",
+      "parking": "Безкоштовна парковка біля села, далі пішки до замкових руїн"
+    },
+    "directions_en": {
+      "general": "Located in Sydoriv village, 7 km south of Husiatyn",
+      "publicTransport": "Bus or minibus from Husiatyn to Sydoriv village, then 10-15 minutes walk to the castle",
+      "car": "From Ternopil - 90 km via T-2018 road through Husiatyn (about 1.5 hours). From Chernivtsi - 95 km through Zalishchyky (about 1.5 hours)",
+      "parking": "Free parking near the village, then walk to castle ruins"
+    },
+    "directions_de": {
+      "general": "Im Dorf Sydoriv, 7 km südlich von Husiatyn gelegen",
+      "publicTransport": "Bus oder Minibus von Husiatyn zum Dorf Sydoriv, dann 10-15 Minuten zu Fuß zur Burg",
+      "car": "Von Ternopil - 90 km über die Straße T-2018 durch Husiatyn (ca. 1,5 Stunden). Von Czernowitz - 95 km über Zalishchyky (ca. 1,5 Stunden)",
+      "parking": "Kostenloser Parkplatz in der Nähe des Dorfes, dann zu Fuß zu den Burgruinen"
+    },
+    "nearbyAttractions": [
+      {
+        "name_uk": "Барокова церква Святої Трійці",
+        "name_en": "Baroque Church of Holy Trinity",
+        "distance": "0.5 км",
+        "type": "church"
+      },
+      {
+        "name_uk": "Каньйон Дністра",
+        "name_en": "Dniester Canyon",
+        "distance": "1 км",
+        "type": "natural-park"
+      },
+      {
+        "name_uk": "Гусятин",
+        "name_en": "Husiatyn",
+        "distance": "7 км",
+        "type": "town"
+      }
+    ]
+  },
+
+  "contact": {
+    "phone": null,
+    "email": null,
+    "website": null,
+    "bookingUrl": null,
+    "socialMedia": {
+      "facebook": null,
+      "instagram": null,
+      "youtube": null
+    }
+  },
+
+  "visitingInformation": {
+    "openingTimes": {
+      "status_uk": "Відкрито цілий рік (руїни під відкритим небом)",
+      "status_en": "Open year-round (open-air ruins)",
+      "status_de": "Ganzjährig geöffnet (Freiluftruinen)",
+      "seasonal": [
+        {
+          "season_uk": "Цілий рік",
+          "season_en": "Year-round",
+          "season_de": "Ganzjährig",
+          "days_uk": "Щодня",
+          "days_en": "Daily",
+          "days_de": "Täglich",
+          "hours": "24/7",
+          "lastAdmission": null
+        }
+      ]
+    },
+    "admissionPrices": {
+      "currency": "UAH",
+      "adult": 0,
+      "student": 0,
+      "child": 0,
+      "senior": 0,
+      "family": 0,
+      "notes_uk": "Безкоштовний вхід. Руїни під відкритим небом.",
+      "notes_en": "Free admission. Open-air ruins.",
+      "notes_de": "Freier Eintritt. Freiluftruinen."
+    },
+    "tourOptions": [
+      {
+        "type_uk": "Самостійний огляд",
+        "type_en": "Self-guided tour",
+        "type_de": "Selbstgeführte Tour",
+        "duration_uk": "30-60 хвилин",
+        "duration_en": "30-60 minutes",
+        "duration_de": "30-60 Minuten",
+        "price": 0
+      }
+    ],
+    "averageVisitDuration_uk": "30-60 хвилин",
+    "averageVisitDuration_en": "30-60 minutes",
+    "averageVisitDuration_de": "30-60 Minuten",
+    "busyPeriods_uk": ["Літні вихідні", "Свята", "Червень-серпень"],
+    "busyPeriods_en": ["Summer weekends", "Holidays", "June-August"],
+    "busyPeriods_de": ["Sommerwochenenden", "Feiertage", "Juni-August"],
+    "adviceForVisitors_uk": "Взуйте зручне взуття для ходіння по нерівній місцевості. Будьте обережні на руїнах — деякі частини можуть бути нестабільними. Найкращий час для відвідування — весна або осінь. Візьміть воду та сонцезахисний крем влітку.",
+    "adviceForVisitors_en": "Wear comfortable shoes for walking on uneven terrain. Be careful on the ruins - some parts may be unstable. Best time to visit is spring or autumn. Bring water and sunscreen in summer.",
+    "adviceForVisitors_de": "Tragen Sie bequeme Schuhe zum Gehen auf unebenem Gelände. Seien Sie vorsichtig auf den Ruinen - einige Teile können instabil sein. Beste Besuchszeit ist Frühling oder Herbst. Bringen Sie im Sommer Wasser und Sonnenschutzmittel mit."
+  },
+
+  "features": {
+    "highlights_uk": [
+      "Західна вежа з латинським написом про історію замку",
+      "Живописне розташування на скелях над річкою Сухід",
+      "Унікальна вузька витягнута планувальна структура",
+      "Залишки бастіонних укріплень XVII століття",
+      "Панорамні види на Дністровський каньйон",
+      "Атмосферні романтичні руїни",
+      "Історія турецького захоплення 1672 року"
+    ],
+    "highlights_en": [
+      "Western tower with Latin inscription about castle history",
+      "Picturesque location on cliffs above Sukhid River",
+      "Unique narrow elongated planning structure",
+      "Remains of 17th-century bastioned fortifications",
+      "Panoramic views of Dniester Canyon",
+      "Atmospheric romantic ruins",
+      "History of Turkish capture in 1672"
+    ],
+    "highlights_de": [
+      "Westturm mit lateinischer Inschrift über die Burggeschichte",
+      "Malerische Lage auf Klippen über dem Fluss Sukhid",
+      "Einzigartige schmale, langgestreckte Planungsstruktur",
+      "Überreste von bastionären Befestigungen aus dem 17. Jahrhundert",
+      "Panoramablick auf die Dnjestr-Schlucht",
+      "Atmosphärische romantische Ruinen",
+      "Geschichte der türkischen Eroberung 1672"
+    ],
+    "facilities_uk": [],
+    "facilities_en": [],
+    "facilities_de": [],
+    "accessibility": {
+      "wheelchairAccessible": false,
+      "notes_uk": "Замок розташований на скелястому пагорбі з крутими підйомами, що робить його недоступним для інвалідних візків. Нерівна місцевість та руїни створюють труднощі для відвідувачів з обмеженою мобільністю.",
+      "notes_en": "The castle is located on a rocky hill with steep ascents, making it inaccessible for wheelchairs. Uneven terrain and ruins create difficulties for visitors with limited mobility.",
+      "notes_de": "Die Burg befindet sich auf einem felsigen Hügel mit steilen Anstiegen, was sie für Rollstühle unzugänglich macht. Unebenes Gelände und Ruinen schaffen Schwierigkeiten für Besucher mit eingeschränkter Mobilität."
+    },
+    "uniqueSellingPoints_uk": [
+      "Одна з найкраще розташованих фортець України",
+      "Унікальна вузька витягнута форма замку",
+      "Автентичні руїни без сучасних добудов",
+      "Латинські написи на західній вежі",
+      "Частина мальовничого Дністровського каньйону",
+      "Свідок польсько-турецького протистояння"
+    ],
+    "uniqueSellingPoints_en": [
+      "One of the best-located fortresses in Ukraine",
+      "Unique narrow elongated castle form",
+      "Authentic ruins without modern additions",
+      "Latin inscriptions on western tower",
+      "Part of picturesque Dniester Canyon",
+      "Witness to Polish-Turkish confrontation"
+    ],
+    "uniqueSellingPoints_de": [
+      "Eine der am besten gelegenen Festungen in der Ukraine",
+      "Einzigartige schmale, langgestreckte Burgform",
+      "Authentische Ruinen ohne moderne Ergänzungen",
+      "Lateinische Inschriften am Westturm",
+      "Teil der malerischen Dnjestr-Schlucht",
+      "Zeuge der polnisch-türkischen Konfrontation"
+    ]
+  },
+
+  "images": {
+    "heroImage": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Sydoriv_Zamek_DSC_5214_61-216-0015.jpg",
+      "alt_uk": "Західна вежа Сидорівського замку",
+      "alt_en": "Western tower of Sydoriv Castle",
+      "alt_de": "Westturm der Burg Sydoriv",
+      "caption_uk": "Західна вежа з латинським написом домінує над руїнами замку",
+      "caption_en": "Western tower with Latin inscription dominates the castle ruins",
+      "caption_de": "Westturm mit lateinischer Inschrift dominiert die Burgruinen"
+    },
+    "gallery": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Sydoriv_castle_ruins.jpg",
+        "alt_uk": "Панорама руїн Сидорівського замку",
+        "alt_en": "Panorama of Sydoriv Castle ruins",
+        "alt_de": "Panorama der Burgruinen von Sydoriv",
+        "caption_uk": "Загальний вигляд замкових руїн на скелястому пагорбі"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/Sydoriv_castle_walls.jpg",
+        "alt_uk": "Оборонні мури Сидорівського замку",
+        "alt_en": "Defensive walls of Sydoriv Castle",
+        "alt_de": "Verteidigungsmauern der Burg Sydoriv",
+        "caption_uk": "Збережені фрагменти оборонних мурів XVII століття"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Sydoriv_castle_landscape.jpg",
+        "alt_uk": "Замок на тлі Дністровського каньйону",
+        "alt_en": "Castle against Dniester Canyon backdrop",
+        "alt_de": "Burg vor der Kulisse der Dnjestr-Schlucht",
+        "caption_uk": "Мальовниче розташування замку серед природи Поділля"
+      }
+    ]
+  },
+
+  "historicalData": {
+    "yearBuilt": "1640",
+    "yearBuiltNote_uk": "Побудований близько 1640 року Мартіном Калиновським",
+    "yearBuiltNote_en": "Built around 1640 by Marcin Kalinowski",
+    "yearBuiltNote_de": "Um 1640 von Marcin Kalinowski erbaut",
+    "architecturalStyle_uk": "Оборонна архітектура XVII століття, бастіонна система",
+    "architecturalStyle_en": "17th-century defensive architecture, bastioned system",
+    "architecturalStyle_de": "Verteidigungsarchitektur des 17. Jahrhunderts, Bastionssystem",
+    "architects": [
+      {
+        "name": "Мартін Калиновський (Marcin Kalinowski)",
+        "period": "1640-і роки / 1640s / 1640er Jahre",
+        "contribution_uk": "Засновник і будівничий фортеці",
+        "contribution_en": "Founder and builder of the fortress",
+        "contribution_de": "Gründer und Erbauer der Festung"
+      }
+    ],
+    "unescoStatus": "none",
+    "unescoYear": null,
+    "nationalHeritageStatus": "Architectural Monument of National Importance",
+    "referenceNumber": "61-216-0015",
+    "managedBy_uk": "Державний історико-культурний заповідник",
+    "managedBy_en": "State Historical and Cultural Reserve",
+    "managedBy_de": "Staatliches historisch-kulturelles Reservat"
+  },
+
+  "culturalEvents": [],
+
+  "tags": [
+    "castle",
+    "fortress",
+    "ruins",
+    "medieval",
+    "17th-century",
+    "podolia",
+    "ternopil",
+    "husiatyn",
+    "kalinowski",
+    "ottoman-history",
+    "defensive-architecture",
+    "dniester-canyon",
+    "romantic-ruins",
+    "historical-monument",
+    "outdoor"
+  ],
+
+  "suitableFor_uk": [
+    "Любителі історії",
+    "Фотографи",
+    "Туристи-пішоходи",
+    "Любителі замків та руїн",
+    "Пікніки на природі",
+    "Романтичні прогулянки"
+  ],
+  "suitableFor_en": [
+    "History enthusiasts",
+    "Photographers",
+    "Hikers",
+    "Castle and ruins lovers",
+    "Nature picnics",
+    "Romantic walks"
+  ],
+  "suitableFor_de": [
+    "Geschichtsinteressierte",
+    "Fotografen",
+    "Wanderer",
+    "Burgen- und Ruinenliebhaber",
+    "Naturpicknicks",
+    "Romantische Spaziergänge"
+  ],
+
+  "weatherDependent": true,
+  "indoorActivities": false,
+  "outdoorActivities": true,
+
+  "priceRange": "$",
+  "rating": 4.5,
+  "reviewsCount": 487,
+  "featured": true,
+  "status": "published",
+
+  "metaDescription_uk": "Сидорівський замок — живописні руїни оборонної фортеці XVII століття на скелях над річкою. Унікальне розташування в Дністровському каньйоні. Безкоштовний вхід, відкрито цілий рік.",
+  "metaDescription_en": "Sydoriv Castle - picturesque ruins of 17th-century defensive fortress on cliffs above the river. Unique location in Dniester Canyon. Free admission, open year-round.",
+  "metaDescription_de": "Burg Sydoriv - malerische Ruinen einer Verteidigungsfestung aus dem 17. Jahrhundert auf Klippen über dem Fluss. Einzigartige Lage in der Dnjestr-Schlucht. Freier Eintritt, ganzjährig geöffnet.",
+
+  "keywords": [
+    "Сидорівський замок",
+    "Sydoriv Castle",
+    "Burg Sydoriv",
+    "Тернопільська область",
+    "Ternopil Oblast",
+    "Гусятин",
+    "Husiatyn",
+    "замки України",
+    "castles of Ukraine",
+    "руїни",
+    "ruins",
+    "Поділля",
+    "Podolia",
+    "Дністровський каньйон",
+    "Dniester Canyon",
+    "Калиновський",
+    "Kalinowski",
+    "фортеця",
+    "fortress"
+  ],
+
+  "lastUpdated": "2025-11-30",
+  "source": "Wikipedia, local historical sources, architectural surveys",
+  "verified": true
+}
