@@ -1,6 +1,7 @@
 'use client';
 
 import Image from 'next/image';
+import { useLanguage } from './LanguageProvider';
 
 const categories = [
   {
@@ -70,19 +71,21 @@ const categories = [
 ];
 
 export default function Categories() {
+  const { t } = useLanguage();
+
   return (
     <section id="categories" className="py-20 sm:py-28 bg-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Section Header */}
         <div className="text-center mb-16">
           <p className="text-ukraine-gold font-display font-bold text-sm uppercase tracking-widest mb-4">
-            Browse by Category
+            {t.home.categories.subtitle}
           </p>
           <h2 className="text-4xl sm:text-5xl lg:text-6xl font-display font-bold text-ukraine-navy mb-4">
-            Explore Heritage
+            {t.home.categories.title}
           </h2>
           <p className="text-xl text-slate-600 max-w-4xl mx-auto">
-            Discover eight different categories of Ukrainian cultural treasures, from medieval castles to UNESCO World Heritage sites.
+            {t.home.categories.description}
           </p>
         </div>
 
@@ -135,7 +138,7 @@ export default function Categories() {
         {/* Call to Action */}
         <div className="text-center mt-16">
           <button className="px-10 py-4 bg-ukraine-navy text-white font-bold rounded-lg hover:bg-ukraine-blue transition-all duration-300 shadow-lg hover:shadow-xl hover:-translate-y-1">
-            View All Sites →
+            {t.home.categories.viewAll} →
           </button>
         </div>
       </div>
